@@ -576,7 +576,7 @@ Append-only. Each entry header: `## [YYYY-MM-DD] <op> | <title>`.
 - New frontmatter field `wall_mount` (none | keyhole | threaded-insert | bracket-included | on-wall-design). Set on 15 pages from maker specs or owner reports (`data/wall-mount.json`, `scripts/set_wall_mount.py`). Null means not yet checked.
 
 ## [2026-10-11] ingest | Wall-mount gap fill (76 speakers) and Revel Performa4 / Paradigm Premier v2 successors
-- data/wall-mount.json now covers 89 speakers: 40 pages have a value (18 none, 11 threaded-insert, 4 keyhole, 2 bracket-included, 1 on-wall-design, plus 2 on-wall category pages), 51 stay null because maker pages and manuals are silent or sources conflict.
+- data/wall-mount.json now covers 89 speakers: 40 pages have a value (21 none, 11 threaded-insert, 3 keyhole, 2 bracket-included, 3 on-wall-design incl. the 2 on-wall category pages), 51 stay null because maker pages and manuals are silent or sources conflict.
 - 15 `none`/insert values rest on Crutchfield spec text read via search snippets (Crutchfield blocked direct fetches); labelled `retailer-crutchfield-snippet` for re-verification.
 - Notable: Q Acoustics 3020i/5020, Amphion Argon1, PSB Alpha P5, Klipsch RP-500M II take wall brackets via inserts; Focal Dome Flax ships with a wall bracket; Fluance HFS Signature has keyholes; KEF LS50 Meta, Revel M105/M106/M16, Polk XT15/XT20, B&W 705 S3 have no provision.
 - Revel M145, M146 and Paradigm Premier 120B v2, 220B v2: in scope, no Tier A/B measurements yet → `no-tier-ab` in candidate-universe; maker pages saved; overview updated with spec deltas vs predecessors.
