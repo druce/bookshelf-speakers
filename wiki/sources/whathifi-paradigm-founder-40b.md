@@ -38,4 +38,4 @@ Newport Test Labs: in-room pink noise, anechoic HF with and without grille, near
 Lab is the magazine's contractor, method differs from Klippel NFS; LF is in-room/near-field. Review was written for Australian Hi-Fi; the page's reviewer byline is not captured.
 
 ## Related
-[[paradigm-founder-40b]] · [[paradigm]]
+[Paradigm Founder 40B](../speakers/paradigm-founder-40b.md) · [Paradigm](../brands/paradigm.md)

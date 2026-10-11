@@ -46,34 +46,34 @@ The Chesky Audio LC1 is a hand-built, direct-sale, 8 Ω two-way with a 3D-printe
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 81.2 dB (low) | [[eac-chesky-audio-lc1]] | A | computed (scripts/cta2034.py v2); Erin about 81.4 dB |
-| Claimed sensitivity | 84 dB (2.83 V) | [[mfr-chesky-audio-lc1]] | C | other sources quote 86 dB |
-| Listening-window deviation | ±2.7 dB, 300 Hz-10 kHz (good, near the coloured edge) | [[eac-chesky-audio-lc1]] | A | computed |
-| On-axis deviation | ±2.9 dB | [[eac-chesky-audio-lc1]] | A | computed |
-| f3 / f6 | 70 / 60 Hz (modest) | [[eac-chesky-audio-lc1]] | A | computed; Erin states f3 71, f10 49 Hz |
-| Min impedance | 8.4 Ω above 80 Hz | [[eac-chesky-audio-lc1]] | A | plot note; about 190 Hz graph-read |
-| EPDR min | 5.4 Ω above 80 Hz | [[eac-chesky-audio-lc1]] | A | plot note |
-| THD 86 dB @1 m | about 1.3% worst case 100 Hz-10 kHz | [[eac-chesky-audio-lc1]] | A | graph-read (approx.) |
-| THD 96 dB @1 m | about 3.5% worst case 100 Hz-10 kHz | [[eac-chesky-audio-lc1]] | A | graph-read (approx.) |
-| Max SPL | about 95 dB long-term | [[eac-chesky-audio-lc1]] | A | from AI summary of Erin's video; approximate |
-| Preference score | 3.2 (no sub) / 5.9 (with sub) | [[eac-chesky-audio-lc1]] via [[spinorama-org]] | A | coarse aid only |
+| Sensitivity (2.83 V/1 m) | 81.2 dB (low) | [eac-chesky-audio-lc1](../sources/eac-chesky-audio-lc1.md) | A | computed (scripts/cta2034.py v2); Erin about 81.4 dB |
+| Claimed sensitivity | 84 dB (2.83 V) | [mfr-chesky-audio-lc1](../sources/mfr-chesky-audio-lc1.md) | C | other sources quote 86 dB |
+| Listening-window deviation | ±2.7 dB, 300 Hz-10 kHz (good, near the coloured edge) | [eac-chesky-audio-lc1](../sources/eac-chesky-audio-lc1.md) | A | computed |
+| On-axis deviation | ±2.9 dB | [eac-chesky-audio-lc1](../sources/eac-chesky-audio-lc1.md) | A | computed |
+| f3 / f6 | 70 / 60 Hz (modest) | [eac-chesky-audio-lc1](../sources/eac-chesky-audio-lc1.md) | A | computed; Erin states f3 71, f10 49 Hz |
+| Min impedance | 8.4 Ω above 80 Hz | [eac-chesky-audio-lc1](../sources/eac-chesky-audio-lc1.md) | A | plot note; about 190 Hz graph-read |
+| EPDR min | 5.4 Ω above 80 Hz | [eac-chesky-audio-lc1](../sources/eac-chesky-audio-lc1.md) | A | plot note |
+| THD 86 dB @1 m | about 1.3% worst case 100 Hz-10 kHz | [eac-chesky-audio-lc1](../sources/eac-chesky-audio-lc1.md) | A | graph-read (approx.) |
+| THD 96 dB @1 m | about 3.5% worst case 100 Hz-10 kHz | [eac-chesky-audio-lc1](../sources/eac-chesky-audio-lc1.md) | A | graph-read (approx.) |
+| Max SPL | about 95 dB long-term | [eac-chesky-audio-lc1](../sources/eac-chesky-audio-lc1.md) | A | from AI summary of Erin's video; approximate |
+| Preference score | 3.2 (no sub) / 5.9 (with sub) | [eac-chesky-audio-lc1](../sources/eac-chesky-audio-lc1.md) via [spinorama-org](../sources/spinorama-org.md) | A | coarse aid only |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 123°, vertical about 120° (Erin notes wide horizontal dispersion that narrows quickly with frequency). DI is a major discontinuity (ERDI residual 3.7 dB); SPDI rises from 5.2 dB at 1 kHz to 8.6 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 0.9 dB, under the 3 dB flag. Erin reports severe vertical lobing just below tweeter axis, attributed to the first-order crossover, so listen on or slightly above tweeter height. On-axis minus listening window above 4 kHz is +0.8 dB, so aiming straight at the listener is fine; Erin also advises that. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 123°, vertical about 120° (Erin notes wide horizontal dispersion that narrows quickly with frequency). DI is a major discontinuity (ERDI residual 3.7 dB); SPDI rises from 5.2 dB at 1 kHz to 8.6 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 0.9 dB, under the 3 dB flag. Erin reports severe vertical lobing just below tweeter axis, attributed to the first-order crossover, so listen on or slightly above tweeter height. On-axis minus listening window above 4 kHz is +0.8 dB, so aiming straight at the listener is fine; Erin also advises that. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Distortion at 86 dB is about 1.3% at worst (peak near 1.3 kHz), roughly 0.8% in the low mids; at 96 dB it reaches about 3.5% near 1.3 kHz, 1.5-1.8% across 150-700 Hz (graph-read). Erin saw cone-edge resonance in the multitone test. Compression at 96 dB is about 1.1 dB and at 102 dB reaches about 2-2.5 dB; Erin's summary puts long-term max near 95 dB. Fine for near/mid-field in small rooms; low sensitivity plus limited headroom argue against large rooms or loud levels. See [[compression-and-max-spl]].
+Distortion at 86 dB is about 1.3% at worst (peak near 1.3 kHz), roughly 0.8% in the low mids; at 96 dB it reaches about 3.5% near 1.3 kHz, 1.5-1.8% across 150-700 Hz (graph-read). Erin saw cone-edge resonance in the multitone test. Compression at 96 dB is about 1.1 dB and at 102 dB reaches about 2-2.5 dB; Erin's summary puts long-term max near 95 dB. Fine for near/mid-field in small rooms; low sensitivity plus limited headroom argue against large rooms or loud levels. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Nominal 8 Ω, minimum 8.4 Ω above 80 Hz, EPDR 5.4 Ω, phase within roughly ±35°. Impedance peaks about 23 Ω near 100 Hz and 25.7 Ω near 1.8 kHz (graph-read). Easy load, but 81 dB sensitivity means it wants a capable amplifier (maker advises 30 W minimum). See [[impedance-and-epdr]].
+Nominal 8 Ω, minimum 8.4 Ω above 80 Hz, EPDR 5.4 Ω, phase within roughly ±35°. Impedance peaks about 23 Ω near 100 Hz and 25.7 Ω near 1.8 kHz (graph-read). Easy load, but 81 dB sensitivity means it wants a capable amplifier (maker advises 30 W minimum). See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[eac-chesky-audio-lc1]] (Erin's Audio Corner, Tier D notes): found it dull, thin in the vocal range with little bass without wall reinforcement; not recommended without EQ and a sub.
-- [[futureaudiophile-chesky-audio-lc1]] (Future Audiophile): near-neutral balance, wide soundstage, clean bass for the size; a sub helped on dense tracks.
-- [[enjoythemusic-chesky-audio-lc1]] (Enjoy the Music): transparent midrange, very wide centre image, usable bass to 40 Hz; best small monitor he knows under $1,000.
+- [eac-chesky-audio-lc1](../sources/eac-chesky-audio-lc1.md) (Erin's Audio Corner, Tier D notes): found it dull, thin in the vocal range with little bass without wall reinforcement; not recommended without EQ and a sub.
+- [futureaudiophile-chesky-audio-lc1](../sources/futureaudiophile-chesky-audio-lc1.md) (Future Audiophile): near-neutral balance, wide soundstage, clean bass for the size; a sub helped on dense tracks.
+- [enjoythemusic-chesky-audio-lc1](../sources/enjoythemusic-chesky-audio-lc1.md) (Enjoy the Music): transparent midrange, very wide centre image, usable bass to 40 Hz; best small monitor he knows under $1,000.
 
 ## User reviews
-No user reports ingested yet; no independent owner reports found ([[users-chesky-audio-lc1]]). QC: one measured pair mismatch (Erin); one-person hand production with a 4-6 week quoted lead time.
+No user reports ingested yet; no independent owner reports found ([users-chesky-audio-lc1](../sources/users-chesky-audio-lc1.md)). QC: one measured pair mismatch (Erin); one-person hand production with a 4-6 week quoted lead time.
 
 ## Conflicts
 - Bass: Enjoy the Music reports usable output to 40 Hz and Future Audiophile calls bass excellent; Erin measures f3 70 Hz (f10 49 Hz) and heard almost no bass. Measurement is Tier A; the reviews are Tier D.
@@ -82,4 +82,4 @@ No user reports ingested yet; no independent owner reports found ([[users-chesky
 - Lead time: 4-6 weeks vs 1-2 weeks on the same maker page.
 
 ## Related
-[[chesky-audio]] · [[svs-ultra-evolution-bookshelf]] · GoldenEar BRX · [[hsu-research-ccb-8]] · [[spinorama]] · [[preference-score]] · [[impedance-and-epdr]]
+[Chesky Audio](../brands/chesky-audio.md) · [SVS Ultra Evolution Bookshelf](svs-ultra-evolution-bookshelf.md) · GoldenEar BRX · [Hsu Research CCB-8](hsu-research-ccb-8.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md)

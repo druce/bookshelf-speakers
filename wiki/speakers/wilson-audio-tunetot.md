@@ -46,25 +46,25 @@ The Wilson Audio TuneTot is an 8 Ω two-way standmount with a 1" silk-dome tweet
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 83.3 dB (low) | [[asr-wilson-audio-tunetot]] | A | computed (scripts/cta2034.py v2); maker 86 dB @1 W/1 kHz ([[mfr-wilson-audio-tunetot]]) converts to ~83.0 dB |
-| Listening-window deviation | ±3.1 dB, 300 Hz-10 kHz (between good and coloured) | [[asr-wilson-audio-tunetot]] | A | computed |
-| On-axis deviation | ±3.8 dB | [[asr-wilson-audio-tunetot]] | A | computed |
-| f3 / f6 | 81 / 73 Hz (needs sub) | [[asr-wilson-audio-tunetot]] | A | computed; port boost near 115 Hz |
-| Min impedance | 6.4 Ω @ 182 Hz | [[asr-wilson-audio-tunetot]] | A | stated on graph |
-| Preference score | 1.9 (no sub) / 5.0 (with sub) | [[asr-wilson-audio-tunetot]] via [[spinorama-org]] | A | port open |
+| Sensitivity (2.83 V/1 m) | 83.3 dB (low) | [asr-wilson-audio-tunetot](../sources/asr-wilson-audio-tunetot.md) | A | computed (scripts/cta2034.py v2); maker 86 dB @1 W/1 kHz ([mfr-wilson-audio-tunetot](../sources/mfr-wilson-audio-tunetot.md)) converts to ~83.0 dB |
+| Listening-window deviation | ±3.1 dB, 300 Hz-10 kHz (between good and coloured) | [asr-wilson-audio-tunetot](../sources/asr-wilson-audio-tunetot.md) | A | computed |
+| On-axis deviation | ±3.8 dB | [asr-wilson-audio-tunetot](../sources/asr-wilson-audio-tunetot.md) | A | computed |
+| f3 / f6 | 81 / 73 Hz (needs sub) | [asr-wilson-audio-tunetot](../sources/asr-wilson-audio-tunetot.md) | A | computed; port boost near 115 Hz |
+| Min impedance | 6.4 Ω @ 182 Hz | [asr-wilson-audio-tunetot](../sources/asr-wilson-audio-tunetot.md) | A | stated on graph |
+| Preference score | 1.9 (no sub) / 5.0 (with sub) | [asr-wilson-audio-tunetot](../sources/asr-wilson-audio-tunetot.md) via [spinorama-org](../sources/spinorama-org.md) | A | port open |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 129°, vertical about 96° (ASR notes slanted baffle: stay at or below tweeter axis). DI is a minor discontinuity (ERDI residual 1.5 dB); SPDI rises from 4.7 dB at 1 kHz to 9.3 dB at 10 kHz, but ASR describes beamwidth as non-uniform with directivity lost near 3 kHz. Early-reflection dip near 1.5 kHz is 2.4 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.6 dB, so either aim works. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 129°, vertical about 96° (ASR notes slanted baffle: stay at or below tweeter axis). DI is a minor discontinuity (ERDI residual 1.5 dB); SPDI rises from 4.7 dB at 1 kHz to 9.3 dB at 10 kHz, but ASR describes beamwidth as non-uniform with directivity lost near 3 kHz. Early-reflection dip near 1.5 kHz is 2.4 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.6 dB, so either aim works. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No compression or max-SPL test. ASR's THD plots (dB, not converted to %) show low distortion at 86 dB, especially in the tweeter, and "reasonable above 100 Hz" at 96 dB. A resonance near 2.6 kHz was audible during the 96 dB sweep and shows in the impedance trace. The woofer makes poor sounds when pushed hard. Low sensitivity (83.3 dB) plus a 25 W minimum recommendation means a big amplifier is wise; fine for small rooms at moderate level. See [[compression-and-max-spl]].
+No compression or max-SPL test. ASR's THD plots (dB, not converted to %) show low distortion at 86 dB, especially in the tweeter, and "reasonable above 100 Hz" at 96 dB. A resonance near 2.6 kHz was audible during the 96 dB sweep and shows in the impedance trace. The woofer makes poor sounds when pushed hard. Low sensitivity (83.3 dB) plus a 25 W minimum recommendation means a big amplifier is wise; fine for small rooms at moderate level. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-8 Ω nominal; ASR measured a 6.4 Ω minimum at 182 Hz (exactly 80% of nominal, so no flag), with a ~50 Ω peak near 30 Hz and mostly small phase angles. ASR calls it easier than average, though [[tas-wilson-audio-tunetot]] describes it as not an easy load needing strong power supplies. Impedance is about 16 Ω at 1 kHz, hence the per-watt vs 2.83 V gap. EPDR not computed. See [[impedance-and-epdr]].
+8 Ω nominal; ASR measured a 6.4 Ω minimum at 182 Hz (exactly 80% of nominal, so no flag), with a ~50 Ω peak near 30 Hz and mostly small phase angles. ASR calls it easier than average, though [tas-wilson-audio-tunetot](../sources/tas-wilson-audio-tunetot.md) describes it as not an easy load needing strong power supplies. Impedance is about 16 Ω at 1 kHz, hence the per-watt vs 2.83 V gap. EPDR not computed. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[asr-wilson-audio-tunetot]] (ASR, Tier D listening): too much bass with port open, little with plug; with EQ preferred it to the Revel M106; brighter "showroom" treble; recommended with equalization.
-- [[tas-wilson-audio-tunetot]] (The Absolute Sound, no score): bass articulate with port plugged but limited in weight; composed with good electronics.
+- [asr-wilson-audio-tunetot](../sources/asr-wilson-audio-tunetot.md) (ASR, Tier D listening): too much bass with port open, little with plug; with EQ preferred it to the Revel M106; brighter "showroom" treble; recommended with equalization.
+- [tas-wilson-audio-tunetot](../sources/tas-wilson-audio-tunetot.md) (The Absolute Sound, no score): bass articulate with port plugged but limited in weight; composed with good electronics.
 
 ## User reviews
 No user reports ingested yet.
@@ -74,8 +74,8 @@ No user reports ingested yet.
 - Bass: claimed 65 Hz (±3 dB, room average) vs computed f3 81 Hz anechoic; room gain explains part of it, and the 115 Hz port peak skews f3.
 - Minimum impedance: claimed 6.61 Ω @ 172 Hz vs ASR 6.4 Ω @ 182 Hz; consistent.
 - ASR's measurements are poor but listening verdict positive (recommended with EQ); noted, not resolved.
-- Price: launch $9,800-10,500 pair ([[tas-wilson-audio-tunetot]]) vs $13,545 list (Speakerdecision); current US retailer price not confirmed.
+- Price: launch $9,800-10,500 pair ([tas-wilson-audio-tunetot](../sources/tas-wilson-audio-tunetot.md)) vs $13,545 list (Speakerdecision); current US retailer price not confirmed.
 - Status: dealer page says store-only availability; Wilson's own page unreachable.
 
 ## Related
-[[wilson-audio]] · [[revel-m106]] · [[revel-m16]] · [[spinorama]] · [[preference-score]] · [[impedance-and-epdr]]
+[Wilson Audio](../brands/wilson-audio.md) · [Revel M106](revel-m106.md) · [Revel M16](revel-m16.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md)

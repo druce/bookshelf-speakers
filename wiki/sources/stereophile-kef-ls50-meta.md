@@ -25,7 +25,7 @@ John Atkinson, who owns the original LS50, found the Meta's low frequencies iden
 - Amp: Parasound Halo JC 1 monoblocks, on 24" stands.
 
 ## Reliability notes
-Reviewer is a long-time LS50 owner. Measurements on [[stereophile-kef-ls50-meta-measurements]].
+Reviewer is a long-time LS50 owner. Measurements on [stereophile-kef-ls50-meta-measurements](stereophile-kef-ls50-meta-measurements.md).
 
 ## Related
-[[kef-ls50-meta]] · [[stereophile]] · [[kef]]
+[KEF LS50 Meta](../speakers/kef-ls50-meta.md) · [stereophile](../reviewers/stereophile.md) · [KEF](../brands/kef.md)

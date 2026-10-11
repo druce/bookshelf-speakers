@@ -42,4 +42,4 @@ Klippel NFS, reference point at tweeter (0°) plus 15° off-axis set. Multitone 
 Loaner, no compensation per Erin (affiliate link disclosed). Single pair.
 
 ## Related
-[[kef-ls50-meta]] · [[erins-audio-corner]] · [[kef]] · [[spinorama-org]]
+[KEF LS50 Meta](../speakers/kef-ls50-meta.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [KEF](../brands/kef.md) · [spinorama-org](spinorama-org.md)

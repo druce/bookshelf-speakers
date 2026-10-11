@@ -46,30 +46,30 @@ The Cambridge Audio SX-60 is an entry-level two-way standmount (6.5" paper woofe
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity | 86.6 dB (average) | [[hifiworld-cambridge-audio-sx-60]] | B | reference level not stated; text also says 87 dB |
-| Sensitivity (claimed) | 89 dB | [[mfr-cambridge-audio-sx-60]] | C | reference unstated; 2.4 dB above measured |
-| Impedance | "6 Ω" (pink noise), DCR 4 Ω | [[hifiworld-cambridge-audio-sx-60]] | B | minimum and frequency not stated; not entered in frontmatter |
-| Crossover | ~3 kHz | [[hifiworld-cambridge-audio-sx-60]] | B | read from impedance trace |
-| LF behaviour | driver peak near 100 Hz, roll-off to 60 Hz, port output to ~30 Hz | [[hifiworld-cambridge-audio-sx-60]] | B | nearfield-style traces; f3 not stated |
-| FR shape | smooth, "tonally accurate" | [[hifiworld-cambridge-audio-sx-60]] | B | graph-read roughly within +/-3 dB, approximate; no deviation figure |
-| Claimed FR | 41 Hz-22 kHz | [[mfr-cambridge-audio-sx-60]] | C | no tolerance, not data |
+| Sensitivity | 86.6 dB (average) | [hifiworld-cambridge-audio-sx-60](../sources/hifiworld-cambridge-audio-sx-60.md) | B | reference level not stated; text also says 87 dB |
+| Sensitivity (claimed) | 89 dB | [mfr-cambridge-audio-sx-60](../sources/mfr-cambridge-audio-sx-60.md) | C | reference unstated; 2.4 dB above measured |
+| Impedance | "6 Ω" (pink noise), DCR 4 Ω | [hifiworld-cambridge-audio-sx-60](../sources/hifiworld-cambridge-audio-sx-60.md) | B | minimum and frequency not stated; not entered in frontmatter |
+| Crossover | ~3 kHz | [hifiworld-cambridge-audio-sx-60](../sources/hifiworld-cambridge-audio-sx-60.md) | B | read from impedance trace |
+| LF behaviour | driver peak near 100 Hz, roll-off to 60 Hz, port output to ~30 Hz | [hifiworld-cambridge-audio-sx-60](../sources/hifiworld-cambridge-audio-sx-60.md) | B | nearfield-style traces; f3 not stated |
+| FR shape | smooth, "tonally accurate" | [hifiworld-cambridge-audio-sx-60](../sources/hifiworld-cambridge-audio-sx-60.md) | B | graph-read roughly within +/-3 dB, approximate; no deviation figure |
+| Claimed FR | 41 Hz-22 kHz | [mfr-cambridge-audio-sx-60](../sources/mfr-cambridge-audio-sx-60.md) | C | no tolerance, not data |
 
 ## Directivity
-Not measured; no off-axis data from any Tier A/B source. See [[directivity-index]], [[early-reflections]]. Audio Appraisal found 15 degrees toe-in best because the treble can be edgy ([[audioappraisal-cambridge-audio-sx-60]], Tier D).
+Not measured; no off-axis data from any Tier A/B source. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md). Audio Appraisal found 15 degrees toe-in best because the treble can be edgy ([audioappraisal-cambridge-audio-sx-60](../sources/audioappraisal-cambridge-audio-sx-60.md), Tier D).
 
 ## Output & distortion
-No distortion or max-SPL data. Hi-Fi World suggests about 40 W for good volume in a medium room and 60 W or more for loud listening, which with 86.6 dB sensitivity means small-to-medium rooms at moderate levels. See [[compression-and-max-spl]].
+No distortion or max-SPL data. Hi-Fi World suggests about 40 W for good volume in a medium room and 60 W or more for loud listening, which with 86.6 dB sensitivity means small-to-medium rooms at moderate levels. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Maker rates 8 Ω; Hi-Fi World reports about 6 Ω measured and a 4 Ω bass-unit DC resistance, calling it an easy load. No minimum impedance or EPDR available, so no flag set. See [[impedance-and-epdr]].
+Maker rates 8 Ω; Hi-Fi World reports about 6 Ω measured and a 4 Ω bass-unit DC resistance, calling it an easy load. No minimum impedance or EPDR available, so no flag set. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[hifiworld-cambridge-audio-sx-60]] (Hi-Fi World, 8/10): accurate balance, excellent imaging, forward and revealing; bass reticent, slightly boxy vocals, a bit edgy.
-- [[whathifi-cambridge-audio-sx-60]] (What Hi-Fi?, 2013): upbeat, balanced, tight rich bass, "more functional than special"; needs space behind it.
-- [[audioappraisal-cambridge-audio-sx-60]] (Audio Appraisal): fun and well controlled but unrefined, fatiguing on bright recordings, cabinet resonance.
+- [hifiworld-cambridge-audio-sx-60](../sources/hifiworld-cambridge-audio-sx-60.md) (Hi-Fi World, 8/10): accurate balance, excellent imaging, forward and revealing; bass reticent, slightly boxy vocals, a bit edgy.
+- [whathifi-cambridge-audio-sx-60](../sources/whathifi-cambridge-audio-sx-60.md) (What Hi-Fi?, 2013): upbeat, balanced, tight rich bass, "more functional than special"; needs space behind it.
+- [audioappraisal-cambridge-audio-sx-60](../sources/audioappraisal-cambridge-audio-sx-60.md) (Audio Appraisal): fun and well controlled but unrefined, fatiguing on bright recordings, cabinet resonance.
 
 ## User reviews
-No individual user reports ingested ([[users-cambridge-audio-sx-60]]); only an aggregator figure of 4.5/5 from 10 Amazon ratings. No QC issues found.
+No individual user reports ingested ([users-cambridge-audio-sx-60](../sources/users-cambridge-audio-sx-60.md)); only an aggregator figure of 4.5/5 from 10 Amazon ratings. No QC issues found.
 
 ## Conflicts
 - Sensitivity: 89 dB claimed vs 86.6 dB (Hi-Fi World); delta 2.4 dB, and measurement reference is unstated for both.
@@ -78,4 +78,4 @@ No individual user reports ingested ([[users-cambridge-audio-sx-60]]); only an a
 - Price/status: maker and Amazon $329 in stock; Audio Advice lists $329 unavailable and an "SX-60 V2" at $369 per pair; the V2 relationship is unclear.
 
 ## Related
-[[cambridge-audio]] · Cambridge Audio SX-50 · Wharfedale Diamond 12.2i · [[impedance-and-epdr]] · [[sensitivity-normalization]]
+[Cambridge Audio](../brands/cambridge-audio.md) · Cambridge Audio SX-50 · Wharfedale Diamond 12.2i · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [sensitivity-normalization](../concepts/sensitivity-normalization.md)

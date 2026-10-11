@@ -31,4 +31,4 @@ Listening only; specs repeated from maker (6 ohm, 86 dB, 44 Hz-35 kHz).
 Price at review time GBP 499 / USD 600; now USD 799.
 
 ## Related
-[[elac-debut-reference-dbr-62]] · [[elac]]
+[Elac Debut Reference DBR-62](../speakers/elac-debut-reference-dbr-62.md) · [Elac](../brands/elac.md)

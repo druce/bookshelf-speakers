@@ -31,4 +31,4 @@ Listening only, ungrilled.
 No measurements; sensitivity statement repeats the manufacturer claim.
 
 ## Related
-[[klipsch-rp-600m-ii]] · [[klipsch]]
+[Klipsch RP-600M II](../speakers/klipsch-rp-600m-ii.md) · [Klipsch](../brands/klipsch.md)

@@ -33,4 +33,4 @@ DRA Labs MLSSA, DPA 4006 mic; far-field gated response, nearfield woofer/port me
 Two samples auditioned; measurement of one. Quasi-anechoic, so less reliable below ~300 Hz.
 
 ## Related
-[[kef-ls50-meta]] · [[stereophile]] · [[kef]]
+[KEF LS50 Meta](../speakers/kef-ls50-meta.md) · [stereophile](../reviewers/stereophile.md) · [KEF](../brands/kef.md)

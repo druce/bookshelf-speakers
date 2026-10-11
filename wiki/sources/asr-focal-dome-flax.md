@@ -42,4 +42,4 @@ Klippel NFS, grille on, speaker propped almost vertical so measurements are clos
 Single loaned sample from a member; unit's bottom cover did not fully close, which a forum member suggested might add buzz. Distortion plot not valid for a non-flat response, per reviewer.
 
 ## Related
-[[focal-dome-flax]] · [[asr]] · [[spinorama-org]] · [[focal]]
+[Focal Dome Flax](../speakers/focal-dome-flax.md) · [asr](../reviewers/asr.md) · [spinorama-org](spinorama-org.md) · [Focal](../brands/focal.md)

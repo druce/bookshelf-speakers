@@ -37,4 +37,4 @@ Quasi-anechoic farfield (MLSSA, DPA 4006) at 50 inches with nearfield summing be
 Single pair. Quasi-anechoic, so lower confidence below about 300 Hz. Reviewed speaker is the Signature version only.
 
 ## Related
-[[bowers-wilkins-805-d4-signature]] · [[stereophile]] · [[bowers-wilkins]] · [[stereophile-review-bowers-wilkins-805-d4-signature]]
+[Bowers & Wilkins 805 D4 Signature](../speakers/bowers-wilkins-805-d4-signature.md) · [stereophile](../reviewers/stereophile.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md) · [stereophile-review-bowers-wilkins-805-d4-signature](stereophile-review-bowers-wilkins-805-d4-signature.md)

@@ -30,4 +30,4 @@ Listening with Orchard Audio monoblocks and Eversolo A6 DAC; also Nagra amp; no 
 Independent blogger; also earns affiliate links; enthusiastic tone. Not a lab source.
 
 ## Related
-[[buchardt-audio-e50]] · [[buchardt-audio]]
+[Buchardt Audio E50](../speakers/buchardt-audio-e50.md) · [Buchardt Audio](../brands/buchardt-audio.md)

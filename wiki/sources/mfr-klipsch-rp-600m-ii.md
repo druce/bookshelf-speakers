@@ -37,4 +37,4 @@ Retailer figures via WebFetch/search snippets, not verbatim.
 Retail stock status varies (some sold out, some backorder). Klipsch sensitivity is half-space and far above Klippel measurement.
 
 ## Related
-[[klipsch-rp-600m-ii]] · [[klipsch]]
+[Klipsch RP-600M II](../speakers/klipsch-rp-600m-ii.md) · [Klipsch](../brands/klipsch.md)

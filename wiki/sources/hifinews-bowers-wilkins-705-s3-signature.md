@@ -28,7 +28,7 @@ Mark Craven finds a rich, energetic, forward-leaning speaker with good image det
 Listening review with Primare A35.2 power amp, Michi P5 S2 preamp/DAC, Hegel Viking CD.
 
 ## Reliability notes
-Print magazine reviewer; single sample; lab data in [[hifinews-bowers-wilkins-705-s3-signature-lab]].
+Print magazine reviewer; single sample; lab data in [hifinews-bowers-wilkins-705-s3-signature-lab](hifinews-bowers-wilkins-705-s3-signature-lab.md).
 
 ## Related
-[[bowers-wilkins-705-s3-signature]] · [[bowers-wilkins]]
+[Bowers & Wilkins 705 S3 Signature](../speakers/bowers-wilkins-705-s3-signature.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

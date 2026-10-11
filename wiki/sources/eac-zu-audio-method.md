@@ -40,4 +40,4 @@ Klippel NFS data; quality rated "high" by spinorama.org. Sample provenance unkno
 Secondary compile of Erin's data. The two f3 conventions (ours vs spinorama.org) disagree markedly because a bass hump relative to the 300 Hz-5 kHz reference moves the -3 dB crossing. Price shown there (about 700) is per speaker.
 
 ## Related
-[[zu-audio-method]] · [[erins-audio-corner]] · [[spinorama-org]] · [[zu-audio]]
+[Zu Audio Method](../speakers/zu-audio-method.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [spinorama-org](spinorama-org.md) · [Zu Audio](../brands/zu-audio.md)

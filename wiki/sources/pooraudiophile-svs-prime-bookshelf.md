@@ -30,4 +30,4 @@ Subjective only; no measurements. Original 2014-15 price $499-599 per pair.
 Maker-supplied sample, hobbyist reviewer, over 10 years old and may not reflect current production.
 
 ## Related
-[[svs-prime-bookshelf]] · [[svs]]
+[SVS Prime Bookshelf](../speakers/svs-prime-bookshelf.md) · [SVS](../brands/svs.md)

@@ -44,4 +44,4 @@ Klippel NFS, reference axis the tweeter. Grille status not stated in the review 
 Single loaned sample. Model name "VLR" taken as the wood-finish VLR sold today as "VLR Wood" (assumption). Impedance minimum is an unusual feature: forum members suspect a series capacitor on the woofer.
 
 ## Related
-[[vandersteen-vlr]] · [[asr]] · [[vandersteen]] · [[spinorama-org]]
+[Vandersteen VLR](../speakers/vandersteen-vlr.md) · [asr](../reviewers/asr.md) · [Vandersteen](../brands/vandersteen.md) · [spinorama-org](spinorama-org.md)

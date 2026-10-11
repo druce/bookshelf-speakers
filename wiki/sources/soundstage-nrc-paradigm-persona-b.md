@@ -34,4 +34,4 @@ Mic between tweeter and mid-woofer; measured at 2 m, plotted at 1 m; listening w
 Tier A anechoic (NRC) but graph-only, single sample pair from the review. Page forbids reproduction, so only paraphrased graph readings are recorded.
 
 ## Related
-[[paradigm-persona-b]] · [[soundstage-nrc]] · [[paradigm]]
+[Paradigm Persona B](../speakers/paradigm-persona-b.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Paradigm](../brands/paradigm.md)

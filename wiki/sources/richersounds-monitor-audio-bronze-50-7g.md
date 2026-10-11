@@ -26,4 +26,4 @@ A retailer-employed reviewer likes the 7G Bronze 50: wide, airy soundstage, prec
 Retailer with a commercial interest; treat as weak Tier D.
 
 ## Related
-[[monitor-audio-bronze-50-7g]] · [[monitor-audio]]
+[Monitor Audio Bronze 50 7G](../speakers/monitor-audio-bronze-50-7g.md) · [Monitor Audio](../brands/monitor-audio.md)

@@ -35,4 +35,4 @@ Quasi-anechoic gated response with nearfield bass summation, treble-axis; grille
 Tier B; low-frequency data from nearfield summing, lower confidence than a full anechoic. Two samples (pair matching reported).
 
 ## Related
-[[paradigm-persona-b]] · [[paradigm]]
+[Paradigm Persona B](../speakers/paradigm-persona-b.md) · [Paradigm](../brands/paradigm.md)

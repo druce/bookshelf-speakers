@@ -36,4 +36,4 @@ Tier C. Info sheet text appended to the raw file.
 Specs are claims; measured sensitivity and bass are lower.
 
 ## Related
-[[polk-audio-xt20]] · [[polk-audio]]
+[Polk Audio Monitor XT20](../speakers/polk-audio-xt20.md) · [Polk Audio](../brands/polk-audio.md)

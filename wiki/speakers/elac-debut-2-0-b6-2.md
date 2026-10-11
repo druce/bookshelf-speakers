@@ -46,37 +46,37 @@ The Debut 2.0 B6.2 is a 6 Ω, 6.5" two-way with a 1" cloth dome and a front port
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 86.2 dB (average) | [[asr-elac-debut-2-0-b6-2]] | A | computed (scripts/cta2034.py v2); claimed 87 dB |
-| Sensitivity | 84.5 dB | [[eac-elac-debut-2-0-b6-2]] | A | computed |
-| Listening-window deviation | ±2.3 dB (good) | [[asr-elac-debut-2-0-b6-2]] | A | computed, 300 Hz-10 kHz |
-| Listening-window deviation | ±1.7 dB (good) | [[eac-elac-debut-2-0-b6-2]] | A | computed |
+| Sensitivity (2.83 V/1 m) | 86.2 dB (average) | [asr-elac-debut-2-0-b6-2](../sources/asr-elac-debut-2-0-b6-2.md) | A | computed (scripts/cta2034.py v2); claimed 87 dB |
+| Sensitivity | 84.5 dB | [eac-elac-debut-2-0-b6-2](../sources/eac-elac-debut-2-0-b6-2.md) | A | computed |
+| Listening-window deviation | ±2.3 dB (good) | [asr-elac-debut-2-0-b6-2](../sources/asr-elac-debut-2-0-b6-2.md) | A | computed, 300 Hz-10 kHz |
+| Listening-window deviation | ±1.7 dB (good) | [eac-elac-debut-2-0-b6-2](../sources/eac-elac-debut-2-0-b6-2.md) | A | computed |
 | On-axis deviation | ±2.3 dB (ASR) / ±1.8 dB (EAC) | same | A | computed |
 | f3 / f6 | 59 / 46 Hz (ASR); 55 / 45 Hz (EAC) (modest) | same | A | computed |
-| Preference score | 4.8 / 7.0 (ASR); 5.2 / 7.3 (EAC) | via [[spinorama-org]] | A | differences under 0.5 not meaningful for no-sub |
-| Min impedance | about 5.0 Ω near 200 Hz | [[asr-elac-debut-2-0-b6-2]] | A | reviewer-stated; frequency graph-read |
-| Min impedance | 5.2 Ω above 80 Hz | [[eac-elac-debut-2-0-b6-2]] | A | stated on plot |
-| EPDR min | 2.4 Ω above 80 Hz | [[eac-elac-debut-2-0-b6-2]] | A | |
-| THD at 86 dB | about 1.0% near 500 Hz | [[eac-elac-debut-2-0-b6-2]] | A | graph-read (approx.) |
-| THD at 96 dB | about 2.8% near 400 Hz | [[eac-elac-debut-2-0-b6-2]] | A | graph-read (approx.) |
-| Crossover | 2.2 kHz | [[mfr-elac-debut-2-0-b6-2]] | C | |
+| Preference score | 4.8 / 7.0 (ASR); 5.2 / 7.3 (EAC) | via [spinorama-org](../sources/spinorama-org.md) | A | differences under 0.5 not meaningful for no-sub |
+| Min impedance | about 5.0 Ω near 200 Hz | [asr-elac-debut-2-0-b6-2](../sources/asr-elac-debut-2-0-b6-2.md) | A | reviewer-stated; frequency graph-read |
+| Min impedance | 5.2 Ω above 80 Hz | [eac-elac-debut-2-0-b6-2](../sources/eac-elac-debut-2-0-b6-2.md) | A | stated on plot |
+| EPDR min | 2.4 Ω above 80 Hz | [eac-elac-debut-2-0-b6-2](../sources/eac-elac-debut-2-0-b6-2.md) | A | |
+| THD at 86 dB | about 1.0% near 500 Hz | [eac-elac-debut-2-0-b6-2](../sources/eac-elac-debut-2-0-b6-2.md) | A | graph-read (approx.) |
+| THD at 96 dB | about 2.8% near 400 Hz | [eac-elac-debut-2-0-b6-2](../sources/eac-elac-debut-2-0-b6-2.md) | A | graph-read (approx.) |
+| Crossover | 2.2 kHz | [mfr-elac-debut-2-0-b6-2](../sources/mfr-elac-debut-2-0-b6-2.md) | C | |
 
 ## Directivity
-Horizontal beamwidth 122° (ASR) / 129° (EAC); vertical 88° / 85°, with usable response about ±20° vertically (ASR). DI has minor discontinuities (ERDI residual 1.6 / 1.4 dB); SPDI runs from 5.8 dB at 1 kHz to 8.6-9.0 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 2.8 dB (ASR) / 2.5 dB (EAC), under the 3 dB flag but close; ASR flags a 1-2 kHz energy dip from directivity error, worst via floor and ceiling bounces, so a rug helps. On-axis minus listening window above 4 kHz is +1.1 / +1.2 dB: slightly brighter on-axis, so aim slightly off-axis (less toe-in) to tame glare. See [[directivity-index]], [[early-reflections]].
+Horizontal beamwidth 122° (ASR) / 129° (EAC); vertical 88° / 85°, with usable response about ±20° vertically (ASR). DI has minor discontinuities (ERDI residual 1.6 / 1.4 dB); SPDI runs from 5.8 dB at 1 kHz to 8.6-9.0 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 2.8 dB (ASR) / 2.5 dB (EAC), under the 3 dB flag but close; ASR flags a 1-2 kHz energy dip from directivity error, worst via floor and ceiling bounces, so a rug helps. On-axis minus listening window above 4 kHz is +1.1 / +1.2 dB: slightly brighter on-axis, so aim slightly off-axis (less toe-in) to tame glare. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-EAC: about 1.0% THD at 86 dB and 2.8% at 96 dB (graph-read). Compression at 96 and 102 dB stays within roughly -0.5 and -1.0 dB above 100 Hz but falls steeply below about 70 Hz, which Erin verified on both speakers. ASR's plot shows distortion near 450 Hz and above 5 kHz at high level, though Amir says it plays very loud with little distortion by ear. No max SPL stated. Fine for small-to-medium rooms; add a subwoofer for loud listening. See [[compression-and-max-spl]].
+EAC: about 1.0% THD at 86 dB and 2.8% at 96 dB (graph-read). Compression at 96 and 102 dB stays within roughly -0.5 and -1.0 dB above 100 Hz but falls steeply below about 70 Hz, which Erin verified on both speakers. ASR's plot shows distortion near 450 Hz and above 5 kHz at high level, though Amir says it plays very loud with little distortion by ear. No max SPL stated. Fine for small-to-medium rooms; add a subwoofer for loud listening. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-6 Ω nominal, minimum about 5.0-5.2 Ω near 200 Hz, above the IEC floor (4.8 Ω), so no flag. ASR calls the impedance above average. EPDR min 2.4 Ω is moderately demanding at 86-87 dB sensitivity; an ordinary receiver is adequate at moderate levels. See [[impedance-and-epdr]].
+6 Ω nominal, minimum about 5.0-5.2 Ω near 200 Hz, above the IEC floor (4.8 Ω), so no flag. ASR calls the impedance above average. EPDR min 2.4 Ω is moderately demanding at 86-87 dB sensitivity; an ordinary receiver is adequate at moderate levels. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[whathifi-elac-debut-2-0-b6-2]] (What Hi-Fi?, Sound 5): mature, transparent, rhythmic; unforgiving of poor sources; bass limited at the deepest.
-- [[hifichoice-elac-debut-2-0-b6-2]] (Hi-Fi Choice): warmly recommended, strong imaging, slightly forward midrange.
-- [[audiofi-elac-debut-2-0-b6-2]] (audioFi.net, 9/10): honest, uncoloured; needed long run-in; bass less impactful than the first-generation B6.
-- [[asr-elac-debut-2-0-b6-2]] (ASR, Tier D notes): a bit bright and unexciting until EQ; neutral rating; plays very loud.
+- [whathifi-elac-debut-2-0-b6-2](../sources/whathifi-elac-debut-2-0-b6-2.md) (What Hi-Fi?, Sound 5): mature, transparent, rhythmic; unforgiving of poor sources; bass limited at the deepest.
+- [hifichoice-elac-debut-2-0-b6-2](../sources/hifichoice-elac-debut-2-0-b6-2.md) (Hi-Fi Choice): warmly recommended, strong imaging, slightly forward midrange.
+- [audiofi-elac-debut-2-0-b6-2](../sources/audiofi-elac-debut-2-0-b6-2.md) (audioFi.net, 9/10): honest, uncoloured; needed long run-in; bass less impactful than the first-generation B6.
+- [asr-elac-debut-2-0-b6-2](../sources/asr-elac-debut-2-0-b6-2.md) (ASR, Tier D notes): a bit bright and unexciting until EQ; neutral rating; plays very loud.
 
 ## User reviews
-Two owner reports plus one aggregator, so anecdotal ([[users-elac-debut-2-0-b6-2]]): good imaging (2 of 2); one found it unexciting, one found it natural and dynamic; one needed break-in and tweeter aimed at ear level. No QC problems reported.
+Two owner reports plus one aggregator, so anecdotal ([users-elac-debut-2-0-b6-2](../sources/users-elac-debut-2-0-b6-2.md)): good imaging (2 of 2); one found it unexciting, one found it natural and dynamic; one needed break-in and tweeter aimed at ear level. No QC problems reported.
 
 ## Conflicts
 - Sensitivity: 86.2 dB (ASR export) vs 84.5 dB (EAC) vs 87 dB claimed; 1.7 dB spread between Tier-A rigs, different samples.
@@ -86,4 +86,4 @@ Two owner reports plus one aggregator, so anecdotal ([[users-elac-debut-2-0-b6-2
 - Status: What Hi-Fi? and Gear Patrol say the DB63 replaces it; Audio Advisor marks it discontinued; elac.com and World Wide Stereo still list it.
 
 ## Related
-[[elac]] · [[elac-debut-2-0-b5-2]] · [[elac-debut-3-0-b6-3]] · [[elac-debut-reference-dbr-62]] · [[q-acoustics-3020i]] · [[spinorama]] · [[preference-score]]
+[Elac](../brands/elac.md) · [Elac Debut 2.0 B5.2](elac-debut-2-0-b5-2.md) · [Elac Debut 3.0 B6.3](elac-debut-3-0-b6-3.md) · [Elac Debut Reference DBR-62](elac-debut-reference-dbr-62.md) · [Q Acoustics 3020i](q-acoustics-3020i.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

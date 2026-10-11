@@ -33,10 +33,10 @@ Maker's US store page lists the 3030i pair at $499.96, shipping within 1-2 busin
 | price | $499.96 per pair | maker store, 2026-10-11 |
 
 ## Method notes
-Port location not stated on the page (What Hi-Fi? describes a rear-firing port, see [[whathifi-q-acoustics-3030i]]).
+Port location not stated on the page (What Hi-Fi? describes a rear-firing port, see [whathifi-q-acoustics-3030i](whathifi-q-acoustics-3030i.md)).
 
 ## Reliability notes
 Claimed specs only (Tier C). Availability beyond the maker's own store was not confirmed; US third-party listings found were used pairs.
 
 ## Related
-[[q-acoustics-3030i]] · [[q-acoustics]]
+[Q Acoustics 3030i](../speakers/q-acoustics-3030i.md) · [Q Acoustics](../brands/q-acoustics.md)

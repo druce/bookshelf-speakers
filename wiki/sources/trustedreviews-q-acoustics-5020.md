@@ -27,7 +27,7 @@ Positive review: rich, musical, powerful, with more scale than the 3000i series,
 Listening only with Cambridge Audio CXN v2 and CXA61. Repeats maker specs (53 Hz-30 kHz, 87.9 dB, 3.3 Ω minimum).
 
 ## Reliability notes
-"Rich/warm" contrasts with Erin's "treble heavy" Klippel note ([[eac-q-acoustics-5020]]).
+"Rich/warm" contrasts with Erin's "treble heavy" Klippel note ([eac-q-acoustics-5020](eac-q-acoustics-5020.md)).
 
 ## Related
-[[q-acoustics-5020]] · [[q-acoustics]]
+[Q Acoustics 5020](../speakers/q-acoustics-5020.md) · [Q Acoustics](../brands/q-acoustics.md)

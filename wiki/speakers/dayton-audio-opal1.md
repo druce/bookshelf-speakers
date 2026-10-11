@@ -46,30 +46,30 @@ The OPAL1 is a passive 2-way with a 5.5" MMAG woofer, two passive radiators and 
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 75.4 dB (low) | [[eac-dayton-audio-opal1]] | A | computed (scripts/cta2034.py v2); Erin states 75.7 dB |
-| Sensitivity | 76 dB | [[audioholics-dayton-audio-opal1]] | B | measured; claimed 78.5 dB per [[mfr-dayton-audio-opal1-daytonaudio]] |
-| Listening-window deviation | ±2.6 dB, 300 Hz-10 kHz (just outside "good") | [[eac-dayton-audio-opal1]] | A | computed |
-| On-axis deviation | ±3.4 dB (coloured) | [[eac-dayton-audio-opal1]] | A | computed |
-| f3 / f6 | 51 / 36 Hz (good) | [[eac-dayton-audio-opal1]] | A | computed; passive-radiator alignment |
-| Min impedance | 4.5 Ω above 80 Hz, near 4 kHz | [[eac-dayton-audio-opal1]] | A | stated on plot; frequency graph-read (approx.) |
-| EPDR min | 1.9 Ω above 80 Hz | [[eac-dayton-audio-opal1]] | A | stated on plot |
-| Preference score | 5.1 (no sub) / 6.6 (with sub) | [[eac-dayton-audio-opal1]] via [[spinorama-org]] | A | not meaningful to <0.5 |
-| THD 86 dB @1 m | ~1.0% worst (100 Hz) | [[eac-dayton-audio-opal1]] | A | graph-read (approx.) |
-| THD 96 dB @1 m | ~3.3% worst (100 Hz) | [[eac-dayton-audio-opal1]] | A | graph-read (approx.) |
-| Crossover | 2.2 kHz (maker); 2.3 kHz (teardown) | [[mfr-dayton-audio-opal1-daytonaudio]], [[audioholics-dayton-audio-opal1]] | C/B | |
+| Sensitivity (2.83 V/1 m) | 75.4 dB (low) | [eac-dayton-audio-opal1](../sources/eac-dayton-audio-opal1.md) | A | computed (scripts/cta2034.py v2); Erin states 75.7 dB |
+| Sensitivity | 76 dB | [audioholics-dayton-audio-opal1](../sources/audioholics-dayton-audio-opal1.md) | B | measured; claimed 78.5 dB per [mfr-dayton-audio-opal1-daytonaudio](../sources/mfr-dayton-audio-opal1-daytonaudio.md) |
+| Listening-window deviation | ±2.6 dB, 300 Hz-10 kHz (just outside "good") | [eac-dayton-audio-opal1](../sources/eac-dayton-audio-opal1.md) | A | computed |
+| On-axis deviation | ±3.4 dB (coloured) | [eac-dayton-audio-opal1](../sources/eac-dayton-audio-opal1.md) | A | computed |
+| f3 / f6 | 51 / 36 Hz (good) | [eac-dayton-audio-opal1](../sources/eac-dayton-audio-opal1.md) | A | computed; passive-radiator alignment |
+| Min impedance | 4.5 Ω above 80 Hz, near 4 kHz | [eac-dayton-audio-opal1](../sources/eac-dayton-audio-opal1.md) | A | stated on plot; frequency graph-read (approx.) |
+| EPDR min | 1.9 Ω above 80 Hz | [eac-dayton-audio-opal1](../sources/eac-dayton-audio-opal1.md) | A | stated on plot |
+| Preference score | 5.1 (no sub) / 6.6 (with sub) | [eac-dayton-audio-opal1](../sources/eac-dayton-audio-opal1.md) via [spinorama-org](../sources/spinorama-org.md) | A | not meaningful to <0.5 |
+| THD 86 dB @1 m | ~1.0% worst (100 Hz) | [eac-dayton-audio-opal1](../sources/eac-dayton-audio-opal1.md) | A | graph-read (approx.) |
+| THD 96 dB @1 m | ~3.3% worst (100 Hz) | [eac-dayton-audio-opal1](../sources/eac-dayton-audio-opal1.md) | A | graph-read (approx.) |
+| Crossover | 2.2 kHz (maker); 2.3 kHz (teardown) | [mfr-dayton-audio-opal1-daytonaudio](../sources/mfr-dayton-audio-opal1-daytonaudio.md), [audioholics-dayton-audio-opal1](../sources/audioholics-dayton-audio-opal1.md) | C/B | |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 139°, vertical about 119°: wide, typical of a dome on a flat baffle. DI is minor-discontinuity (ERDI residual 1.9 dB); SPDI rises from 5.3 dB at 1 kHz to 9.2 dB at 10 kHz as the tweeter narrows. Early-reflection dip near 1.5 kHz is 1.1 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.9 dB, so either aim works by that metric, but Erin says the top end falls off quickly off-axis and recommends aiming at the listener. Audioholics found about ±10° of vertical tolerance before crossover nulls. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 139°, vertical about 119°: wide, typical of a dome on a flat baffle. DI is minor-discontinuity (ERDI residual 1.9 dB); SPDI rises from 5.3 dB at 1 kHz to 9.2 dB at 10 kHz as the tweeter narrows. Early-reflection dip near 1.5 kHz is 1.1 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.9 dB, so either aim works by that metric, but Erin says the top end falls off quickly off-axis and recommends aiming at the listener. Audioholics found about ±10° of vertical tolerance before crossover nulls. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Erin's THD is about 1% at 86 dB near 100 Hz and falls below ~0.6% above 150 Hz; at 96 dB it reaches roughly 3.3% at 100 Hz and about 2% near 2.8 kHz (all graph-read). Compression is mild: at 102 dB @1 m up to about 2.8 dB loss below 100 Hz and roughly 1 dB or less in the mids and treble. The maker claims 102 dB at rated power; no max-SPL figure is entered. Because sensitivity is only about 75 dB, reaching 96 dB at 1 m needs about 21 dB of drive (roughly 110 W into 8 Ω, computed from sensitivity), so loud listening in large rooms is amplifier-limited. See [[compression-and-max-spl]].
+Erin's THD is about 1% at 86 dB near 100 Hz and falls below ~0.6% above 150 Hz; at 96 dB it reaches roughly 3.3% at 100 Hz and about 2% near 2.8 kHz (all graph-read). Compression is mild: at 102 dB @1 m up to about 2.8 dB loss below 100 Hz and roughly 1 dB or less in the mids and treble. The maker claims 102 dB at rated power; no max-SPL figure is entered. Because sensitivity is only about 75 dB, reaching 96 dB at 1 m needs about 21 dB of drive (roughly 110 W into 8 Ω, computed from sensitivity), so loud listening in large rooms is amplifier-limited. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Rated 8 Ω but measured minimum is 4.5 Ω near 4 kHz (maker claims 4.3 Ω), below the IEC floor of 6.4 Ω, so flagged `below-iec`. EPDR bottoms at 1.9 Ω above 80 Hz, a demanding figure; the woofer region stays 8 Ω or higher, with benign phase (Audioholics). Use a high-power amplifier stable into 4 Ω. See [[impedance-and-epdr]].
+Rated 8 Ω but measured minimum is 4.5 Ω near 4 kHz (maker claims 4.3 Ω), below the IEC floor of 6.4 Ω, so flagged `below-iec`. EPDR bottoms at 1.9 Ω above 80 Hz, a demanding figure; the woofer region stays 8 Ω or higher, with benign phase (Audioholics). Use a high-power amplifier stable into 4 Ω. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[audioholics-dayton-audio-opal1]] (Audioholics, 4.5/5 performance, 5/5 value): sub-30 Hz in-room bass for size, terrific imaging, build quality; needs lots of power; erratic measured response.
-- [[eac-dayton-audio-opal1]] (Erin's Audio Corner, Tier D notes): forward and focused with a midrange scoop; best aimed directly at the listener.
+- [audioholics-dayton-audio-opal1](../sources/audioholics-dayton-audio-opal1.md) (Audioholics, 4.5/5 performance, 5/5 value): sub-30 Hz in-room bass for size, terrific imaging, build quality; needs lots of power; erratic measured response.
+- [eac-dayton-audio-opal1](../sources/eac-dayton-audio-opal1.md) (Erin's Audio Corner, Tier D notes): forward and focused with a midrange scoop; best aimed directly at the listener.
 
 ## User reviews
 No user reports ingested yet (the Audioholics forum and Parts Express threads blocked scripted fetches).
@@ -81,4 +81,4 @@ No user reports ingested yet (the Audioholics forum and Parts Express threads bl
 - Erin's page body is dated 2024-04-21; the dataset lists 2025-01-14.
 
 ## Related
-[[dayton-audio]] · Dayton Audio B652-AIR · Dayton Audio MK402X · Dayton Audio MK602X · [[impedance-and-epdr]] · [[sensitivity-normalization]]
+[Dayton Audio](../brands/dayton-audio.md) · Dayton Audio B652-AIR · Dayton Audio MK402X · Dayton Audio MK602X · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [sensitivity-normalization](../concepts/sensitivity-normalization.md)

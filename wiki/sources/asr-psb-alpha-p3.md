@@ -41,4 +41,4 @@ Klippel NFS, reference axis tweeter centre, grille off, over 1000 measurement po
 Single loaned sample. Reviewer's ears were temporarily blocked during listening so he emphasised measurements. A forum member's own spinorama table reports 80.9 dB sensitivity (300 Hz-3 kHz), consistent with 80.3 dB.
 
 ## Related
-[[psb-alpha-p3]] · [[asr]] · [[spinorama-org]] · [[psb]]
+[PSB Alpha P3](../speakers/psb-alpha-p3.md) · [asr](../reviewers/asr.md) · [spinorama-org](spinorama-org.md) · [PSB](../brands/psb.md)

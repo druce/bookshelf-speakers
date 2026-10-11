@@ -25,7 +25,7 @@ Maker-direct US page lists the Super Denton as a current 3-way standmount at $1,
 | sensitivity_claimed | 87 dB @ 2.83 V/1 m | no conversion needed |
 | drivers | 6.5" (165 mm) Kevlar woofer, 2" soft-dome mid, 1" soft-dome tweeter | |
 | claimed FR | 52 Hz-20 kHz ±3 dB (per reviews) | |
-| crossover | 940 Hz / 4.6 kHz | per [[ecoustics-wharfedale-super-denton]] |
+| crossover | 940 Hz / 4.6 kHz | per [ecoustics-wharfedale-super-denton](ecoustics-wharfedale-super-denton.md) |
 | port | dual rear ports | per reviews |
 | dimensions | 14.17 x 9.69 x 11.61 in (360x246x275 mm) | |
 | weight | 20.28 lb (9.2 kg) each | |
@@ -38,4 +38,4 @@ Spec table only.
 Tier C; maker figures.
 
 ## Related
-[[wharfedale-super-denton]] · [[wharfedale]]
+[Wharfedale Super Denton](../speakers/wharfedale-super-denton.md) · [Wharfedale](../brands/wharfedale.md)

@@ -36,4 +36,4 @@ HFN quasi-anechoic freefield response with nearfield summing for the bass; imped
 Single sample pair. Lab-report page date not shown; the 805 D4 is cited as "HFN Feb '22" in the later Signature report.
 
 ## Related
-[[bowers-wilkins-805-d4]] · [[bowers-wilkins]]
+[Bowers & Wilkins 805 D4](../speakers/bowers-wilkins-805-d4.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

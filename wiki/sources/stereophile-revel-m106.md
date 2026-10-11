@@ -44,4 +44,4 @@ Single sample. No numeric listening-window deviation or f3 stated. Listening rev
 - Summing up: no reservations, "extraordinary".
 
 ## Related
-[[revel-m106]] · [[stereophile]] · [[revel]]
+[Revel M106](../speakers/revel-m106.md) · [stereophile](../reviewers/stereophile.md) · [Revel](../brands/revel.md)

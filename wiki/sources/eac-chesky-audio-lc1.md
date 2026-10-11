@@ -46,4 +46,4 @@ Klippel Near-Field Scanner, reference point at the tweeter, no grille, broken-in
 Loaned units, not paid. Sample-to-sample mismatch (midwoofer 1-3 kHz, dip about 1.2 kHz and peak about 3 kHz in sample 2) means a single pair may not represent production. Summary text on the page is AI-generated; numbers cross-checked with graphs where possible.
 
 ## Related
-[[chesky-audio-lc1]] · [[erins-audio-corner]] · [[chesky-audio]] · [[spinorama-org]]
+[Chesky Audio LC1](../speakers/chesky-audio-lc1.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Chesky Audio](../brands/chesky-audio.md) · [spinorama-org](spinorama-org.md)

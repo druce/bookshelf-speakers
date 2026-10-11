@@ -30,4 +30,4 @@ Retailer reviews undated in capture; ASR commenters mostly did not own this mode
 Retailer review sets skew positive; ASR posts are measurement reactions.
 
 ## Related
-[[paradigm-monitor-se-atom]] · [[paradigm]]
+[Paradigm Monitor SE Atom](../speakers/paradigm-monitor-se-atom.md) · [Paradigm](../brands/paradigm.md)

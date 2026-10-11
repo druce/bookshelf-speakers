@@ -38,4 +38,4 @@ DRA Labs MLSSA with DPA 4006 mic (farfield, 50 in) and Earthworks QTC-40 (nearfi
 Single sample; sensitivity is an estimate labelled "(B)" weighting. Review of the 2017 design, matching current Totem spec.
 
 ## Related
-[[totem-acoustic-signature-one]] · [[stereophile]] · [[totem-acoustic]]
+[Totem Acoustic Signature One](../speakers/totem-acoustic-signature-one.md) · [stereophile](../reviewers/stereophile.md) · [Totem Acoustic](../brands/totem-acoustic.md)

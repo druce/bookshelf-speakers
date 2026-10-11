@@ -46,28 +46,28 @@ The Dôme Flax is a tiny sealed satellite (4" flax woofer, 171 mm tall) sold mai
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 83.0 dB (low) | [[asr-focal-dome-flax]] | A | computed (scripts/cta2034.py v2); claimed 88 dB (condition unstated) per [[mfr-focal-dome-flax]] |
-| Listening-window deviation | ±3.2 dB (coloured, near the 3.5 dB limit) | [[asr-focal-dome-flax]] | A | computed |
-| On-axis deviation | ±3.2 dB | [[asr-focal-dome-flax]] | A | computed |
-| f3 / f6 | 126 / 105 Hz (needs a sub) | [[asr-focal-dome-flax]] | A | computed |
-| Min impedance | 3.3 Ω, lowest region about 270 Hz | [[asr-focal-dome-flax]] | A | value stated on graph; frequency graph-read |
-| Preference score | 1.8 (no sub) / 5.5 (with sub) | [[asr-focal-dome-flax]] via [[spinorama-org]] | A | coarse aid only |
-| Distortion | see Output & distortion | [[asr-focal-dome-flax]] | A | graph-read |
+| Sensitivity (2.83 V/1 m) | 83.0 dB (low) | [asr-focal-dome-flax](../sources/asr-focal-dome-flax.md) | A | computed (scripts/cta2034.py v2); claimed 88 dB (condition unstated) per [mfr-focal-dome-flax](../sources/mfr-focal-dome-flax.md) |
+| Listening-window deviation | ±3.2 dB (coloured, near the 3.5 dB limit) | [asr-focal-dome-flax](../sources/asr-focal-dome-flax.md) | A | computed |
+| On-axis deviation | ±3.2 dB | [asr-focal-dome-flax](../sources/asr-focal-dome-flax.md) | A | computed |
+| f3 / f6 | 126 / 105 Hz (needs a sub) | [asr-focal-dome-flax](../sources/asr-focal-dome-flax.md) | A | computed |
+| Min impedance | 3.3 Ω, lowest region about 270 Hz | [asr-focal-dome-flax](../sources/asr-focal-dome-flax.md) | A | value stated on graph; frequency graph-read |
+| Preference score | 1.8 (no sub) / 5.5 (with sub) | [asr-focal-dome-flax](../sources/asr-focal-dome-flax.md) via [spinorama-org](../sources/spinorama-org.md) | A | coarse aid only |
+| Distortion | see Output & distortion | [asr-focal-dome-flax](../sources/asr-focal-dome-flax.md) | A | graph-read |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 143 degrees, vertical about 119 degrees, wide for a non-coaxial speaker. DI is minor-discontinuity (ERDI residual 1.2 dB); SPDI rises from 2.5 dB at 1 kHz to 5.8 dB at 10 kHz. The early-reflection dip near 1.5 kHz is 3.7 dB, over the 3 dB flag. On-axis minus listening window above 4 kHz is +0.3 dB, so aiming barely matters; ASR tested it nearly upright and says tilting worsens response. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 143 degrees, vertical about 119 degrees, wide for a non-coaxial speaker. DI is minor-discontinuity (ERDI residual 1.2 dB); SPDI rises from 2.5 dB at 1 kHz to 5.8 dB at 10 kHz. The early-reflection dip near 1.5 kHz is 3.7 dB, over the 3 dB flag. On-axis minus listening window above 4 kHz is +0.3 dB, so aiming barely matters; ASR tested it nearly upright and says tilting worsens response. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No max-SPL test; ASR limited testing to 90 dB because the woofer distorted so much. At 86 dB the THD plot exceeds the 5% scale below about 190 Hz, with about 2.3-2.5% peaks near 340-450 Hz and under 0.5% above about 1.5 kHz (graph-read; ASR labels it non-anechoic and says it is unreliable with non-flat response), so no single THD value is entered. At 90 dB it is worse. Practically a low-level, high-passed satellite; see [[compression-and-max-spl]].
+No max-SPL test; ASR limited testing to 90 dB because the woofer distorted so much. At 86 dB the THD plot exceeds the 5% scale below about 190 Hz, with about 2.3-2.5% peaks near 340-450 Hz and under 0.5% above about 1.5 kHz (graph-read; ASR labels it non-anechoic and says it is unreliable with non-flat response), so no single THD value is entered. At 90 dB it is worse. Practically a low-level, high-passed satellite; see [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-8 Ω nominal; ASR shows a 3.3 Ω minimum (flag `effectively-4ohm`) with a sharp 22 Ω resonance peak near 135 Hz and phase within about ±55 degrees. EPDR not computed. Use an amplifier comfortable at 4 Ω, with a high-pass crossover to protect the woofer. See [[impedance-and-epdr]].
+8 Ω nominal; ASR shows a 3.3 Ω minimum (flag `effectively-4ohm`) with a sharp 22 Ω resonance peak near 135 Hz and phase within about ±55 degrees. EPDR not computed. Use an amplifier comfortable at 4 Ω, with a high-pass crossover to protect the woofer. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[asr-focal-dome-flax]] (ASR, Tier D listening notes): forward treble, buzzy and boomy-then-absent bass; "I can't recommend" it.
+- [asr-focal-dome-flax](../sources/asr-focal-dome-flax.md) (ASR, Tier D listening notes): forward treble, buzzy and boomy-then-absent bass; "I can't recommend" it.
 
 ## User reviews
-Anecdotal only ([[users-focal-dome-flax]]): no owner listening reports found; ASR thread reactions only, with two posts guessing at poor fit and finish from photos.
+Anecdotal only ([users-focal-dome-flax](../sources/users-focal-dome-flax.md)): no owner listening reports found; ASR thread reactions only, with two posts guessing at poor fit and finish from photos.
 
 ## Conflicts
 - Sensitivity: 83.0 dB (computed) vs 88 dB claimed, a 5 dB gap; the claim's reference condition is not stated and the claim may be per watt or in-room.
@@ -76,4 +76,4 @@ Anecdotal only ([[users-focal-dome-flax]]): no owner listening reports found; AS
 - Price is street per pair (2 x $689, Home Technology Review snippet); MSRP $1,598 pair; page not fetched, so treat as approximate.
 
 ## Related
-[[focal]] · Focal Vestia N°1 · [[focal-theva-n1]] · [[spinorama]] · [[preference-score]]
+[Focal](../brands/focal.md) · Focal Vestia N°1 · [Focal Theva N°1](focal-theva-n1.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

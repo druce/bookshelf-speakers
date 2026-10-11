@@ -38,7 +38,7 @@ Klippel NFS review of a unit bought for $70 (single). Amir found almost no bass 
 Klippel NFS, tweeter-center reference, 60 F, over 800 measurements. Listening notes (Tier D): no bass, quiet, 2-3 kHz weak; 3 dB boost there helped a little; Amir switched it off.
 
 ## Reliability notes
-Single sample. Reviewer judged it without a subwoofer although the maker says one is required; forum members objected (see [[users-nht-super-zero-2-1]]).
+Single sample. Reviewer judged it without a subwoofer although the maker says one is required; forum members objected (see [users-nht-super-zero-2-1](users-nht-super-zero-2-1.md)).
 
 ## Related
-[[nht-super-zero-2-1]] · [[asr]] · [[nht]] · [[spinorama-org]]
+[NHT Super Zero 2.1](../speakers/nht-super-zero-2-1.md) · [asr](../reviewers/asr.md) · [NHT](../brands/nht.md) · [spinorama-org](spinorama-org.md)

@@ -44,4 +44,4 @@ Klippel NFS, grille off (assumed default), reference tweeter plane. Compression 
 Single loaned new pair. Erin Tier D notes: in-room bass good to ~50 Hz but lacks mid-bass thump; neutral mids with slight glare 800 Hz-1 kHz; artificial top-octave above 10 kHz; compress/distort at higher volume, crossing to a sub at 80-100 Hz helps; ring tweeter narrows at HF so aim at listener without toe-out. Retail cited $750/pair.
 
 ## Related
-[[polk-audio-reserve-r200]] · [[erins-audio-corner]] · [[polk-audio]] · [[spinorama-org]]
+[Polk Audio Reserve R200](../speakers/polk-audio-reserve-r200.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Polk Audio](../brands/polk-audio.md) · [spinorama-org](spinorama-org.md)

@@ -14,7 +14,7 @@ speakers: [focal-sopra-n1]
 # SoundStage!: Focal Sopra No1 (Diego Estan, 2020-03-15)
 
 ## Summary
-Estan made the No1 his new reference minimonitor, praising midrange, imaging and treble, with bass output the only reservation at the $9,990/pair price. Anechoic NRC measurements are on [[soundstage-nrc-focal-sopra-n1]].
+Estan made the No1 his new reference minimonitor, praising midrange, imaging and treble, with bass output the only reservation at the $9,990/pair price. Anechoic NRC measurements are on [soundstage-nrc-focal-sopra-n1](soundstage-nrc-focal-sopra-n1.md).
 
 ## Key claims (attributed, paraphrased)
 - Midrange described as liquid-smooth, forward and lively, "the calling card".
@@ -31,4 +31,4 @@ Reviewer's room treated; amplification McIntosh MC302 (8 Ω taps). Pre-productio
 Subjective, single reviewer, single sample pair (supplied in a custom Chameleon finish).
 
 ## Related
-[[focal-sopra-n1]] · [[soundstage-nrc]] · [[focal]]
+[Focal Sopra N°1](../speakers/focal-sopra-n1.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Focal](../brands/focal.md)

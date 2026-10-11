@@ -46,26 +46,26 @@ The E50 is Buchardt's Danish-built, direct-sale flagship standmount: a 6.5" Puri
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 82.8 dB (low) | [[eac-buchardt-audio-e50]] | A | computed (scripts/cta2034.py v2); spinorama.org shows 83.1 dB; claimed 85 dB |
-| Listening-window deviation | ±1.9 dB, 300 Hz-10 kHz (good) | [[eac-buchardt-audio-e50]] | A | computed |
-| On-axis deviation | ±2.7 dB | [[eac-buchardt-audio-e50]] | A | computed |
-| f3 / f6 | 42 / 37 Hz (excellent) | [[eac-buchardt-audio-e50]] | A | computed |
-| Preference score | 5.84 (no sub) / 7.61 (with sub) | [[eac-buchardt-audio-e50]] via [[spinorama-org]] | A | not meaningful to <0.5; ignores distortion and max output |
-| Min impedance | 4.9 Ω @ 160 Hz | [[mfr-buchardt-audio-e50]] | C | claimed only; no measured value, so frontmatter is null |
-| Crossover | 2 kHz | [[mfr-buchardt-audio-e50]] | C | |
+| Sensitivity (2.83 V/1 m) | 82.8 dB (low) | [eac-buchardt-audio-e50](../sources/eac-buchardt-audio-e50.md) | A | computed (scripts/cta2034.py v2); spinorama.org shows 83.1 dB; claimed 85 dB |
+| Listening-window deviation | ±1.9 dB, 300 Hz-10 kHz (good) | [eac-buchardt-audio-e50](../sources/eac-buchardt-audio-e50.md) | A | computed |
+| On-axis deviation | ±2.7 dB | [eac-buchardt-audio-e50](../sources/eac-buchardt-audio-e50.md) | A | computed |
+| f3 / f6 | 42 / 37 Hz (excellent) | [eac-buchardt-audio-e50](../sources/eac-buchardt-audio-e50.md) | A | computed |
+| Preference score | 5.84 (no sub) / 7.61 (with sub) | [eac-buchardt-audio-e50](../sources/eac-buchardt-audio-e50.md) via [spinorama-org](../sources/spinorama-org.md) | A | not meaningful to <0.5; ignores distortion and max output |
+| Min impedance | 4.9 Ω @ 160 Hz | [mfr-buchardt-audio-e50](../sources/mfr-buchardt-audio-e50.md) | C | claimed only; no measured value, so frontmatter is null |
+| Crossover | 2 kHz | [mfr-buchardt-audio-e50](../sources/mfr-buchardt-audio-e50.md) | C | |
 
 ## Directivity
--6 dB beamwidth about 124° horizontal and 112° vertical. DI is a minor discontinuity (ERDI residual 1.4 dB); SPDI rises from 4.7 dB at 1 kHz to 7.5 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 2.0 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.8 dB, so either aim works. See [[directivity-index]], [[early-reflections]].
+-6 dB beamwidth about 124° horizontal and 112° vertical. DI is a minor discontinuity (ERDI residual 1.4 dB); SPDI rises from 4.7 dB at 1 kHz to 7.5 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 2.0 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.8 dB, so either aim works. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No distortion or compression data could be read (the EAC review is a video with no written page). Maker and reviewers stress scale and power handling ([[hifiknights-buchardt-audio-e50]] calls dynamics its strongest asset), but that is Tier D. Low sensitivity means it needs real amplifier power for loud listening. See [[compression-and-max-spl]].
+No distortion or compression data could be read (the EAC review is a video with no written page). Maker and reviewers stress scale and power handling ([hifiknights-buchardt-audio-e50](../sources/hifiknights-buchardt-audio-e50.md) calls dynamics its strongest asset), but that is Tier D. Low sensitivity means it needs real amplifier power for loud listening. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Maker rates it "4/6 ohms" with a 4.9 Ω minimum at 160 Hz (claimed, Tier C); no Tier A/B impedance or EPDR was found. A reviewer found a high-output-impedance amp gave poor bass control. Use an amplifier stable into 4 Ω with plenty of power. See [[impedance-and-epdr]].
+Maker rates it "4/6 ohms" with a 4.9 Ω minimum at 160 Hz (claimed, Tier C); no Tier A/B impedance or EPDR was found. A reviewer found a high-output-impedance amp gave poor bass control. Use an amplifier stable into 4 Ω with plenty of power. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[stevehuff-buchardt-audio-e50]] (Steve Huff, blog): sweet, natural, near-neutral; best bookshelf bass he has heard under $10k; no sub needed in small-to-mid rooms.
-- [[hifiknights-buchardt-audio-e50]] (HiFi Knights): deep controlled bass, relaxed warm voicing, large dynamic reserve; punches above its price.
+- [stevehuff-buchardt-audio-e50](../sources/stevehuff-buchardt-audio-e50.md) (Steve Huff, blog): sweet, natural, near-neutral; best bookshelf bass he has heard under $10k; no sub needed in small-to-mid rooms.
+- [hifiknights-buchardt-audio-e50](../sources/hifiknights-buchardt-audio-e50.md) (HiFi Knights): deep controlled bass, relaxed warm voicing, large dynamic reserve; punches above its price.
 
 ## User reviews
 No user reports ingested yet (AVForums thread had only pre-order talk; Audiogon was blocked).
@@ -77,4 +77,4 @@ No user reports ingested yet (AVForums thread had only pre-order talk; Audiogon 
 - Price: maker EUR 4,100; no USD price on the maker page; USD figure is Huff's April 2025 estimate ($4,000-4,300); Speaker Decision lists $3,950. A newer E50-S variant is also sold.
 
 ## Related
-[[buchardt-audio]] · Dynaudio Heritage Special · KEF Reference 1 Meta · [[spinorama]] · [[preference-score]]
+[Buchardt Audio](../brands/buchardt-audio.md) · Dynaudio Heritage Special · KEF Reference 1 Meta · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

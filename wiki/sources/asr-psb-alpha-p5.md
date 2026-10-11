@@ -42,4 +42,4 @@ Klippel NFS, tweeter-centre reference axis, over 800 measurement points (error s
 Single purchased retail sample (Amazon). Tier-A. Reviewer's listening impressions (warm females, lost male vocals) are Tier D and he concedes bias.
 
 ## Related
-[[psb-alpha-p5]] · [[stereophile-psb-alpha-p5]] · [[asr]] · [[spinorama-org]] · [[psb]]
+[PSB Alpha P5](../speakers/psb-alpha-p5.md) · [stereophile-psb-alpha-p5](stereophile-psb-alpha-p5.md) · [asr](../reviewers/asr.md) · [spinorama-org](spinorama-org.md) · [PSB](../brands/psb.md)

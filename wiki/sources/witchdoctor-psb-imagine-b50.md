@@ -30,4 +30,4 @@ Listening only, NZ market, no measurements.
 Single reviewer; enthusiastic tone; "practically flawless" claim is subjective.
 
 ## Related
-[[psb-imagine-b50]] · [[psb]]
+[PSB Imagine B50](../speakers/psb-imagine-b50.md) · [PSB](../brands/psb.md)

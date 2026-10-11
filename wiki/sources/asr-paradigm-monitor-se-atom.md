@@ -43,4 +43,4 @@ Klippel NFS, reference axis tweeter centre, 60 °F. Distortion plot is a single 
 Single sample sent by a member, price then $239/pair. A forum member's own PIR calculation gave 3.68 no sub / 5.93 with sub versus 4.13 / 6.50 here; spinorama.org figure used.
 
 ## Related
-[[paradigm-monitor-se-atom]] · [[asr]] · [[paradigm]] · [[spinorama-org]]
+[Paradigm Monitor SE Atom](../speakers/paradigm-monitor-se-atom.md) · [asr](../reviewers/asr.md) · [Paradigm](../brands/paradigm.md) · [spinorama-org](spinorama-org.md)

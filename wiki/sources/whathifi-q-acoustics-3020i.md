@@ -27,7 +27,7 @@ Favourable review of the 3020i as a larger, more detailed step up from the 3010i
 Listening in What Hi-Fi?'s test rooms; no measurements. Star rating not captured in the saved text.
 
 ## Reliability notes
-House reviewer; the "warm" description sits against ASR's finding of high-frequency emphasis ([[asr-q-acoustics-3020i]]).
+House reviewer; the "warm" description sits against ASR's finding of high-frequency emphasis ([asr-q-acoustics-3020i](asr-q-acoustics-3020i.md)).
 
 ## Related
-[[q-acoustics-3020i]] · [[q-acoustics]]
+[Q Acoustics 3020i](../speakers/q-acoustics-3020i.md) · [Q Acoustics](../brands/q-acoustics.md)

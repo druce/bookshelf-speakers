@@ -34,4 +34,4 @@ DRA Labs MLSSA, DPA 4006 mic for farfield at 50", Earthworks QTC-40 nearfield; g
 Single sample supplied for the Kalman Rubinson review. No numeric LW deviation or f3, so only impedance/EPDR/sensitivity are entered.
 
 ## Related
-[[mofi-sourcepoint-8]] · [[stereophile]] · [[mofi]] · [[stereophile-review-mofi-sourcepoint-8]]
+[MoFi SourcePoint 8](../speakers/mofi-sourcepoint-8.md) · [stereophile](../reviewers/stereophile.md) · [MoFi](../brands/mofi.md) · [stereophile-review-mofi-sourcepoint-8](stereophile-review-mofi-sourcepoint-8.md)

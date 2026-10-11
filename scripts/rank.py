@@ -149,5 +149,14 @@ def main():
     print(f"ranked {len(ranked)}, impedance {len(zr)} ({n_flag} flagged, {n4} 4Ω), sensitivity {len(sr)} (median {st.median(deltas):+.1f})")
 
 
+def finalize_links():
+    """Generated text uses [[slug]]; convert to GitHub-renderable relative links."""
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import wikilinks_to_md
+    wikilinks_to_md.main()
+
+
 if __name__ == "__main__":
     main()
+    finalize_links()

@@ -46,34 +46,34 @@ The Polk Reserve R200 is a 6.5" rear-ported (X-Port) standmount with a 1" Pinnac
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 85.4 dB (average) | [[eac-polk-audio-reserve-r200]] | A | computed (scripts/cta2034.py v2); claimed 86 dB in [[mfr-polk-audio-reserve-r200]] |
-| Listening-window deviation | ±1.7 dB, 300 Hz-10 kHz (good) | [[eac-polk-audio-reserve-r200]] | A | computed |
-| On-axis deviation | ±1.8 dB | [[eac-polk-audio-reserve-r200]] | A | computed |
-| f3 / f6 | 68 / 57 Hz (modest) | [[eac-polk-audio-reserve-r200]] | A | computed; claimed -3 dB 51 Hz |
-| Min impedance / EPDR | 3.8 Ω / 1.8 Ω (above 80 Hz) | [[eac-polk-audio-reserve-r200]] | A | stated on EAC graph |
-| Preference score | 5.1 (no sub) / 7.6 (with sub) | [[eac-polk-audio-reserve-r200]] via [[spinorama-org]] | A | 5.09 / 7.61 |
-| Preference score | 6.2 / 8.2 | [[napilopez-polk-audio-reserve-r200]] | B | 6.16 / 8.23, different rig |
-| THD 86 dB @1 m | ~1.6 % | [[eac-polk-audio-reserve-r200]] | A | graph-read (approx.); broad 2nd-harmonic hump ~6.5 kHz, about 0.3-0.7 % elsewhere |
-| THD 96 dB @1 m | ~5 % | [[eac-polk-audio-reserve-r200]] | A | graph-read (approx.); same hump, about 0.7-1 % elsewhere |
-| Crossover | 3.0 kHz | [[mfr-polk-audio-reserve-r200]] | C | |
+| Sensitivity (2.83 V/1 m) | 85.4 dB (average) | [eac-polk-audio-reserve-r200](../sources/eac-polk-audio-reserve-r200.md) | A | computed (scripts/cta2034.py v2); claimed 86 dB in [mfr-polk-audio-reserve-r200](../sources/mfr-polk-audio-reserve-r200.md) |
+| Listening-window deviation | ±1.7 dB, 300 Hz-10 kHz (good) | [eac-polk-audio-reserve-r200](../sources/eac-polk-audio-reserve-r200.md) | A | computed |
+| On-axis deviation | ±1.8 dB | [eac-polk-audio-reserve-r200](../sources/eac-polk-audio-reserve-r200.md) | A | computed |
+| f3 / f6 | 68 / 57 Hz (modest) | [eac-polk-audio-reserve-r200](../sources/eac-polk-audio-reserve-r200.md) | A | computed; claimed -3 dB 51 Hz |
+| Min impedance / EPDR | 3.8 Ω / 1.8 Ω (above 80 Hz) | [eac-polk-audio-reserve-r200](../sources/eac-polk-audio-reserve-r200.md) | A | stated on EAC graph |
+| Preference score | 5.1 (no sub) / 7.6 (with sub) | [eac-polk-audio-reserve-r200](../sources/eac-polk-audio-reserve-r200.md) via [spinorama-org](../sources/spinorama-org.md) | A | 5.09 / 7.61 |
+| Preference score | 6.2 / 8.2 | [napilopez-polk-audio-reserve-r200](../sources/napilopez-polk-audio-reserve-r200.md) | B | 6.16 / 8.23, different rig |
+| THD 86 dB @1 m | ~1.6 % | [eac-polk-audio-reserve-r200](../sources/eac-polk-audio-reserve-r200.md) | A | graph-read (approx.); broad 2nd-harmonic hump ~6.5 kHz, about 0.3-0.7 % elsewhere |
+| THD 96 dB @1 m | ~5 % | [eac-polk-audio-reserve-r200](../sources/eac-polk-audio-reserve-r200.md) | A | graph-read (approx.); same hump, about 0.7-1 % elsewhere |
+| Crossover | 3.0 kHz | [mfr-polk-audio-reserve-r200](../sources/mfr-polk-audio-reserve-r200.md) | C | |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 129°, vertical about 106°. DI is a minor discontinuity (ERDI residual 1.2 dB); SPDI rises from 5.5 dB at 1 kHz to 9.8 dB at 10 kHz, so the ring tweeter beams above ~5 kHz. Early-reflection dip near 1.5 kHz is 1.4 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.9 dB, so either aim works by the numbers; Erin advises aiming straight at the listener, while [[tnw-polk-audio-reserve-r200]] found 10-20° off-axis flattest. Vertical response is sensitive to ear height (EAC, Tier D notes; TNW). See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 129°, vertical about 106°. DI is a minor discontinuity (ERDI residual 1.2 dB); SPDI rises from 5.5 dB at 1 kHz to 9.8 dB at 10 kHz, so the ring tweeter beams above ~5 kHz. Early-reflection dip near 1.5 kHz is 1.4 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.9 dB, so either aim works by the numbers; Erin advises aiming straight at the listener, while [tnw-polk-audio-reserve-r200](../sources/tnw-polk-audio-reserve-r200.md) found 10-20° off-axis flattest. Vertical response is sensitive to ear height (EAC, Tier D notes; TNW). See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Erin's graphs (approximate): THD at 86 dB about 1.6 % at a 6-7 kHz second-harmonic hump, otherwise well under 1 %; at 96 dB about 5 % at that hump and about 1 % elsewhere. Instantaneous compression at 102 dB stays near -0.5 to -1 dB above 100 Hz, with a +2.8 dB enhancement near 55 Hz (port region). No 3 dB compression limit was reached; Erin still notes distortion rising in the 800 Hz-1 kHz range on multitone and suggests a crossover near 80-100 Hz for loud use. No max SPL stated. Adequate for medium rooms at moderate-to-fairly-loud levels. See [[compression-and-max-spl]].
+Erin's graphs (approximate): THD at 86 dB about 1.6 % at a 6-7 kHz second-harmonic hump, otherwise well under 1 %; at 96 dB about 5 % at that hump and about 1 % elsewhere. Instantaneous compression at 102 dB stays near -0.5 to -1 dB above 100 Hz, with a +2.8 dB enhancement near 55 Hz (port region). No 3 dB compression limit was reached; Erin still notes distortion rising in the 800 Hz-1 kHz range on multitone and suggests a crossover near 80-100 Hz for loud use. No max SPL stated. Adequate for medium rooms at moderate-to-fairly-loud levels. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Maker: 8/6/4 Ω compatible, 3.8 Ω minimum. EAC graph shows minimum 3.8 Ω and EPDR minimum 1.8 Ω (above 80 Hz), with phase to about ±45-50°; Erin calls it close to a 4 Ω nominal load. Flag `effectively-4ohm`; choose an amplifier comfortable into 4 Ω. See [[impedance-and-epdr]].
+Maker: 8/6/4 Ω compatible, 3.8 Ω minimum. EAC graph shows minimum 3.8 Ω and EPDR minimum 1.8 Ω (above 80 Hz), with phase to about ±45-50°; Erin calls it close to a 4 Ω nominal load. Flag `effectively-4ohm`; choose an amplifier comfortable into 4 Ω. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[whathifi-polk-audio-reserve-r200]] (What Hi-Fi?/Sound+Image): clarity, bass punch, "incredible value"; unforgiving of edgy recordings; grilles off.
-- [[tnw-polk-audio-reserve-r200]] (The Next Web): near-transparent, very neutral for the price; slightly bright head-on, aim-sensitive.
-- [[eac-polk-audio-reserve-r200]] (Erin's Audio Corner, Tier D notes): neutral, tight imaging, slight glare 800 Hz-1 kHz, limited output.
+- [whathifi-polk-audio-reserve-r200](../sources/whathifi-polk-audio-reserve-r200.md) (What Hi-Fi?/Sound+Image): clarity, bass punch, "incredible value"; unforgiving of edgy recordings; grilles off.
+- [tnw-polk-audio-reserve-r200](../sources/tnw-polk-audio-reserve-r200.md) (The Next Web): near-transparent, very neutral for the price; slightly bright head-on, aim-sensitive.
+- [eac-polk-audio-reserve-r200](../sources/eac-polk-audio-reserve-r200.md) (Erin's Audio Corner, Tier D notes): neutral, tight imaging, slight glare 800 Hz-1 kHz, limited output.
 - Polk's page cites a The Absolute Sound "Bookshelf Loudspeaker of The Year" award (not independently verified).
 
 ## User reviews
-About 5 thin reports, anecdotal ([[users-polk-audio-reserve-r200]]): 2 mention its large size, 2 prefer it to the R100 for bass, 1 reports clear vocals and adequate bass. No QC problems reported.
+About 5 thin reports, anecdotal ([users-polk-audio-reserve-r200](../sources/users-polk-audio-reserve-r200.md)): 2 mention its large size, 2 prefer it to the R100 for bass, 1 reports clear vocals and adequate bass. No QC problems reported.
 
 ## Conflicts
 - Preference score: 5.09/7.61 (EAC, Klippel, Tier A) vs 6.16/8.23 (napilopez, Tier B); different rig and sample, not averaged.
@@ -83,4 +83,4 @@ About 5 thin reports, anecdotal ([[users-polk-audio-reserve-r200]]): 2 mention i
 - Price: $639 (Polk, list $799), $700 (2021) and $750 (EAC 2023).
 
 ## Related
-[[polk-audio]] · [[polk-audio-reserve-r100]] · Polk Audio Signature Elite ES15 · [[spinorama]] · [[preference-score]]
+[Polk Audio](../brands/polk-audio.md) · [Polk Audio Reserve R100](polk-audio-reserve-r100.md) · Polk Audio Signature Elite ES15 · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

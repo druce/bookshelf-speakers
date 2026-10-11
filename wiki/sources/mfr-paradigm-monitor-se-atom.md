@@ -32,7 +32,7 @@ Paradigm's US product page lists the Atom as a 2-way ported bookshelf at $399.98
 Manufacturer figures (Tier C). Never override measurements.
 
 ## Reliability notes
-Anechoic vs room sensitivity figures are Paradigm conventions; measured value is lower (see [[asr-paradigm-monitor-se-atom]]).
+Anechoic vs room sensitivity figures are Paradigm conventions; measured value is lower (see [asr-paradigm-monitor-se-atom](asr-paradigm-monitor-se-atom.md)).
 
 ## Related
-[[paradigm-monitor-se-atom]] · [[paradigm]]
+[Paradigm Monitor SE Atom](../speakers/paradigm-monitor-se-atom.md) · [Paradigm](../brands/paradigm.md)

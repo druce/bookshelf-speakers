@@ -36,4 +36,4 @@ Klippel NFS; impedance at 0.10 V RMS; compression sweeps referenced to 76 dB at 
 Single sample. No stated listening-window or preference figures; do not infer them.
 
 ## Related
-[[elac-debut-3-0-b6-3]] · [[erins-audio-corner]] · [[elac]]
+[Elac Debut 3.0 B6.3](../speakers/elac-debut-3-0-b6-3.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Elac](../brands/elac.md)

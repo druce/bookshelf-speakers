@@ -44,4 +44,4 @@ Klippel Near-field Scanner, >800 points, tweeter axis reference, no grille, 78 �
 Single sample purchased through the reviewer's Harman dealership (conflict of interest disclosed by him). Impedance and distortion values are read from graphs. The compression chart is marked draft and its criterion is not defined.
 
 ## Related
-[[revel-m105]] · [[asr]] · [[revel]] · [[spinorama-org]]
+[Revel M105](../speakers/revel-m105.md) · [asr](../reviewers/asr.md) · [Revel](../brands/revel.md) · [spinorama-org](spinorama-org.md)

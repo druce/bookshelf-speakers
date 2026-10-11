@@ -9,15 +9,15 @@ last_updated: 2026-10-11
 # Q Acoustics
 
 ## Overview
-Q Acoustics spans the 3000i entry series (3020i, 3030i), the 5000 series (5020, with C3 curved-cone driver) and the Concept 300 flagship sold with Tensegrity stands ([[mfr-q-acoustics-3020i]], [[mfr-q-acoustics-5020]], [[mfr-q-acoustics-concept-300]]). All are rated 6 Ω. Data mixes Tier A (ASR, NRC, Erin) and Tier B (Stereophile for the Concept 300).
+Q Acoustics spans the 3000i entry series (3020i, 3030i), the 5000 series (5020, with C3 curved-cone driver) and the Concept 300 flagship sold with Tensegrity stands ([mfr-q-acoustics-3020i](../sources/mfr-q-acoustics-3020i.md), [mfr-q-acoustics-5020](../sources/mfr-q-acoustics-5020.md), [mfr-q-acoustics-concept-300](../sources/mfr-q-acoustics-concept-300.md)). All are rated 6 Ω. Data mixes Tier A (ASR, NRC, Erin) and Tier B (Stereophile for the Concept 300).
 
 ## Models in this wiki
 | Model | Price/pr | Rated Ω | Min Ω (flag) | LW ±dB | f3 Hz | Sens. dB | Pref (w/sub) |
 |---|---|---|---|---|---|---|---|
-| [[q-acoustics-3020i]] | $349.96 | 6 | 3.9 (effectively-4ohm) | 2.0 | 77 | 86.1 | 3.9 (6.4) |
-| [[q-acoustics-concept-300]] | $6,399 | 6 | 4.2 (below-iec) | — | — | 84.2 | — |
-| [[q-acoustics-5020]] | $1,199 | 6 | 3.4 (effectively-4ohm) | 3.3 | 103 | 86.7 | 3.6 (6.6) |
-| [[q-acoustics-3030i]] | $499.96 | 6 | — | — | 72 | — | 5.0 (7.3) |
+| [Q Acoustics 3020i](../speakers/q-acoustics-3020i.md) | $349.96 | 6 | 3.9 (effectively-4ohm) | 2.0 | 77 | 86.1 | 3.9 (6.4) |
+| [Q Acoustics Concept 300](../speakers/q-acoustics-concept-300.md) | $6,399 | 6 | 4.2 (below-iec) | — | — | 84.2 | — |
+| [Q Acoustics 5020](../speakers/q-acoustics-5020.md) | $1,199 | 6 | 3.4 (effectively-4ohm) | 3.3 | 103 | 86.7 | 3.6 (6.6) |
+| [Q Acoustics 3030i](../speakers/q-acoustics-3030i.md) | $499.96 | 6 | — | — | 72 | — | 5.0 (7.3) |
 
 ## Other models screened
 - 5010 — no-tier-ab: In scope (6 ohm, 4.5in woofer, 264 mm, $999 pair on maker site) but no Tier A/B measurement found; only What Hi-Fi? listening review and spec listings
@@ -31,7 +31,7 @@ Q Acoustics spans the 3000i entry series (3020i, 3030i), the 5000 series (5020, 
 - 3 of 3 with a measured minimum are below 4.8 Ω (3.4-4.2 Ω); 3020i and 5020 are effectively-4ohm.
 - Window: 3020i 2.0 dB, 5020 3.3 dB; 5020 f3 is 103 Hz in the data.
 - Pref scores 3.6-5.0; the 3030i is the highest.
-- Users: about 2 usable 3020i reports, no QC issues ([[users-q-acoustics-3020i]]); none ingested for others.
+- Users: about 2 usable 3020i reports, no QC issues ([users-q-acoustics-3020i](../sources/users-q-acoustics-3020i.md)); none ingested for others.
 
 ## Related
-[[q-acoustics-3020i]] · [[q-acoustics-concept-300]] · [[q-acoustics-5020]] · [[q-acoustics-3030i]] · [[impedance-and-epdr]] · [[sensitivity-normalization]] · [[preference-score]] · [[candidate-universe]]
+[Q Acoustics 3020i](../speakers/q-acoustics-3020i.md) · [Q Acoustics Concept 300](../speakers/q-acoustics-concept-300.md) · [Q Acoustics 5020](../speakers/q-acoustics-5020.md) · [Q Acoustics 3030i](../speakers/q-acoustics-3030i.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [sensitivity-normalization](../concepts/sensitivity-normalization.md) · [preference-score](../concepts/preference-score.md) · [candidate-universe](../comparisons/candidate-universe.md)

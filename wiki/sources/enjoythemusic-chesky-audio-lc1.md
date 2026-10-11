@@ -28,7 +28,7 @@ Very positive listening review, no measurements. Raw file is a model-extracted s
 Listening only; speaker amplifier not named in the extracted text.
 
 ## Reliability notes
-Paraphrased by a model, not verbatim. Bass-extension claim is subjective and contradicts Erin's measured f3 about 70 Hz ([[eac-chesky-audio-lc1]]).
+Paraphrased by a model, not verbatim. Bass-extension claim is subjective and contradicts Erin's measured f3 about 70 Hz ([eac-chesky-audio-lc1](eac-chesky-audio-lc1.md)).
 
 ## Related
-[[chesky-audio-lc1]] · [[chesky-audio]]
+[Chesky Audio LC1](../speakers/chesky-audio-lc1.md) · [Chesky Audio](../brands/chesky-audio.md)

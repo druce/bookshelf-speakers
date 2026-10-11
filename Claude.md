@@ -122,9 +122,11 @@ Body sections, in order:
 6. `## Critic reviews` — attributed one-line takeaways, linked.
 7. `## User reviews` — patterns only (≥3 independent reports), with counts: "7 of 9 forum reports mention…". Note QC/reliability issues separately.
 8. `## Conflicts` — disagreements between sources, unresolved.
-9. `## Related` — `[[wikilinks]]` to brand, siblings, competitors, comparisons.
+9. `## Related` — links to brand, siblings, competitors, comparisons.
 
-Keep pages under ~800 words. Link generously with `[[slug]]`.
+Keep pages under ~800 words. Link generously.
+
+**Link format.** Committed pages use relative markdown links so they render on GitHub, e.g. `[Polk Audio T15](../speakers/polk-audio-t15.md)` or `[asr-polk-audio-t15](../sources/asr-polk-audio-t15.md)`. While drafting you may write `[[slug]]` or `[[slug|text]]`; `scripts/wikilinks_to_md.py` converts them, labelling speakers "Brand Model" and brands by name, and runs automatically at the end of `build_index.py`, `rank.py` and `build_universe.py`. Run it before every commit. Links to screened models without a page become plain text. `scripts/check_links.py` reports broken links and any leftover `[[...]]`.
 
 ---
 
@@ -158,7 +160,7 @@ Check and report:
 - Contradictions between pages, or frontmatter that disagrees with its own body.
 - Speakers with no Tier-A/B data; speakers whose price or status is >90 days stale.
 - Unconverted sensitivity figures; impedance flags not set where data supports them.
-- Orphan pages (no inbound links), broken `[[links]]`, concepts mentioned ≥3 times without a page.
+- Orphan pages (no inbound links), broken links or unconverted `[[...]]`, concepts mentioned ≥3 times without a page.
 - Sources ingested but not reflected in speaker pages.
 - Suggest next sources to fetch and questions worth investigating.
 Append a lint entry to the log with counts of issues found and fixed.
@@ -167,7 +169,7 @@ Append a lint entry to the log with counts of issues found and fixed.
 
 ## 6. index.md, log.md, speakers.csv
 
-**index.md** — sections: Overview, Speakers (grouped by price band: <$300, $300–600, $600–1,200, $1,200–2,500, >$2,500 per pair), Brands, Comparisons, Concepts, Reviewers, Sources. Each line: `- [[slug]] — one-line summary (key metric or two)`.
+**index.md** — sections: Overview, Speakers (grouped by price band: <$300, $300–600, $600–1,200, $1,200–2,500, >$2,500 per pair), Brands, Comparisons, Concepts, Reviewers, Sources. Each line: `- [Name](path) — one-line summary (key metric or two)`.
 
 **log.md** — append-only. Every entry starts with a parseable header:
 ```

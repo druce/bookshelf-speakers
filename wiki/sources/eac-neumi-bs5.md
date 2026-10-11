@@ -16,7 +16,7 @@ speakers: [neumi-bs5]
 # EAC: Neumi BS5 NFS retest (2021-12-12)
 
 ## Summary
-Erin re-measured the 6 Ω, front-ported BS5 on his Klippel near-field scanner after an earlier gated-method review ([[eac-neumi-bs5-v1]]). He finds a reasonably neutral speaker marred by port-related midrange dips and a 1-2 kHz resonance, adequate bass for the size (F3 68 Hz, F10 40 Hz) and the need for a subwoofer. He still likes it as a starter speaker at about $109 per pair (at review time).
+Erin re-measured the 6 Ω, front-ported BS5 on his Klippel near-field scanner after an earlier gated-method review ([eac-neumi-bs5-v1](eac-neumi-bs5-v1.md)). He finds a reasonably neutral speaker marred by port-related midrange dips and a 1-2 kHz resonance, adequate bass for the size (F3 68 Hz, F10 40 Hz) and the need for a subwoofer. He still likes it as a starter speaker at about $109 per pair (at review time).
 
 ## Extracted values
 | Field | Value | Note |
@@ -45,4 +45,4 @@ Klippel NFS, reference plane between midwoofer and tweeter, grille off, port ope
 Single sample supplied by the manufacturer. Erin discloses affiliate links. Spinorama.org pref score computed from this export. Erin's text F3 (68 Hz) matches the computed value.
 
 ## Related
-[[neumi-bs5]] · [[eac-neumi-bs5-v1]] · [[erins-audio-corner]] · [[spinorama-org]] · [[neumi]]
+[Neumi BS5](../speakers/neumi-bs5.md) · [eac-neumi-bs5-v1](eac-neumi-bs5-v1.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [spinorama-org](spinorama-org.md) · [Neumi](../brands/neumi.md)

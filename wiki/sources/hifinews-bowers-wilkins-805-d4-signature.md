@@ -33,7 +33,7 @@ Compared with the standard 805 D4, the Signature's dished response is more prono
 HFN quasi-anechoic method with nearfield summing; impedance 20 Hz-20 kHz. Publication date not shown on the page.
 
 ## Reliability notes
-Single sample pair. Agrees closely with [[stereophile-bowers-wilkins-805-d4-signature]] on impedance and EPDR.
+Single sample pair. Agrees closely with [stereophile-bowers-wilkins-805-d4-signature](stereophile-bowers-wilkins-805-d4-signature.md) on impedance and EPDR.
 
 ## Related
-[[bowers-wilkins-805-d4-signature]] · [[bowers-wilkins-805-d4]] · [[bowers-wilkins]]
+[Bowers & Wilkins 805 D4 Signature](../speakers/bowers-wilkins-805-d4-signature.md) · [Bowers & Wilkins 805 D4](../speakers/bowers-wilkins-805-d4.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

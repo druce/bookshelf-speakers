@@ -35,4 +35,4 @@ Free-air 7.5 ft high at 1 m, gated at 8.5 ms (resolution lost below about 250 Hz
 Single sample. Reviewer evaluated at $100 list/$69 sale price. Outlet's rating weights value.
 
 ## Related
-[[polk-audio-t15]] · [[audioholics]] · [[polk-audio]]
+[Polk Audio T15](../speakers/polk-audio-t15.md) · [audioholics](../reviewers/audioholics.md) · [Polk Audio](../brands/polk-audio.md)

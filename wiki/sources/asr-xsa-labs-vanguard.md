@@ -34,7 +34,7 @@ Klippel NFS review of a loaned US$999 sealed 2-way. Amir found a broad 700 Hz-3 
 | min_impedance_ohm | 8.5 Ω @ ~160 Hz | graph-read (approx.); ASR plot label "Low impedance = 8.5 ohm"; peak ~26 Ω @ ~75 Hz |
 | thd_86db_pct | ~1.8% (100-200 Hz region) | graph-read (approx.); ~1.4% near 1.7 kHz |
 | thd_96db_pct | ~7% at ~100 Hz, ~5% at 200 Hz, ~2.8% near 2 kHz | graph-read (approx.) |
-| crossover | not stated by ASR | designer says woofer runs to ~5.5 kHz (see [[stereotimes-xsa-labs-vanguard]]) |
+| crossover | not stated by ASR | designer says woofer runs to ~5.5 kHz (see [stereotimes-xsa-labs-vanguard](stereotimes-xsa-labs-vanguard.md)) |
 
 ## Method notes
 Klippel NFS, no grille, sealed cabinet (no port). Distortion plots are in dB relative to fundamental at 86 and 96 dB SPL @1 m, converted to % by reading fundamental and THD curves. EQ experiments (Tier D listening): Amir needed lower-treble cut and bass lift to reach acceptable balance; distortion audible only as ticking when pushed hard; one speaker was "plenty loud".
@@ -43,4 +43,4 @@ Klippel NFS, no grille, sealed cabinet (no port). Distortion plots are in dB rel
 Single loaned sample (from a member), bamboo finish. A forum member recalled a designer comment about woofer unit-to-unit variation; unverified. The designer's own foam-core prototype measurement shown by the company differs from production.
 
 ## Related
-[[xsa-labs-vanguard]] · [[asr]] · [[spinorama-org]] · [[xsa-labs]]
+[XSA Labs Vanguard](../speakers/xsa-labs-vanguard.md) · [asr](../reviewers/asr.md) · [spinorama-org](spinorama-org.md) · [XSA Labs](../brands/xsa-labs.md)

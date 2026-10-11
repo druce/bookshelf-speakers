@@ -15,7 +15,7 @@ speakers: [kef-ls50-meta]
 # Manufacturer: KEF LS50 Meta
 
 ## Summary
-KEF US lists the LS50 Meta at $1,599.99 per pair with add-to-cart and notify-me options. The saved raw capture holds only marketing text; the spec values below came from a WebFetch extraction of the same page on 2026-10-11 (model-extracted, not verbatim) and match the spec list quoted in [[eac-kef-ls50-meta]] and [[stereophile-kef-ls50-meta]].
+KEF US lists the LS50 Meta at $1,599.99 per pair with add-to-cart and notify-me options. The saved raw capture holds only marketing text; the spec values below came from a WebFetch extraction of the same page on 2026-10-11 (model-extracted, not verbatim) and match the spec list quoted in [eac-kef-ls50-meta](eac-kef-ls50-meta.md) and [stereophile-kef-ls50-meta](stereophile-kef-ls50-meta.md).
 
 ## Specs (claimed)
 | Field | Value |
@@ -32,4 +32,4 @@ KEF US lists the LS50 Meta at $1,599.99 per pair with add-to-cart and notify-me 
 | Status | current; stock status unclear on page |
 
 ## Related
-[[kef-ls50-meta]] · [[kef]]
+[KEF LS50 Meta](../speakers/kef-ls50-meta.md) · [KEF](../brands/kef.md)

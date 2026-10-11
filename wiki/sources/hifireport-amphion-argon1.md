@@ -30,4 +30,4 @@ Listening only; specs quoted from the maker (45 Hz, 86 dB, 1.6 kHz crossover).
 Single reviewer; date unknown; price is non-US.
 
 ## Related
-[[amphion-argon1]] · [[amphion]]
+[Amphion Argon1](../speakers/amphion-argon1.md) · [Amphion](../brands/amphion.md)

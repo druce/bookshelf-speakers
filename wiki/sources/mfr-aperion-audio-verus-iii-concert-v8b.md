@@ -35,4 +35,4 @@ Manufacturer-direct page lists the V8B at $1,549.00, in stock, shipping in 1-3 b
 Maker claims only. The woofer is 8", right at the scope limit, and the cabinet is large for a "bookshelf".
 
 ## Related
-[[aperion-audio-verus-iii-concert-v8b]] · [[aperion-audio]]
+[Aperion Audio Verus III Concert V8B](../speakers/aperion-audio-verus-iii-concert-v8b.md) · [Aperion Audio](../brands/aperion-audio.md)

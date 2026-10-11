@@ -22,7 +22,7 @@ Five or six scattered reports, so anecdotal. Best Buy and B&H content was captur
 |---|---|---|
 | Liked clarity / sound | 2 of 5 listening reports | ASR member, Best Buy owner (ex-KEF LS50 Meta) |
 | Imaging or bass judged weak | 1 | single Best Buy report |
-| Bass depends on wall distance | 1 | B&H; consistent with critic notes in [[stereophile-elac-carina-bs243-4]] and [[tas-elac-carina-bs243-4]] |
+| Bass depends on wall distance | 1 | B&H; consistent with critic notes in [stereophile-elac-carina-bs243-4](stereophile-elac-carina-bs243-4.md) and [tas-elac-carina-bs243-4](tas-elac-carina-bs243-4.md) |
 | Price/performance complaint | 2 | 1 Best Buy, 1 ASR member (prefers cheaper DBR62) |
 | QC / reliability problems | 0 | none reported |
 
@@ -33,4 +33,4 @@ Paraphrased only. Dates not captured. Best Buy listing reportedly 3 reviews, 3.7
 Below the 5-report threshold for patterns; secondhand capture for two of three sites.
 
 ## Related
-[[elac-carina-bs243-4]] · [[elac]] · [[asr]]
+[Elac Carina BS243.4](../speakers/elac-carina-bs243-4.md) · [Elac](../brands/elac.md) · [asr](../reviewers/asr.md)

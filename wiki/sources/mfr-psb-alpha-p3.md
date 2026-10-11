@@ -34,4 +34,4 @@ Maker page lists the P3 as current: $449/pair direct ("Only 4 left" at fetch). W
 Tier C. Maker's 85 dB claim is about 4.7 dB above the Klippel-computed 80.3 dB.
 
 ## Related
-[[psb-alpha-p3]] · [[psb]]
+[PSB Alpha P3](../speakers/psb-alpha-p3.md) · [PSB](../brands/psb.md)

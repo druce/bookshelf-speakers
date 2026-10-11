@@ -27,7 +27,7 @@ speakers: [triangle-borea-br03]
 | Price / status | $599.00 per pair, listed current | trianglehifi.us, 2026-10-11; other US retailers reportedly $399-559 (search snippets, unverified) |
 
 ## Reliability notes
-Maker figures, Tier C only. Measured sensitivity and impedance in [[asr-triangle-borea-br03]] and [[eac-triangle-borea-br03]].
+Maker figures, Tier C only. Measured sensitivity and impedance in [asr-triangle-borea-br03](asr-triangle-borea-br03.md) and [eac-triangle-borea-br03](eac-triangle-borea-br03.md).
 
 ## Related
-[[triangle-borea-br03]] · [[triangle]]
+[Triangle Borea BR03](../speakers/triangle-borea-br03.md) · [Triangle](../brands/triangle.md)

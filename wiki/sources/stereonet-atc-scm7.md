@@ -26,4 +26,4 @@ UK system review (SCM7 £875). The reviewer likes the SCM7 as a small-speaker wi
 Undated, author not shown, paired with ATC amp; Tier D.
 
 ## Related
-[[atc-scm7]] · [[atc]]
+[ATC SCM7](../speakers/atc-scm7.md) · [ATC](../brands/atc.md)

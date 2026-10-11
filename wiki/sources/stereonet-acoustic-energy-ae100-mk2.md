@@ -31,4 +31,4 @@ Listening only, Primare 100 W integrated, stands 625 mm.
 Single reviewer; publication date not captured. UK-oriented review.
 
 ## Related
-[[acoustic-energy-ae100-mk2]] · [[acoustic-energy]]
+[Acoustic Energy AE100 Mk2](../speakers/acoustic-energy-ae100-mk2.md) · [Acoustic Energy](../brands/acoustic-energy.md)

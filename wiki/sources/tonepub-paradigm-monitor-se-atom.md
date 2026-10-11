@@ -29,4 +29,4 @@ Used with vintage receivers, PS Audio Sprout, Dynaco Stereo 70 and high-end gear
 Short, anecdotal write-up; "linearity" is a listening claim, and ASR measured a bumpy on-axis response.
 
 ## Related
-[[paradigm-monitor-se-atom]] · [[paradigm]]
+[Paradigm Monitor SE Atom](../speakers/paradigm-monitor-se-atom.md) · [Paradigm](../brands/paradigm.md)

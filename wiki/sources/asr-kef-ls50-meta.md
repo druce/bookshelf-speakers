@@ -31,7 +31,7 @@ Amir measured a purchased pair on the Klippel NFS and called the spinorama close
 | on_minus_lw_4_10k | +0.7 dB | computed |
 | pref_score | 5.4 / 7.6 with sub | spinorama.org (5.43 / 7.57) |
 | min_impedance_ohm | 3.7 Ω | stated; frequency not given in text |
-| THD | ~100% at lowest bass even at 86 dB; excellent above 200 Hz | plot level/values not defensibly readable to %; thd fields left to [[eac-kef-ls50-meta]] |
+| THD | ~100% at lowest bass even at 86 dB; excellent above 200 Hz | plot level/values not defensibly readable to %; thd fields left to [eac-kef-ls50-meta](eac-kef-ls50-meta.md) |
 
 ## Method notes
 Klippel NFS, reference axis at tweeter centre, over 1000 points. Unit bought by a member and drop-shipped.
@@ -40,4 +40,4 @@ Klippel NFS, reference axis at tweeter centre, over 1000 points. Unit bought by 
 Single sample. Impedance graph saved (raw/assets/asr-kef-ls50-meta-impedance.png).
 
 ## Related
-[[kef-ls50-meta]] · [[asr]] · [[kef]] · [[spinorama-org]]
+[KEF LS50 Meta](../speakers/kef-ls50-meta.md) · [asr](../reviewers/asr.md) · [KEF](../brands/kef.md) · [spinorama-org](spinorama-org.md)

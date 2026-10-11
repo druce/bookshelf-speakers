@@ -30,4 +30,4 @@ Tube-leaning reference system (Trilogy amp, LampizatOr DAC). No measurements. Th
 Single reviewer; manufacturer asked for syndication on 6moons (same review, not counted twice). Contrasts with Huff's "near neutral" description.
 
 ## Related
-[[buchardt-audio-e50]] · [[buchardt-audio]]
+[Buchardt Audio E50](../speakers/buchardt-audio-e50.md) · [Buchardt Audio](../brands/buchardt-audio.md)

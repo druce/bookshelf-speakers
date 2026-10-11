@@ -31,10 +31,10 @@ World Wide Stereo's listing shows the Bronze 50 7G pair at $849.00 in black, whi
 | Power | 30-100 W (retailer-reported) |
 
 ## Price and status evidence
-$849 per pair at World Wide Stereo, in stock; What Hi-Fi? also quotes $849 US (published 2025-09-25, [[whathifi-monitor-audio-bronze-50-7g]]). 7G is the current Bronze generation.
+$849 per pair at World Wide Stereo, in stock; What Hi-Fi? also quotes $849 US (published 2025-09-25, [whathifi-monitor-audio-bronze-50-7g](whathifi-monitor-audio-bronze-50-7g.md)). 7G is the current Bronze generation.
 
 ## Reliability notes
 Retailer page, not the maker's. Minimum-impedance spec came from the search-summary of retailer listings (not verified on the saved raw).
 
 ## Related
-[[monitor-audio-bronze-50-7g]] · [[monitor-audio]]
+[Monitor Audio Bronze 50 7G](../speakers/monitor-audio-bronze-50-7g.md) · [Monitor Audio](../brands/monitor-audio.md)

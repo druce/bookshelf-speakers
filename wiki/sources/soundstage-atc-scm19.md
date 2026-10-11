@@ -28,4 +28,4 @@ Subjective review by a former ATC SCM50ASL owner; no measurements. Price then $4
 Xperience is not the NRC/SoundStage measurement outlet, so no Tier A/B data. Tier D only.
 
 ## Related
-[[atc-scm19]] · [[atc]]
+[ATC SCM19](../speakers/atc-scm19.md) · [ATC](../brands/atc.md)

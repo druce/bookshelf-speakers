@@ -26,10 +26,10 @@ speakers: [bowers-wilkins-705-s3]
 | Weight | 9.58 kg each | |
 | Crossover | not stated by maker | Stereophile measured about 3 kHz |
 | Price | $3,800 per pair, "In Stock" on the US page, checked 2026-10-11 | launch price was $3,400 per What Hi-Fi?, 2022 |
-| Distortion claim | under 1% 100 Hz-22 kHz at 90 dB (via Stereophile spec page, [[stereophile-bowers-wilkins-705-s3]]) | claimed |
+| Distortion claim | under 1% 100 Hz-22 kHz at 90 dB (via Stereophile spec page, [stereophile-bowers-wilkins-705-s3](stereophile-bowers-wilkins-705-s3.md)) | claimed |
 
 ## Reliability notes
 Maker figures; no tolerance on distortion claim method beyond level. Used for scope gate and claimed values only.
 
 ## Related
-[[bowers-wilkins-705-s3]] · [[bowers-wilkins]]
+[Bowers & Wilkins 705 S3](../speakers/bowers-wilkins-705-s3.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

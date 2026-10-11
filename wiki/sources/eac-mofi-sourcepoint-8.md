@@ -45,4 +45,4 @@ Klippel Near-Field Scanner, grille off, reference at tweeter (0°) with a second
 Single manufacturer-loaned sample; no payment, maker did not preview. Review text is brief; the video carries the discussion. Erin's text says the sound "is subjectively better than" the SourcePoint 10 (Tier D opinion).
 
 ## Related
-[[mofi-sourcepoint-8]] · [[erins-audio-corner]] · [[mofi]] · [[spinorama-org]]
+[MoFi SourcePoint 8](../speakers/mofi-sourcepoint-8.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [MoFi](../brands/mofi.md) · [spinorama-org](spinorama-org.md)

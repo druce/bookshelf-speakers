@@ -32,7 +32,7 @@ Maker spec page for a 2-way ported 6.5 in bookshelf with 1 in aluminium dome. Ra
 | customer rating | 4.9/5 on 175 reviews | maker-hosted |
 
 ## Method notes / Reliability notes
-Maker figures, Tier C. The 48 Hz claim does not match the Klippel f3 of 70 Hz (see [[eac-svs-prime-bookshelf]]).
+Maker figures, Tier C. The 48 Hz claim does not match the Klippel f3 of 70 Hz (see [eac-svs-prime-bookshelf](eac-svs-prime-bookshelf.md)).
 
 ## Related
-[[svs-prime-bookshelf]] · [[svs]]
+[SVS Prime Bookshelf](../speakers/svs-prime-bookshelf.md) · [SVS](../brands/svs.md)

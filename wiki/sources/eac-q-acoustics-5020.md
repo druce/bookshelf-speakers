@@ -45,4 +45,4 @@ Klippel NFS, reference plane at tweeter, grille off, loaner from manufacturer. D
 Single loaned sample. Erin's own conclusion text is brief; his video has more subjective detail (not ingested).
 
 ## Related
-[[q-acoustics-5020]] · [[erins-audio-corner]] · [[q-acoustics]] · [[spinorama-org]]
+[Q Acoustics 5020](../speakers/q-acoustics-5020.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Q Acoustics](../brands/q-acoustics.md) · [spinorama-org](spinorama-org.md)

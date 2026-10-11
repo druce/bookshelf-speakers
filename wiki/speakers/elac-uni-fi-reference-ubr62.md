@@ -46,31 +46,31 @@ The ELAC Uni-Fi Reference UBR62 is a 6 ohm, three-way, front-ported standmount w
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 83.0 dB (low) | [[eac-elac-uni-fi-reference-ubr62]] | A | computed (scripts/cta2034.py v2); claimed 85 dB per [[mfr-elac-uni-fi-reference-ubr62]] |
-| Listening-window deviation | +/-1.9 dB (good) | [[eac-elac-uni-fi-reference-ubr62]] | A | computed, 300 Hz-10 kHz |
-| On-axis deviation | +/-2.1 dB (good) | [[eac-elac-uni-fi-reference-ubr62]] | A | computed |
-| f3 / f6 | 56 / 48 Hz (modest) | [[eac-elac-uni-fi-reference-ubr62]] | A | computed; claimed 41 Hz (no tolerance) |
-| Min impedance | about 4.2 Ω near 40 Hz | [[eac-elac-uni-fi-reference-ubr62]] | A | graph-read (approx.); above 100 Hz about 4.5 Ω at 110 Hz, about 5 Ω near 500 Hz |
-| EPDR min | about 1.8 Ω near 37 Hz | [[eac-elac-uni-fi-reference-ubr62]] | A | graph-read; about 2.7 Ω above 500 Hz |
-| THD @86 dB/1 m | about 2.1% (100 Hz-10 kHz max, near 240 Hz) | [[eac-elac-uni-fi-reference-ubr62]] | A | graph-read (approx.) |
-| THD @96 dB/1 m | about 5.6% (max, near 230 Hz) | [[eac-elac-uni-fi-reference-ubr62]] | A | graph-read; about 2.5% near 100 Hz |
-| Preference score | 5.4 (no sub) / 7.7 (with sub) | [[eac-elac-uni-fi-reference-ubr62]] via [[spinorama-org]] | A | single dataset; ignores distortion and output |
-| Crossover | 260 Hz / 1.8 kHz | [[mfr-elac-uni-fi-reference-ubr62]] | C | |
+| Sensitivity (2.83 V/1 m) | 83.0 dB (low) | [eac-elac-uni-fi-reference-ubr62](../sources/eac-elac-uni-fi-reference-ubr62.md) | A | computed (scripts/cta2034.py v2); claimed 85 dB per [mfr-elac-uni-fi-reference-ubr62](../sources/mfr-elac-uni-fi-reference-ubr62.md) |
+| Listening-window deviation | +/-1.9 dB (good) | [eac-elac-uni-fi-reference-ubr62](../sources/eac-elac-uni-fi-reference-ubr62.md) | A | computed, 300 Hz-10 kHz |
+| On-axis deviation | +/-2.1 dB (good) | [eac-elac-uni-fi-reference-ubr62](../sources/eac-elac-uni-fi-reference-ubr62.md) | A | computed |
+| f3 / f6 | 56 / 48 Hz (modest) | [eac-elac-uni-fi-reference-ubr62](../sources/eac-elac-uni-fi-reference-ubr62.md) | A | computed; claimed 41 Hz (no tolerance) |
+| Min impedance | about 4.2 Ω near 40 Hz | [eac-elac-uni-fi-reference-ubr62](../sources/eac-elac-uni-fi-reference-ubr62.md) | A | graph-read (approx.); above 100 Hz about 4.5 Ω at 110 Hz, about 5 Ω near 500 Hz |
+| EPDR min | about 1.8 Ω near 37 Hz | [eac-elac-uni-fi-reference-ubr62](../sources/eac-elac-uni-fi-reference-ubr62.md) | A | graph-read; about 2.7 Ω above 500 Hz |
+| THD @86 dB/1 m | about 2.1% (100 Hz-10 kHz max, near 240 Hz) | [eac-elac-uni-fi-reference-ubr62](../sources/eac-elac-uni-fi-reference-ubr62.md) | A | graph-read (approx.) |
+| THD @96 dB/1 m | about 5.6% (max, near 230 Hz) | [eac-elac-uni-fi-reference-ubr62](../sources/eac-elac-uni-fi-reference-ubr62.md) | A | graph-read; about 2.5% near 100 Hz |
+| Preference score | 5.4 (no sub) / 7.7 (with sub) | [eac-elac-uni-fi-reference-ubr62](../sources/eac-elac-uni-fi-reference-ubr62.md) via [spinorama-org](../sources/spinorama-org.md) | A | single dataset; ignores distortion and output |
+| Crossover | 260 Hz / 1.8 kHz | [mfr-elac-uni-fi-reference-ubr62](../sources/mfr-elac-uni-fi-reference-ubr62.md) | C | |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 143 deg, vertical about 144 deg: very wide and unusually symmetrical. DI has minor discontinuities (ERDI residual 1.1 dB); SPDI rises from 3.7 dB at 1 kHz to 8.5 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 0.7 dB, well under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.4 dB, so either aim works; Erin suggests about 10 deg toe-in or out, while S&V angled them inward and TNT-Audio liked them parallel. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 143 deg, vertical about 144 deg: very wide and unusually symmetrical. DI has minor discontinuities (ERDI residual 1.1 dB); SPDI rises from 3.7 dB at 1 kHz to 8.5 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 0.7 dB, well under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.4 dB, so either aim works; Erin suggests about 10 deg toe-in or out, while S&V angled them inward and TNT-Audio liked them parallel. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No max-SPL figure is stated. Erin notes compression above 96 dB: graphs show at most about 0.8 dB near 250 Hz and about 1.4 dB near 47 Hz at 96 dB, and up to about 2.5 dB near 47 Hz at 102 dB. THD is about 2.1% at 86 dB and about 5.6% at 96 dB, peaking around 230-240 Hz (graph-read), so the midbass is the weak point. Erin's 110 W integrated was not enough for loud levels. Fine for small-to-medium rooms at moderate levels; use a sub for loud listening. See [[compression-and-max-spl]].
+No max-SPL figure is stated. Erin notes compression above 96 dB: graphs show at most about 0.8 dB near 250 Hz and about 1.4 dB near 47 Hz at 96 dB, and up to about 2.5 dB near 47 Hz at 102 dB. THD is about 2.1% at 86 dB and about 5.6% at 96 dB, peaking around 230-240 Hz (graph-read), so the midbass is the weak point. Erin's 110 W integrated was not enough for loud levels. Fine for small-to-medium rooms at moderate levels; use a sub for loud listening. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-6 Ω nominal; measured minimum about 4.2 Ω near 40 Hz, below the IEC floor of 4.8 Ω, so flagged `below-iec` (not below 4 Ω). Erin says it sits around or above 5 Ω elsewhere, and EPDR is about 2.7 Ω above 500 Hz. With 83 dB sensitivity, use a strong amplifier (Erin needed more than 110 W). See [[impedance-and-epdr]].
+6 Ω nominal; measured minimum about 4.2 Ω near 40 Hz, below the IEC floor of 4.8 Ω, so flagged `below-iec` (not below 4 Ω). Erin says it sits around or above 5 Ω elsewhere, and EPDR is about 2.7 Ω above 500 Hz. With 83 dB sensitivity, use a strong amplifier (Erin needed more than 110 W). See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[soundandvision-elac-uni-fi-reference-ubr62]] (Sound & Vision, Top Pick): clean dialogue, silky detail, open presentation; limited deep bass without a sub.
-- [[hifireport-elac-uni-fi-reference-ubr62]] (HiFiReport): rich mid-bass texture, warm tonality, wide stable stage.
-- [[tntaudio-elac-uni-fi-reference-ubr62]] (TNT-Audio, 2024): found it less involving, with a blurrier image than cheaper Debut models.
-- [[eac-elac-uni-fi-reference-ubr62]] (Erin, Tier D notes): wide soundstage; slight upper-female-vocal resonance; upper-midbass dip near 150 Hz.
+- [soundandvision-elac-uni-fi-reference-ubr62](../sources/soundandvision-elac-uni-fi-reference-ubr62.md) (Sound & Vision, Top Pick): clean dialogue, silky detail, open presentation; limited deep bass without a sub.
+- [hifireport-elac-uni-fi-reference-ubr62](../sources/hifireport-elac-uni-fi-reference-ubr62.md) (HiFiReport): rich mid-bass texture, warm tonality, wide stable stage.
+- [tntaudio-elac-uni-fi-reference-ubr62](../sources/tntaudio-elac-uni-fi-reference-ubr62.md) (TNT-Audio, 2024): found it less involving, with a blurrier image than cheaper Debut models.
+- [eac-elac-uni-fi-reference-ubr62](../sources/eac-elac-uni-fi-reference-ubr62.md) (Erin, Tier D notes): wide soundstage; slight upper-female-vocal resonance; upper-midbass dip near 150 Hz.
 
 ## User reviews
 No user reports ingested yet; no owner threads were found.
@@ -82,4 +82,4 @@ No user reports ingested yet; no owner threads were found.
 - Minimum impedance: only one source; value is graph-read.
 
 ## Related
-[[elac]] · [[elac-debut-reference-dbr-62]] · [[elac-debut-3-0-b6-3]] · KEF Q150 · [[spinorama]] · [[preference-score]]
+[Elac](../brands/elac.md) · [Elac Debut Reference DBR-62](elac-debut-reference-dbr-62.md) · [Elac Debut 3.0 B6.3](elac-debut-3-0-b6-3.md) · KEF Q150 · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

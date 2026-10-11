@@ -32,4 +32,4 @@ Listening only, no measurements in the article. Speakers about 50 cm from the re
 Single reviewer, independent magazine with no advertising; price quoted in euros (about 209 EUR/pair).
 
 ## Related
-[[polk-audio-xt15]] · [[polk-audio]]
+[Polk Audio Monitor XT15](../speakers/polk-audio-xt15.md) · [Polk Audio](../brands/polk-audio.md)

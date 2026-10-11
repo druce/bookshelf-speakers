@@ -22,10 +22,10 @@ Reviewer (name not captured) auditioned on 24" stands with WiiM Amp and Primare 
 - Balanced mids and treble; treble described as straight and true with excellent off-axis uniformity, tolerant of placement.
 - Soundstage widescreen rather than pin-sharp; not an analytical tool.
 - Performance fine with a WiiM Amp; more authoritative bass with the bigger amp.
-- Recommends removing grilles (see [[hifinews-monitor-audio-bronze-50-7g]]).
+- Recommends removing grilles (see [hifinews-monitor-audio-bronze-50-7g](hifinews-monitor-audio-bronze-50-7g.md)).
 
 ## Reliability notes
 Single reviewer; date and author not captured by the scrape.
 
 ## Related
-[[monitor-audio-bronze-50-7g]] · [[monitor-audio]]
+[Monitor Audio Bronze 50 7G](../speakers/monitor-audio-bronze-50-7g.md) · [Monitor Audio](../brands/monitor-audio.md)

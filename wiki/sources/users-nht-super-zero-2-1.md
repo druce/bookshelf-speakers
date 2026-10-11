@@ -24,4 +24,4 @@ About 5 comments, mostly forum opinion on the ASR measurements rather than owner
 - No QC or reliability reports.
 
 ## Related
-[[nht-super-zero-2-1]] · [[asr-nht-super-zero-2-1]]
+[NHT Super Zero 2.1](../speakers/nht-super-zero-2-1.md) · [asr-nht-super-zero-2-1](asr-nht-super-zero-2-1.md)

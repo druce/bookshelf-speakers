@@ -29,4 +29,4 @@ Favourable listening review in a small room on 23-inch stands and in a larger ma
 Subjective only; single reviewer; Zu supplied the speakers. Quotes 93 dB where Zu's current page says 94 dB.
 
 ## Related
-[[zu-audio-method]] · [[zu-audio]]
+[Zu Audio Method](../speakers/zu-audio-method.md) · [Zu Audio](../brands/zu-audio.md)

@@ -46,30 +46,30 @@ The T15 is Polk's $149-per-pair entry bookshelf: a 5.25" woofer with a 0.75" dom
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 88.7 dB (high) | [[asr-polk-audio-t15]] | A | computed (scripts/cta2034.py v2) |
-| Sensitivity | 86.4 dB (average) | [[audioholics-polk-audio-t15]] | B | gated, 2.83 V; claimed 89 dB per [[mfr-polk-audio-t15]] |
-| Listening-window deviation | ±7.1 dB, 300 Hz-10 kHz (coloured) | [[asr-polk-audio-t15]] | A | computed |
-| On-axis deviation | ±9.2 dB (coloured) | [[asr-polk-audio-t15]] | A | computed |
-| f3 / f6 | 88 / 73 Hz (needs a sub) | [[asr-polk-audio-t15]] | A | computed; claimed -3 dB 65 Hz |
-| Min impedance | ~4.1 Ω @ ~60 and ~250 Hz | [[asr-polk-audio-t15]] | A | graph-read (approx.); ~3.9 Ω near 20 kHz |
-| THD | not recorded | [[asr-polk-audio-t15]] | A | plot level not stated; ~3.4 % near 80-95 Hz, narrow ~4.5 % spike near 400 Hz |
-| Preference score | 0.3 (no sub) / 3.4 (with sub) | [[asr-polk-audio-t15]] via [[spinorama-org]] | A | not meaningful to <0.5 |
+| Sensitivity (2.83 V/1 m) | 88.7 dB (high) | [asr-polk-audio-t15](../sources/asr-polk-audio-t15.md) | A | computed (scripts/cta2034.py v2) |
+| Sensitivity | 86.4 dB (average) | [audioholics-polk-audio-t15](../sources/audioholics-polk-audio-t15.md) | B | gated, 2.83 V; claimed 89 dB per [mfr-polk-audio-t15](../sources/mfr-polk-audio-t15.md) |
+| Listening-window deviation | ±7.1 dB, 300 Hz-10 kHz (coloured) | [asr-polk-audio-t15](../sources/asr-polk-audio-t15.md) | A | computed |
+| On-axis deviation | ±9.2 dB (coloured) | [asr-polk-audio-t15](../sources/asr-polk-audio-t15.md) | A | computed |
+| f3 / f6 | 88 / 73 Hz (needs a sub) | [asr-polk-audio-t15](../sources/asr-polk-audio-t15.md) | A | computed; claimed -3 dB 65 Hz |
+| Min impedance | ~4.1 Ω @ ~60 and ~250 Hz | [asr-polk-audio-t15](../sources/asr-polk-audio-t15.md) | A | graph-read (approx.); ~3.9 Ω near 20 kHz |
+| THD | not recorded | [asr-polk-audio-t15](../sources/asr-polk-audio-t15.md) | A | plot level not stated; ~3.4 % near 80-95 Hz, narrow ~4.5 % spike near 400 Hz |
+| Preference score | 0.3 (no sub) / 3.4 (with sub) | [asr-polk-audio-t15](../sources/asr-polk-audio-t15.md) via [spinorama-org](../sources/spinorama-org.md) | A | not meaningful to <0.5 |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 133°, vertical about 129°. ERDI residual is 2.2 dB but flagged major-discontinuity; the early-reflection dip near 1.5 kHz is 6.2 dB, well over the 3 dB flag, and the on-axis hole at 3-6 kHz comes from driver cancellation. Both ASR and [[audioholics-polk-audio-t15]] show the response is flatter about 20° above or below the tweeter (ASR notes re-referencing to -20° lifts the score to about 1.4 per a forum member). On-axis minus listening window above 4 kHz is -0.9 dB. Aim above or below the ear rather than level with it; Audioholics reports reasonably uniform horizontal coverage to about 40°. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 133°, vertical about 129°. ERDI residual is 2.2 dB but flagged major-discontinuity; the early-reflection dip near 1.5 kHz is 6.2 dB, well over the 3 dB flag, and the on-axis hole at 3-6 kHz comes from driver cancellation. Both ASR and [audioholics-polk-audio-t15](../sources/audioholics-polk-audio-t15.md) show the response is flatter about 20° above or below the tweeter (ASR notes re-referencing to -20° lifts the score to about 1.4 per a forum member). On-axis minus listening window above 4 kHz is -0.9 dB. Aim above or below the ear rather than level with it; Audioholics reports reasonably uniform horizontal coverage to about 40°. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No max-SPL or compression test. ASR's THD plot (SPL not stated) shows about 3.4 % near 80-95 Hz and a narrow spike of about 4.5 % near 400 Hz, with a "ghost" sweep audible; Audioholics found good dynamic range and no obvious distortion shift when played very loud (Tier D). Fine for modest levels as a surround; not for loud music in a larger room. See [[compression-and-max-spl]].
+No max-SPL or compression test. ASR's THD plot (SPL not stated) shows about 3.4 % near 80-95 Hz and a narrow spike of about 4.5 % near 400 Hz, with a "ghost" sweep audible; Audioholics found good dynamic range and no obvious distortion shift when played very loud (Tier D). Fine for modest levels as a surround; not for loud music in a larger room. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Polk rates 8 Ω nominal. ASR's plot shows about 4 Ω through most of the range (about 4.1 Ω near 60 and 250 Hz), below the IEC floor of 6.4 Ω, so `below-iec`; Audioholics judged the 8 Ω rating fair with "swathes" near 6 Ω and benign phase. EPDR not computed. Easy for budget AVRs. See [[impedance-and-epdr]].
+Polk rates 8 Ω nominal. ASR's plot shows about 4 Ω through most of the range (about 4.1 Ω near 60 and 250 Hz), below the IEC floor of 6.4 Ω, so `below-iec`; Audioholics judged the 8 Ω rating fair with "swathes" near 6 Ω and benign phase. EPDR not computed. Easy for budget AVRs. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[audioholics-polk-audio-t15]] (Audioholics, 3.5/5 performance, 4.5/5 value): veiled and "cupped" at ear level, wide stage and decent imaging at 20° elevation; good for budget surrounds.
-- [[asr-polk-audio-t15]] (ASR, Tier D listening notes): not horrible on a desk but measured poorly; recommends the Pioneer SP-BS22-LR instead.
+- [audioholics-polk-audio-t15](../sources/audioholics-polk-audio-t15.md) (Audioholics, 3.5/5 performance, 4.5/5 value): veiled and "cupped" at ear level, wide stage and decent imaging at 20° elevation; good for budget surrounds.
+- [asr-polk-audio-t15](../sources/asr-polk-audio-t15.md) (ASR, Tier D listening notes): not horrible on a desk but measured poorly; recommends the Pioneer SP-BS22-LR instead.
 
 ## User reviews
-No owner reports ingested; the ASR thread is measurement discussion ([[users-polk-audio-t15]]). Anecdotal at best.
+No owner reports ingested; the ASR thread is measurement discussion ([users-polk-audio-t15](../sources/users-polk-audio-t15.md)). Anecdotal at best.
 
 ## Conflicts
 - Sensitivity: 88.7 dB (ASR computed) vs 86.4 dB (Audioholics, gated) vs 89 dB claimed; the first two differ by more than 1 dB.
@@ -78,4 +78,4 @@ No owner reports ingested; the ASR thread is measurement discussion ([[users-pol
 - Frequency response: both reviewers find a 3-5 kHz dip on axis, but Audioholics (gated) judged it fine at 20° above/below, while ASR scores the on-axis curve.
 
 ## Related
-[[polk-audio]] · [[polk-audio-xt15]] · Polk Audio Signature Elite ES15 · Pioneer SP-BS22-LR · [[spinorama]] · [[preference-score]]
+[Polk Audio](../brands/polk-audio.md) · [Polk Audio Monitor XT15](polk-audio-xt15.md) · Polk Audio Signature Elite ES15 · Pioneer SP-BS22-LR · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

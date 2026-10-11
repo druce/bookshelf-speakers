@@ -23,4 +23,4 @@ speakers: [avantone-pro-cla-10]
 Fewer than 5 owner reports; anecdote only. Pro-studio buyers want the NS10 character rather than neutrality.
 
 ## Related
-[[avantone-pro-cla-10]] · [[avantone-pro]]
+[Avantone Pro CLA-10](../speakers/avantone-pro-cla-10.md) · [Avantone Pro](../brands/avantone-pro.md)

@@ -37,4 +37,4 @@ Hi-Fi News standard anechoic-equivalent (MLS, nearfield-spliced) lab methods; re
 Single review pair. Graphs not captured; numbers are from the report text only.
 
 ## Related
-[[ps-audio-aspen-fr5]] · [[hifinews-ps-audio-aspen-fr5]] · [[ps-audio]]
+[PS Audio Aspen FR5](../speakers/ps-audio-aspen-fr5.md) · [hifinews-ps-audio-aspen-fr5](hifinews-ps-audio-aspen-fr5.md) · [PS Audio](../brands/ps-audio.md)

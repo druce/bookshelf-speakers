@@ -29,7 +29,7 @@ Estan praised the midrange and refined treble, and rated imaging and transparenc
 Listening in a treated 15 x 12 ft room, 9 ft triangle, about 15 deg toe-in, grilles off, McIntosh MC302 amp, 24 in stands.
 
 ## Reliability notes
-Single reviewer; measurements are in the companion NRC page ([[soundstage-nrc-triangle-esprit-comete-40th]]). The 92 dB claim in the review differs from the current maker figure of 90 dB.
+Single reviewer; measurements are in the companion NRC page ([soundstage-nrc-triangle-esprit-comete-40th](soundstage-nrc-triangle-esprit-comete-40th.md)). The 92 dB claim in the review differs from the current maker figure of 90 dB.
 
 ## Related
-[[triangle-esprit-comete-40th]] · [[soundstage-nrc]] · [[triangle]]
+[Triangle Esprit Comete 40th](../speakers/triangle-esprit-comete-40th.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Triangle](../brands/triangle.md)

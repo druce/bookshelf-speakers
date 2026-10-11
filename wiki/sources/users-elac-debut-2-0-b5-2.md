@@ -26,4 +26,4 @@ Only 2 independent owner reports found, so anecdotal.
 Richer Sounds item seen only via search-result summary, not fetched.
 
 ## Related
-[[elac-debut-2-0-b5-2]] · [[elac]]
+[Elac Debut 2.0 B5.2](../speakers/elac-debut-2-0-b5-2.md) · [Elac](../brands/elac.md)

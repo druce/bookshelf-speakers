@@ -35,7 +35,7 @@ Polk's US product page for the 5.25" Reserve R100 standmount. Price shown $559/p
 Maker figures, Tier C. The polkaudio.com URL for this model redirects/404s for scripted fetch; the Sound United-hosted mirror of the same page was used.
 
 ## Reliability notes
-Claimed -3 dB limit 58 Hz vs measured f3 67 Hz (see [[eac-polk-audio-reserve-r100]]).
+Claimed -3 dB limit 58 Hz vs measured f3 67 Hz (see [eac-polk-audio-reserve-r100](eac-polk-audio-reserve-r100.md)).
 
 ## Related
-[[polk-audio-reserve-r100]] · [[polk-audio]]
+[Polk Audio Reserve R100](../speakers/polk-audio-reserve-r100.md) · [Polk Audio](../brands/polk-audio.md)

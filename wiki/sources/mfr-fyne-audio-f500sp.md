@@ -21,7 +21,7 @@ Smallest model in Fyne's UK-built Special Production line: 6" IsoFlare coaxial w
 | Field | Value | Note |
 |---|---|---|
 | nominal impedance | 8 Ω | maker spec |
-| sensitivity claimed | 90 dB @ 2.83 V / 1 m | already per 2.83 V; measured 87 dB(B) by [[stereophile-fyne-audio-f500sp]] |
+| sensitivity claimed | 90 dB @ 2.83 V / 1 m | already per 2.83 V; measured 87 dB(B) by [stereophile-fyne-audio-f500sp](stereophile-fyne-audio-f500sp.md) |
 | claimed FR | 42 Hz-34 kHz (-6 dB, typical in room) | claimed text only |
 | crossover | 1.7 kHz, 2nd-order LP / 1st-order HP | |
 | dimensions | 323 x 200 x 320 mm | includes grille/terminals/plinth |
@@ -37,4 +37,4 @@ Maker figures, Tier C. Stereophile lists launch US prices of $1,995 (gloss) and 
 Listing on maker's (global) site as current; Upscale Audio shows sold out, so US availability is uncertain.
 
 ## Related
-[[fyne-audio-f500sp]] · [[fyne-audio]]
+[Fyne Audio F500SP](../speakers/fyne-audio-f500sp.md) · [Fyne Audio](../brands/fyne-audio.md)

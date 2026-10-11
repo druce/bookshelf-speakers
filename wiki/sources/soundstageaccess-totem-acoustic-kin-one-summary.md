@@ -31,4 +31,4 @@ Reviewed as a system with the Kin Amp (100 W class D), so amplifier influence is
 Model-extracted capture. Single reviewer.
 
 ## Related
-[[totem-acoustic-kin-one]] · [[totem-acoustic]]
+[Totem Acoustic Kin One](../speakers/totem-acoustic-kin-one.md) · [Totem Acoustic](../brands/totem-acoustic.md)

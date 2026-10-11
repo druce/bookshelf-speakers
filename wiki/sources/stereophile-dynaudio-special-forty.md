@@ -38,4 +38,4 @@ DRA Labs MLSSA with DPA 4006 microphone for far-field (anechoic-style, 50"), Ear
 Single sample supplied for review. JA ties the measured cabinet mode to a problem he heard in auditioning.
 
 ## Related
-[[dynaudio-special-forty]] · [[stereophile]] · [[dynaudio]]
+[Dynaudio Special Forty](../speakers/dynaudio-special-forty.md) · [stereophile](../reviewers/stereophile.md) · [Dynaudio](../brands/dynaudio.md)

@@ -15,7 +15,7 @@ speakers: [focal-sopra-n1]
 # NRC anechoic measurements: Focal Sopra N°1 (2020-03-15)
 
 ## Summary
-Anechoic-chamber measurements by the National Research Council of Canada, published alongside [[soundstage-focal-sopra-n1]]. Sensitivity 86.8 dB, a flat listening window, 3.8 Ω-class impedance minimum near 190 Hz, and THD+N around 1% at 100 Hz that falls below the plot floor above 200 Hz.
+Anechoic-chamber measurements by the National Research Council of Canada, published alongside [soundstage-focal-sopra-n1](soundstage-focal-sopra-n1.md). Sensitivity 86.8 dB, a flat listening window, 3.8 Ω-class impedance minimum near 190 Hz, and THD+N around 1% at 100 Hz that falls below the plot floor above 200 Hz.
 
 ## Extracted values
 | Field | Value | Note |
@@ -34,4 +34,4 @@ Measured at 2 m and plotted at 1 m; on-axis, 15/30/45/60/75 degree curves; five-
 Single sample, SoundStage-supplied. Numeric values here are graph reads. No spin-o-rama export so no directivity metrics.
 
 ## Related
-[[focal-sopra-n1]] · [[soundstage-nrc]] · [[audioholics-focal-sopra-n1]] · [[focal]]
+[Focal Sopra N°1](../speakers/focal-sopra-n1.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [audioholics-focal-sopra-n1](audioholics-focal-sopra-n1.md) · [Focal](../brands/focal.md)

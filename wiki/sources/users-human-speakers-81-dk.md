@@ -24,4 +24,4 @@ No owner reports of the 81 dk were found. The ASR thread contains reactions to t
 | Non-owner forum replies critical of the measured design | about 8 |
 
 ## Related
-[[human-speakers-81-dk]] · [[asr-human-speakers-81-dk]]
+[Human Speakers 81 dk](../speakers/human-speakers-81-dk.md) · [asr-human-speakers-81-dk](asr-human-speakers-81-dk.md)

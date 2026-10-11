@@ -9,13 +9,13 @@ last_updated: 2026-10-11
 # NHT
 
 ## Overview
-NHT (Now Hear This) sells through its own web store, often by the single speaker, and its speakers are Chinese-made per ASR ([[asr-nht-c3]]); the lineage is a sealed-box tradition. The C3 is the successor to the Classic Three ([[hometheaterhifi-nht-c3]]). The SuperZero 2.1 is a $270 pair that the maker says requires a subwoofer ([[mfr-nht-super-zero-2-1]]).
+NHT (Now Hear This) sells through its own web store, often by the single speaker, and its speakers are Chinese-made per ASR ([asr-nht-c3](../sources/asr-nht-c3.md)); the lineage is a sealed-box tradition. The C3 is the successor to the Classic Three ([hometheaterhifi-nht-c3](../sources/hometheaterhifi-nht-c3.md)). The SuperZero 2.1 is a $270 pair that the maker says requires a subwoofer ([mfr-nht-super-zero-2-1](../sources/mfr-nht-super-zero-2-1.md)).
 
 ## Models in this wiki
 | Model | Price/pr | Rated Ω | Min Ω (flag) | LW ±dB | f3 Hz | Sens. dB | Pref (w/sub) |
 |---|---|---|---|---|---|---|---|
-| [[nht-c3]] | $1,250 | 6 | 4.2 (below-iec) | 1.8 | 61 | 83.1 | 4.5 (6.9) |
-| [[nht-super-zero-2-1]] | $270 | 8 | 4.2 (below-iec) | 1.9 | 97 | 83.3 | 3.0 (6.3) |
+| [NHT C3](../speakers/nht-c3.md) | $1,250 | 6 | 4.2 (below-iec) | 1.8 | 61 | 83.1 | 4.5 (6.9) |
+| [NHT Super Zero 2.1](../speakers/nht-super-zero-2-1.md) | $270 | 8 | 4.2 (below-iec) | 1.9 | 97 | 83.3 | 3.0 (6.3) |
 
 ## Other models screened
 - SB2 — discontinued; absent from NHT's current store list, only used stock.
@@ -26,7 +26,7 @@ NHT (Now Hear This) sells through its own web store, often by the single speaker
 - LW deviation is good on both (±1.8 and ±1.9 dB), but bass is limited: f3 61 Hz (C3) and 97 Hz (SuperZero).
 - Preference: 4.5 and 3.0 (6.9 and 6.3 with sub).
 - Critics: ASR plus HomeTheaterHiFi, SoundStage and Audioholics; the SuperZero's reviews split on bass versus clean highs.
-- Users: [[users-nht-c3]] has one report that ASR's sample may have been damaged; [[users-nht-super-zero-2-1]] records no QC reports. Both under five reports.
+- Users: [users-nht-c3](../sources/users-nht-c3.md) has one report that ASR's sample may have been damaged; [users-nht-super-zero-2-1](../sources/users-nht-super-zero-2-1.md) records no QC reports. Both under five reports.
 
 ## Related
-[[nht-c3]] · [[nht-super-zero-2-1]] · [[impedance-and-epdr]] · [[sensitivity-normalization]] · [[preference-score]]
+[NHT C3](../speakers/nht-c3.md) · [NHT Super Zero 2.1](../speakers/nht-super-zero-2-1.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [sensitivity-normalization](../concepts/sensitivity-normalization.md) · [preference-score](../concepts/preference-score.md)

@@ -31,4 +31,4 @@ Driven by 500 W solid-state monos and by 60 W tube monos; 9 ft spacing; no subwo
 Subjective, single reviewer.
 
 ## Related
-[[focal-kanta-n1]] · [[soundstage-nrc-focal-kanta-n1]] · [[focal]]
+[Focal Kanta N°1](../speakers/focal-kanta-n1.md) · [soundstage-nrc-focal-kanta-n1](soundstage-nrc-focal-kanta-n1.md) · [Focal](../brands/focal.md)

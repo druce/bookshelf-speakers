@@ -22,10 +22,10 @@ Thorpe, a former Model 1 owner, calls it a worthy successor, praising refined tr
 - Midrange slightly recessed, giving deep soundstage; excellent imaging.
 - Bass tight and authoritative, digging below the stated 45 Hz in his room; best 2 ft from wall.
 - Fast at all levels; suited to small rooms but not out of place in larger ones.
-- Links to the NRC measurements ([[nrc-totem-acoustic-signature-one]]).
+- Links to the NRC measurements ([nrc-totem-acoustic-signature-one](nrc-totem-acoustic-signature-one.md)).
 
 ## Reliability notes
 Single reviewer; no explicit rating. Reviewer's guess that treble would measure very flat is not tested here.
 
 ## Related
-[[totem-acoustic-signature-one]] · [[soundstage-nrc]]
+[Totem Acoustic Signature One](../speakers/totem-acoustic-signature-one.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md)

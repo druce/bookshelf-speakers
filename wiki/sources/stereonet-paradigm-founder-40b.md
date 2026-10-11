@@ -26,4 +26,4 @@ Subjective review at £2,400; Applause Award category. No measurements.
 Single reviewer; figures like 89 dB/1 W and 69 Hz are the maker's claims.
 
 ## Related
-[[paradigm-founder-40b]] · [[paradigm]]
+[Paradigm Founder 40B](../speakers/paradigm-founder-40b.md) · [Paradigm](../brands/paradigm.md)

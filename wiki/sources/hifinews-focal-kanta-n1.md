@@ -36,4 +36,4 @@ Hi-Fi News measured 87 dB sensitivity (below Focal's 88 dB), a 3.8 Ω minimum wi
 Two-sample pair; UK lab; tweeter-axis only. Tier B.
 
 ## Related
-[[focal-kanta-n1]] · [[soundstage-nrc-focal-kanta-n1]] · [[focal]]
+[Focal Kanta N°1](../speakers/focal-kanta-n1.md) · [soundstage-nrc-focal-kanta-n1](soundstage-nrc-focal-kanta-n1.md) · [Focal](../brands/focal.md)

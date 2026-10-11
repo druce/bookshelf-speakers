@@ -46,33 +46,33 @@ The Hsu CCB-8 is an 8" ported coaxial horn speaker (aluminium dome tweeter behin
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 88.8 dB (high) | [[asr-hsu-research-ccb-8]] | A | computed (scripts/cta2034.py v2) |
-| Sensitivity | 93.8 dB half-space (about 87.8 full-space) | [[audioholics-hsu-research-ccb-8]] | A | claimed 94 half-space per [[mfr-hsu-research-ccb-8]] = 88.0 full-space |
-| Listening-window deviation | ±5.2 dB (coloured) | [[asr-hsu-research-ccb-8]] | A | computed, 300 Hz-10 kHz |
-| On-axis deviation | ±6.0 dB | [[asr-hsu-research-ccb-8]] | A | computed |
-| On-axis response | within about ±3 dB to 10 kHz | [[audioholics-hsu-research-ccb-8]] | A | gated 14 ms, 1 m, unsmoothed |
-| f3 / f6 | 59 / 54 Hz (good) | [[asr-hsu-research-ccb-8]] | A | computed, both ports open |
-| Min impedance | 3.8 Ω @ 182 Hz | [[asr-hsu-research-ccb-8]] | A | graph-read (approx.) |
-| Min impedance | 5 Ω near 200 Hz | [[audioholics-hsu-research-ccb-8]] | A | stated in text |
-| Preference score | 1.6 (no sub) / 4.0 (with sub) | [[asr-hsu-research-ccb-8]] via [[spinorama-org]] | A | not meaningful to <0.5 |
-| Crossover | 1.5 kHz | [[audioholics-hsu-research-ccb-8]] | A | not stated by maker |
+| Sensitivity (2.83 V/1 m) | 88.8 dB (high) | [asr-hsu-research-ccb-8](../sources/asr-hsu-research-ccb-8.md) | A | computed (scripts/cta2034.py v2) |
+| Sensitivity | 93.8 dB half-space (about 87.8 full-space) | [audioholics-hsu-research-ccb-8](../sources/audioholics-hsu-research-ccb-8.md) | A | claimed 94 half-space per [mfr-hsu-research-ccb-8](../sources/mfr-hsu-research-ccb-8.md) = 88.0 full-space |
+| Listening-window deviation | ±5.2 dB (coloured) | [asr-hsu-research-ccb-8](../sources/asr-hsu-research-ccb-8.md) | A | computed, 300 Hz-10 kHz |
+| On-axis deviation | ±6.0 dB | [asr-hsu-research-ccb-8](../sources/asr-hsu-research-ccb-8.md) | A | computed |
+| On-axis response | within about ±3 dB to 10 kHz | [audioholics-hsu-research-ccb-8](../sources/audioholics-hsu-research-ccb-8.md) | A | gated 14 ms, 1 m, unsmoothed |
+| f3 / f6 | 59 / 54 Hz (good) | [asr-hsu-research-ccb-8](../sources/asr-hsu-research-ccb-8.md) | A | computed, both ports open |
+| Min impedance | 3.8 Ω @ 182 Hz | [asr-hsu-research-ccb-8](../sources/asr-hsu-research-ccb-8.md) | A | graph-read (approx.) |
+| Min impedance | 5 Ω near 200 Hz | [audioholics-hsu-research-ccb-8](../sources/audioholics-hsu-research-ccb-8.md) | A | stated in text |
+| Preference score | 1.6 (no sub) / 4.0 (with sub) | [asr-hsu-research-ccb-8](../sources/asr-hsu-research-ccb-8.md) via [spinorama-org](../sources/spinorama-org.md) | A | not meaningful to <0.5 |
+| Crossover | 1.5 kHz | [audioholics-hsu-research-ccb-8](../sources/audioholics-hsu-research-ccb-8.md) | A | not stated by maker |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 106°, vertical about 112°. DI rises with frequency (SPDI 6.5 dB at 1 kHz to 10.8 dB at 10 kHz) with a minor discontinuity (ERDI residual 1.9 dB); ASR says it is "anything but constant". The early-reflection dip near 1.5 kHz is 4.8 dB, above the 3 dB flag, matching the 1.7 kHz cancellation. On-axis minus listening window above 4 kHz is +1.6 dB, so on-axis is brighter than the window: less toe-in by the data. Audioholics and the maker, though, recommend 15-25° off axis, where treble flattens; this is not a contradiction for a narrowing-treble horn, but the rig data argue for experimenting. Orientation (vertical/horizontal) barely changes response per Audioholics. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 106°, vertical about 112°. DI rises with frequency (SPDI 6.5 dB at 1 kHz to 10.8 dB at 10 kHz) with a minor discontinuity (ERDI residual 1.9 dB); ASR says it is "anything but constant". The early-reflection dip near 1.5 kHz is 4.8 dB, above the 3 dB flag, matching the 1.7 kHz cancellation. On-axis minus listening window above 4 kHz is +1.6 dB, so on-axis is brighter than the window: less toe-in by the data. Audioholics and the maker, though, recommend 15-25° off axis, where treble flattens; this is not a contradiction for a narrowing-treble horn, but the rig data argue for experimenting. Orientation (vertical/horizontal) barely changes response per Audioholics. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-ASR's 86 dB sweep is clean (THD traces roughly 40-47 dB SPL from 50 Hz upward, graph-read, in dB not %, so no % entered). At 96 dB distortion rises sharply, to about 70 dB SPL near 30-40 Hz and 60-65 dB around 130 Hz and 1.3 kHz, and ASR clearly heard distortion in a 101 dB sweep. No compression/max-SPL test exists. Efficiency means modest amplifiers reach loud levels, but expect limits in bass at high output; see [[compression-and-max-spl]].
+ASR's 86 dB sweep is clean (THD traces roughly 40-47 dB SPL from 50 Hz upward, graph-read, in dB not %, so no % entered). At 96 dB distortion rises sharply, to about 70 dB SPL near 30-40 Hz and 60-65 dB around 130 Hz and 1.3 kHz, and ASR clearly heard distortion in a 101 dB sweep. No compression/max-SPL test exists. Efficiency means modest amplifiers reach loud levels, but expect limits in bass at high output; see [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Maker recommends an 8 Ω setting; ASR measured about 3.8 Ω minimum at 182 Hz (flag `effectively-4ohm`); Audioholics measured 5 Ω. Phase angle is moderate near the dip; two high-impedance peaks near 45 and 95 Hz. EPDR not computed. Any stable amp rated for 4 Ω is fine; high efficiency keeps power needs low. See [[impedance-and-epdr]].
+Maker recommends an 8 Ω setting; ASR measured about 3.8 Ω minimum at 182 Hz (flag `effectively-4ohm`); Audioholics measured 5 Ω. Phase angle is moderate near the dip; two high-impedance peaks near 45 and 95 Hz. EPDR not computed. Any stable amp rated for 4 Ω is fine; high efficiency keeps power needs low. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[audioholics-hsu-research-ccb-8]] (Audioholics, 4.5/5 performance, 5/5 value): superb imaging, rich soundstage, hot direct-axis treble; sit 15-25° off axis.
-- [[avnirvana-hsu-research-ccb-8]] (AV Nirvana): highly detailed full-range sound, good build quality.
-- [[asr-hsu-research-ccb-8]] (ASR, Tier A measurement, no listening): "quite messy"; not recommended.
+- [audioholics-hsu-research-ccb-8](../sources/audioholics-hsu-research-ccb-8.md) (Audioholics, 4.5/5 performance, 5/5 value): superb imaging, rich soundstage, hot direct-axis treble; sit 15-25° off axis.
+- [avnirvana-hsu-research-ccb-8](../sources/avnirvana-hsu-research-ccb-8.md) (AV Nirvana): highly detailed full-range sound, good build quality.
+- [asr-hsu-research-ccb-8](../sources/asr-hsu-research-ccb-8.md) (ASR, Tier A measurement, no listening): "quite messy"; not recommended.
 
 ## User reviews
-Five owner comments, all from the maker's own store and all positive, so anecdotal ([[users-hsu-research-ccb-8]]). Four ASR forum replies were critical of the measurements but none from owners. No QC problems reported.
+Five owner comments, all from the maker's own store and all positive, so anecdotal ([users-hsu-research-ccb-8](../sources/users-hsu-research-ccb-8.md)). Four ASR forum replies were critical of the measurements but none from owners. No QC problems reported.
 
 ## Conflicts
 - Minimum impedance: 3.8 Ω (ASR, graph-read) vs 5 Ω (Audioholics); more than 0.5 Ω apart, different rigs and eras. Flag follows the ASR value.
@@ -82,4 +82,4 @@ Five owner comments, all from the maker's own store and all positive, so anecdot
 - Sensitivity: 88.8 (ASR) vs 87.8 (Audioholics, half-space converted) vs 88.0 claimed; within 1 dB.
 
 ## Related
-[[hsu-research]] · [[hsu-research-mfl-6]] · [[directivity-index]] · [[impedance-and-epdr]] · [[spinorama]] · [[preference-score]]
+[Hsu Research](../brands/hsu-research.md) · [Hsu Research MFL-6](hsu-research-mfl-6.md) · [directivity-index](../concepts/directivity-index.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

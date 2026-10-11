@@ -21,7 +21,7 @@ Klippel NFS measurement of a purchased pair ($349 shipped from Amazon). Amir fin
 ## Extracted values
 | Field | Value | Note |
 |---|---|---|
-| sensitivity_db_2v83 | 87.2 dB | computed, scripts/cta2034.py v2 from raw Klippel export; reviewer states none; claimed 86 dB per [[mfr-polk-audio-signature-elite-es20]]; ASR forum reply says 88 dB/1 W is about what he measured |
+| sensitivity_db_2v83 | 87.2 dB | computed, scripts/cta2034.py v2 from raw Klippel export; reviewer states none; claimed 86 dB per [mfr-polk-audio-signature-elite-es20](mfr-polk-audio-signature-elite-es20.md); ASR forum reply says 88 dB/1 W is about what he measured |
 | lw_deviation_db | ±2.2 dB | computed, 300 Hz-10 kHz |
 | on_axis_deviation_db | ±2.2 dB | computed |
 | f3_hz / f6_hz | 53 / 44 Hz | computed; reviewer says F10 is nearly 35 Hz |
@@ -41,4 +41,4 @@ Klippel Near-field Scanner, tweeter axis, grille off, about 17 °C. THD plots ar
 Single sample bought by the reviewer. Impedance and THD are graph-read. Listening notes are Tier D (EQ-assisted).
 
 ## Related
-[[polk-audio-signature-elite-es20]] · [[asr]] · [[polk-audio]] · [[spinorama-org]]
+[Polk Audio Signature Elite ES20](../speakers/polk-audio-signature-elite-es20.md) · [asr](../reviewers/asr.md) · [Polk Audio](../brands/polk-audio.md) · [spinorama-org](spinorama-org.md)

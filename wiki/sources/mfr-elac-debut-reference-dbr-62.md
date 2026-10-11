@@ -38,4 +38,4 @@ Retailer pages, not the maker's site; treated as Tier C. Status "current" becaus
 Black/walnut variant shown out of stock at World Wide Stereo; in stock at Audio Advisor. Some search snippets showed Walmart listings out of stock.
 
 ## Related
-[[elac-debut-reference-dbr-62]] · [[elac]]
+[Elac Debut Reference DBR-62](../speakers/elac-debut-reference-dbr-62.md) · [Elac](../brands/elac.md)

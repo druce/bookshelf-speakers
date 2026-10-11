@@ -24,4 +24,4 @@ Spendor reports the 3/1 won a HiFi Choice standmount group test. Only a pull-quo
 Maker-curated excerpt; treat as weak evidence.
 
 ## Related
-[[spendor-classic-3-1]] · [[spendor]]
+[Spendor Classic 3/1](../speakers/spendor-classic-3-1.md) · [Spendor](../brands/spendor.md)

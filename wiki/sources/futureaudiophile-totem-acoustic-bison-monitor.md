@@ -30,4 +30,4 @@ Anthem MCA 225 Gen 2 amp, SPL Elector preamp, Benchmark DAC3 B. Publication date
 Affiliate-supported site; single reviewer; no measurements.
 
 ## Related
-[[totem-acoustic-bison-monitor]] · [[totem-acoustic]]
+[Totem Acoustic Bison Monitor](../speakers/totem-acoustic-bison-monitor.md) · [Totem Acoustic](../brands/totem-acoustic.md)

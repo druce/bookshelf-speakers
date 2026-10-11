@@ -43,4 +43,4 @@ Klippel NFS, tweeter reference, grille off; compression sweeps referenced to 76 
 Single sample. Graph-read values approximate.
 
 ## Related
-[[elac-debut-2-0-b6-2]] · [[erins-audio-corner]] · [[elac]]
+[Elac Debut 2.0 B6.2](../speakers/elac-debut-2-0-b6-2.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Elac](../brands/elac.md)

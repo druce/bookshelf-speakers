@@ -37,4 +37,4 @@ Manufacturer data, Tier C. Info sheet figures are a spec, not a measurement.
 Product page and info sheet disagree slightly with retailer text on FR (41 vs 44 Hz) and sensitivity reference. Treat claims as claims.
 
 ## Related
-[[polk-audio-signature-elite-es20]] · [[polk-audio]]
+[Polk Audio Signature Elite ES20](../speakers/polk-audio-signature-elite-es20.md) · [Polk Audio](../brands/polk-audio.md)

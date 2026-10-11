@@ -28,4 +28,4 @@ Marantz 40n integrated, Thorens TD 1600; compared against Harbeth P3ESR XD, Acel
 Spec table quotes "8 ohms" and 92 dB; he did not measure. Loaner from Atlas Audio Video (a dealer).
 
 ## Related
-[[paradigm-founder-40b]] · [[paradigm]]
+[Paradigm Founder 40B](../speakers/paradigm-founder-40b.md) · [Paradigm](../brands/paradigm.md)

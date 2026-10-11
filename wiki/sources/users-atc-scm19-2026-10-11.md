@@ -23,4 +23,4 @@ Two older forum threads, 12 posters total, about 9 giving opinions (WebFetch par
 - QC/reliability: none; one owner's visible cone wires judged normal by a dealer (1 report).
 
 ## Related
-[[atc-scm19]] · [[atc]]
+[ATC SCM19](../speakers/atc-scm19.md) · [ATC](../brands/atc.md)

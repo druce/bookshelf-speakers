@@ -35,4 +35,4 @@ Amphion's US store lists the Argon1 at $1,919 per pair (RRP $1,920 black/white, 
 Maker claims. Stock indicator is ambiguous; US retail price spread of about $580.
 
 ## Related
-[[amphion-argon1]] · [[amphion]]
+[Amphion Argon1](../speakers/amphion-argon1.md) · [Amphion](../brands/amphion.md)

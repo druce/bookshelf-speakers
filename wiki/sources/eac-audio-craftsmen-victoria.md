@@ -47,4 +47,4 @@ Klippel NFS, reference at tweeter, no grille, broken-in. Transcript summary on t
 Single loaned sample from the maker. Impedance graph measured at 0.10 V RMS. THD and compression values are read from graphs.
 
 ## Related
-[[audio-craftsmen-victoria]] · [[erins-audio-corner]] · [[audio-craftsmen]] · [[spinorama-org]]
+[Audio Craftsmen Victoria](../speakers/audio-craftsmen-victoria.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Audio Craftsmen](../brands/audio-craftsmen.md) · [spinorama-org](spinorama-org.md)

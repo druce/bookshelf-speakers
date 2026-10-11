@@ -25,7 +25,7 @@ Maker page lists Emit 20 as Status Current: 6 Ω rated passive 2-way, 18 cm MSP 
 | claimed FR | ±3 dB 53 Hz-25 kHz; -6 dB 42 Hz-35 kHz | claimed_fr text |
 | crossover | 3,800 Hz, 1st-order tweeter / 2nd-order woofer | |
 | woofer / tweeter | 18 cm MSP; 28 mm Cerotar soft dome with Hexis | |
-| port | rear, dual-flared | per [[whathifi-dynaudio-emit-20]] |
+| port | rear, dual-flared | per [whathifi-dynaudio-emit-20](whathifi-dynaudio-emit-20.md) |
 | dimensions | 370 x 205 x 312 mm (HxWxD, 325 deep with grille) | |
 | weight | 10.3 kg each | |
 | price/status | MSRP $1,049/pair; Status Current | |
@@ -34,4 +34,4 @@ Maker page lists Emit 20 as Status Current: 6 Ω rated passive 2-way, 18 cm MSP 
 Maker figures, Tier C. Maker -6 dB point (42 Hz) differs from HiFi Report's quoted 39 Hz.
 
 ## Related
-[[dynaudio-emit-20]] · [[dynaudio]]
+[Dynaudio Emit 20](../speakers/dynaudio-emit-20.md) · [Dynaudio](../brands/dynaudio.md)

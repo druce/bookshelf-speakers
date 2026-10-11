@@ -32,7 +32,7 @@ Audioholics measured the Theva No.1 with its gated spin-o-rama rig and found a s
 | THD / compression / max SPL | not measured | |
 
 ## Method notes
-Free-air at 7.5 ft height, 1 m, gated at 11 ms; resolution lost below 250 Hz and accuracy gone below 110 Hz; 1/24 octave smoothing. Low frequencies from groundplane measurement. Impedance by DATS. Spinorama graph shown from 250 Hz up. Listening: Marantz 7705 and Monolith 5x200 amp, 9 ft, 24x13 ft room (Tier D notes in [[focal-theva-n1]]).
+Free-air at 7.5 ft height, 1 m, gated at 11 ms; resolution lost below 250 Hz and accuracy gone below 110 Hz; 1/24 octave smoothing. Low frequencies from groundplane measurement. Impedance by DATS. Spinorama graph shown from 250 Hz up. Listening: Marantz 7705 and Monolith 5x200 amp, 9 ft, 24x13 ft room (Tier D notes in [Focal Theva N°1](../speakers/focal-theva-n1.md)).
 
 ## Reliability notes
 Single sample, reviewer-supplied by retailer-linked review (affiliate link appears in text). Gated rig is lower confidence than Klippel NFS; sensitivity and impedance are directly measured. Focal's sensitivity spec has no stated basis.
@@ -41,4 +41,4 @@ Single sample, reviewer-supplied by retailer-linked review (affiliate link appea
 - Larson: balanced, accurate tone with excellent imaging; surprising bass for size (strong to just above 50 Hz in his room); no significant missteps. Nitpicks: vertical lobe asymmetry, light feel, vinyl veneer.
 
 ## Related
-[[focal-theva-n1]] · [[audioholics]] · [[focal]]
+[Focal Theva N°1](../speakers/focal-theva-n1.md) · [audioholics](../reviewers/audioholics.md) · [Focal](../brands/focal.md)

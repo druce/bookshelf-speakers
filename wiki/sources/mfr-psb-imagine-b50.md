@@ -29,7 +29,7 @@ Manufacturer page (psbspeakers.com, serving CAD pricing: C$1,199/pair, "Only 9 l
 | Dimensions | 171 x 300 x 251 mm (W x H x D) | height 11.8" |
 | Weight | 5.13 kg each | |
 | Recommended power | 20-150 W | |
-| US price | $999.00/pair (Audio Advisor, regular price) | 2026-10-11; was about $699-700 at 2024 launch per [[eac-psb-imagine-b50]] and [[soundstage-psb-imagine-b50]] |
+| US price | $999.00/pair (Audio Advisor, regular price) | 2026-10-11; was about $699-700 at 2024 launch per [eac-psb-imagine-b50](eac-psb-imagine-b50.md) and [soundstage-psb-imagine-b50](soundstage-psb-imagine-b50.md) |
 | Status | current: on PSB site with stock, listed at Audio Advisor | |
 
 ## Method notes
@@ -39,4 +39,4 @@ Spec figures are Tier C. Frequency response is stated with tolerance but is a ma
 Sensitivity claim exceeds measured values by about 1.1-1.2 dB.
 
 ## Related
-[[psb-imagine-b50]] · [[psb]]
+[PSB Imagine B50](../speakers/psb-imagine-b50.md) · [PSB](../brands/psb.md)

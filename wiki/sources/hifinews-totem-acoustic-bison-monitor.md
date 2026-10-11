@@ -49,4 +49,4 @@ Hi-Fi News lab: nearfield summed driver/port plus gated freefield response corre
 Single pair (L/R). No directivity data. The 850 mm height in the table conflicts with the maker's 333 mm.
 
 ## Related
-[[totem-acoustic-bison-monitor]] · [[totem-acoustic]]
+[Totem Acoustic Bison Monitor](../speakers/totem-acoustic-bison-monitor.md) · [Totem Acoustic](../brands/totem-acoustic.md)

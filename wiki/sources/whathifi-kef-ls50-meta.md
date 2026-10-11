@@ -29,4 +29,4 @@ Five stars on sound, compatibility and build. Called the class leader at the pri
 Panel-style outlet; spec sheet in the article lists 7.2 kg weight (KEF: 7.8 kg).
 
 ## Related
-[[kef-ls50-meta]] · [[kef]]
+[KEF LS50 Meta](../speakers/kef-ls50-meta.md) · [KEF](../brands/kef.md)

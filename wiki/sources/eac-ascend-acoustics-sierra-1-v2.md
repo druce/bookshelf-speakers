@@ -43,4 +43,4 @@ Klippel NFS, reference at tweeter, grille off, broken-in. Distortion and compres
 Loaner from the maker, who also owns a Klippel NFS and previewed the data; Erin reports no payment. Impedance annotation values are text from the plot; THD and compression are graph-read.
 
 ## Related
-[[ascend-acoustics-sierra-1-v2]] · [[erins-audio-corner]] · [[ascend-acoustics]] · [[spinorama-org]]
+[Ascend Acoustics Sierra-1 V2](../speakers/ascend-acoustics-sierra-1-v2.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Ascend Acoustics](../brands/ascend-acoustics.md) · [spinorama-org](spinorama-org.md)

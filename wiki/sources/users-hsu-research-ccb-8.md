@@ -28,4 +28,4 @@ Five owner comments seen on the maker's own store, all positive and mostly short
 Maker-hosted reviews (26 shown at 5.0/5) are not independent; selection unknown. Fewer than 5 independent reports, so anecdotal.
 
 ## Related
-[[hsu-research-ccb-8]] · [[asr-hsu-research-ccb-8]]
+[Hsu Research CCB-8](../speakers/hsu-research-ccb-8.md) · [asr-hsu-research-ccb-8](asr-hsu-research-ccb-8.md)

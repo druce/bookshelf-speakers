@@ -34,7 +34,7 @@ Vandersteen's US page lists the VLR Wood as a current product: a compact coaxial
 Manufacturer figures; FR tolerance is stated (±3 dB) but not a measurement. Cabinet is sealed (ASR confirms no port).
 
 ## Reliability notes
-Claimed 86 dB and 5 Ω minimum are contradicted by ASR measurements (see [[asr-vandersteen-vlr]]).
+Claimed 86 dB and 5 Ω minimum are contradicted by ASR measurements (see [asr-vandersteen-vlr](asr-vandersteen-vlr.md)).
 
 ## Related
-[[vandersteen-vlr]] · [[vandersteen]]
+[Vandersteen VLR](../speakers/vandersteen-vlr.md) · [Vandersteen](../brands/vandersteen.md)

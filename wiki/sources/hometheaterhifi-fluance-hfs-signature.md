@@ -29,4 +29,4 @@ Listening only, no measurements. Cambridge CXA60 amp.
 Manufacturer-supplied sample, retailer-friendly outlet. Contrasts with ASR measurements and listening.
 
 ## Related
-[[fluance-hfs-signature]] · [[fluance]]
+[Fluance HFS Signature](../speakers/fluance-hfs-signature.md) · [Fluance](../brands/fluance.md)

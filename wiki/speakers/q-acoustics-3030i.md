@@ -46,31 +46,31 @@ The 3030i is the largest 3000i-series standmount: a 6 Ω, 6.5" ported two-way wi
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Preference score | 5.0 (no sub) / 7.3 (with sub) | [[napilopez-q-acoustics-3030i]] via [[spinorama-org]] | B | 4.97 / 7.28; digitised quasi-anechoic data, not Klippel |
-| f3 / f6 | ~72 / ~58 Hz | [[napilopez-q-acoustics-3030i]] | B | graph-read (approx.), near-field bass splice at 385 Hz |
-| Resonance | ~1.2 kHz | [[napilopez-q-acoustics-3030i]] | B | stated by author |
-| Sensitivity | not measured | | | claimed 88 dB at 2.83 V/1 m per [[mfr-q-acoustics-3030i]] |
+| Preference score | 5.0 (no sub) / 7.3 (with sub) | [napilopez-q-acoustics-3030i](../sources/napilopez-q-acoustics-3030i.md) via [spinorama-org](../sources/spinorama-org.md) | B | 4.97 / 7.28; digitised quasi-anechoic data, not Klippel |
+| f3 / f6 | ~72 / ~58 Hz | [napilopez-q-acoustics-3030i](../sources/napilopez-q-acoustics-3030i.md) | B | graph-read (approx.), near-field bass splice at 385 Hz |
+| Resonance | ~1.2 kHz | [napilopez-q-acoustics-3030i](../sources/napilopez-q-acoustics-3030i.md) | B | stated by author |
+| Sensitivity | not measured | | | claimed 88 dB at 2.83 V/1 m per [mfr-q-acoustics-3030i](../sources/mfr-q-acoustics-3030i.md) |
 | Impedance | not measured | | | maker claims 4 Ω minimum |
-| Crossover | 2.4 kHz | [[mfr-q-acoustics-3030i]] | C | |
+| Crossover | 2.4 kHz | [mfr-q-acoustics-3030i](../sources/mfr-q-acoustics-3030i.md) | C | |
 
 ## Directivity
-Author describes wide directivity up to about 6 kHz, narrowing above; flattest horizontal response about 15° off-axis; vertically he advises listening on-axis or not far above the tweeter. Beamwidth numbers, ERDI and SPDI were not computed from the digitised data. Aim about 15° off-axis for the flattest horizontal response. See [[directivity-index]], [[early-reflections]].
+Author describes wide directivity up to about 6 kHz, narrowing above; flattest horizontal response about 15° off-axis; vertically he advises listening on-axis or not far above the tweeter. Beamwidth numbers, ERDI and SPDI were not computed from the digitised data. Aim about 15° off-axis for the flattest horizontal response. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No distortion, compression or max-SPL data. What Hi-Fi? says it is composed at high volume for the price (Tier D). See [[compression-and-max-spl]].
+No distortion, compression or max-SPL data. What Hi-Fi? says it is composed at high volume for the price (Tier D). See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Not measured. Maker rates it 6 Ω "average" with a claimed 4 Ω minimum and recommends 25-75 W; no flag set. Compare the 3020i's measured 3.9 Ω ([[q-acoustics-3020i]]). See [[impedance-and-epdr]].
+Not measured. Maker rates it 6 Ω "average" with a claimed 4 Ω minimum and recommends 25-75 W; no flag set. Compare the 3020i's measured 3.9 Ω ([Q Acoustics 3020i](q-acoustics-3020i.md)). See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[whathifi-q-acoustics-3030i]] (What Hi-Fi?, 5/5 across categories): smooth, cohesive, bass heft well integrated; less vivid than Dali Oberon 1 or B&W 607.
-- [[napilopez-q-acoustics-3030i]] (napilopez, Tier D): neutral tonality, "better than the 3020i, and more bass".
+- [whathifi-q-acoustics-3030i](../sources/whathifi-q-acoustics-3030i.md) (What Hi-Fi?, 5/5 across categories): smooth, cohesive, bass heft well integrated; less vivid than Dali Oberon 1 or B&W 607.
+- [napilopez-q-acoustics-3030i](../sources/napilopez-q-acoustics-3030i.md) (napilopez, Tier D): neutral tonality, "better than the 3020i, and more bass".
 
 ## User reviews
 No user reports ingested yet.
 
 ## Conflicts
-- Bass: claimed 46 Hz (-6 dB) ([[mfr-q-acoustics-3030i]]) vs about 58 Hz f6 (graph-read, napilopez); a forum reply questioned the same gap.
+- Bass: claimed 46 Hz (-6 dB) ([mfr-q-acoustics-3030i](../sources/mfr-q-acoustics-3030i.md)) vs about 58 Hz f6 (graph-read, napilopez); a forum reply questioned the same gap.
 
 ## Related
-[[q-acoustics]] · [[q-acoustics-3020i]] · Q Acoustics 3020c · Q Acoustics 3010i · [[q-acoustics-5020]] · [[directivity-index]]
+[Q Acoustics](../brands/q-acoustics.md) · [Q Acoustics 3020i](q-acoustics-3020i.md) · Q Acoustics 3020c · Q Acoustics 3010i · [Q Acoustics 5020](q-acoustics-5020.md) · [directivity-index](../concepts/directivity-index.md)

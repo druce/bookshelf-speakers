@@ -46,29 +46,29 @@ The MFL-6 is a $279-each multi-function speaker for L/C/R, surround or Atmos use
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 85.5 dB (average) | [[asr-hsu-research-mfl-6]] | A | computed (scripts/cta2034.py v2) |
-| Listening-window deviation | ±3.8 dB (coloured) | [[asr-hsu-research-mfl-6]] | A | computed; reference axis 90° to baffle |
-| On-axis deviation | ±5.0 dB | [[asr-hsu-research-mfl-6]] | A | computed |
-| f3 / f6 | 80 / 52 Hz (needs a sub) | [[asr-hsu-research-mfl-6]] | A | computed |
-| Min impedance | about 4.0 Ω near 200 Hz | [[asr-hsu-research-mfl-6]] | A | graph-read (approx.) |
-| Preference score | 3.4 (no sub) / 5.6 (with sub) | [[asr-hsu-research-mfl-6]] via [[spinorama-org]] | A | not meaningful to <0.5 |
-| Claimed FR | 60 Hz-20 kHz ±2 dB | [[mfr-hsu-research-mfl-6]] | C | claim only |
+| Sensitivity (2.83 V/1 m) | 85.5 dB (average) | [asr-hsu-research-mfl-6](../sources/asr-hsu-research-mfl-6.md) | A | computed (scripts/cta2034.py v2) |
+| Listening-window deviation | ±3.8 dB (coloured) | [asr-hsu-research-mfl-6](../sources/asr-hsu-research-mfl-6.md) | A | computed; reference axis 90° to baffle |
+| On-axis deviation | ±5.0 dB | [asr-hsu-research-mfl-6](../sources/asr-hsu-research-mfl-6.md) | A | computed |
+| f3 / f6 | 80 / 52 Hz (needs a sub) | [asr-hsu-research-mfl-6](../sources/asr-hsu-research-mfl-6.md) | A | computed |
+| Min impedance | about 4.0 Ω near 200 Hz | [asr-hsu-research-mfl-6](../sources/asr-hsu-research-mfl-6.md) | A | graph-read (approx.) |
+| Preference score | 3.4 (no sub) / 5.6 (with sub) | [asr-hsu-research-mfl-6](../sources/asr-hsu-research-mfl-6.md) via [spinorama-org](../sources/spinorama-org.md) | A | not meaningful to <0.5 |
+| Claimed FR | 60 Hz-20 kHz ±2 dB | [mfr-hsu-research-mfl-6](../sources/mfr-hsu-research-mfl-6.md) | C | claim only |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 126°, vertical about 87°. DI discontinuity is major (ERDI residual 2.5 dB); SPDI rises from 3.3 dB at 1 kHz to 9.8 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 3.0 dB (at, not above, the 3 dB flag). On-axis minus listening window above 4 kHz is +1.3 dB: less toe-in by the data, but the speaker is designed to be aimed at the listener; ASR notes response flattens at ±40°. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 126°, vertical about 87°. DI discontinuity is major (ERDI residual 2.5 dB); SPDI rises from 3.3 dB at 1 kHz to 9.8 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 3.0 dB (at, not above, the 3 dB flag). On-axis minus listening window above 4 kHz is +1.3 dB: less toe-in by the data, but the speaker is designed to be aimed at the listener; ASR notes response flattens at ±40°. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-ASR: distortion well controlled at 86 dB, "quite high" at 96 dB (THD about 75 dB SPL near 35 Hz and about 70 dB near 250 Hz, graph-read in dB, no % entered), but good at 91 dB. Sound & Vision reported no audible distortion when playing loud. No compression/max-SPL test. Fine for moderate levels in small and medium rooms; see [[compression-and-max-spl]].
+ASR: distortion well controlled at 86 dB, "quite high" at 96 dB (THD about 75 dB SPL near 35 Hz and about 70 dB near 250 Hz, graph-read in dB, no % entered), but good at 91 dB. Sound & Vision reported no audible distortion when playing loud. No compression/max-SPL test. Fine for moderate levels in small and medium rooms; see [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Maker suggests an 8 Ω setting. ASR shows minimum about 4.0 Ω near 200 Hz (below the 6.4 Ω IEC floor, not below 4 Ω), a second dip about 4.2 Ω near 45 Hz, and several resonances. EPDR not computed. Use an amp comfortable with 4 Ω loads. See [[impedance-and-epdr]].
+Maker suggests an 8 Ω setting. ASR shows minimum about 4.0 Ω near 200 Hz (below the 6.4 Ω IEC floor, not below 4 Ω), a second dip about 4.2 Ω near 45 Hz, and several resonances. EPDR not computed. Use an amp comfortable with 4 Ω loads. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[soundandvision-hsu-research-mfl-6]] (Sound & Vision, Jim Wilson): smooth, precise and detailed; needs careful aiming.
-- [[asr-hsu-research-mfl-6]] (ASR, measurement only): elevated treble, not recommended; no listening test.
+- [soundandvision-hsu-research-mfl-6](../sources/soundandvision-hsu-research-mfl-6.md) (Sound & Vision, Jim Wilson): smooth, precise and detailed; needs careful aiming.
+- [asr-hsu-research-mfl-6](../sources/asr-hsu-research-mfl-6.md) (ASR, measurement only): elevated treble, not recommended; no listening test.
 
 ## User reviews
-Four owner comments on Hsu's own store, all positive (anecdotal, <5); no QC reports ([[users-hsu-research-mfl-6]]).
+Four owner comments on Hsu's own store, all positive (anecdotal, <5); no QC reports ([users-hsu-research-mfl-6](../sources/users-hsu-research-mfl-6.md)).
 
 ## Conflicts
 - Treble: S&V describes smooth, non-harsh sound; ASR measures strongly elevated upper treble. Possibly different aim axes and sample; unresolved.
@@ -76,4 +76,4 @@ Four owner comments on Hsu's own store, all positive (anecdotal, <5); no QC repo
 - Nominal impedance: maker states only an 8 Ω recommended setting; ASR finds 4.0 Ω minimum.
 
 ## Related
-[[hsu-research]] · [[hsu-research-ccb-8]] · [[directivity-index]] · [[impedance-and-epdr]] · [[spinorama]]
+[Hsu Research](../brands/hsu-research.md) · [Hsu Research CCB-8](hsu-research-ccb-8.md) · [directivity-index](../concepts/directivity-index.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [spinorama](../concepts/spinorama.md)

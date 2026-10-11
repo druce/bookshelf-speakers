@@ -35,4 +35,4 @@ Revel's product page, URL tagged "GLOBAL-Current", with the bookshelf listing (r
 Claims only; measured values override.
 
 ## Related
-[[revel-m105]] · [[revel]]
+[Revel M105](../speakers/revel-m105.md) · [Revel](../brands/revel.md)

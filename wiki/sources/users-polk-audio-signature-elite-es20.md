@@ -27,4 +27,4 @@ Only the ASR review thread was usable (retailer sites returned 403 or truncated)
 Fewer than 5 ES20-specific reports; anecdote only. Forum members are measurement-leaning.
 
 ## Related
-[[polk-audio-signature-elite-es20]] · [[asr]]
+[Polk Audio Signature Elite ES20](../speakers/polk-audio-signature-elite-es20.md) · [asr](../reviewers/asr.md)

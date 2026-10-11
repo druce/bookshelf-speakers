@@ -24,4 +24,4 @@ Only 5 reports could be gathered (sites blocked most access), so anecdotal.
 - QC/reliability: no failures or sample-variation reports.
 
 ## Related
-[[jbl-stage-250b]] · [[jbl]]
+[JBL Stage 250B](../speakers/jbl-stage-250b.md) · [JBL](../brands/jbl.md)

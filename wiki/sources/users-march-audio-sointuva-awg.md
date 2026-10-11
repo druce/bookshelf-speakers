@@ -24,4 +24,4 @@ Only the ASR review thread was usable; it contains mostly finish discussion and 
 - QC: no confirmed issues; a possible early-batch connector air-seal issue is unverified (search snippet only).
 
 ## Related
-[[march-audio-sointuva-awg]] · [[march-audio]]
+[March Audio Sointuva AWG](../speakers/march-audio-sointuva-awg.md) · [March Audio](../brands/march-audio.md)

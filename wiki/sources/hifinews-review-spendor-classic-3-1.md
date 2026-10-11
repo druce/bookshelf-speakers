@@ -26,10 +26,10 @@ Outstanding-rated (HFN badge) review at the time of a UK price of GBP 2,730. Pra
 - Design notes: 3.7 kHz crossover, bi-wire/bi-amp terminals, EP77 polymer cone, rear port.
 
 ## Method notes
-Subjective listening review paired with the lab report [[hifinews-spendor-classic-3-1]].
+Subjective listening review paired with the lab report [hifinews-spendor-classic-3-1](hifinews-spendor-classic-3-1.md).
 
 ## Reliability notes
 Single reviewer, UK press sample.
 
 ## Related
-[[spendor-classic-3-1]] · [[spendor]]
+[Spendor Classic 3/1](../speakers/spendor-classic-3-1.md) · [Spendor](../brands/spendor.md)

@@ -43,4 +43,4 @@ Klippel NFS, grille off, reference plane between tweeter and woofer (tweeter axi
 Single sample, loaned by owner. Erin subjective notes (Tier D): midbass punch, treble becomes too much at high volume (he attributes it to directivity mismatch between woofer and tweeter; estimated in-room shows ~+3 dB HF rise), use a subwoofer. Maker rates a 3.6 Ω minimum, matching the measurement.
 
 ## Related
-[[polk-audio-reserve-r100]] · [[erins-audio-corner]] · [[polk-audio]] · [[spinorama-org]]
+[Polk Audio Reserve R100](../speakers/polk-audio-reserve-r100.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Polk Audio](../brands/polk-audio.md) · [spinorama-org](spinorama-org.md)

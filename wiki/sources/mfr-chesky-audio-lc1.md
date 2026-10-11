@@ -21,7 +21,7 @@ Manufacturer-direct page for the 3D-printed LC1 two-way standmount. Sold direct 
 | Field | Value | Note |
 |---|---|---|
 | Nominal impedance | 8 Ω | stated on page; amp advice "30 W/ch at 8 ohms" |
-| Sensitivity (claimed) | 84 dB @ 2.83 V/1 m | already 2.83 V; other sources quote 86 dB (see [[eac-chesky-audio-lc1]]) |
+| Sensitivity (claimed) | 84 dB @ 2.83 V/1 m | already 2.83 V; other sources quote 86 dB (see [eac-chesky-audio-lc1](eac-chesky-audio-lc1.md)) |
 | Claimed FR | 50 Hz-20 kHz | no tolerance, so claimed text only |
 | Drivers | 1" dome tweeter, 6.5" polypropylene bass/mid | |
 | Bass loading | two 8" side-mounted passive radiators | |
@@ -38,4 +38,4 @@ Marketing page; specs are claims. Awards cited on the page (The Absolute Sound E
 Page contains testimonials that mention the LC2, so its review counts are not usable as LC1 evidence.
 
 ## Related
-[[chesky-audio-lc1]] · [[chesky-audio]]
+[Chesky Audio LC1](../speakers/chesky-audio-lc1.md) · [Chesky Audio](../brands/chesky-audio.md)

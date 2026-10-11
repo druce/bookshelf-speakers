@@ -26,4 +26,4 @@ About 10 reports: 4 listening reports in the ASR thread and 6 on the maker's sit
 Small, mixed-source sample; Amazon and Reddit not retrievable. Maker-site reviews likely skew positive.
 
 ## Related
-[[triangle-borea-br03]] · [[triangle]]
+[Triangle Borea BR03](../speakers/triangle-borea-br03.md) · [Triangle](../brands/triangle.md)

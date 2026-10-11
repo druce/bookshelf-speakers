@@ -24,7 +24,7 @@ speakers: [bowers-wilkins-705-s3]
 - Conclusion: midrange and treble resolution outstanding, bass musically satisfying; small rooms and closer wall placement help bass. Used 24" FS-700 S3 stands (reviewer's samples).
 
 ## Reliability notes
-Single reviewer in a room he describes as less favourable than a smaller damped one. Subjective (Tier D). Paired with [[stereophile-bowers-wilkins-705-s3]] measurements.
+Single reviewer in a room he describes as less favourable than a smaller damped one. Subjective (Tier D). Paired with [stereophile-bowers-wilkins-705-s3](stereophile-bowers-wilkins-705-s3.md) measurements.
 
 ## Related
-[[bowers-wilkins-705-s3]] · [[stereophile]]
+[Bowers & Wilkins 705 S3](../speakers/bowers-wilkins-705-s3.md) · [stereophile](../reviewers/stereophile.md)

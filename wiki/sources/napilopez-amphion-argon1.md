@@ -34,4 +34,4 @@ Quasi-anechoic (gated) measurements, horizontal 0-90 degrees, vertical 0/5/10/15
 Hobbyist rig, stated method, Tier B. Low-frequency data less reliable below roughly 300 Hz. The reviewer first posted partial data then completed it. Preference score depends on digitisation.
 
 ## Related
-[[amphion-argon1]] · [[amphion]] · [[spinorama-org]]
+[Amphion Argon1](../speakers/amphion-argon1.md) · [Amphion](../brands/amphion.md) · [spinorama-org](spinorama-org.md)

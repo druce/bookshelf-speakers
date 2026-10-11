@@ -46,31 +46,31 @@ The HUMAN 81 DK is a hand-built two-way with an 8" woofer and a minimalist cross
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 85.4 dB (average) | [[asr-human-speakers-81-dk]] | A | computed (scripts/cta2034.py v2) |
-| Claimed sensitivity | 89 dB/1 W = about 90.3 dB at 2.83 V (6 Ω) | [[mfr-human-speakers-81-dk]] | C | converted using the maker's 6 Ω nominal |
-| Listening-window deviation | ±4.5 dB (coloured) | [[asr-human-speakers-81-dk]] | A | computed, 300 Hz-10 kHz |
-| LW dip above f3 | -3.3 dB at 198 Hz | [[asr-human-speakers-81-dk]] | A | computed |
-| On-axis deviation | ±4.2 dB | [[asr-human-speakers-81-dk]] | A | computed |
-| f3 / f6 | 52 / 40 Hz (good) | [[asr-human-speakers-81-dk]] | A | computed |
-| Min impedance | 4.2 Ω @ 113 Hz | [[asr-human-speakers-81-dk]] | A | graph-read (approx.) |
-| Preference score | 2.0 (no sub) / 4.0 (with sub) | [[asr-human-speakers-81-dk]] via [[spinorama-org]] | A | not meaningful to <0.5 |
-| Crossover | about 1.8 kHz | [[mfr-human-speakers-81-dk]] | C | woofer flat to 1,800 Hz per maker |
+| Sensitivity (2.83 V/1 m) | 85.4 dB (average) | [asr-human-speakers-81-dk](../sources/asr-human-speakers-81-dk.md) | A | computed (scripts/cta2034.py v2) |
+| Claimed sensitivity | 89 dB/1 W = about 90.3 dB at 2.83 V (6 Ω) | [mfr-human-speakers-81-dk](../sources/mfr-human-speakers-81-dk.md) | C | converted using the maker's 6 Ω nominal |
+| Listening-window deviation | ±4.5 dB (coloured) | [asr-human-speakers-81-dk](../sources/asr-human-speakers-81-dk.md) | A | computed, 300 Hz-10 kHz |
+| LW dip above f3 | -3.3 dB at 198 Hz | [asr-human-speakers-81-dk](../sources/asr-human-speakers-81-dk.md) | A | computed |
+| On-axis deviation | ±4.2 dB | [asr-human-speakers-81-dk](../sources/asr-human-speakers-81-dk.md) | A | computed |
+| f3 / f6 | 52 / 40 Hz (good) | [asr-human-speakers-81-dk](../sources/asr-human-speakers-81-dk.md) | A | computed |
+| Min impedance | 4.2 Ω @ 113 Hz | [asr-human-speakers-81-dk](../sources/asr-human-speakers-81-dk.md) | A | graph-read (approx.) |
+| Preference score | 2.0 (no sub) / 4.0 (with sub) | [asr-human-speakers-81-dk](../sources/asr-human-speakers-81-dk.md) via [spinorama-org](../sources/spinorama-org.md) | A | not meaningful to <0.5 |
+| Crossover | about 1.8 kHz | [mfr-human-speakers-81-dk](../sources/mfr-human-speakers-81-dk.md) | C | woofer flat to 1,800 Hz per maker |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 148°, vertical about 99°: very wide, so toe-in is less critical (ASR). DI is a minor discontinuity (ERDI residual 1.9 dB); SPDI 6.8 dB at 1 kHz to 8.5 dB at 10 kHz. The early-reflection dip near 1.5 kHz is 5.7 dB, well above the 3 dB flag, from the crossover-region problem. On-axis minus listening window above 4 kHz is +0.1 dB, so either aim works. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 148°, vertical about 99°: very wide, so toe-in is less critical (ASR). DI is a minor discontinuity (ERDI residual 1.9 dB); SPDI 6.8 dB at 1 kHz to 8.5 dB at 10 kHz. The early-reflection dip near 1.5 kHz is 5.7 dB, well above the 3 dB flag, from the crossover-region problem. On-axis minus listening window above 4 kHz is +0.1 dB, so either aim works. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No max-SPL test. ASR's 86 dB sweep shows THD around 50 dB SPL in the 50-300 Hz region (graph-read, dB not %, so no % entered), with a narrow spike near 7 kHz. At 96 dB distortion is "quite high" (about 70 dB SPL from 40-300 Hz and about 68 dB near 2 kHz) and was audible to the reviewer. Treat as suitable for moderate levels; see [[compression-and-max-spl]].
+No max-SPL test. ASR's 86 dB sweep shows THD around 50 dB SPL in the 50-300 Hz region (graph-read, dB not %, so no % entered), with a narrow spike near 7 kHz. At 96 dB distortion is "quite high" (about 70 dB SPL from 40-300 Hz and about 68 dB near 2 kHz) and was audible to the reviewer. Treat as suitable for moderate levels; see [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Maker: nominally 6 Ω, 5-6 Ω mid-bass dip, fine with any amp rated for 8 Ω. ASR measured a 4.2 Ω minimum at 113 Hz, below the 4.8 Ω IEC floor for 6 Ω (flag `below-iec`), with resonances above 1 kHz. EPDR not computed. See [[impedance-and-epdr]].
+Maker: nominally 6 Ω, 5-6 Ω mid-bass dip, fine with any amp rated for 8 Ω. ASR measured a 4.2 Ω minimum at 113 Hz, below the 4.8 Ω IEC floor for 6 Ω (flag `below-iec`), with resonances above 1 kHz. EPDR not computed. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[asr-human-speakers-81-dk]] (ASR, measurement only, no listening): "colored and flawed"; not recommended.
+- [asr-human-speakers-81-dk](../sources/asr-human-speakers-81-dk.md) (ASR, measurement only, no listening): "colored and flawed"; not recommended.
 No other professional review of the 81 DK was found.
 
 ## User reviews
-No owner reports of the 81 dk found ([[users-human-speakers-81-dk]]).
+No owner reports of the 81 dk found ([users-human-speakers-81-dk](../sources/users-human-speakers-81-dk.md)).
 
 ## Conflicts
 - Sensitivity: 85.4 dB measured vs about 90.3 dB claimed (89 dB/1 W at 6 Ω); 4.9 dB gap. Claimed FR ±2 dB 38 Hz-26 kHz is also not borne out (tweeter falls by about 5 kHz).
@@ -78,4 +78,4 @@ No owner reports of the 81 dk found ([[users-human-speakers-81-dk]]).
 - Maker says the speakers can be called 6 or 8 Ω; 6 Ω used here.
 
 ## Related
-[[human-speakers]] · [[directivity-index]] · [[impedance-and-epdr]] · [[spinorama]]
+[Human Speakers](../brands/human-speakers.md) · [directivity-index](../concepts/directivity-index.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [spinorama](../concepts/spinorama.md)

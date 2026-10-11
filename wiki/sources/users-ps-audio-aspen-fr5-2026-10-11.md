@@ -29,4 +29,4 @@ Only 3 independent owners found, all in a manufacturer-run forum thread (Aug 202
 Company staff replied in the thread (excluded). Model-extracted summary, not verbatim.
 
 ## Related
-[[ps-audio-aspen-fr5]] · [[ps-audio]]
+[PS Audio Aspen FR5](../speakers/ps-audio-aspen-fr5.md) · [PS Audio](../brands/ps-audio.md)

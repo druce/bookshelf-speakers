@@ -46,26 +46,26 @@ The Amphion Argon1 is an 8 Ω, two-way, ported Finnish standmount with a 1" tita
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Preference score | 4.79 (no sub) / 7.01 (with sub) | [[napilopez-amphion-argon1]] via [[spinorama-org]] | B | digitised plots; coarse aid only |
-| On-axis response | rising treble; flattest 15-30° off-axis | [[napilopez-amphion-argon1]] | B | reviewer observation; gated at 6.5 ms, tweeter axis |
-| Midrange | messiness 400-900 Hz | [[napilopez-amphion-argon1]] | B | changes with angle |
-| Sensitivity | not measured; claimed 86 dB | [[mfr-amphion-argon1]] | C | basis unstated |
-| Crossover | 1600 Hz | [[mfr-amphion-argon1]] | C | |
+| Preference score | 4.79 (no sub) / 7.01 (with sub) | [napilopez-amphion-argon1](../sources/napilopez-amphion-argon1.md) via [spinorama-org](../sources/spinorama-org.md) | B | digitised plots; coarse aid only |
+| On-axis response | rising treble; flattest 15-30° off-axis | [napilopez-amphion-argon1](../sources/napilopez-amphion-argon1.md) | B | reviewer observation; gated at 6.5 ms, tweeter axis |
+| Midrange | messiness 400-900 Hz | [napilopez-amphion-argon1](../sources/napilopez-amphion-argon1.md) | B | changes with angle |
+| Sensitivity | not measured; claimed 86 dB | [mfr-amphion-argon1](../sources/mfr-amphion-argon1.md) | C | basis unstated |
+| Crossover | 1600 Hz | [mfr-amphion-argon1](../sources/mfr-amphion-argon1.md) | C | |
 | LW deviation, f3, f6, beamwidths, impedance, THD | not measured/computed | | | no raw data or tests available |
 
 ## Directivity
-Napilopez describes nice horizontal directivity with a waveguide that does not extend high-treble directivity much, and a clean off-axis radiation pattern around a 20° listening axis. No computed beamwidth, ERDI or toe-in figure exists; his advice is minimal toe-in. See [[directivity-index]], [[early-reflections]].
+Napilopez describes nice horizontal directivity with a waveguide that does not extend high-treble directivity much, and a clean off-axis radiation pattern around a 20° listening axis. No computed beamwidth, ERDI or toe-in figure exists; his advice is minimal toe-in. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No distortion or compression measurements found. HiFiReport reports the woofer bottoming out when a 35 W amplifier was pushed hard, and composed at high levels with 100 W (Tier D). Likely fine for small-to-medium rooms at moderate levels. See [[compression-and-max-spl]].
+No distortion or compression measurements found. HiFiReport reports the woofer bottoming out when a 35 W amplifier was pushed hard, and composed at high levels with 100 W (Tier D). Likely fine for small-to-medium rooms at moderate levels. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Maker rates 8 Ω with 25-150 W recommended; impedance was not measured, so the minimum, EPDR and any flag are unknown. HiFiReport found 35 W adequate for most music. See [[impedance-and-epdr]].
+Maker rates 8 Ω with 25-150 W recommended; impedance was not measured, so the minimum, EPDR and any flag are unknown. HiFiReport found 35 W adequate for most music. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[audiophilia-amphion-argon1]] (Audiophilia, Star Component Award): expansive imaging, tonal uniformity, fast clear bass, coherent mids.
-- [[hifireport-amphion-argon1]] (HiFiReport): clear, bright-but-not-harsh, wide stage in near-field; limited by amplifier at high volume.
-- [[napilopez-amphion-argon1]] (Tier D listening notes): neutral timbre, vocal clarity, bass surprising for 5" woofers.
+- [audiophilia-amphion-argon1](../sources/audiophilia-amphion-argon1.md) (Audiophilia, Star Component Award): expansive imaging, tonal uniformity, fast clear bass, coherent mids.
+- [hifireport-amphion-argon1](../sources/hifireport-amphion-argon1.md) (HiFiReport): clear, bright-but-not-harsh, wide stage in near-field; limited by amplifier at high volume.
+- [napilopez-amphion-argon1](../sources/napilopez-amphion-argon1.md) (Tier D listening notes): neutral timbre, vocal clarity, bass surprising for 5" woofers.
 
 ## User reviews
 No user reports ingested yet.
@@ -76,4 +76,4 @@ No user reports ingested yet.
 - Sensitivity 86 dB is claimed only; not verified.
 
 ## Related
-[[amphion]] · Buchardt Audio S400 MKII · Sonus Faber Sonetto II G2 · [[elac-debut-reference-dbr-62]] · [[spinorama]] · [[preference-score]]
+[Amphion](../brands/amphion.md) · Buchardt Audio S400 MKII · Sonus Faber Sonetto II G2 · [Elac Debut Reference DBR-62](elac-debut-reference-dbr-62.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

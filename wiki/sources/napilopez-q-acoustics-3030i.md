@@ -37,4 +37,4 @@ Quasi-anechoic gated measurement (taller aspect ratio than Klippel setups); bass
 Single sample, author-measured; the spinorama.org record is webplotdigitizer data. Author wrote "Better than the 3020i, and more bass" (Tier D opinion).
 
 ## Related
-[[q-acoustics-3030i]] · [[q-acoustics]] · [[spinorama-org]]
+[Q Acoustics 3030i](../speakers/q-acoustics-3030i.md) · [Q Acoustics](../brands/q-acoustics.md) · [spinorama-org](spinorama-org.md)

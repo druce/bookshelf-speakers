@@ -46,29 +46,29 @@ The Salk WoW1 is a small hand-built, front-ported two-way mini-monitor (Hiquphon
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 78.2 dB (low) | [[asr-salk-wow1]] | A | computed (scripts/cta2034.py v2); claimed 82 dB per [[mfr-salk-wow1]] |
-| Listening-window deviation | ±3.1 dB, 300 Hz-10 kHz (coloured edge, between good and coloured) | [[asr-salk-wow1]] | A | computed |
-| On-axis deviation | ±3.3 dB | [[asr-salk-wow1]] | A | computed |
-| f3 / f6 | 54 / 46 Hz | [[asr-salk-wow1]] | A | computed; port response drops in 500-700 Hz region, see Directivity |
-| Min impedance | ~3.3 Ω near 4-5 kHz | [[asr-salk-wow1]] | A | graph-read (approx.); graph label says 6.5 Ω "in bass" |
-| THD 86 dB | ~2.2% near 100 Hz | [[asr-salk-wow1]] | A | graph-read; off-scale below ~90 Hz |
-| THD 96 dB | >5% below ~140 Hz; 1-1.5% above | [[asr-salk-wow1]] | A | graph-read; null in frontmatter |
-| Preference score | 4.4 (no sub) / 6.6 (sub) | [[asr-salk-wow1]] via [[spinorama-org]] | A | ignores distortion and max output |
+| Sensitivity (2.83 V/1 m) | 78.2 dB (low) | [asr-salk-wow1](../sources/asr-salk-wow1.md) | A | computed (scripts/cta2034.py v2); claimed 82 dB per [mfr-salk-wow1](../sources/mfr-salk-wow1.md) |
+| Listening-window deviation | ±3.1 dB, 300 Hz-10 kHz (coloured edge, between good and coloured) | [asr-salk-wow1](../sources/asr-salk-wow1.md) | A | computed |
+| On-axis deviation | ±3.3 dB | [asr-salk-wow1](../sources/asr-salk-wow1.md) | A | computed |
+| f3 / f6 | 54 / 46 Hz | [asr-salk-wow1](../sources/asr-salk-wow1.md) | A | computed; port response drops in 500-700 Hz region, see Directivity |
+| Min impedance | ~3.3 Ω near 4-5 kHz | [asr-salk-wow1](../sources/asr-salk-wow1.md) | A | graph-read (approx.); graph label says 6.5 Ω "in bass" |
+| THD 86 dB | ~2.2% near 100 Hz | [asr-salk-wow1](../sources/asr-salk-wow1.md) | A | graph-read; off-scale below ~90 Hz |
+| THD 96 dB | >5% below ~140 Hz; 1-1.5% above | [asr-salk-wow1](../sources/asr-salk-wow1.md) | A | graph-read; null in frontmatter |
+| Preference score | 4.4 (no sub) / 6.6 (sub) | [asr-salk-wow1](../sources/asr-salk-wow1.md) via [spinorama-org](../sources/spinorama-org.md) | A | ignores distortion and max output |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 154°, vertical about 116°, but ASR says the width is uneven. DI shows a minor discontinuity (ERDI residual 2.0 dB); SPDI rises from 5.1 dB at 1 kHz to 6.3 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 1.8 dB, under the 3 dB flag. ASR notes the woofer becoming directional while the tweeter is not at the crossover, adding to the 500-700 Hz dip. On-axis minus listening window above 4 kHz is +0.3 dB, so either aim works. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 154°, vertical about 116°, but ASR says the width is uneven. DI shows a minor discontinuity (ERDI residual 2.0 dB); SPDI rises from 5.1 dB at 1 kHz to 6.3 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 1.8 dB, under the 3 dB flag. ASR notes the woofer becoming directional while the tweeter is not at the crossover, adding to the 500-700 Hz dip. On-axis minus listening window above 4 kHz is +0.3 dB, so either aim works. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Distortion is high in the bass: THD about 2.2% near 100 Hz at 86 dB and off the 5% scale below about 90 Hz; at 96 dB it is off-scale below about 140 Hz with the tweeter rising to about 1.5% above 5 kHz. ASR heard "brrr" distortion in the bass and recommends a 40 Hz high-pass; SPL limiting is gradual. Max SPL was not measured. With 78 dB sensitivity and a 4.7" woofer, expect limited output: near-field or small rooms only. See [[compression-and-max-spl]].
+Distortion is high in the bass: THD about 2.2% near 100 Hz at 86 dB and off the 5% scale below about 90 Hz; at 96 dB it is off-scale below about 140 Hz with the tweeter rising to about 1.5% above 5 kHz. ASR heard "brrr" distortion in the bass and recommends a 40 Hz high-pass; SPL limiting is gradual. Max SPL was not measured. With 78 dB sensitivity and a 4.7" woofer, expect limited output: near-field or small rooms only. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Maker says 8 Ω nominal. Impedance peaks about 22-27 Ω in bass and mids, but the graph-read minimum is about 3.3 Ω around 4-5 kHz, so flagged `effectively-4ohm` (the ASR graph label instead says 6.5 Ω in bass). EPDR was not reported. Low sensitivity means power demand is high (maker suggests 100 W); use a strong amplifier stable into 4 Ω. See [[impedance-and-epdr]].
+Maker says 8 Ω nominal. Impedance peaks about 22-27 Ω in bass and mids, but the graph-read minimum is about 3.3 Ω around 4-5 kHz, so flagged `effectively-4ohm` (the ASR graph label instead says 6.5 Ω in bass). EPDR was not reported. Low sensitivity means power demand is high (maker suggests 100 W); use a strong amplifier stable into 4 Ω. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-No professional (Tier D) review found. ASR's listening notes ([[asr-salk-wow1]], Tier D): bass muted and muffled without EQ, better with vocals and strings; could not recommend; with a 40 Hz high-pass and a dip fix it became "rather enjoyable".
+No professional (Tier D) review found. ASR's listening notes ([asr-salk-wow1](../sources/asr-salk-wow1.md), Tier D): bass muted and muffled without EQ, better with vocals and strings; could not recommend; with a 40 Hz high-pass and a dip fix it became "rather enjoyable".
 
 ## User reviews
-About 2 owner remarks, so anecdotal ([[users-salk-wow1]]): one owner's near-field measurements show the same lower-midrange sag and notes the low sensitivity; the rest is reaction to the ASR measurements. Several members speculate the tested sample was defective (unconfirmed); Salk's service reputation is praised by 3 members (secondhand). No confirmed QC issues.
+About 2 owner remarks, so anecdotal ([users-salk-wow1](../sources/users-salk-wow1.md)): one owner's near-field measurements show the same lower-midrange sag and notes the low sensitivity; the rest is reaction to the ASR measurements. Several members speculate the tested sample was defective (unconfirmed); Salk's service reputation is praised by 3 members (secondhand). No confirmed QC issues.
 
 ## Conflicts
 - Sensitivity: 78.2 dB measured (ASR) vs 82 dB claimed (unit not stated by maker); about 4 dB lower than claimed.
@@ -79,4 +79,4 @@ About 2 owner remarks, so anecdotal ([[users-salk-wow1]]): one owner's near-fiel
 - Weight (23 lb) not specified as each or per pair; left null.
 
 ## Related
-[[salk]] · [[revel-m105]] · [[revel-m16]] · [[spinorama]] · [[preference-score]] · [[sensitivity-normalization]]
+[Salk](../brands/salk.md) · [Revel M105](revel-m105.md) · [Revel M16](revel-m16.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md) · [sensitivity-normalization](../concepts/sensitivity-normalization.md)

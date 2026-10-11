@@ -31,4 +31,4 @@ Listening only; no measurements in the captured text.
 Single listening panel, unnamed byline. Review described the speaker, not its price against alternatives.
 
 ## Related
-[[revel-m105]] · [[revel]]
+[Revel M105](../speakers/revel-m105.md) · [Revel](../brands/revel.md)

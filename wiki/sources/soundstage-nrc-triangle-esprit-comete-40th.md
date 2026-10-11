@@ -15,7 +15,7 @@ speakers: [triangle-esprit-comete-40th]
 # SoundStage!/NRC: Triangle 40th Anniversary Comete measurements (2021-09-15)
 
 ## Summary
-Anechoic-chamber measurements from Canada's National Research Council, published alongside the SoundStage! review ([[soundstage-triangle-esprit-comete-40th]]). Sensitivity is stated as 88.0 dB (2.83 V / 1 m). Everything else is read from graphs. Response is fairly even through the midrange with a dip near 4 kHz and a narrow notch near 16 kHz; bass drops steeply below about 90 Hz in this measurement.
+Anechoic-chamber measurements from Canada's National Research Council, published alongside the SoundStage! review ([soundstage-triangle-esprit-comete-40th](soundstage-triangle-esprit-comete-40th.md)). Sensitivity is stated as 88.0 dB (2.83 V / 1 m). Everything else is read from graphs. Response is fairly even through the midrange with a dip near 4 kHz and a narrow notch near 16 kHz; bass drops steeply below about 90 Hz in this measurement.
 
 ## Extracted values
 | Field | Value | Note |
@@ -37,4 +37,4 @@ NRC anechoic chamber, microphone on the tweeter axis, grille off, measured at 2 
 Tier A anechoic, single sample from the manufacturer or distributor loan. Page lists no numeric f3 or deviation values; all values marked approximate were read by eye from low-resolution images. The review sample is the 2021 launch version; the current US page describes the same 400 mm cabinet and driver complement, but later production changes cannot be excluded.
 
 ## Related
-[[triangle-esprit-comete-40th]] · [[soundstage-nrc]] · [[triangle]]
+[Triangle Esprit Comete 40th](../speakers/triangle-esprit-comete-40th.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Triangle](../brands/triangle.md)

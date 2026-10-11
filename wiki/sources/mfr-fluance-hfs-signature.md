@@ -36,4 +36,4 @@ Manufacturer data, Tier C. Status: listed on maker's US site and Newegg Business
 Marketing page; spec table via model-extracted text.
 
 ## Related
-[[fluance-hfs-signature]] · [[fluance]]
+[Fluance HFS Signature](../speakers/fluance-hfs-signature.md) · [Fluance](../brands/fluance.md)

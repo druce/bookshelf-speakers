@@ -32,4 +32,4 @@ Paraphrased notes; thread members also discussed measurements (PIR slope, 3 kHz 
 Early impressions after about 4 hours, enthusiast forum, no sample-variation data.
 
 ## Related
-[[ascend-acoustics-sierra-lx]] · [[ascend-acoustics]]
+[Ascend Acoustics Sierra-LX](../speakers/ascend-acoustics-sierra-lx.md) · [Ascend Acoustics](../brands/ascend-acoustics.md)

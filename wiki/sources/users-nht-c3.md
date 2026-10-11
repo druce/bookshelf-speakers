@@ -26,4 +26,4 @@ Only 2 owner comments found (ASR thread), so anecdotal.
 Fewer than 5 reports; no retailer review summaries were reachable.
 
 ## Related
-[[nht-c3]] · [[asr-nht-c3]]
+[NHT C3](../speakers/nht-c3.md) · [asr-nht-c3](asr-nht-c3.md)

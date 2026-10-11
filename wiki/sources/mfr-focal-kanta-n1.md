@@ -38,4 +38,4 @@ TMR page lacks a spec table; Upscale page has one. Prices are 2026-10-11 retaile
 Stock evidence is mixed (Upscale shows both "in stock" and "sold out"). Status kept `current` because an authorized dealer lists it new.
 
 ## Related
-[[focal-kanta-n1]] · [[focal]]
+[Focal Kanta N°1](../speakers/focal-kanta-n1.md) · [Focal](../brands/focal.md)

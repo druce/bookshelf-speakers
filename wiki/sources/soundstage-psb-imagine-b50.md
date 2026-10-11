@@ -23,10 +23,10 @@ Dennis Burger rates the B50 an unusually capable $699 standmount and gives it a 
 - Strong value; alternatives named: Monitor Audio Bronze 50 6G, Paradigm Premier 100B.
 
 ## Method notes
-Listening review; price at review $699/pair. Companion NRC data: [[soundstage-nrc-psb-imagine-b50]].
+Listening review; price at review $699/pair. Companion NRC data: [soundstage-nrc-psb-imagine-b50](soundstage-nrc-psb-imagine-b50.md).
 
 ## Reliability notes
 Capture is not verbatim; claims are summary-level. Reviewer-supplied loaner presumed.
 
 ## Related
-[[psb-imagine-b50]] · [[psb]]
+[PSB Imagine B50](../speakers/psb-imagine-b50.md) · [PSB](../brands/psb.md)

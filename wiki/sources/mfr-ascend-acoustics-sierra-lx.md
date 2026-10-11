@@ -37,4 +37,4 @@ Maker's own Klippel NFS data; Tier C.
 Marketing copy ("sound like large towers"). The in-room figures are not anechoic.
 
 ## Related
-[[ascend-acoustics-sierra-lx]] · [[ascend-acoustics]]
+[Ascend Acoustics Sierra-LX](../speakers/ascend-acoustics-sierra-lx.md) · [Ascend Acoustics](../brands/ascend-acoustics.md)

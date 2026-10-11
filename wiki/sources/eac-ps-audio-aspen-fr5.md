@@ -40,4 +40,4 @@ Klippel NFS export, dB SPL @ 2.83 V / 1 m. The meaning of "20-degree" vs "0-degr
 Review text was not available, so Erin's own sensitivity, impedance and distortion findings are not captured. SpeakerRanking (aggregator, not ingested) quotes EAC sensitivity near 81.6 dB, consistent with the computed value.
 
 ## Related
-[[ps-audio-aspen-fr5]] · [[erins-audio-corner]] · [[spinorama-org]] · [[ps-audio]]
+[PS Audio Aspen FR5](../speakers/ps-audio-aspen-fr5.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [spinorama-org](spinorama-org.md) · [PS Audio](../brands/ps-audio.md)

@@ -34,7 +34,7 @@ Manufacturer spec page for the 6 Ω, 5.25" two-way front-ported standmount. The 
 Spec sheet only; claimed values.
 
 ## Reliability notes
-Manufacturer figures (Tier C). Measured sensitivity is about 2.7 dB lower; see [[eac-elac-debut-2-0-b5-2]].
+Manufacturer figures (Tier C). Measured sensitivity is about 2.7 dB lower; see [eac-elac-debut-2-0-b5-2](eac-elac-debut-2-0-b5-2.md).
 
 ## Related
-[[elac-debut-2-0-b5-2]] · [[elac]]
+[Elac Debut 2.0 B5.2](../speakers/elac-debut-2-0-b5-2.md) · [Elac](../brands/elac.md)

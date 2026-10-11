@@ -28,4 +28,4 @@ Amazon shows 4.5/5 from only 23 ratings, so this is anecdotal. Themes: good valu
 None reported in retrieved excerpts.
 
 ## Related
-[[neumi-silk-4]] · [[neumi]]
+[Neumi Silk 4](../speakers/neumi-silk-4.md) · [Neumi](../brands/neumi.md)

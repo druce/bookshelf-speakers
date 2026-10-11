@@ -30,4 +30,4 @@ Listening on Tri-Art class D integrated and a Mytek DAC.
 Single reviewer, strongly positive; US price from 2021 is stale.
 
 ## Related
-[[amphion-argon1]] · [[amphion]]
+[Amphion Argon1](../speakers/amphion-argon1.md) · [Amphion](../brands/amphion.md)

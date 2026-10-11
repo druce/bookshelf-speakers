@@ -20,7 +20,7 @@ John Atkinson's quasi-anechoic MLSSA measurements of the F500SP. Sensitivity cam
 ## Extracted values
 | Field | Value | Note |
 |---|---|---|
-| sensitivity_db_2v83 | 87 dB(B) / 2.83 V / 1 m | reviewer's estimate; claimed 90 dB per [[mfr-fyne-audio-f500sp]] |
+| sensitivity_db_2v83 | 87 dB(B) / 2.83 V / 1 m | reviewer's estimate; claimed 90 dB per [mfr-fyne-audio-f500sp](mfr-fyne-audio-f500sp.md) |
 | min_impedance_ohm | 5.0 Ω, 157-203 Hz | stated in text |
 | impedance above 6 Ω | "almost all the audioband" | stated in text |
 | epdr_min_ohm | 2.32 Ω @ 121 Hz | stated; EPDR below 3 Ω from 111-161 Hz, above 4 Ω through treble |
@@ -40,4 +40,4 @@ DRA Labs MLSSA with Earthworks preamp and DPA 4006 mic for farfield (grille off,
 Single sample (review loaner). Values are from text; the impedance figure was also saved (raw/assets/stereophile-fyne-audio-f500sp-impedance.jpg) but the text figures were used. No numeric spinorama metrics (f3, LW deviation, beamwidth) are published.
 
 ## Related
-[[fyne-audio-f500sp]] · [[stereophile]] · [[fyne-audio]]
+[Fyne Audio F500SP](../speakers/fyne-audio-f500sp.md) · [stereophile](../reviewers/stereophile.md) · [Fyne Audio](../brands/fyne-audio.md)

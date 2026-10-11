@@ -28,4 +28,4 @@ Gader, a long-time ATC owner, gives a "highest recommendation".
 Subjective Tier D; reviewer is a declared ATC fan; reviewed an earlier (2014) production run, possibly before the v2 designation.
 
 ## Related
-[[atc-scm19]] · [[atc]]
+[ATC SCM19](../speakers/atc-scm19.md) · [ATC](../brands/atc.md)

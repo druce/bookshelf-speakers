@@ -20,7 +20,7 @@ No independent owner reports were found. Reddit blocked scripted fetches and the
 ## Themes (counts)
 - Independent owner reports: 0; no pattern can be stated.
 - Manufacturer-site aggregate "4.8, 100+ reviews": not independent and not LC1-specific in the visible testimonials; not counted.
-- QC/reliability: 1 measured pair mismatch reported by [[eac-chesky-audio-lc1]]; no failure reports found.
+- QC/reliability: 1 measured pair mismatch reported by [eac-chesky-audio-lc1](eac-chesky-audio-lc1.md); no failure reports found.
 - Supply: one-person production; lead time 4-6 weeks stated on the maker page.
 
 ## Method notes
@@ -30,4 +30,4 @@ Searches on Reddit, AVS Forum, ASR returned only press coverage.
 Absence of reports reflects a young, small-volume brand.
 
 ## Related
-[[chesky-audio-lc1]] · [[chesky-audio]]
+[Chesky Audio LC1](../speakers/chesky-audio-lc1.md) · [Chesky Audio](../brands/chesky-audio.md)

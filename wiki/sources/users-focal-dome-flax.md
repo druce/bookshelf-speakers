@@ -28,4 +28,4 @@ ASR thread page 2 saved with all posts; no Reddit, retailer or AVS threads retri
 Anecdotal (<5 independent owner reports).
 
 ## Related
-[[focal-dome-flax]] · [[asr-focal-dome-flax]]
+[Focal Dome Flax](../speakers/focal-dome-flax.md) · [asr-focal-dome-flax](asr-focal-dome-flax.md)

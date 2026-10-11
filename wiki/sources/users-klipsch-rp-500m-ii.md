@@ -24,4 +24,4 @@ Direct access to forum and retailer review text failed (AVS redirect to an unver
 - Verdict: anecdotal; no pattern can be stated.
 
 ## Related
-[[klipsch-rp-500m-ii]]
+[Klipsch RP-500M II](../speakers/klipsch-rp-500m-ii.md)

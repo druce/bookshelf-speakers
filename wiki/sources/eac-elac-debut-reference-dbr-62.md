@@ -44,4 +44,4 @@ Klippel NFS, ANSI/CTA-2034-A; grille off; tweeter reference. Compression test is
 Single self-purchased sample. Phase is about -60 deg near 90-100 Hz where impedance is 7-10 ohm (graph-read).
 
 ## Related
-[[elac-debut-reference-dbr-62]] · [[erins-audio-corner]] · [[elac]] · [[spinorama-org]]
+[Elac Debut Reference DBR-62](../speakers/elac-debut-reference-dbr-62.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Elac](../brands/elac.md) · [spinorama-org](spinorama-org.md)

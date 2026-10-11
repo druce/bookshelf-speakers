@@ -14,7 +14,7 @@ speakers: [bowers-wilkins-805-d4]
 # SoundStage! Ultra: 805 D4
 
 ## Summary
-Hans Wetzel calls the 805 D4 a "detail monster" with a sensational diamond tweeter, exemplary bass control and an assertive treble emphasis that can tire at high volume. Companion NRC measurements are in [[soundstage-bowers-wilkins-805-d4]].
+Hans Wetzel calls the 805 D4 a "detail monster" with a sensational diamond tweeter, exemplary bass control and an assertive treble emphasis that can tire at high volume. Companion NRC measurements are in [soundstage-bowers-wilkins-805-d4](soundstage-bowers-wilkins-805-d4.md).
 
 ## Key claims
 - Diamond tweeter and Continuum woofer give microscopic definition; stereo separation excellent.
@@ -29,4 +29,4 @@ Listening review at the reviewer's home with Hegel and other amplification.
 Single reviewer, single sample; price is stale (now $10,000).
 
 ## Related
-[[bowers-wilkins-805-d4]] · [[soundstage-nrc]] · [[bowers-wilkins]]
+[Bowers & Wilkins 805 D4](../speakers/bowers-wilkins-805-d4.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

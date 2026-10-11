@@ -46,28 +46,28 @@ The B&W 705 S3 is an 8 Ω, rear-ported two-way standmount with a 6.5" Continuum 
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity | 88.9 dB(B) (high) | [[stereophile-bowers-wilkins-705-s3]] | B | B-weighted estimate; claimed 88 dB per [[mfr-bowers-wilkins-705-s3]] |
-| Min impedance | ~3.9 Ω @ ~20 kHz | [[stereophile-bowers-wilkins-705-s3]] | B | graph-read (approx.); maker states 3.7 Ω; above 5 Ω across nearly all of the audioband |
-| EPDR minimum | 1.9 Ω @ 8.6 kHz (2.6 Ω @ 56 Hz, 2.3 Ω @ 117 Hz) | [[stereophile-bowers-wilkins-705-s3]] | B | stated |
-| Crossover | ~3 kHz, shallow slopes | [[stereophile-bowers-wilkins-705-s3]] | B | |
-| Port tuning | ~45 Hz | [[stereophile-bowers-wilkins-705-s3]] | B | alignment maximally flat |
-| Tweeter-axis response | rises to about +10 dB peak at 10 kHz | [[stereophile-bowers-wilkins-705-s3]] | B | both samples identical; no deviation figure given |
-| Side-panel resonance | 617 Hz, high Q | [[stereophile-bowers-wilkins-705-s3]] | B | accelerometer |
+| Sensitivity | 88.9 dB(B) (high) | [stereophile-bowers-wilkins-705-s3](../sources/stereophile-bowers-wilkins-705-s3.md) | B | B-weighted estimate; claimed 88 dB per [mfr-bowers-wilkins-705-s3](../sources/mfr-bowers-wilkins-705-s3.md) |
+| Min impedance | ~3.9 Ω @ ~20 kHz | [stereophile-bowers-wilkins-705-s3](../sources/stereophile-bowers-wilkins-705-s3.md) | B | graph-read (approx.); maker states 3.7 Ω; above 5 Ω across nearly all of the audioband |
+| EPDR minimum | 1.9 Ω @ 8.6 kHz (2.6 Ω @ 56 Hz, 2.3 Ω @ 117 Hz) | [stereophile-bowers-wilkins-705-s3](../sources/stereophile-bowers-wilkins-705-s3.md) | B | stated |
+| Crossover | ~3 kHz, shallow slopes | [stereophile-bowers-wilkins-705-s3](../sources/stereophile-bowers-wilkins-705-s3.md) | B | |
+| Port tuning | ~45 Hz | [stereophile-bowers-wilkins-705-s3](../sources/stereophile-bowers-wilkins-705-s3.md) | B | alignment maximally flat |
+| Tweeter-axis response | rises to about +10 dB peak at 10 kHz | [stereophile-bowers-wilkins-705-s3](../sources/stereophile-bowers-wilkins-705-s3.md) | B | both samples identical; no deviation figure given |
+| Side-panel resonance | 617 Hz, high Q | [stereophile-bowers-wilkins-705-s3](../sources/stereophile-bowers-wilkins-705-s3.md) | B | accelerometer |
 | f3, LW deviation, preference score | not measured | | | no Tier-A data |
 
 ## Directivity
-No beamwidth figures. Stereophile reports wide horizontal dispersion, with top-octave output falling beyond 20 degrees off axis, so pointing the speakers straight ahead rather than toeing in should reduce the 10 kHz energy excess. In the vertical plane a suckout appears in the crossover region 5 degrees above and more than 10 degrees below the tweeter axis, so ear height should be on or just below the tweeter axis (Stereophile). See [[directivity-index]], [[early-reflections]].
+No beamwidth figures. Stereophile reports wide horizontal dispersion, with top-octave output falling beyond 20 degrees off axis, so pointing the speakers straight ahead rather than toeing in should reduce the 10 kHz energy excess. In the vertical plane a suckout appears in the crossover region 5 degrees above and more than 10 degrees below the tweeter axis, so ear height should be on or just below the tweeter axis (Stereophile). See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No distortion or compression measurement was found. B&W claims under 1% THD from 100 Hz to 22 kHz at 90 dB at 1 m (claimed, Tier C). Stereophile's reviewer found it distortion-free until very high levels, and What Hi-Fi? called it very clean (Tier D). Stereophile found deep bass limited (no measured f3), so large rooms and loud orchestral material expose the lack of low bass. See [[compression-and-max-spl]].
+No distortion or compression measurement was found. B&W claims under 1% THD from 100 Hz to 22 kHz at 90 dB at 1 m (claimed, Tier C). Stereophile's reviewer found it distortion-free until very high levels, and What Hi-Fi? called it very clean (Tier D). Stereophile found deep bass limited (no measured f3), so large rooms and loud orchestral material expose the lack of low bass. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-8 Ω nominal, but impedance dips below 4 Ω above 15 kHz and EPDR falls to 1.9 Ω at 8.6 kHz, so flagged `effectively-4ohm` (minimum below 4 Ω). Stereophile says to pair it with amplifiers that cope with low impedances. Avoid weak or marginal amps; use a stable amp rated for 4 Ω. See [[impedance-and-epdr]].
+8 Ω nominal, but impedance dips below 4 Ω above 15 kHz and EPDR falls to 1.9 Ω at 8.6 kHz, so flagged `effectively-4ohm` (minimum below 4 Ω). Stereophile says to pair it with amplifiers that cope with low impedances. Avoid weak or marginal amps; use a stable amp rated for 4 Ω. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[stereophile-review-bowers-wilkins-705-s3]] (Stereophile, Kalman Rubinson): outstanding midrange and treble resolution, wide stage, satisfying but not deep bass; bass-light on large orchestral music.
-- [[whathifi-bowers-wilkins-705-s3]] (What Hi-Fi?, sound 4/5): refined, clean, spacious but cool and detached; tuned for higher volumes.
-- [[trustedreviews-bowers-wilkins-705-s3]] (Trusted Reviews): clean, expansive, detailed; dull at low volume; avoid analytical electronics.
+- [stereophile-review-bowers-wilkins-705-s3](../sources/stereophile-review-bowers-wilkins-705-s3.md) (Stereophile, Kalman Rubinson): outstanding midrange and treble resolution, wide stage, satisfying but not deep bass; bass-light on large orchestral music.
+- [whathifi-bowers-wilkins-705-s3](../sources/whathifi-bowers-wilkins-705-s3.md) (What Hi-Fi?, sound 4/5): refined, clean, spacious but cool and detached; tuned for higher volumes.
+- [trustedreviews-bowers-wilkins-705-s3](../sources/trustedreviews-bowers-wilkins-705-s3.md) (Trusted Reviews): clean, expansive, detailed; dull at low volume; avoid analytical electronics.
 
 ## User reviews
 No user reports ingested yet (retailer and forum pages blocked or unavailable). The Ear's listener comment about prominent treble in his room is not counted.
@@ -79,4 +79,4 @@ No user reports ingested yet (retailer and forum pages blocked or unavailable). 
 - Height: the maker lists 345 mm cabinet, 413 mm with the tweeter pod; the form factor scope check used 413 mm.
 
 ## Related
-[[bowers-wilkins]] · [[bowers-wilkins-705-s3-signature]] · Bowers & Wilkins 607 S3 · Bowers & Wilkins 606 S3 · [[impedance-and-epdr]] · [[directivity-index]]
+[Bowers & Wilkins](../brands/bowers-wilkins.md) · [Bowers & Wilkins 705 S3 Signature](bowers-wilkins-705-s3-signature.md) · Bowers & Wilkins 607 S3 · Bowers & Wilkins 606 S3 · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [directivity-index](../concepts/directivity-index.md)

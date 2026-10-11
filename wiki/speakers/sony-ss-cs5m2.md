@@ -46,26 +46,26 @@ The Sony SS-CS5M2 (2025) is a 6 Ω, 3-way, rear-ported budget bookshelf with a 5
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Min impedance | 5.7 Ω (frequency not stated) | [[archimago-sony-ss-cs5m2]] | B | text; Sony rates 6 Ω so above the 4.8 Ω IEC floor |
-| Box tuning | ~62 Hz | [[archimago-sony-ss-cs5m2]] | B | impedance peak |
-| f6 | ~60 Hz | [[archimago-sony-ss-cs5m2]] | B | graph-read (approx.), grille on, gated plus nearfield |
+| Min impedance | 5.7 Ω (frequency not stated) | [archimago-sony-ss-cs5m2](../sources/archimago-sony-ss-cs5m2.md) | B | text; Sony rates 6 Ω so above the 4.8 Ω IEC floor |
+| Box tuning | ~62 Hz | [archimago-sony-ss-cs5m2](../sources/archimago-sony-ss-cs5m2.md) | B | impedance peak |
+| f6 | ~60 Hz | [archimago-sony-ss-cs5m2](../sources/archimago-sony-ss-cs5m2.md) | B | graph-read (approx.), grille on, gated plus nearfield |
 | f3 | not measured/stated | | | |
-| Sensitivity | not stated absolutely; M2 is 1.2 dB louder than M1 | [[archimago-sony-ss-cs5m2]] | B | M1 measured 86.2 dB by Erin per this source; I did not enter an inferred M2 value |
-| Listening-window shape | 1 kHz lift, calmer >8 kHz than M1, rough on-axis above 4 kHz | [[archimago-sony-ss-cs5m2]] | B | qualitative; no deviation figure |
-| Crossover | 2.5 kHz / 17 kHz | [[mfr-sony-ss-cs5m2]] | C | |
+| Sensitivity | not stated absolutely; M2 is 1.2 dB louder than M1 | [archimago-sony-ss-cs5m2](../sources/archimago-sony-ss-cs5m2.md) | B | M1 measured 86.2 dB by Erin per this source; I did not enter an inferred M2 value |
+| Listening-window shape | 1 kHz lift, calmer >8 kHz than M1, rough on-axis above 4 kHz | [archimago-sony-ss-cs5m2](../sources/archimago-sony-ss-cs5m2.md) | B | qualitative; no deviation figure |
+| Crossover | 2.5 kHz / 17 kHz | [mfr-sony-ss-cs5m2](../sources/mfr-sony-ss-cs5m2.md) | C | |
 | Preference score | none | | | no spinorama data |
 
 ## Directivity
-Not measured in full: the reviewer did not run a full spin. Vertical off-axis response gets choppy at -30°, so listen near tweeter height. See [[directivity-index]], [[early-reflections]].
+Not measured in full: the reviewer did not run a full spin. Vertical off-axis response gets choppy at -30°, so listen near tweeter height. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-THD at 93 dB SPL/1 m (graph-read, approx., UMIK-1 mic): under 1% above about 175 Hz, under 3% above 60 Hz, with a spike near 10% around 80 Hz and high distortion below 60 Hz ([[archimago-sony-ss-cs5m2]], Tier B). The level is 93 dB so thd_86/96 are not filled. No max-SPL test. Bass limits practical output; fine for small rooms. See [[compression-and-max-spl]].
+THD at 93 dB SPL/1 m (graph-read, approx., UMIK-1 mic): under 1% above about 175 Hz, under 3% above 60 Hz, with a spike near 10% around 80 Hz and high distortion below 60 Hz ([archimago-sony-ss-cs5m2](../sources/archimago-sony-ss-cs5m2.md), Tier B). The level is 93 dB so thd_86/96 are not filled. No max-SPL test. Bass limits practical output; fine for small rooms. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-6 Ω nominal, 5.7 Ω minimum (Tier B), with kinks near 250 and 500 Hz from box resonance; benign load for most amplifiers. EPDR not measured. See [[impedance-and-epdr]].
+6 Ω nominal, 5.7 Ω minimum (Tier B), with kinks near 250 and 500 Hz from box resonance; benign load for most amplifiers. EPDR not measured. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[archimago-sony-ss-cs5m2]] (Archimago, Tier D listening notes): prefers M2's calmer treble over the M1; clean, precise imaging; bass limited so a subwoofer is advisable. No professional magazine review of the M2 was found.
+- [archimago-sony-ss-cs5m2](../sources/archimago-sony-ss-cs5m2.md) (Archimago, Tier D listening notes): prefers M2's calmer treble over the M1; clean, precise imaging; bass limited so a subwoofer is advisable. No professional magazine review of the M2 was found.
 
 ## User reviews
 No user reports ingested yet.
@@ -75,4 +75,4 @@ No user reports ingested yet.
 - No sensitivity claim for the M2 was found; the M1 is rated 87 dB, and measured 86.2 dB by Erin.
 
 ## Related
-[[sony]] · [[impedance-and-epdr]] · [[bass-extension-vs-room-gain]]
+[Sony](../brands/sony.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [bass-extension-vs-room-gain](../concepts/bass-extension-vs-room-gain.md)

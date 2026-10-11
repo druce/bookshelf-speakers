@@ -26,4 +26,4 @@ Reviewer finds it "an NS-10 in all but name" with matching bass but too bright. 
 Studio-monitor context; the 3-4 dB claim appears to be from the reviewer's measurements but could not be verified verbatim. Consistent with ASR's finding of a strong upper-mid/treble boost.
 
 ## Related
-[[avantone-pro-cla-10]] · [[avantone-pro]]
+[Avantone Pro CLA-10](../speakers/avantone-pro-cla-10.md) · [Avantone Pro](../brands/avantone-pro.md)

@@ -39,4 +39,4 @@ Klippel NFS near-field scan by Erin's Audio Corner. Reference level 82.7 dB. spi
 Single sample; computed metrics reproduced locally from the raw export. Video commentary (impedance, distortion, subjective notes) was not read; a secondary summary says Erin's main complaint was about a 3 dB dip in the upper midrange/lower treble, but that was not verified from the video.
 
 ## Related
-[[buchardt-audio-e50]] · [[erins-audio-corner]] · [[spinorama-org]] · [[buchardt-audio]]
+[Buchardt Audio E50](../speakers/buchardt-audio-e50.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [spinorama-org](spinorama-org.md) · [Buchardt Audio](../brands/buchardt-audio.md)

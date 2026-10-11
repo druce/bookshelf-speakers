@@ -32,4 +32,4 @@ Focal's own site was not scriptable; the ListenUp page (open-box clearance listi
 Several figures come from search snippets of pages that could not be fetched. Form-factor judgement: satellite, not a conventional bookshelf; included as a passive 8 Ω desktop/shelf-capable monitor.
 
 ## Related
-[[focal-dome-flax]] · [[focal]]
+[Focal Dome Flax](../speakers/focal-dome-flax.md) · [Focal](../brands/focal.md)

@@ -40,4 +40,4 @@ Klippel NFS, grille off. THD is a non-anechoic sweep (a forum member says it is 
 Independent, user-purchased sample (loan from a member). ASR plots THD in percent with a 5 % ceiling, so high-level values are clipped. Graph-read values approximate.
 
 ## Related
-[[ascend-acoustics-sierra-1-v2]] · [[asr]] · [[ascend-acoustics]] · [[spinorama-org]]
+[Ascend Acoustics Sierra-1 V2](../speakers/ascend-acoustics-sierra-1-v2.md) · [asr](../reviewers/asr.md) · [Ascend Acoustics](../brands/ascend-acoustics.md) · [spinorama-org](spinorama-org.md)

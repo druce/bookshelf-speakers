@@ -35,4 +35,4 @@ Hi-Fi World's lab method is not described in this article (axis, distance, gatin
 Single sample, supplied by distributor. Republished by 7Review (affiliate site); original magazine page not checked. Internal inconsistency 86.6 vs 87 dB. Reviewer's "6 Ω" differs from the maker's 8 Ω.
 
 ## Related
-[[cambridge-audio-sx-60]] · [[cambridge-audio]] · [[mfr-cambridge-audio-sx-60]]
+[Cambridge Audio SX-60](../speakers/cambridge-audio-sx-60.md) · [Cambridge Audio](../brands/cambridge-audio.md) · [mfr-cambridge-audio-sx-60](mfr-cambridge-audio-sx-60.md)

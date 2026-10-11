@@ -33,4 +33,4 @@ Five-microphone array (on-axis, 15° left/right/up/down), measured at 2 m and pl
 Single sample from the manufacturer via SoundStage!. ASR's Amir called the graphs messy but well correlated with his Klippel data. Pre-dates the current 3020c.
 
 ## Related
-[[q-acoustics-3020i]] · [[soundstage-nrc]] · [[q-acoustics]]
+[Q Acoustics 3020i](../speakers/q-acoustics-3020i.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Q Acoustics](../brands/q-acoustics.md)

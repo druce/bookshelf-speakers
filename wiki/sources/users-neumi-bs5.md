@@ -32,7 +32,7 @@ Amazon's theme tallies (419 ratings, 4.7/5) are strongly positive on value and b
 No failure or sample-variation reports in retrieved excerpts. Availability: Amazon first-party "Currently unavailable".
 
 ## Method notes
-Individual reviews need sign-in; the ASR thread is mainly Erin's cross-post of [[eac-neumi-bs5-v1]] with two brief replies (not owner reports).
+Individual reviews need sign-in; the ASR thread is mainly Erin's cross-post of [eac-neumi-bs5-v1](eac-neumi-bs5-v1.md) with two brief replies (not owner reports).
 
 ## Related
-[[neumi-bs5]] · [[neumi]]
+[Neumi BS5](../speakers/neumi-bs5.md) · [Neumi](../brands/neumi.md)

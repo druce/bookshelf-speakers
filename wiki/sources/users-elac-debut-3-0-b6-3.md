@@ -20,4 +20,4 @@ One owner report, known only from a search summary because the thread returned H
 - Sounded merely fine until placed wider and toed-in (1 report); some boominess on certain tracks (1); finish marks easily (1).
 
 ## Related
-[[elac-debut-3-0-b6-3]] · [[elac]]
+[Elac Debut 3.0 B6.3](../speakers/elac-debut-3-0-b6-3.md) · [Elac](../brands/elac.md)

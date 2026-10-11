@@ -26,4 +26,4 @@ Warmly recommended; stunning stereo soundstaging for the money, with a slight fo
 Tier D; UK magazine; no rating figure captured.
 
 ## Related
-[[elac-debut-2-0-b6-2]] · [[elac]]
+[Elac Debut 2.0 B6.2](../speakers/elac-debut-2-0-b6-2.md) · [Elac](../brands/elac.md)

@@ -31,4 +31,4 @@ Listening with Angstrom Stella, Bel Canto evo 6, Pass Aleph 0s, Parasound A23, D
 Capture is model-extracted. No measurements.
 
 ## Related
-[[wilson-audio-tunetot]] · [[wilson-audio]]
+[Wilson Audio TuneTot](../speakers/wilson-audio-tunetot.md) · [Wilson Audio](../brands/wilson-audio.md)

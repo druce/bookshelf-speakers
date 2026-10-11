@@ -28,4 +28,4 @@ Only 3 owner reports found (What Hi-Fi forum): anecdotal. Reddit and retailer re
 WebFetch (model-extracted). ASR page 2 also saved at raw/reviews-user/asrthread-elac-debut-reference-dbr-62-p2.md; it holds reactions to the measurements, not ownership.
 
 ## Related
-[[elac-debut-reference-dbr-62]] · [[elac]]
+[Elac Debut Reference DBR-62](../speakers/elac-debut-reference-dbr-62.md) · [Elac](../brands/elac.md)

@@ -34,4 +34,4 @@ Microphone position 12 in. up from cabinet bottom (manufacturer-specified), gril
 Independent lab, single sample. Low-frequency behaviour below ~100 Hz from a chamber of this type carries more uncertainty than the Klippel near-field result.
 
 ## Related
-[[psb-imagine-b50]] · [[soundstage-nrc]] · [[psb]]
+[PSB Imagine B50](../speakers/psb-imagine-b50.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [PSB](../brands/psb.md)

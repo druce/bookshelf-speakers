@@ -21,7 +21,7 @@ Enthusiastic review at the then-price of $299.99 per pair. Kanno compares it wit
 - Describes natural, open sound, good piano weight, a very large soundstage; glossed over some micro-detail in strings.
 - Found bass tight and fast on rock tracks but lacking room-filling rumble; "played louder and went lower than I suspected".
 - Compared with the Axiom M3: the M3 had more slam and played louder with less strain; the 3020i was smoother and more laid back on vocals.
-- Concludes it offers as much value as any minimonitor; NRC measurements published separately ([[nrc-q-acoustics-3020i]]).
+- Concludes it offers as much value as any minimonitor; NRC measurements published separately ([nrc-q-acoustics-3020i](nrc-q-acoustics-3020i.md)).
 
 ## Method notes
 Listening only, in the reviewer's room; amplifiers included Axiom ADA1000 and NuPrime MCH-K38.
@@ -30,4 +30,4 @@ Listening only, in the reviewer's room; amplifiers included Axiom ADA1000 and Nu
 Review pre-dates the current price ($349.96 on the maker site).
 
 ## Related
-[[q-acoustics-3020i]] · [[soundstage-nrc]] · [[q-acoustics]]
+[Q Acoustics 3020i](../speakers/q-acoustics-3020i.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Q Acoustics](../brands/q-acoustics.md)

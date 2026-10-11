@@ -22,4 +22,4 @@ speakers: [revel-m106]
 Fewer than 5 reports: anecdote only. Raw thread: raw/reviews-user/asr-thread-revel-m106.md.
 
 ## Related
-[[revel-m106]]
+[Revel M106](../speakers/revel-m106.md)

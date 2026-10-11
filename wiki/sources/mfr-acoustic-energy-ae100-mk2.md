@@ -35,4 +35,4 @@ Maker page lists the AE100² (marketed as Mk2) as a current 2-way stand-mount in
 Maker claims. US stock could not be confirmed; Amazon listing page fetched without readable price.
 
 ## Related
-[[acoustic-energy-ae100-mk2]] · [[acoustic-energy]]
+[Acoustic Energy AE100 Mk2](../speakers/acoustic-energy-ae100-mk2.md) · [Acoustic Energy](../brands/acoustic-energy.md)

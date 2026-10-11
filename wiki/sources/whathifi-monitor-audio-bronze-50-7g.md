@@ -28,4 +28,4 @@ Five stars on sound, build and compatibility (5/5/5). Tested at £500 / $849 wit
 Single reviewer, medium room; the author name comes from the page's editor byline.
 
 ## Related
-[[monitor-audio-bronze-50-7g]] · [[monitor-audio]]
+[Monitor Audio Bronze 50 7G](../speakers/monitor-audio-bronze-50-7g.md) · [Monitor Audio](../brands/monitor-audio.md)

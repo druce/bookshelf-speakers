@@ -30,4 +30,4 @@ Listening with Rega Aethos and Cyrus 40 amplification; Chord DAVE source.
 Single reviewer; Capture was model-extracted.
 
 ## Related
-[[wharfedale-super-denton]] · [[wharfedale]]
+[Wharfedale Super Denton](../speakers/wharfedale-super-denton.md) · [Wharfedale](../brands/wharfedale.md)

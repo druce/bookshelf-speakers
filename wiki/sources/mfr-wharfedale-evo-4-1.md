@@ -39,4 +39,4 @@ Spec table only; no measurement method. Crutchfield blocked scripted fetch; a se
 Tier C. Min impedance claim (3.5 Ω) is close to the measured 3.2 Ω.
 
 ## Related
-[[wharfedale-evo-4-1]] · [[wharfedale]]
+[Wharfedale EVO 4.1](../speakers/wharfedale-evo-4-1.md) · [Wharfedale](../brands/wharfedale.md)

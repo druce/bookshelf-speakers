@@ -45,4 +45,4 @@ Klippel NFS, reference point at tweeter, CTA-2034 spinorama. Instantaneous compr
 Single loaned sample. Impedance graph at 0.10 V RMS. Distortion values are graph reads.
 
 ## Related
-[[totem-acoustic-kin-one]] · [[erins-audio-corner]] · [[totem-acoustic]] · [[spinorama-org]]
+[Totem Acoustic Kin One](../speakers/totem-acoustic-kin-one.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Totem Acoustic](../brands/totem-acoustic.md) · [spinorama-org](spinorama-org.md)

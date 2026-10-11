@@ -29,7 +29,7 @@ Klippel NFS measurements of a loaned pair. Erin found the on-axis response tilts
 | low-frequency behaviour at 102 dB | +1.6 dB enhancement near 52 Hz, -1.1 dB at 40 Hz | graph-read (approx.) |
 | on-axis response | plateau ~88 dB 300 Hz-1 kHz, rises to ~91 dB at 4-6 kHz; ~-3 dB near 68 Hz, -6 dB near 55 Hz | graph-read (approx.) from the CEA2034 plot (2.83 V at 1 m axis) |
 | sensitivity | ~88 dB 300 Hz-1 kHz | graph-read (approx.) |
-| derived values via [[spinorama-org]] | f3 69.6 Hz, f6 52.7 Hz, deviation 1.7 dB over 300 Hz-5 kHz, measured sensitivity 87.2 dB (300 Hz-3 kHz avg), pref 4.89 / 7.11 with sub | spinorama.org page for the 30° dataset; deviation band differs from our 300 Hz-10 kHz standard |
+| derived values via [spinorama-org](spinorama-org.md) | f3 69.6 Hz, f6 52.7 Hz, deviation 1.7 dB over 300 Hz-5 kHz, measured sensitivity 87.2 dB (300 Hz-3 kHz avg), pref 4.89 / 7.11 with sub | spinorama.org page for the 30° dataset; deviation band differs from our 300 Hz-10 kHz standard |
 | tests | multitone distortion at 70/79/87/96 dB and compression, full range and from 80 Hz | graphs only |
 
 ## Method notes
@@ -39,4 +39,4 @@ Klippel NFS; reference point at tweeter; no grille; broken-in pair. Data mixes 0
 Single loaned sample. spinorama.org categorises the entry as "passive center", which is a labelling error for this standmount. No raw spinorama export was in the packet, so metrics here are from the review text, graphs and the spinorama.org page, not scripts/cta2034.py. The summaries differ slightly on preference score (4.89 vs 4.99 reported elsewhere); 4.89/7.11 taken from the page fetched directly.
 
 ## Related
-[[paradigm-founder-40b]] · [[erins-audio-corner]] · [[paradigm]] · [[spinorama-org]]
+[Paradigm Founder 40B](../speakers/paradigm-founder-40b.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Paradigm](../brands/paradigm.md) · [spinorama-org](spinorama-org.md)

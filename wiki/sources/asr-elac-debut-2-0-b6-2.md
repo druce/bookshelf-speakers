@@ -38,7 +38,7 @@ Klippel NFS review of a member-purchased unit (US$245 at the time). Rather flat 
 Klippel NFS, over 800 points, tweeter screen left on, grille off. Impedance and THD plots only as graphs; ASR labels the distortion near 450 Hz, 5-6 kHz and 9-10 kHz as "should not be there". Subjective notes: bit bright and unexciting; EQ of the 700 Hz peak and 1-2 kHz dip helped; plays very loud with almost no distortion (reviewer claim).
 
 ## Reliability notes
-Single sample. Reviewer's "plays very loud" statement conflicts somewhat with [[eac-elac-debut-2-0-b6-2]] compression findings below 80 Hz; ASR ran no compression sweep.
+Single sample. Reviewer's "plays very loud" statement conflicts somewhat with [eac-elac-debut-2-0-b6-2](eac-elac-debut-2-0-b6-2.md) compression findings below 80 Hz; ASR ran no compression sweep.
 
 ## Related
-[[elac-debut-2-0-b6-2]] · [[asr]] · [[spinorama-org]] · [[elac]]
+[Elac Debut 2.0 B6.2](../speakers/elac-debut-2-0-b6-2.md) · [asr](../reviewers/asr.md) · [spinorama-org](spinorama-org.md) · [Elac](../brands/elac.md)

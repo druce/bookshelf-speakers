@@ -21,4 +21,4 @@ All sensitivity in this wiki is **dB SPL at 2.83 V, 1 m**, stored as `sensitivit
 < 84 dB low · 84–87 average · 88–90 high · > 90 very high. Every 3 dB lower sensitivity doubles the amplifier power needed for the same level.
 
 ## Related
-[[impedance-and-epdr]] · [[compression-and-max-spl]]
+[impedance-and-epdr](impedance-and-epdr.md) · [compression-and-max-spl](compression-and-max-spl.md)

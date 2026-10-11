@@ -12,7 +12,7 @@ last_updated: 2026-10-11
 **Rig:** Full anechoic chamber. Published curves include on-axis, listening window, early reflections, sound power, and the DIs (a CTA-2034-style set), plus impedance and THD at stated levels. Tier A per Claude.md §3. Chamber accuracy is limited below about 100 Hz without additional techniques; SoundStage notes the measurement method in each report.
 
 **Published per review:**
-- Measurements page: [[spinorama]] curves, horizontal and vertical off-axis, impedance and phase, THD at 90 dB and 95 dB @ 2 m (levels vary by report).
+- Measurements page: [spinorama](../concepts/spinorama.md) curves, horizontal and vertical off-axis, impedance and phase, THD at 90 dB and 95 dB @ 2 m (levels vary by report).
 - Subjective review: Tier D, by a named writer.
 
 **Known biases and limits:**
@@ -21,4 +21,4 @@ last_updated: 2026-10-11
 - Not in the spinorama.org dataset for most models, so SoundStage pages are fetched separately.
 
 ## Related
-[[asr]] · [[erins-audio-corner]] · [[stereophile]]
+[asr](asr.md) · [erins-audio-corner](erins-audio-corner.md) · [stereophile](stereophile.md)

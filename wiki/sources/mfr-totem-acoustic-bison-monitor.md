@@ -28,7 +28,7 @@ Current passive ported two-way, rated 8 Ω, $2,300 per pair on the maker's site.
 | dimensions | 171 W x 333 H x 243 D mm (253 mm deep with grille) | |
 | weight | 13.49 kg listed (29.75 lb) | implausible for one unit; Hi-Fi News lists 5 kg each, so weight left null |
 | price | $2,300/pair | maker page, checked 2026-10-11 |
-| port | rear (per [[hifinews-totem-acoustic-bison-monitor]]) | |
+| port | rear (per [hifinews-totem-acoustic-bison-monitor](hifinews-totem-acoustic-bison-monitor.md)) | |
 
 ## Method notes
 Maker spec table; the page lists the model under current products.
@@ -37,4 +37,4 @@ Maker spec table; the page lists the model under current products.
 Weight figure inconsistent with reviews. Sensitivity claim exceeds Hi-Fi News mean-band measurement (84.8 dB).
 
 ## Related
-[[totem-acoustic-bison-monitor]] · [[totem-acoustic]]
+[Totem Acoustic Bison Monitor](../speakers/totem-acoustic-bison-monitor.md) · [Totem Acoustic](../brands/totem-acoustic.md)

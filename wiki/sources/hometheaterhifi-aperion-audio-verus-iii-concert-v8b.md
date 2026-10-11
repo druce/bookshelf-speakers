@@ -34,4 +34,4 @@ Microphone 1 m on-axis; dual-gate impulse-derived response, not anechoic below a
 Single reviewer; no spinorama or off-axis data. His 4.5 Ω minimum disagrees with Erin's 5.7 Ω above 80 Hz (different method, sample and voltage).
 
 ## Related
-[[aperion-audio-verus-iii-concert-v8b]] · [[aperion-audio]]
+[Aperion Audio Verus III Concert V8B](../speakers/aperion-audio-verus-iii-concert-v8b.md) · [Aperion Audio](../brands/aperion-audio.md)

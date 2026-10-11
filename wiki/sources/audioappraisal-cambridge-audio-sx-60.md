@@ -31,4 +31,4 @@ Subjective; no measurements. Single partnering amp.
 Independent hobbyist-style site; loaner from manufacturer.
 
 ## Related
-[[cambridge-audio-sx-60]] · [[cambridge-audio]]
+[Cambridge Audio SX-60](../speakers/cambridge-audio-sx-60.md) · [Cambridge Audio](../brands/cambridge-audio.md)

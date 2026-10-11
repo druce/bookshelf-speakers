@@ -46,25 +46,25 @@ The Fyne Audio F500SP is an 8 Ω, two-way standmount with a 6" IsoFlare coaxial 
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 87.0 dB (average) | [[stereophile-fyne-audio-f500sp]] | B | reviewer's estimate, dB(B); claimed 90 dB per [[mfr-fyne-audio-f500sp]] |
-| Min impedance | 5.0 Ω, 157-203 Hz | [[stereophile-fyne-audio-f500sp]] | B | text value; below the 6.4 Ω IEC floor |
-| EPDR minimum | 2.3 Ω @ 121 Hz | [[stereophile-fyne-audio-f500sp]] | B | below 3 Ω from 111-161 Hz |
-| Port tuning | ~53 Hz | [[stereophile-fyne-audio-f500sp]] | B | from impedance saddle |
-| Acoustic crossover | ~1.5 kHz | [[stereophile-fyne-audio-f500sp]] | B | maker states 1.7 kHz ([[mfr-fyne-audio-f500sp]], C) |
-| Tweeter vs woofer balance | about +2 dB | [[stereophile-fyne-audio-f500sp]] | B | reviewer wording |
+| Sensitivity (2.83 V/1 m) | 87.0 dB (average) | [stereophile-fyne-audio-f500sp](../sources/stereophile-fyne-audio-f500sp.md) | B | reviewer's estimate, dB(B); claimed 90 dB per [mfr-fyne-audio-f500sp](../sources/mfr-fyne-audio-f500sp.md) |
+| Min impedance | 5.0 Ω, 157-203 Hz | [stereophile-fyne-audio-f500sp](../sources/stereophile-fyne-audio-f500sp.md) | B | text value; below the 6.4 Ω IEC floor |
+| EPDR minimum | 2.3 Ω @ 121 Hz | [stereophile-fyne-audio-f500sp](../sources/stereophile-fyne-audio-f500sp.md) | B | below 3 Ω from 111-161 Hz |
+| Port tuning | ~53 Hz | [stereophile-fyne-audio-f500sp](../sources/stereophile-fyne-audio-f500sp.md) | B | from impedance saddle |
+| Acoustic crossover | ~1.5 kHz | [stereophile-fyne-audio-f500sp](../sources/stereophile-fyne-audio-f500sp.md) | B | maker states 1.7 kHz ([mfr-fyne-audio-f500sp](../sources/mfr-fyne-audio-f500sp.md), C) |
+| Tweeter vs woofer balance | about +2 dB | [stereophile-fyne-audio-f500sp](../sources/stereophile-fyne-audio-f500sp.md) | B | reviewer wording |
 | f3 / f6, LW deviation, preference score | not available | n/a | n/a | no Klippel/spinorama data found; no numeric values published |
 
 ## Directivity
-Stereophile shows lateral and vertical families normalized to the tweeter axis: the speaker becomes more directional with rising frequency, which partly offsets the +2 dB tweeter balance, and off-axis behaviour is complex where on-axis peaks and dips occur above 5 kHz (suspected reflections from the woofer cone edge). Vertical behaviour mirrors horizontal because of the coaxial layout. Beamwidth numbers are not published. The reviewer suggests experimenting with toe-in to tune top-octave balance. See [[directivity-index]], [[early-reflections]].
+Stereophile shows lateral and vertical families normalized to the tweeter axis: the speaker becomes more directional with rising frequency, which partly offsets the +2 dB tweeter balance, and off-axis behaviour is complex where on-axis peaks and dips occur above 5 kHz (suspected reflections from the woofer cone edge). Vertical behaviour mirrors horizontal because of the coaxial layout. Beamwidth numbers are not published. The reviewer suggests experimenting with toe-in to tune top-octave balance. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No distortion or compression measurements exist (Stereophile did not measure it). The cabinet shows a few low-level, high-Q side-panel resonances, and the spectral decay is clean apart from three narrow treble ridges. Maker states 60 W continuous handling. Output capability is unknown; treat as small-to-medium room. See [[compression-and-max-spl]].
+No distortion or compression measurements exist (Stereophile did not measure it). The cabinet shows a few low-level, high-Q side-panel resonances, and the spectral decay is clean apart from three narrow treble ridges. Maker states 60 W continuous handling. Output capability is unknown; treat as small-to-medium room. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Impedance stays above 6 Ω for almost all the audioband with a 5.0 Ω minimum, so flagged `below-iec` against the 8 Ω rating (limit 6.4 Ω). EPDR dips to 2.3 Ω near 121 Hz but is above 4 Ω in the treble; Stereophile calls it relatively easy to drive. The reviewer still heard strong amplifier dependence. See [[impedance-and-epdr]].
+Impedance stays above 6 Ω for almost all the audioband with a 5.0 Ω minimum, so flagged `below-iec` against the 8 Ω rating (limit 6.4 Ω). EPDR dips to 2.3 Ω near 121 Hz but is above 4 Ω in the treble; Stereophile calls it relatively easy to drive. The reviewer still heard strong amplifier dependence. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[stereophile-review-fyne-audio-f500sp]] (Stereophile, Ken Micallef, no rating): precise but not analytical; wide, deep stage; taut bass lacking larger-woofer weight; glare with some amps; recommended auditioning.
+- [stereophile-review-fyne-audio-f500sp](../sources/stereophile-review-fyne-audio-f500sp.md) (Stereophile, Ken Micallef, no rating): precise but not analytical; wide, deep stage; taut bass lacking larger-woofer weight; glare with some amps; recommended auditioning.
 
 ## User reviews
 No user reports ingested yet.
@@ -75,4 +75,4 @@ No user reports ingested yet.
 - Availability: maker's site lists it as current; Upscale Audio showed every finish sold out on 2026-10-11. Status kept `current`; verify US stock.
 
 ## Related
-[[fyne-audio]] · [[stereophile]] · [[impedance-and-epdr]]
+[Fyne Audio](../brands/fyne-audio.md) · [stereophile](../reviewers/stereophile.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md)

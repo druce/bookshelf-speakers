@@ -6,8 +6,8 @@ last_updated: 2026-10-11
 # Directivity index (DI)
 
 The **directivity index** is how much louder the listening window is than the off-axis energy:
-- **SPDI** = LW − [[sound-power]]
-- **ERDI** = LW − [[early-reflections]]
+- **SPDI** = LW − [sound-power](sound-power.md)
+- **ERDI** = LW − [early-reflections](early-reflections.md)
 
 A typical dome-tweeter bookshelf speaker shows an SPDI of about 3–5 dB at 1 kHz, rising to 8–10 dB at 10 kHz. Waveguides and coaxials keep the DI flatter and more constant through the crossover.
 
@@ -23,4 +23,4 @@ A typical dome-tweeter bookshelf speaker shows an SPDI of about 3–5 dB at 1 kH
 If the on-axis response is brighter than the LW (on-axis rises above about 5 kHz), aim the speakers to cross in front of the listener. If the on-axis is flatter than the ±30° curves, aim them straight at the listener. Speaker pages state which applies.
 
 ## Related
-[[spinorama]] · [[early-reflections]] · [[sound-power]] · [[preference-score]]
+[spinorama](spinorama.md) · [early-reflections](early-reflections.md) · [sound-power](sound-power.md) · [preference-score](preference-score.md)

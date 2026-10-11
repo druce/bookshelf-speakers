@@ -33,4 +33,4 @@ speakers: [bic-america-venturi-dv62si]
 Maker lists it on its current US bookshelf page, so status is current. Street price used: $199 (marketplace seller).
 
 ## Related
-[[bic-america-venturi-dv62si]] · [[bic-america]]
+[BIC America Venturi DV62si](../speakers/bic-america-venturi-dv62si.md) · [BIC America](../brands/bic-america.md)

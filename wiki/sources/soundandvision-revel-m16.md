@@ -33,4 +33,4 @@ Quasi-anechoic at 1 m, grille on, 2.83 V input, woofer close-miked for LF splice
 Single sample; no prose context in the fetched page.
 
 ## Related
-[[revel-m16]] · [[revel]]
+[Revel M16](../speakers/revel-m16.md) · [Revel](../brands/revel.md)

@@ -24,7 +24,7 @@ The maker's site was not scrapeable on 2026-10-11 (503 / JavaScript-only), so sp
 | sensitivity claimed | 83 dB @ 2.8 V / 1 m | already 2.83 V; Tone Publications quotes 84.5 dB/1 W |
 | claimed FR | 82 Hz (-3 dB), 70 Hz (-6 dB) to 22 kHz (-3 dB), 4pi anechoic | |
 | drivers | 130 mm treated paper woofer, 28 mm silk dome | |
-| crossover | inverted Harsch topology; woofer to ~5.5 kHz (designer, [[stereotimes-xsa-labs-vanguard]]) | no single frequency stated |
+| crossover | inverted Harsch topology; woofer to ~5.5 kHz (designer, [stereotimes-xsa-labs-vanguard](stereotimes-xsa-labs-vanguard.md)) | no single frequency stated |
 | dimensions | 7.5 x 12.0 x 8.0 in W x H x D (191 x 305 x 203 mm) | |
 | weight | 11 lb 4 oz (5.1 kg) each | |
 | price | 995 USD/pair (bamboo, stained birch satin), 1,095 gloss blonde; 799 launch price | direct from XSA; ASR thread quotes maker forum post |
@@ -34,4 +34,4 @@ The maker's site was not scrapeable on 2026-10-11 (503 / JavaScript-only), so sp
 Secondary capture (model-extracted); maker page not verified directly. Price and status moderately confident.
 
 ## Related
-[[xsa-labs-vanguard]] · [[xsa-labs]]
+[XSA Labs Vanguard](../speakers/xsa-labs-vanguard.md) · [XSA Labs](../brands/xsa-labs.md)

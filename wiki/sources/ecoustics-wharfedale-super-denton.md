@@ -31,4 +31,4 @@ Listening only; specs quoted from the maker (crossover 940 Hz / 4.6 kHz).
 Page is dated by an update stamp; original date not stated.
 
 ## Related
-[[wharfedale-super-denton]] · [[wharfedale]]
+[Wharfedale Super Denton](../speakers/wharfedale-super-denton.md) · [Wharfedale](../brands/wharfedale.md)

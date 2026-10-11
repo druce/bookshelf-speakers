@@ -20,8 +20,8 @@ Small speakers run out of output before their amplifiers do. Two limits apply:
 
 ## Comparability caveat (added 2026-10-11 after initial ingest)
 - Several EAC-based pages record `max_spl_db: 102`. That is Erin's **highest test level**, not a failure point; the true limit is ≥ 102 dB in the stated band.
-- ASR-based values (e.g. [[revel-m105]] ~111 dB, [[revel-m106]] ~110 dB) come from ASR's draft 80 Hz compression chart, which has an unstated criterion.
-- Because of this, `max_spl_db` is not used for ranking ([[ranked-by-price-band]]). Compare output only within one reviewer.
+- ASR-based values (e.g. [Revel M105](../speakers/revel-m105.md) ~111 dB, [Revel M106](../speakers/revel-m106.md) ~110 dB) come from ASR's draft 80 Hz compression chart, which has an unstated criterion.
+- Because of this, `max_spl_db` is not used for ranking ([ranked-by-price-band](../comparisons/ranked-by-price-band.md)). Compare output only within one reviewer.
 
 ## Practical translation
 SPL falls about 6 dB per doubling of distance in free field; in typical rooms it falls 3–5 dB. At 3 m, a pair gives roughly 3–5 dB less than 1 m single-speaker figures, offset by pair summation (+3 to +6 dB). For 85 dB peaks at the seat (loud listening), a bookshelf speaker typically needs about 100 dB clean at 1 m.
@@ -30,4 +30,4 @@ SPL falls about 6 dB per doubling of distance in free field; in typical rooms it
 THD < 1% above 100 Hz at 86 dB is clean. Note where it rises above 3% at 96 dB.
 
 ## Related
-[[sensitivity-normalization]] · [[impedance-and-epdr]] · [[bass-extension-vs-room-gain]]
+[sensitivity-normalization](sensitivity-normalization.md) · [impedance-and-epdr](impedance-and-epdr.md) · [bass-extension-vs-room-gain](bass-extension-vs-room-gain.md)

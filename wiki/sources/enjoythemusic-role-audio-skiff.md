@@ -31,4 +31,4 @@ Listening only, with a 10" subwoofer.
 2006 vintage; contradicts ASR's measured resonances, which suggests either unit variation or listening versus measurement difference.
 
 ## Related
-[[role-audio-skiff]] · [[role-audio]]
+[Role Audio Skiff](../speakers/role-audio-skiff.md) · [Role Audio](../brands/role-audio.md)

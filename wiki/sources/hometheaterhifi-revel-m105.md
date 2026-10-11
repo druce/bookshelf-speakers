@@ -39,4 +39,4 @@ Not a Klippel or anechoic measurement; in-room 1 m response and near-field disto
 Dated; single reviewer; method lower-grade than ASR's.
 
 ## Related
-[[revel-m105]] · [[revel]]
+[Revel M105](../speakers/revel-m105.md) · [Revel](../brands/revel.md)

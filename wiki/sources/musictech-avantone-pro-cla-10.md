@@ -26,4 +26,4 @@ Studio-monitor review of the passive CLA-10 as an NS10 recreation; no score. Cap
 Subjective, studio-use frame (mix reference), not home hi-fi. Paraphrased from a model summary.
 
 ## Related
-[[avantone-pro-cla-10]] · [[avantone-pro]]
+[Avantone Pro CLA-10](../speakers/avantone-pro-cla-10.md) · [Avantone Pro](../brands/avantone-pro.md)

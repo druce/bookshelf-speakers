@@ -26,8 +26,8 @@ focal.com product URLs returned 404 to scripted fetch, so the Focal spec table w
 | Minimum impedance (claimed) | 3.9 Ω | |
 | Crossover | 2.2 kHz | |
 | Dimensions (HxWxD) | 16 47/64 x 10 63/64 x 15 19/32 in (about 425 x 279 x 396 mm) | |
-| Weight | 41.89 lb (19.0 kg); "stand" 40.78 lb listed separately | listing is ambiguous whether per speaker; [[soundstage-focal-sopra-n1]] states 42 lb each |
-| Price | $12,998.00 listed as current price (0% off est. retail) | assumed per pair (listing image names are "Pair"); not independently confirmed; earlier US MSRP was $9,990/pair ([[audioholics-focal-sopra-n1]]) |
+| Weight | 41.89 lb (19.0 kg); "stand" 40.78 lb listed separately | listing is ambiguous whether per speaker; [soundstage-focal-sopra-n1](soundstage-focal-sopra-n1.md) states 42 lb each |
+| Price | $12,998.00 listed as current price (0% off est. retail) | assumed per pair (listing image names are "Pair"); not independently confirmed; earlier US MSRP was $9,990/pair ([audioholics-focal-sopra-n1](audioholics-focal-sopra-n1.md)) |
 | Status | Listed new with free shipping at an authorized dealer; live stock not stated | |
 
 ## Method notes
@@ -37,4 +37,4 @@ Retailer page saved via scripted fetch on 2026-10-11. A web-search snippet also 
 Retailer-hosted copy of Focal's spec sheet; price per pair not explicit on the page.
 
 ## Related
-[[focal-sopra-n1]] · [[focal]]
+[Focal Sopra N°1](../speakers/focal-sopra-n1.md) · [Focal](../brands/focal.md)

@@ -33,4 +33,4 @@ Current 6 Ω, 6.5" two-way front-ported standmount with aluminium dome tweeter a
 Claims only (Tier C).
 
 ## Related
-[[elac-debut-3-0-b6-3]] · [[elac]]
+[Elac Debut 3.0 B6.3](../speakers/elac-debut-3-0-b6-3.md) · [Elac](../brands/elac.md)

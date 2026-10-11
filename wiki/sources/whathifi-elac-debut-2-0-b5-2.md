@@ -30,4 +30,4 @@ Subjective listening in What Hi-Fi? test rooms; review tested at UK/US budget pr
 Tier D; no measurements. Review date 2023-10-16 appears to be a refresh of the 2019 original.
 
 ## Related
-[[elac-debut-2-0-b5-2]] · [[elac]]
+[Elac Debut 2.0 B5.2](../speakers/elac-debut-2-0-b5-2.md) · [Elac](../brands/elac.md)

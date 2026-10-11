@@ -46,32 +46,32 @@ The Sierra-1 V2 is Ascend's $998 passive standmount: 5.25" woofer, 26 mm dome, b
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 81.1 dB (low) | [[eac-ascend-acoustics-sierra-1-v2]] | A | computed (scripts/cta2034.py v2) |
-| Sensitivity | 81.4 dB | [[asr-ascend-acoustics-sierra-1-v2]] | A | computed |
-| Listening-window deviation | ±1.6 dB (good) | [[eac-ascend-acoustics-sierra-1-v2]] | A | computed, 300 Hz-10 kHz |
-| Listening-window deviation | ±1.7 dB | [[asr-ascend-acoustics-sierra-1-v2]] | A | computed |
+| Sensitivity (2.83 V/1 m) | 81.1 dB (low) | [eac-ascend-acoustics-sierra-1-v2](../sources/eac-ascend-acoustics-sierra-1-v2.md) | A | computed (scripts/cta2034.py v2) |
+| Sensitivity | 81.4 dB | [asr-ascend-acoustics-sierra-1-v2](../sources/asr-ascend-acoustics-sierra-1-v2.md) | A | computed |
+| Listening-window deviation | ±1.6 dB (good) | [eac-ascend-acoustics-sierra-1-v2](../sources/eac-ascend-acoustics-sierra-1-v2.md) | A | computed, 300 Hz-10 kHz |
+| Listening-window deviation | ±1.7 dB | [asr-ascend-acoustics-sierra-1-v2](../sources/asr-ascend-acoustics-sierra-1-v2.md) | A | computed |
 | On-axis deviation | ±2.1 dB / ±2.2 dB | EAC / ASR | A | computed |
 | f3 / f6 | 52 / 44 Hz (good) | both | A | computed; ASR measured at 59 °F |
-| Min impedance | 7.0 Ω (above 80 Hz) | [[eac-ascend-acoustics-sierra-1-v2]], [[asr-ascend-acoustics-sierra-1-v2]] | A | stated on both plots |
-| EPDR min | 3.5 Ω (above 80 Hz) | [[eac-ascend-acoustics-sierra-1-v2]] | A | stated on plot |
+| Min impedance | 7.0 Ω (above 80 Hz) | [eac-ascend-acoustics-sierra-1-v2](../sources/eac-ascend-acoustics-sierra-1-v2.md), [asr-ascend-acoustics-sierra-1-v2](../sources/asr-ascend-acoustics-sierra-1-v2.md) | A | stated on both plots |
+| EPDR min | 3.5 Ω (above 80 Hz) | [eac-ascend-acoustics-sierra-1-v2](../sources/eac-ascend-acoustics-sierra-1-v2.md) | A | stated on plot |
 | THD 86 dB @1 m | ~1.4 % at 100 Hz (EAC); ~2.2 % at 100 Hz (ASR) | EAC / ASR | A | graph-read (approx.); both under 0.8 % above 200 Hz |
 | THD 96 dB @1 m | ~5 % at 100 Hz (EAC); >5 % at 100-200 Hz (ASR) | EAC / ASR | A | graph-read (approx.) |
-| Max SPL | 96 dB @1 m (method: within 3 dB compression at 96 dB; 102 dB passes 3 dB near 150 Hz) | [[eac-ascend-acoustics-sierra-1-v2]] | A | graph-read |
-| Preference score | 6.4 / 8.4 (EAC); 5.8 / 7.8 (ASR) | both via [[spinorama-org]] | A | primary is EAC |
-| Crossover | not stated | [[mfr-ascend-acoustics-sierra-1-v2]] | C | |
+| Max SPL | 96 dB @1 m (method: within 3 dB compression at 96 dB; 102 dB passes 3 dB near 150 Hz) | [eac-ascend-acoustics-sierra-1-v2](../sources/eac-ascend-acoustics-sierra-1-v2.md) | A | graph-read |
+| Preference score | 6.4 / 8.4 (EAC); 5.8 / 7.8 (ASR) | both via [spinorama-org](../sources/spinorama-org.md) | A | primary is EAC |
+| Crossover | not stated | [mfr-ascend-acoustics-sierra-1-v2](../sources/mfr-ascend-acoustics-sierra-1-v2.md) | C | |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 151° (EAC) / 153° (ASR), vertical 103° / 84°. DI is smooth on EAC (ERDI residual 1.0 dB) and minor-discontinuity on ASR (1.1 dB). Early-reflection dip near 1.5 kHz is 0.8 / 0.6 dB, well under the 3 dB flag; ASR calls the early window "likely better than any speaker I have measured". SPDI runs from 5.5 dB at 1 kHz to 8.2 dB at 10 kHz, so Erin notes beaming above 8 kHz. On-axis minus listening window above 4 kHz is +0.7 dB, so toe-in is a matter of taste. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 151° (EAC) / 153° (ASR), vertical 103° / 84°. DI is smooth on EAC (ERDI residual 1.0 dB) and minor-discontinuity on ASR (1.1 dB). Early-reflection dip near 1.5 kHz is 0.8 / 0.6 dB, well under the 3 dB flag; ASR calls the early window "likely better than any speaker I have measured". SPDI runs from 5.5 dB at 1 kHz to 8.2 dB at 10 kHz, so Erin notes beaming above 8 kHz. On-axis minus listening window above 4 kHz is +0.7 dB, so toe-in is a matter of taste. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Erin's compression test: at 96 dB the response loses up to about 0.7 dB above 100 Hz (2.3 dB at 40 Hz); at 102 dB it loses about 3 dB near 150 Hz. He advises that compression and distortion rise above about 90 dB at 4 m. THD at 86 dB is about 1.4-2.2 % near 100 Hz and falls under 0.8 % above 200 Hz; at 96 dB it exceeds 5 % at 100-200 Hz (graph-read). ASR's own plot annotation says the woofer is unhappy at 96 dB, yet his text calls the 86-vs-96 difference too minor to worry about; he says 102 dB nearly overwhelmed it, and he heard no degradation at elevated listening levels. Fine for near-field and small rooms; for large rooms or loud peaks, add a sub and high-pass near 80 Hz. See [[compression-and-max-spl]].
+Erin's compression test: at 96 dB the response loses up to about 0.7 dB above 100 Hz (2.3 dB at 40 Hz); at 102 dB it loses about 3 dB near 150 Hz. He advises that compression and distortion rise above about 90 dB at 4 m. THD at 86 dB is about 1.4-2.2 % near 100 Hz and falls under 0.8 % above 200 Hz; at 96 dB it exceeds 5 % at 100-200 Hz (graph-read). ASR's own plot annotation says the woofer is unhappy at 96 dB, yet his text calls the 86-vs-96 difference too minor to worry about; he says 102 dB nearly overwhelmed it, and he heard no degradation at elevated listening levels. Fine for near-field and small rooms; for large rooms or loud peaks, add a sub and high-pass near 80 Hz. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Impedance stays at or above 7 Ω across 80 Hz-20 kHz and peaks at about 41 Ω near 75 Hz, an easy load for an 8 Ω speaker (no flag). EPDR dips to 3.5 Ω near 120 Hz because of phase (about -55° near 90 Hz), so low sensitivity plus this EPDR calls for a competent amplifier with real power in reserve; maker suggests up to 180 W for long distances. See [[impedance-and-epdr]].
+Impedance stays at or above 7 Ω across 80 Hz-20 kHz and peaks at about 41 Ω near 75 Hz, an easy load for an 8 Ω speaker (no flag). EPDR dips to 3.5 Ω near 120 Hz because of phase (about -55° near 90 Hz), so low sensitivity plus this EPDR calls for a competent amplifier with real power in reserve; maker suggests up to 180 W for long distances. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[eac-ascend-acoustics-sierra-1-v2]] (Erin's Audio Corner, Tier D notes): "lose myself" in it; neutral, deep-sounding with a mild 2-4 kHz shelf; output limited.
-- [[asr-ascend-acoustics-sierra-1-v2]] (ASR, Tier D notes): balanced but "pleasant, not exciting" until light EQ; wide dispersion gives a large halo; added to recommended list.
+- [eac-ascend-acoustics-sierra-1-v2](../sources/eac-ascend-acoustics-sierra-1-v2.md) (Erin's Audio Corner, Tier D notes): "lose myself" in it; neutral, deep-sounding with a mild 2-4 kHz shelf; output limited.
+- [asr-ascend-acoustics-sierra-1-v2](../sources/asr-ascend-acoustics-sierra-1-v2.md) (ASR, Tier D notes): balanced but "pleasant, not exciting" until light EQ; wide dispersion gives a large halo; added to recommended list.
 
 ## User reviews
 No user reports ingested yet. The ASR thread (page 2) is commentary; one poster who owns the larger ELX tower praised Ascend's sound, but no Sierra-1 V2 owner reports were found.
@@ -84,4 +84,4 @@ No user reports ingested yet. The ASR thread (page 2) is commentary; one poster 
 - Minimum impedance agrees (7.0 Ω); EPDR only from EAC.
 
 ## Related
-[[ascend-acoustics]] · [[ascend-acoustics-sierra-lx]] · [[ascend-acoustics-cbm-170-se2]] · [[revel-m16]] · [[spinorama]] · [[impedance-and-epdr]] · [[compression-and-max-spl]]
+[Ascend Acoustics](../brands/ascend-acoustics.md) · [Ascend Acoustics Sierra-LX](ascend-acoustics-sierra-lx.md) · [Ascend Acoustics CBM-170 SE2](ascend-acoustics-cbm-170-se2.md) · [Revel M16](revel-m16.md) · [spinorama](../concepts/spinorama.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [compression-and-max-spl](../concepts/compression-and-max-spl.md)

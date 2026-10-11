@@ -28,4 +28,4 @@ Reviewed as a 2.1 system with the SB-3000 subwoofer. Alone the speakers gave goo
 System review: judgements partly reflect the subwoofer. Sample supplied by SVS.
 
 ## Related
-[[svs-ultra-evolution-bookshelf]] · [[stereophile]] · [[stereophile-svs-ultra-evolution-bookshelf]]
+[SVS Ultra Evolution Bookshelf](../speakers/svs-ultra-evolution-bookshelf.md) · [stereophile](../reviewers/stereophile.md) · [stereophile-svs-ultra-evolution-bookshelf](stereophile-svs-ultra-evolution-bookshelf.md)

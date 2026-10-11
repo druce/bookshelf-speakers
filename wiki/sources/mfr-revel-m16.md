@@ -37,4 +37,4 @@ Revel US catalogue lists as current. Retail: Crutchfield $495 each regular (sear
 Claims only; measured values override.
 
 ## Related
-[[revel-m16]] · [[revel]]
+[Revel M16](../speakers/revel-m16.md) · [Revel](../brands/revel.md)

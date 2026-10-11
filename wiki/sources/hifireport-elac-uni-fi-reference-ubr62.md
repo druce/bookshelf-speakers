@@ -30,4 +30,4 @@ Subjective only; bass-depth claims lean on the maker's 41 Hz figure.
 Author and date not stated on the page.
 
 ## Related
-[[elac-uni-fi-reference-ubr62]] · [[elac]]
+[Elac Uni-Fi Reference UBR62](../speakers/elac-uni-fi-reference-ubr62.md) · [Elac](../brands/elac.md)

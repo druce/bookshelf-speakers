@@ -46,30 +46,30 @@ The ATC SCM19 is an 8 Ω, sealed, two-way standmount with ATC's own 150 mm "SL" 
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | about 83.0 dB (average) | [[avmentor-atc-scm19]] | B | octave-step average 125 Hz-16 kHz; claimed 85 dB in [[mfr-atc-scm19]] |
-| Response deviation | ±2.4 dB summed on-axis | [[avmentor-atc-scm19]] | B | 1/3-oct smoothing, not CTA-2034 LW; entered as on-axis deviation (good) |
-| f3 / f6 | 52 / 40 Hz | [[avmentor-atc-scm19]] | B | relative to its mid-band level; modest bass per §7 |
-| Min impedance | 5.6 Ω @ about 150 Hz | [[avmentor-atc-scm19]] | B | text value; 50 Ω peak below 100 Hz |
-| Phase | +47° to -57° | [[avmentor-atc-scm19]] | B | |
-| Crossover | 2.5 kHz | [[mfr-atc-scm19]] | C | |
+| Sensitivity (2.83 V/1 m) | about 83.0 dB (average) | [avmentor-atc-scm19](../sources/avmentor-atc-scm19.md) | B | octave-step average 125 Hz-16 kHz; claimed 85 dB in [mfr-atc-scm19](../sources/mfr-atc-scm19.md) |
+| Response deviation | ±2.4 dB summed on-axis | [avmentor-atc-scm19](../sources/avmentor-atc-scm19.md) | B | 1/3-oct smoothing, not CTA-2034 LW; entered as on-axis deviation (good) |
+| f3 / f6 | 52 / 40 Hz | [avmentor-atc-scm19](../sources/avmentor-atc-scm19.md) | B | relative to its mid-band level; modest bass per §7 |
+| Min impedance | 5.6 Ω @ about 150 Hz | [avmentor-atc-scm19](../sources/avmentor-atc-scm19.md) | B | text value; 50 Ω peak below 100 Hz |
+| Phase | +47° to -57° | [avmentor-atc-scm19](../sources/avmentor-atc-scm19.md) | B | |
+| Crossover | 2.5 kHz | [mfr-atc-scm19](../sources/mfr-atc-scm19.md) | C | |
 | Preference score | not available | | | no spinorama data |
 
 ## Directivity
-No beamwidth or DI figures. AVMentor reports horizontal response within 3 dB to 8 kHz for ±35°, narrowing above, so toe-in toward the listener is advised and close listening preferred. Vertical response is tight near the 2 kHz crossover: keep the listener at or slightly below tweeter height, not above (listening from below the axis is worse). See [[directivity-index]], [[early-reflections]].
+No beamwidth or DI figures. AVMentor reports horizontal response within 3 dB to 8 kHz for ±35°, narrowing above, so toe-in toward the listener is advised and close listening preferred. Vertical response is tight near the 2 kHz crossover: keep the listener at or slightly below tweeter height, not above (listening from below the axis is worse). See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No distortion or compression test found. ATC claims 108 dB max SPL (claimed only, Tier C). Critics report clean loud playback ([[stereotimes-atc-scm19]], [[soundstage-atc-scm19]]), but sensitivity is low so it needs a powerful amp for loud levels in medium rooms. See [[compression-and-max-spl]].
+No distortion or compression test found. ATC claims 108 dB max SPL (claimed only, Tier C). Critics report clean loud playback ([stereotimes-atc-scm19](../sources/stereotimes-atc-scm19.md), [soundstage-atc-scm19](../sources/soundstage-atc-scm19.md)), but sensitivity is low so it needs a powerful amp for loud levels in medium rooms. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-8 Ω nominal; measured minimum 5.6 Ω near 150 Hz with a small 13° phase there, so flagged `below-iec` (floor 6.4 Ω). Impedance rises to about 50 Ω below 100 Hz. Low sensitivity means it needs voltage swing more than current; ATC recommends 75-300 W. EPDR not computed. See [[impedance-and-epdr]].
+8 Ω nominal; measured minimum 5.6 Ω near 150 Hz with a small 13° phase there, so flagged `below-iec` (floor 6.4 Ω). Impedance rises to about 50 Ω below 100 Hz. Low sensitivity means it needs voltage swing more than current; ATC recommends 75-300 W. EPDR not computed. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[tas-atc-scm19]] (The Absolute Sound, Neil Gader, 2014): neutral midband and treble, tight tuneful bass to the upper 40s Hz, "highest recommendation".
-- [[soundstage-atc-scm19]] (SoundStage! Xperience, Wes Marshall, 2016): effortless dynamics, clean at high levels; slight opacity up top.
-- [[stereotimes-atc-scm19]] (Stereo Times, Allen Edelstein): solid "A", dynamically linear; wanted a bit more bass.
+- [tas-atc-scm19](../sources/tas-atc-scm19.md) (The Absolute Sound, Neil Gader, 2014): neutral midband and treble, tight tuneful bass to the upper 40s Hz, "highest recommendation".
+- [soundstage-atc-scm19](../sources/soundstage-atc-scm19.md) (SoundStage! Xperience, Wes Marshall, 2016): effortless dynamics, clean at high levels; slight opacity up top.
+- [stereotimes-atc-scm19](../sources/stereotimes-atc-scm19.md) (Stereo Times, Allen Edelstein): solid "A", dynamically linear; wanted a bit more bass.
 
 ## User reviews
-About 9 opinions from two What Hi-Fi? forum threads ([[users-atc-scm19-2026-10-11]]), so anecdotal: 3 praise sound/bass dynamics; 4 say it wants a capable amp, 2 call that a myth. No QC issues reported.
+About 9 opinions from two What Hi-Fi? forum threads ([users-atc-scm19-2026-10-11](../sources/users-atc-scm19-2026-10-11.md)), so anecdotal: 3 praise sound/bass dynamics; 4 say it wants a capable amp, 2 call that a myth. No QC issues reported.
 
 ## Conflicts
 - Sensitivity: about 83 dB measured (Tier B) vs 85 dB claimed; 2 dB lower, same direction as ATC's SCM7 results.
@@ -78,4 +78,4 @@ About 9 opinions from two What Hi-Fi? forum threads ([[users-atc-scm19-2026-10-1
 - Price: $3,749 (Sound Approach) vs $4,199 (The Music Room, Music Direct).
 
 ## Related
-[[atc]] · [[atc-scm7]] · ATC SCM20PSL · ATC SCM11 · [[impedance-and-epdr]] · [[sensitivity-normalization]]
+[ATC](../brands/atc.md) · [ATC SCM7](atc-scm7.md) · ATC SCM20PSL · ATC SCM11 · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [sensitivity-normalization](../concepts/sensitivity-normalization.md)

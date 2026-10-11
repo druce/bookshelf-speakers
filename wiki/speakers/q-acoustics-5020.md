@@ -46,30 +46,30 @@ The 5020 is a 6 Ω, 5" ported standmount with a 1" sealed dome tweeter, priced a
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 86.7 dB (average) | [[eac-q-acoustics-5020]] | A | computed (scripts/cta2034.py v2); claimed 87.9 dB per [[mfr-q-acoustics-5020]] |
-| Listening-window deviation | ±3.3 dB, 300 Hz-10 kHz (coloured, near the ±3.5 dB line) | [[eac-q-acoustics-5020]] | A | computed |
-| On-axis deviation | ±3.9 dB | [[eac-q-acoustics-5020]] | A | computed |
-| f3 / f6 | 103 / 74 Hz (needs sub) | [[eac-q-acoustics-5020]] | A | computed; claimed 53 Hz at -6 dB |
-| Min impedance | 3.4 Ω above 80 Hz | [[eac-q-acoustics-5020]] | A | stated on graph |
-| Min EPDR | 1.7 Ω above 80 Hz | [[eac-q-acoustics-5020]] | A | stated on graph |
-| THD @ 86 dB | ~0.9% near 100-140 Hz | [[eac-q-acoustics-5020]] | A | graph-read (approx.), maximum over 100 Hz-10 kHz |
-| THD @ 96 dB | ~3.2% near 100-140 Hz | [[eac-q-acoustics-5020]] | A | graph-read (approx.) |
-| Compression | ≤0.7 dB at 102 dB above 100 Hz except ~2.1 dB near 11 kHz | [[eac-q-acoustics-5020]] | A | graph-read (approx.) |
-| Preference score | 3.6 (no sub) / 6.6 (with sub) | [[eac-q-acoustics-5020]] via [[spinorama-org]] | A | 3.63 / 6.55 |
+| Sensitivity (2.83 V/1 m) | 86.7 dB (average) | [eac-q-acoustics-5020](../sources/eac-q-acoustics-5020.md) | A | computed (scripts/cta2034.py v2); claimed 87.9 dB per [mfr-q-acoustics-5020](../sources/mfr-q-acoustics-5020.md) |
+| Listening-window deviation | ±3.3 dB, 300 Hz-10 kHz (coloured, near the ±3.5 dB line) | [eac-q-acoustics-5020](../sources/eac-q-acoustics-5020.md) | A | computed |
+| On-axis deviation | ±3.9 dB | [eac-q-acoustics-5020](../sources/eac-q-acoustics-5020.md) | A | computed |
+| f3 / f6 | 103 / 74 Hz (needs sub) | [eac-q-acoustics-5020](../sources/eac-q-acoustics-5020.md) | A | computed; claimed 53 Hz at -6 dB |
+| Min impedance | 3.4 Ω above 80 Hz | [eac-q-acoustics-5020](../sources/eac-q-acoustics-5020.md) | A | stated on graph |
+| Min EPDR | 1.7 Ω above 80 Hz | [eac-q-acoustics-5020](../sources/eac-q-acoustics-5020.md) | A | stated on graph |
+| THD @ 86 dB | ~0.9% near 100-140 Hz | [eac-q-acoustics-5020](../sources/eac-q-acoustics-5020.md) | A | graph-read (approx.), maximum over 100 Hz-10 kHz |
+| THD @ 96 dB | ~3.2% near 100-140 Hz | [eac-q-acoustics-5020](../sources/eac-q-acoustics-5020.md) | A | graph-read (approx.) |
+| Compression | ≤0.7 dB at 102 dB above 100 Hz except ~2.1 dB near 11 kHz | [eac-q-acoustics-5020](../sources/eac-q-acoustics-5020.md) | A | graph-read (approx.) |
+| Preference score | 3.6 (no sub) / 6.6 (with sub) | [eac-q-acoustics-5020](../sources/eac-q-acoustics-5020.md) via [spinorama-org](../sources/spinorama-org.md) | A | 3.63 / 6.55 |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 141°, vertical about 106°. DI is minor-discontinuity (ERDI residual 1.7 dB); SPDI rises from 4.6 dB at 1 kHz to 7.7 dB at 10 kHz. The early-reflection dip near 1.5 kHz is 3.3 dB, above the 3 dB flag. On-axis minus listening window above 4 kHz is +0.8 dB, so either aim works; a little toe-in off axis would tame the "treble heavy" tilt Erin describes. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 141°, vertical about 106°. DI is minor-discontinuity (ERDI residual 1.7 dB); SPDI rises from 4.6 dB at 1 kHz to 7.7 dB at 10 kHz. The early-reflection dip near 1.5 kHz is 3.3 dB, above the 3 dB flag. On-axis minus listening window above 4 kHz is +0.8 dB, so either aim works; a little toe-in off axis would tame the "treble heavy" tilt Erin describes. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Erin's 86 dB THD peaks at about 0.9% near 100-140 Hz (graph-read), clean per the 1% rule; at 96 dB it reaches about 3.2% there, rising steeply below 65 Hz. Compression stays at or below about 0.7 dB at 102 dB above 100 Hz, with large swings below about 65 Hz (-2.4 to +2.3 dB). max_spl_db 102 is the test ceiling for the band above ~80 Hz, not a measured limit. Fine for small to medium rooms. See [[compression-and-max-spl]].
+Erin's 86 dB THD peaks at about 0.9% near 100-140 Hz (graph-read), clean per the 1% rule; at 96 dB it reaches about 3.2% there, rising steeply below 65 Hz. Compression stays at or below about 0.7 dB at 102 dB above 100 Hz, with large swings below about 65 Hz (-2.4 to +2.3 dB). max_spl_db 102 is the test ceiling for the band above ~80 Hz, not a measured limit. Fine for small to medium rooms. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-6 Ω nominal with a 3.4 Ω minimum above 80 Hz and EPDR minimum 1.7 Ω, so flagged `effectively-4ohm`. The EPDR is demanding: use a capable amplifier; the maker's 25-100 W guidance understates the current need. See [[impedance-and-epdr]].
+6 Ω nominal with a 3.4 Ω minimum above 80 Hz and EPDR minimum 1.7 Ω, so flagged `effectively-4ohm`. The EPDR is demanding: use a capable amplifier; the maker's 25-100 W guidance understates the current need. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[tas-q-acoustics-5020]] (The Absolute Sound): flat-sounding balance, great low-level detail, bass rolls off below ~70 Hz.
-- [[trustedreviews-q-acoustics-5020]] (Trusted Reviews): rich, warm, powerful, tuneful bass; not the most analytical.
-- [[eac-q-acoustics-5020]] (Erin, Tier D note): treble heavy; the cheaper 3020i is more linear.
+- [tas-q-acoustics-5020](../sources/tas-q-acoustics-5020.md) (The Absolute Sound): flat-sounding balance, great low-level detail, bass rolls off below ~70 Hz.
+- [trustedreviews-q-acoustics-5020](../sources/trustedreviews-q-acoustics-5020.md) (Trusted Reviews): rich, warm, powerful, tuneful bass; not the most analytical.
+- [eac-q-acoustics-5020](../sources/eac-q-acoustics-5020.md) (Erin, Tier D note): treble heavy; the cheaper 3020i is more linear.
 
 ## User reviews
 No user reports ingested yet.
@@ -80,4 +80,4 @@ No user reports ingested yet.
 - Sensitivity: claimed 87.9 dB vs 86.7 dB measured (1.2 dB).
 
 ## Related
-[[q-acoustics]] · [[q-acoustics-3020i]] · Q Acoustics 5010 · [[q-acoustics-3030i]] · Q Acoustics Concept 30 · [[impedance-and-epdr]]
+[Q Acoustics](../brands/q-acoustics.md) · [Q Acoustics 3020i](q-acoustics-3020i.md) · Q Acoustics 5010 · [Q Acoustics 3030i](q-acoustics-3030i.md) · Q Acoustics Concept 30 · [impedance-and-epdr](../concepts/impedance-and-epdr.md)

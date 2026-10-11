@@ -36,4 +36,4 @@ Spec table read via WebFetch (saved markdown copy in `raw/manufacturer/mfr-fluan
 Marketing page; stock status at maker is out of stock.
 
 ## Related
-[[fluance-reference-xl8s]] · [[fluance]]
+[Fluance Reference XL8S](../speakers/fluance-reference-xl8s.md) · [Fluance](../brands/fluance.md)

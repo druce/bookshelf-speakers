@@ -40,4 +40,4 @@ Quasi-anechoic at 2 m with and without grille (grille effect negligible); nearfi
 Single sample, publication year inferred from URL (2016); likely the "v2" generation. No CTA-2034 spinorama. The -6 dB figure (40 Hz) is lower than ATC's 54 Hz and the -3 dB figure; treated with caution.
 
 ## Related
-[[atc-scm19]] · [[atc]]
+[ATC SCM19](../speakers/atc-scm19.md) · [ATC](../brands/atc.md)

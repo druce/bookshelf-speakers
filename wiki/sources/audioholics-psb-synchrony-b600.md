@@ -36,4 +36,4 @@ Free-air at 7.5 ft height, 1 m, gated at 11 ms (resolution lost below 250 Hz, ac
 Gated measurement, so lower confidence below about 250 Hz; bass from ground-plane. Unit supplied for review. Sensitivity differs from NRC by 1.5 dB.
 
 ## Related
-[[psb-synchrony-b600]] · [[audioholics]] · [[psb]]
+[PSB Synchrony B600](../speakers/psb-synchrony-b600.md) · [audioholics](../reviewers/audioholics.md) · [PSB](../brands/psb.md)

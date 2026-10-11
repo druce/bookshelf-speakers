@@ -31,4 +31,4 @@ Listening only; no measurements.
 Single reviewer, bought the sample; the page carries an affiliate Amazon link.
 
 ## Related
-[[polk-audio-xt20]] · [[polk-audio]]
+[Polk Audio Monitor XT20](../speakers/polk-audio-xt20.md) · [Polk Audio](../brands/polk-audio.md)

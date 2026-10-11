@@ -32,4 +32,4 @@ Subjective only; no measurements. Price then $1,199/pair.
 Single reviewer, single room. Date from article header.
 
 ## Related
-[[elac-carina-bs243-4]] · [[elac]]
+[Elac Carina BS243.4](../speakers/elac-carina-bs243-4.md) · [Elac](../brands/elac.md)

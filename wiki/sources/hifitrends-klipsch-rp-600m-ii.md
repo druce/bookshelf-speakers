@@ -30,4 +30,4 @@ Listening with Audiolab Omnia and Cayin MT-12N tube amp, 24-inch stands about 3 
 Manufacturer-supplied sample, affiliate links on page. No measurements.
 
 ## Related
-[[klipsch-rp-600m-ii]] · [[klipsch]]
+[Klipsch RP-600M II](../speakers/klipsch-rp-600m-ii.md) · [Klipsch](../brands/klipsch.md)

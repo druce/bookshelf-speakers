@@ -25,4 +25,4 @@ speakers: [bowers-wilkins-705-s3]
 Subjective, with a large reference room and high-end partner gear.
 
 ## Related
-[[bowers-wilkins-705-s3]]
+[Bowers & Wilkins 705 S3](../speakers/bowers-wilkins-705-s3.md)

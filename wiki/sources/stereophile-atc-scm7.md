@@ -38,4 +38,4 @@ DRA Labs MLSSA with DPA 4006 mic farfield and Earthworks QTC-40 nearfield; no gr
 Single sample; no spinorama so no numeric LW/f3. Graphs not downloaded; values from text.
 
 ## Related
-[[atc-scm7]] · [[stereophile]] · [[atc]]
+[ATC SCM7](../speakers/atc-scm7.md) · [stereophile](../reviewers/stereophile.md) · [ATC](../brands/atc.md)

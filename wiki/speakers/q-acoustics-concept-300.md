@@ -45,32 +45,32 @@ The Concept 300 is Q Acoustics' flagship 6.5-inch two-way reflex standmount, sol
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 84.2 dB (low, per CLAUDE.md §7: <84 low, 84-87 average) | [[nrc-q-acoustics-concept-300]] | A | stated, LW 300 Hz-3 kHz |
-| Sensitivity | 86 dB | [[stereophile-q-acoustics-concept-300]] | B | Stereophile estimate; see Conflicts |
-| Min impedance | about 4.2 Ω @ about 180 Hz | [[nrc-q-acoustics-concept-300]] | A | graph-read (approx.) |
-| Min impedance | 4.9 Ω @ 175-200 Hz | [[stereophile-q-acoustics-concept-300]] | B | stated |
-| f6 (bass) | about 44 Hz | [[stereophile-q-acoustics-concept-300]] | B | summed nearfield, down 6 dB at port tuning; approximate |
-| Port tuning | 44 Hz | [[stereophile-q-acoustics-concept-300]] | B | |
-| Listening window | about ±2 dB, 100 Hz-15 kHz | [[nrc-q-acoustics-concept-300]] | A | graph-read (approx.); not a stated metric |
-| On-axis (tweeter axis) | "superbly flat", slight rise in top octave | [[stereophile-q-acoustics-concept-300]] | B | no numeric deviation |
-| THD+N @ 90 dB | about 3% @ 100 Hz, below about 0.6% above 400 Hz | [[nrc-q-acoustics-concept-300]] | A | graph-read (approx.) |
-| Claimed FR | 55 Hz-30 kHz | [[mfr-q-acoustics-concept-300]] | C | claimed only |
+| Sensitivity (2.83 V/1 m) | 84.2 dB (low, per CLAUDE.md §7: <84 low, 84-87 average) | [nrc-q-acoustics-concept-300](../sources/nrc-q-acoustics-concept-300.md) | A | stated, LW 300 Hz-3 kHz |
+| Sensitivity | 86 dB | [stereophile-q-acoustics-concept-300](../sources/stereophile-q-acoustics-concept-300.md) | B | Stereophile estimate; see Conflicts |
+| Min impedance | about 4.2 Ω @ about 180 Hz | [nrc-q-acoustics-concept-300](../sources/nrc-q-acoustics-concept-300.md) | A | graph-read (approx.) |
+| Min impedance | 4.9 Ω @ 175-200 Hz | [stereophile-q-acoustics-concept-300](../sources/stereophile-q-acoustics-concept-300.md) | B | stated |
+| f6 (bass) | about 44 Hz | [stereophile-q-acoustics-concept-300](../sources/stereophile-q-acoustics-concept-300.md) | B | summed nearfield, down 6 dB at port tuning; approximate |
+| Port tuning | 44 Hz | [stereophile-q-acoustics-concept-300](../sources/stereophile-q-acoustics-concept-300.md) | B | |
+| Listening window | about ±2 dB, 100 Hz-15 kHz | [nrc-q-acoustics-concept-300](../sources/nrc-q-acoustics-concept-300.md) | A | graph-read (approx.); not a stated metric |
+| On-axis (tweeter axis) | "superbly flat", slight rise in top octave | [stereophile-q-acoustics-concept-300](../sources/stereophile-q-acoustics-concept-300.md) | B | no numeric deviation |
+| THD+N @ 90 dB | about 3% @ 100 Hz, below about 0.6% above 400 Hz | [nrc-q-acoustics-concept-300](../sources/nrc-q-acoustics-concept-300.md) | A | graph-read (approx.) |
+| Claimed FR | 55 Hz-30 kHz | [mfr-q-acoustics-concept-300](../sources/mfr-q-acoustics-concept-300.md) | C | claimed only |
 
-No Klippel spinorama exists, so f3, LW deviation and preference score are not available. In-room -3 dB of 29 Hz in [[soundstage-q-acoustics-concept-300]] includes room gain and is not credited to the speaker.
+No Klippel spinorama exists, so f3, LW deviation and preference score are not available. In-room -3 dB of 29 Hz in [soundstage-q-acoustics-concept-300](../sources/soundstage-q-acoustics-concept-300.md) includes room gain and is not credited to the speaker.
 
 ## Directivity
-Stereophile found horizontal dispersion even through the midrange and treble, becoming quite directional in the top octave. Vertically a suckout develops in the crossover region 10° above and 15° below the woofer axis, so ears should sit at tweeter height (the stand puts it about 36 in up). Beamwidth and DI figures are not available; see [[directivity-index]] and [[early-reflections]]. NRC published off-axis curves to 75° but no numbers.
+Stereophile found horizontal dispersion even through the midrange and treble, becoming quite directional in the top octave. Vertically a suckout develops in the crossover region 10° above and 15° below the woofer axis, so ears should sit at tweeter height (the stand puts it about 36 in up). Beamwidth and DI figures are not available; see [directivity-index](../concepts/directivity-index.md) and [early-reflections](../concepts/early-reflections.md). NRC published off-axis curves to 75° but no numbers.
 
 ## Output & distortion
-NRC's THD+N at 90 dB (2 m) is about 3% near 100 Hz, falling to roughly 1% around 200-250 Hz and under about 0.6% above 400 Hz (graph-read). No compression or max-SPL test exists. At 84 dB sensitivity, expect moderate levels in medium rooms; Stereophile reported it played louder in the bass than a KEF LS50 before straining. See [[compression-and-max-spl]].
+NRC's THD+N at 90 dB (2 m) is about 3% near 100 Hz, falling to roughly 1% around 200-250 Hz and under about 0.6% above 400 Hz (graph-read). No compression or max-SPL test exists. At 84 dB sensitivity, expect moderate levels in medium rooms; Stereophile reported it played louder in the bass than a KEF LS50 before straining. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-6 Ω nominal. NRC graph shows a minimum near 4.2 Ω around 180 Hz, Stereophile 4.9 Ω; phase reaches about -57° at 90 Hz but where impedance is high. Stereophile judged it not a demanding load, though low sensitivity means it benefits from a competent amplifier (The Ear found a Naim SuperNait 2 restrained). Flagged `below-iec` on the NRC graph read (min < 4.8 Ω); Stereophile's 4.9 Ω would not trigger it. See [[impedance-and-epdr]].
+6 Ω nominal. NRC graph shows a minimum near 4.2 Ω around 180 Hz, Stereophile 4.9 Ω; phase reaches about -57° at 90 Hz but where impedance is high. Stereophile judged it not a demanding load, though low sensitivity means it benefits from a competent amplifier (The Ear found a Naim SuperNait 2 restrained). Flagged `below-iec` on the NRC graph read (min < 4.8 Ω); Stereophile's 4.9 Ω would not trigger it. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[stereophile-q-acoustics-concept-300]] (Stereophile, John Atkinson, enthusiastic recommendation): transparent, neutral, stable imaging, unusually extended bass for size; a little unforgiving of bright electronics.
-- [[soundstage-q-acoustics-concept-300]] (SoundStage! Hi-Fi, Diego Estan): neutral to slightly warm, impressive bass, preferred over B&W 705 S2 for tonality; imaging slightly less focused.
-- [[the-ear-q-acoustics-concept-300]] (The Ear, Jason Kennedy): open, warm, quiet cabinet; wants a powerful amplifier; well worth the price.
+- [stereophile-q-acoustics-concept-300](../sources/stereophile-q-acoustics-concept-300.md) (Stereophile, John Atkinson, enthusiastic recommendation): transparent, neutral, stable imaging, unusually extended bass for size; a little unforgiving of bright electronics.
+- [soundstage-q-acoustics-concept-300](../sources/soundstage-q-acoustics-concept-300.md) (SoundStage! Hi-Fi, Diego Estan): neutral to slightly warm, impressive bass, preferred over B&W 705 S2 for tonality; imaging slightly less focused.
+- [the-ear-q-acoustics-concept-300](../sources/the-ear-q-acoustics-concept-300.md) (The Ear, Jason Kennedy): open, warm, quiet cabinet; wants a powerful amplifier; well worth the price.
 
 ## User reviews
 No user reports ingested yet (a search found only press pieces; reddit and Amazon were not retrievable).
@@ -83,4 +83,4 @@ No user reports ingested yet (a search found only press pieces; reddit and Amazo
 - Maker page dimension labels are inconsistent; width taken from Stereophile (220 mm).
 
 ## Related
-[[q-acoustics]] · Q Acoustics Concept 30 · [[kef-ls50-meta]] · [[bowers-wilkins-705-s3]] · [[impedance-and-epdr]] · [[sensitivity-normalization]]
+[Q Acoustics](../brands/q-acoustics.md) · Q Acoustics Concept 30 · [KEF LS50 Meta](kef-ls50-meta.md) · [Bowers & Wilkins 705 S3](bowers-wilkins-705-s3.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [sensitivity-normalization](../concepts/sensitivity-normalization.md)

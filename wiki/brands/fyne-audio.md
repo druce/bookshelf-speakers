@@ -9,12 +9,12 @@ last_updated: 2026-10-11
 # Fyne Audio
 
 ## Overview
-Fyne Audio uses IsoFlare coaxial drivers and a BassTrax downfiring port across its range; the SP line is built in Glasgow, F300/F500 in Asia ([[stereophile-review-fyne-audio-f500sp]]). The only paged model, F500SP, has Tier B Stereophile measurements ([[stereophile-fyne-audio-f500sp]]) and no spinorama, so window, f3 and preference are blank. Stereophile described a wide stage and good bass for size but amp sensitivity.
+Fyne Audio uses IsoFlare coaxial drivers and a BassTrax downfiring port across its range; the SP line is built in Glasgow, F300/F500 in Asia ([stereophile-review-fyne-audio-f500sp](../sources/stereophile-review-fyne-audio-f500sp.md)). The only paged model, F500SP, has Tier B Stereophile measurements ([stereophile-fyne-audio-f500sp](../sources/stereophile-fyne-audio-f500sp.md)) and no spinorama, so window, f3 and preference are blank. Stereophile described a wide stage and good bass for size but amp sensitivity.
 
 ## Models in this wiki
 | Model | Price/pr | Rated Ω | Min Ω (flag) | LW ±dB | f3 Hz | Sens. dB | Pref (w/sub) |
 |---|---|---|---|---|---|---|---|
-| [[fyne-audio-f500sp]] | $1,999 | 8 | 5.0 (below-iec) | — | — | 87.0 | — |
+| [Fyne Audio F500SP](../speakers/fyne-audio-f500sp.md) | $1,999 | 8 | 5.0 (below-iec) | — | — | 87.0 | — |
 
 ## Other models screened
 - F500S — no-tier-ab: In scope (8 Ω per maker, bookshelf) but no Tier A/B measurement found
@@ -32,4 +32,4 @@ Fyne Audio uses IsoFlare coaxial drivers and a BassTrax downfiring port across i
 - No user-review page ingested.
 
 ## Related
-[[fyne-audio-f500sp]] · [[impedance-and-epdr]] · [[sensitivity-normalization]] · [[preference-score]] · [[candidate-universe]]
+[Fyne Audio F500SP](../speakers/fyne-audio-f500sp.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [sensitivity-normalization](../concepts/sensitivity-normalization.md) · [preference-score](../concepts/preference-score.md) · [candidate-universe](../comparisons/candidate-universe.md)

@@ -36,4 +36,4 @@ Cabinet is a 6x4x5 in sealed box with a single driver; "desktop monitor" form fa
 Static legacy pages; no stock indicator. Status "current" rests on the live price list, ASR's remark, and an order form.
 
 ## Related
-[[role-audio-skiff]] · [[role-audio]]
+[Role Audio Skiff](../speakers/role-audio-skiff.md) · [Role Audio](../brands/role-audio.md)

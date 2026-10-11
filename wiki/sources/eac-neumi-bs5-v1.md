@@ -32,7 +32,7 @@ Erin's first BS5 review used his earlier gated ground-plane/4-pi method (Klippel
 Klippel TRF with ground-plane plus 4-pi free-field mix and in-situ room compensation, so lower-resolution below about 300 Hz than the NFS. Max-SPL method: broadband multitone per CEA-2034 section 8.4. Port stuffing fills the 800 Hz and 1.6 kHz nulls but reduces output about 2 dB below 300 Hz. Erin also supplied accelerometer and nearfield data (not tabulated). Subjective notes (Tier D): treble 1-3 dB subdued, some sizzle, midrange distortion on male vocals near 90 dB at 11 ft, punchy but light bass below 100 Hz, max listenable level around 90-92 dB.
 
 ## Reliability notes
-Single purchased sample. Superseded in method by [[eac-neumi-bs5]]; Erin reports mid-band differences of about 1.5 dB between the two methods.
+Single purchased sample. Superseded in method by [eac-neumi-bs5](eac-neumi-bs5.md); Erin reports mid-band differences of about 1.5 dB between the two methods.
 
 ## Related
-[[neumi-bs5]] · [[eac-neumi-bs5]] · [[erins-audio-corner]] · [[neumi]]
+[Neumi BS5](../speakers/neumi-bs5.md) · [eac-neumi-bs5](eac-neumi-bs5.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Neumi](../brands/neumi.md)

@@ -24,4 +24,4 @@ speakers: [bowers-wilkins-705-s3]
 Single reviewer; subjective.
 
 ## Related
-[[bowers-wilkins-705-s3]]
+[Bowers & Wilkins 705 S3](../speakers/bowers-wilkins-705-s3.md)

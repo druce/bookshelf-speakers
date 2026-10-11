@@ -29,7 +29,7 @@ Rubinson used the speakers with Benchmark AHB2 amplifiers on Solidsteel stands a
 - Caveats: no deep bass, can't match some larger speakers at high levels, evaluate at ear level.
 
 ## Reliability notes
-Single reviewer, large room (about 11 ft listening distance). Measurements are in [[stereophile-mofi-sourcepoint-8]].
+Single reviewer, large room (about 11 ft listening distance). Measurements are in [stereophile-mofi-sourcepoint-8](stereophile-mofi-sourcepoint-8.md).
 
 ## Related
-[[mofi-sourcepoint-8]] · [[stereophile]] · [[mofi]]
+[MoFi SourcePoint 8](../speakers/mofi-sourcepoint-8.md) · [stereophile](../reviewers/stereophile.md) · [MoFi](../brands/mofi.md)

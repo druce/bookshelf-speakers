@@ -26,7 +26,7 @@ The maker's store (a JS app; data read from its product backend) lists the C 3 a
 | sensitivity | 87 dB (2.83 V @ 1 m) claimed | already 2.83 V, no conversion |
 | claimed FR | 45 Hz-20 kHz (no tolerance given) | not data; description also says bass "down to 40 Hz" |
 | drivers | 6.5" aluminium woofer, 2" aluminium dome mid, 1" aluminium dome tweeter | 3-way, acoustic suspension |
-| crossover | not stated by maker store; 817 Hz and 4750 Hz per reviewer ([[hometheaterhifi-nht-c3]]) | |
+| crossover | not stated by maker store; 817 Hz and 4750 Hz per reviewer ([hometheaterhifi-nht-c3](hometheaterhifi-nht-c3.md)) | |
 | dimensions | 13.75 x 7.5 x 10.125 in (349 x 191 x 257 mm H x W x D) | |
 | weight | 16 lb (7.3 kg) each | |
 | power | 50-150 W/ch recommended | |
@@ -35,7 +35,7 @@ The maker's store (a JS app; data read from its product backend) lists the C 3 a
 Fields are as returned by the backend JSON; no page copy of a spec sheet was reachable.
 
 ## Reliability notes
-Manufacturer claims (Tier C). The 87 dB claim disagrees with Klippel data ([[asr-nht-c3]]).
+Manufacturer claims (Tier C). The 87 dB claim disagrees with Klippel data ([asr-nht-c3](asr-nht-c3.md)).
 
 ## Related
-[[nht-c3]] · [[nht]]
+[NHT C3](../speakers/nht-c3.md) · [NHT](../brands/nht.md)

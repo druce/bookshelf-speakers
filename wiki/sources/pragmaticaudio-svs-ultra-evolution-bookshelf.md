@@ -27,4 +27,4 @@ Six-week review in three rooms. Praises bass extension, claimed to reach toward 
 Unit supplied by SVS and its distributor; in-room claims; smaller outlet.
 
 ## Related
-[[svs-ultra-evolution-bookshelf]] · [[svs]]
+[SVS Ultra Evolution Bookshelf](../speakers/svs-ultra-evolution-bookshelf.md) · [SVS](../brands/svs.md)

@@ -31,4 +31,4 @@ Sighted listening, no measurements.
 Sponsored content; no criticisms offered. Treat as weak Tier D. Translated by the ingest agent from Japanese.
 
 ## Related
-[[jbl-stage-250b]] · [[jbl]]
+[JBL Stage 250B](../speakers/jbl-stage-250b.md) · [JBL](../brands/jbl.md)

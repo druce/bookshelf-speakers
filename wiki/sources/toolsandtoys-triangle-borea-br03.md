@@ -25,4 +25,4 @@ Short enthusiast write-up, affiliate-linked, with no measurements and no rating.
 Affiliate links; light on technical detail. Low weight.
 
 ## Related
-[[triangle-borea-br03]] · [[triangle]]
+[Triangle Borea BR03](../speakers/triangle-borea-br03.md) · [Triangle](../brands/triangle.md)

@@ -38,4 +38,4 @@ Manufacturer figures; FR tolerance is stated (±6 dB) but is a wide band.
 Tier C only. Prices from search-result summaries, not verified page by page.
 
 ## Related
-[[jbl-stage-250b]] · [[jbl]]
+[JBL Stage 250B](../speakers/jbl-stage-250b.md) · [JBL](../brands/jbl.md)

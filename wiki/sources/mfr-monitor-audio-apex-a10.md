@@ -32,7 +32,7 @@ Monitor Audio's own page (monitoraudio.com/en/product-ranges/apex/apex-a10) was 
 | Power | 25-100 W recommended |
 
 ## Price and status evidence
-- Sky by Gramophone: $849 each ($1,698 per pair, doubled); stock not shown. ASR quoted $750 each in January 2025 ([[asr-monitor-audio-apex-a10]]).
+- Sky by Gramophone: $849 each ($1,698 per pair, doubled); stock not shown. ASR quoted $750 each in January 2025 ([asr-monitor-audio-apex-a10](asr-monitor-audio-apex-a10.md)).
 - Dedicated stands $749 per pair at the same retailer.
 - Not marked discontinued; Hi-Fi News (2025) still refers to the Apex range as current.
 
@@ -40,4 +40,4 @@ Monitor Audio's own page (monitoraudio.com/en/product-ranges/apex/apex-a10) was 
 No first-party page was readable; price confirmation is from one US retailer and is not verified as in stock. Designed for wall, ceiling or stand mounting.
 
 ## Related
-[[monitor-audio-apex-a10]] · [[monitor-audio]]
+[Monitor Audio Apex A10](../speakers/monitor-audio-apex-a10.md) · [Monitor Audio](../brands/monitor-audio.md)

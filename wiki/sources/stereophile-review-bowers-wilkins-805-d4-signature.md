@@ -28,7 +28,7 @@ John Atkinson finds an uncoloured midrange with piano and voice and no objection
 Listening on Celestion stands with Parasound JCA100 Tribute monoblocks and NAD M10; toe-in so axes cross a foot in front of the listener.
 
 ## Reliability notes
-Single reviewer and sample. Measurements are in [[stereophile-bowers-wilkins-805-d4-signature]].
+Single reviewer and sample. Measurements are in [stereophile-bowers-wilkins-805-d4-signature](stereophile-bowers-wilkins-805-d4-signature.md).
 
 ## Related
-[[bowers-wilkins-805-d4-signature]] · [[stereophile]] · [[bowers-wilkins]]
+[Bowers & Wilkins 805 D4 Signature](../speakers/bowers-wilkins-805-d4-signature.md) · [stereophile](../reviewers/stereophile.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

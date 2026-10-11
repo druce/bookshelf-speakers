@@ -21,10 +21,10 @@ Hsu sells the CCB-8 factory-direct at $389 each (one speaker per order line; $77
 | Field | Value | Note |
 |---|---|---|
 | price | $389 each, $778 per pair | maker-direct; also a B-stock CCB-8 listing at $337 |
-| nominal impedance | not stated; "recommended impedance setting 8 Ω" | maker 8 Ω compatible; Audioholics says Hsu quotes 6 Ω nominal / 4 Ω min ([[audioholics-hsu-research-ccb-8]]) |
+| nominal impedance | not stated; "recommended impedance setting 8 Ω" | maker 8 Ω compatible; Audioholics says Hsu quotes 6 Ω nominal / 4 Ω min ([audioholics-hsu-research-ccb-8](audioholics-hsu-research-ccb-8.md)) |
 | sensitivity (claimed) | 94 dB, 2.83 V/1 m, half-space | = about 88 dB full-space (-6 dB); Audioholics measured 93.8 dB half-space |
 | claimed FR | 50 Hz-20 kHz ±2 dB at 15° off axis | claimed text only; off-axis reference |
-| woofer | 8" | coaxial; tweeter is aluminium dome on the woofer's rear per [[avnirvana-hsu-research-ccb-8]] |
+| woofer | 8" | coaxial; tweeter is aluminium dome on the woofer's rear per [avnirvana-hsu-research-ccb-8](avnirvana-hsu-research-ccb-8.md) |
 | dimensions | 15" H x 10.5" W x 12" D (12.5" with grille) | 381 x 267 x 305 mm |
 | weight | 22 lb | 10.0 kg each |
 | tuning | 2 ports open / 1 open / sealed | user-selectable via plugs |
@@ -34,7 +34,7 @@ Hsu sells the CCB-8 factory-direct at $389 each (one speaker per order line; $77
 Capture is page text only; specs not in the saved raw file (see above).
 
 ## Reliability notes
-Tier C. Marketing claims ("maintains linear responses 15 degrees off axis") are contradicted by [[asr-hsu-research-ccb-8]].
+Tier C. Marketing claims ("maintains linear responses 15 degrees off axis") are contradicted by [asr-hsu-research-ccb-8](asr-hsu-research-ccb-8.md).
 
 ## Related
-[[hsu-research-ccb-8]] · [[hsu-research]]
+[Hsu Research CCB-8](../speakers/hsu-research-ccb-8.md) · [Hsu Research](../brands/hsu-research.md)

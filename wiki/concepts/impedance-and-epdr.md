@@ -19,4 +19,4 @@ A load with large phase angle draws more current than its modulus suggests. **EP
 - Minimum < 3.5 Ω or EPDR < 2 Ω in the bass: choose an amplifier rated into 4 Ω (ideally 2 Ω) with sufficient current.
 
 ## Related
-[[sensitivity-normalization]] · [[compression-and-max-spl]]
+[sensitivity-normalization](sensitivity-normalization.md) · [compression-and-max-spl](compression-and-max-spl.md)

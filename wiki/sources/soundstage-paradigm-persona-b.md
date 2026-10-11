@@ -28,7 +28,7 @@ Reviewers' Choice rave. Kanno found it neutral, very detailed and effortless, wi
 Room: large; Anthem Statement D2 processor/DACs, Anthem M1 and NAD M27 amps; several months of listening.
 
 ## Reliability notes
-Single reviewer, subjective (Tier D). Note the contrast with the measured upper-treble lift and presence dip in [[hifinews-paradigm-persona-b]] and [[soundstage-nrc-paradigm-persona-b]]; forum posts (not ingested) repeat claims of brightness.
+Single reviewer, subjective (Tier D). Note the contrast with the measured upper-treble lift and presence dip in [hifinews-paradigm-persona-b](hifinews-paradigm-persona-b.md) and [soundstage-nrc-paradigm-persona-b](soundstage-nrc-paradigm-persona-b.md); forum posts (not ingested) repeat claims of brightness.
 
 ## Related
-[[paradigm-persona-b]] · [[soundstage-nrc]] · [[paradigm]]
+[Paradigm Persona B](../speakers/paradigm-persona-b.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Paradigm](../brands/paradigm.md)

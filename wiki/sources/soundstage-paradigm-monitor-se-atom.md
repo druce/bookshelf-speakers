@@ -30,4 +30,4 @@ Listening with Hegel H360 integrated; no measurements.
 Reviewed against ASR's measured brightness; the two disagree on treble (ASR: forward highs). Single reviewer; pricing partner gear far above the speaker.
 
 ## Related
-[[paradigm-monitor-se-atom]] · [[paradigm]]
+[Paradigm Monitor SE Atom](../speakers/paradigm-monitor-se-atom.md) · [Paradigm](../brands/paradigm.md)

@@ -15,7 +15,7 @@ speakers: [polk-audio-reserve-r200]
 # TNW: Polk R200 review (2021-05-22)
 
 ## Summary
-Enthusiastic review by the same person as [[napilopez-polk-audio-reserve-r200]], with graphs. He calls it nearly transparent and perhaps the most neutral 6.5" bookshelf he has heard under $1,000.
+Enthusiastic review by the same person as [napilopez-polk-audio-reserve-r200](napilopez-polk-audio-reserve-r200.md), with graphs. He calls it nearly transparent and perhaps the most neutral 6.5" bookshelf he has heard under $1,000.
 
 ## Key claims
 - Listening window among the flattest he has measured without DSP; predicted in-room response very good, with a dip at the 3 kHz crossover.
@@ -27,4 +27,4 @@ Enthusiastic review by the same person as [[napilopez-polk-audio-reserve-r200]],
 Not independent of the Tier B measurement; sample provided to him (disclosure not captured). Subjective claims are attributed opinion.
 
 ## Related
-[[polk-audio-reserve-r200]] · [[polk-audio]]
+[Polk Audio Reserve R200](../speakers/polk-audio-reserve-r200.md) · [Polk Audio](../brands/polk-audio.md)

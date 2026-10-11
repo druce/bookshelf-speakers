@@ -34,7 +34,7 @@ Canadian direct-sale brand. Page shows the Victoria at $3,990 per pair, all incl
 $3,990 per pair on the maker-direct page, marked Out of stock; the maker's all-products listing page does not include the Victoria (checked 2026-10-11). Stereophile reported $5,500 (CES 2016) and $5,999 (AXPONA 2023) earlier. Stock/continuation unclear; no third-party dealer found.
 
 ## Reliability notes
-Claims only; measured sensitivity is about 4 dB below the claim ([[eac-audio-craftsmen-victoria]]).
+Claims only; measured sensitivity is about 4 dB below the claim ([eac-audio-craftsmen-victoria](eac-audio-craftsmen-victoria.md)).
 
 ## Related
-[[audio-craftsmen-victoria]] · [[audio-craftsmen]]
+[Audio Craftsmen Victoria](../speakers/audio-craftsmen-victoria.md) · [Audio Craftsmen](../brands/audio-craftsmen.md)

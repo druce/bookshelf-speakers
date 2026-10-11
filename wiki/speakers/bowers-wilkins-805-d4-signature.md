@@ -41,36 +41,36 @@ measurement_count: 3
 ---
 
 ## Summary
-The 805 D4 Signature is the upgraded version of [[bowers-wilkins-805-d4]], with a revised crossover and motor, a modified top plate and a more open tweeter grille, in the same 440 mm, 15.6 kg front-ported cabinet. Three Tier A/B sources agree it has a dished response with a treble peak near 9-10 kHz (Hi-Fi News: a full 8 dB midrange dip), sensitivity of 84-86 dB (not 88), and impedance of 4.5-4.7 Ω minimum with EPDR near 2 Ω, so it is a demanding load. Bass extends to about 41 Hz (f6). It suits small-to-medium rooms, a current-capable amplifier and listeners who like an airy, raised treble. No Klippel spinorama exists.
+The 805 D4 Signature is the upgraded version of [Bowers & Wilkins 805 D4](bowers-wilkins-805-d4.md), with a revised crossover and motor, a modified top plate and a more open tweeter grille, in the same 440 mm, 15.6 kg front-ported cabinet. Three Tier A/B sources agree it has a dished response with a treble peak near 9-10 kHz (Hi-Fi News: a full 8 dB midrange dip), sensitivity of 84-86 dB (not 88), and impedance of 4.5-4.7 Ω minimum with EPDR near 2 Ω, so it is a demanding load. Bass extends to about 41 Hz (f6). It suits small-to-medium rooms, a current-capable amplifier and listeners who like an airy, raised treble. No Klippel spinorama exists.
 
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 84.1 dB (average) | [[soundstage-bowers-wilkins-805-d4-signature]] | A | 300 Hz-3 kHz listening window; claimed 88 dB per [[mfr-bowers-wilkins-805-d4-signature]] |
-| Sensitivity | 88.4 dB(B) on tweeter axis | [[stereophile-bowers-wilkins-805-d4-signature]] | B | B-weighted, tweeter axis |
-| Sensitivity | 86.1 dB mean 500 Hz-8 kHz; 83.5 dB at 1 kHz; 85.2 dB IEC | [[hifinews-bowers-wilkins-805-d4-signature]] | B | |
-| Min impedance | ~4.5 Ω flat from ~150-250 Hz | [[soundstage-bowers-wilkins-805-d4-signature]] | A | graph-read (approx.); `below-iec` |
-| Min impedance | 4.68 Ω @ 175 Hz (4 Ω @ 20 kHz) | [[stereophile-bowers-wilkins-805-d4-signature]] | B | measured |
-| Min impedance | 4.53 Ω @ 190 Hz | [[hifinews-bowers-wilkins-805-d4-signature]] | B | measured |
-| EPDR min | 2.0 Ω (8.9-10 kHz); 2.3 Ω @ 108 Hz; 2.5 Ω @ 56 Hz | [[stereophile-bowers-wilkins-805-d4-signature]] | B | HFN: 2.1 Ω @ 120 Hz |
-| f6 | 41 Hz (excellent) | [[hifinews-bowers-wilkins-805-d4-signature]] | B | -6 dB re 200 Hz, nearfield-merged; port ~42 Hz |
-| Axial response error | ±4.9 dB, 200 Hz-20 kHz (coloured) | [[hifinews-bowers-wilkins-805-d4-signature]] | B | up from ±4.4 dB on the standard model |
-| Crossover | 3 kHz, first-order-like | [[stereophile-bowers-wilkins-805-d4-signature]] | B | measured |
-| THD at 90 dB, 1 m | 0.3% (100 Hz), 0.19% (1 kHz), 0.55% (10 kHz) | [[hifinews-bowers-wilkins-805-d4-signature]] | B | not 86/96 dB, so not in frontmatter |
-| THD+N at 90 dB, 2 m | ~1.8% near 100 Hz, <0.6% 300 Hz-5 kHz | [[soundstage-bowers-wilkins-805-d4-signature]] | A | graph-read (approx.), includes noise |
+| Sensitivity (2.83 V/1 m) | 84.1 dB (average) | [soundstage-bowers-wilkins-805-d4-signature](../sources/soundstage-bowers-wilkins-805-d4-signature.md) | A | 300 Hz-3 kHz listening window; claimed 88 dB per [mfr-bowers-wilkins-805-d4-signature](../sources/mfr-bowers-wilkins-805-d4-signature.md) |
+| Sensitivity | 88.4 dB(B) on tweeter axis | [stereophile-bowers-wilkins-805-d4-signature](../sources/stereophile-bowers-wilkins-805-d4-signature.md) | B | B-weighted, tweeter axis |
+| Sensitivity | 86.1 dB mean 500 Hz-8 kHz; 83.5 dB at 1 kHz; 85.2 dB IEC | [hifinews-bowers-wilkins-805-d4-signature](../sources/hifinews-bowers-wilkins-805-d4-signature.md) | B | |
+| Min impedance | ~4.5 Ω flat from ~150-250 Hz | [soundstage-bowers-wilkins-805-d4-signature](../sources/soundstage-bowers-wilkins-805-d4-signature.md) | A | graph-read (approx.); `below-iec` |
+| Min impedance | 4.68 Ω @ 175 Hz (4 Ω @ 20 kHz) | [stereophile-bowers-wilkins-805-d4-signature](../sources/stereophile-bowers-wilkins-805-d4-signature.md) | B | measured |
+| Min impedance | 4.53 Ω @ 190 Hz | [hifinews-bowers-wilkins-805-d4-signature](../sources/hifinews-bowers-wilkins-805-d4-signature.md) | B | measured |
+| EPDR min | 2.0 Ω (8.9-10 kHz); 2.3 Ω @ 108 Hz; 2.5 Ω @ 56 Hz | [stereophile-bowers-wilkins-805-d4-signature](../sources/stereophile-bowers-wilkins-805-d4-signature.md) | B | HFN: 2.1 Ω @ 120 Hz |
+| f6 | 41 Hz (excellent) | [hifinews-bowers-wilkins-805-d4-signature](../sources/hifinews-bowers-wilkins-805-d4-signature.md) | B | -6 dB re 200 Hz, nearfield-merged; port ~42 Hz |
+| Axial response error | ±4.9 dB, 200 Hz-20 kHz (coloured) | [hifinews-bowers-wilkins-805-d4-signature](../sources/hifinews-bowers-wilkins-805-d4-signature.md) | B | up from ±4.4 dB on the standard model |
+| Crossover | 3 kHz, first-order-like | [stereophile-bowers-wilkins-805-d4-signature](../sources/stereophile-bowers-wilkins-805-d4-signature.md) | B | measured |
+| THD at 90 dB, 1 m | 0.3% (100 Hz), 0.19% (1 kHz), 0.55% (10 kHz) | [hifinews-bowers-wilkins-805-d4-signature](../sources/hifinews-bowers-wilkins-805-d4-signature.md) | B | not 86/96 dB, so not in frontmatter |
+| THD+N at 90 dB, 2 m | ~1.8% near 100 Hz, <0.6% 300 Hz-5 kHz | [soundstage-bowers-wilkins-805-d4-signature](../sources/soundstage-bowers-wilkins-805-d4-signature.md) | A | graph-read (approx.), includes noise |
 
 ## Directivity
-Stereophile reports evenly spaced lateral contours (stable imaging) and a vertical suckout at the crossover 5° above the tweeter axis, with the mid-treble dropping 5° and more below it; the pattern narrows around the 9-10 kHz peak, so toe-in is advised ([[stereophile-bowers-wilkins-805-d4-signature]]). No beamwidth, DI or early-reflection numbers are available. Sit with tweeters at ear height. See [[directivity-index]], [[early-reflections]].
+Stereophile reports evenly spaced lateral contours (stable imaging) and a vertical suckout at the crossover 5° above the tweeter axis, with the mid-treble dropping 5° and more below it; the pattern narrows around the 9-10 kHz peak, so toe-in is advised ([stereophile-bowers-wilkins-805-d4-signature](../sources/stereophile-bowers-wilkins-805-d4-signature.md)). No beamwidth, DI or early-reflection numbers are available. Sit with tweeters at ear height. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Harmonic distortion at 90 dB is low (HFN 0.2-0.55%); NRC's THD+N graph shows about 1.8% near 100 Hz. No compression or max-SPL test. Stereophile heard the sound harden at higher volume with a modest class-D integrated. Fine for small-to-medium rooms; see [[compression-and-max-spl]].
+Harmonic distortion at 90 dB is low (HFN 0.2-0.55%); NRC's THD+N graph shows about 1.8% near 100 Hz. No compression or max-SPL test. Stereophile heard the sound harden at higher volume with a modest class-D integrated. Fine for small-to-medium rooms; see [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-8 Ω nominal, 4.5-4.7 Ω minimum, EPDR about 2.0-2.1 Ω, phase about ±57°; Stereophile calls it relatively current-hungry. Pair with a robust amplifier rated for 4 Ω; B&W recommends 50-120 W. See [[impedance-and-epdr]].
+8 Ω nominal, 4.5-4.7 Ω minimum, EPDR about 2.0-2.1 Ω, phase about ±57°; Stereophile calls it relatively current-hungry. Pair with a robust amplifier rated for 4 Ω; B&W recommends 50-120 W. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[stereophile-review-bowers-wilkins-805-d4-signature]] (Stereophile): uncoloured midrange, airy but not bright; limited at the very lowest frequencies and loudness; highly recommended for small-to-medium rooms.
-- [[soundstageultra-bowers-wilkins-805-d4-signature]] (SoundStage! Ultra): astonishingly pure midrange, good bass for size; tonal balance rises in upper mids and treble.
+- [stereophile-review-bowers-wilkins-805-d4-signature](../sources/stereophile-review-bowers-wilkins-805-d4-signature.md) (Stereophile): uncoloured midrange, airy but not bright; limited at the very lowest frequencies and loudness; highly recommended for small-to-medium rooms.
+- [soundstageultra-bowers-wilkins-805-d4-signature](../sources/soundstageultra-bowers-wilkins-805-d4-signature.md) (SoundStage! Ultra): astonishingly pure midrange, good bass for size; tonal balance rises in upper mids and treble.
 
 ## User reviews
 No user reports ingested yet (the Audiogon and Reddit searches returned nothing specific to the Signature).
@@ -81,4 +81,4 @@ No user reports ingested yet (the Audiogon and Reddit searches returned nothing 
 - Price: B&W US and World Wide Stereo $14,000; Stereophile $13,500 (2024) and SoundStage! $12,000 (2025). B&W US showed no stock (notification form); World Wide Stereo listed it available; Audio Advice sold out.
 
 ## Related
-[[bowers-wilkins]] · [[bowers-wilkins-805-d4]] · [[bowers-wilkins-705-s3-signature]] · KEF Reference 1 Meta · [[impedance-and-epdr]]
+[Bowers & Wilkins](../brands/bowers-wilkins.md) · [Bowers & Wilkins 805 D4](bowers-wilkins-805-d4.md) · [Bowers & Wilkins 705 S3 Signature](bowers-wilkins-705-s3-signature.md) · KEF Reference 1 Meta · [impedance-and-epdr](../concepts/impedance-and-epdr.md)

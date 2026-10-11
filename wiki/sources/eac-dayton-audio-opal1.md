@@ -46,4 +46,4 @@ Klippel Near-Field Scanner, reference point at tweeter, grille off, broken-in. C
 Single manufacturer-loaned sample; Erin states no compensation. THD/compression values are read from images. Erin quotes both 75.7 dB (summary) and 78.5 dB (manufacturer spec).
 
 ## Related
-[[dayton-audio-opal1]] · [[erins-audio-corner]] · [[dayton-audio]] · [[spinorama-org]]
+[Dayton Audio OPAL1](../speakers/dayton-audio-opal1.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Dayton Audio](../brands/dayton-audio.md) · [spinorama-org](spinorama-org.md)

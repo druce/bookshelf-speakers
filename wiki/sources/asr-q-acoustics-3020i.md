@@ -40,7 +40,7 @@ Klippel NFS measurement of a pair purchased new (US $315 via Amazon). Amir finds
 Klippel Near-field Scanner, 800+ points, grille off. Distortion plot is at 96 dB SPL at 1 m (dB-V axis). Impedance plot includes phase.
 
 ## Reliability notes
-Single purchased sample. Amir's "Tier D" listening notes: bright on female vocals ("zing" fixed with a high-frequency shelf), plays loud without woofer bottoming. SoundStage/NRC measurements ([[nrc-q-acoustics-3020i]]) correlate well per the reviewer.
+Single purchased sample. Amir's "Tier D" listening notes: bright on female vocals ("zing" fixed with a high-frequency shelf), plays loud without woofer bottoming. SoundStage/NRC measurements ([nrc-q-acoustics-3020i](nrc-q-acoustics-3020i.md)) correlate well per the reviewer.
 
 ## Related
-[[q-acoustics-3020i]] · [[asr]] · [[q-acoustics]] · [[spinorama-org]]
+[Q Acoustics 3020i](../speakers/q-acoustics-3020i.md) · [asr](../reviewers/asr.md) · [Q Acoustics](../brands/q-acoustics.md) · [spinorama-org](spinorama-org.md)

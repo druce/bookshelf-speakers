@@ -39,4 +39,4 @@ $1,199/pair, in stock at World Wide Stereo and Audio Advisor on 2026-10-11. Curr
 Claims only. Measured sensitivity (82.2 dB ASR, ~82.5 dB Stereophile) is 2.5-3 dB below the claimed 85 dB.
 
 ## Related
-[[elac-carina-bs243-4]] · [[elac]]
+[Elac Carina BS243.4](../speakers/elac-carina-bs243-4.md) · [Elac](../brands/elac.md)

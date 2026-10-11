@@ -27,4 +27,4 @@ Favourable but qualified review: recommended for TV, movies and relaxed music; a
 Capture is model-extracted, not verbatim. Single reviewer, no measurements. Contrasts with Audioholics and What Hi-Fi? on treble (soft vs slightly exposed).
 
 ## Related
-[[focal-theva-n1]] · [[focal]]
+[Focal Theva N°1](../speakers/focal-theva-n1.md) · [Focal](../brands/focal.md)

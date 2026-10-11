@@ -138,6 +138,9 @@ For non-in-scope verdicts include slug, brand, model, verdict, reason, successor
 - Prefer fewer, solid sources over many thin ones. Typical budget per in-scope speaker: ~12–25 tool calls.
 - Finish every packet you were given. Your final reply: one line per packet: `slug — verdict — pages created count — notable issue`.
 
+## Link format (added after initial build)
+Write `[[slug]]` while drafting; the coordinator runs `scripts/wikilinks_to_md.py` to convert to relative markdown links before commit.
+
 ## Practical notes (from pilot)
 - Always single-quote URLs in shell commands (ASR attachment URLs contain `?`; Dropbox URLs contain `%28`). `fetch_asset.py` works for ASR attachments and Erin's Dropbox images when quoted.
 - Erin's pages show the date in the body ("Monday, Jun 19, 2023"); pass `--date` to fetch_raw.py.

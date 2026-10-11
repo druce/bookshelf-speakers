@@ -23,7 +23,7 @@ Manufacturer page for the 705 S3 Signature, a two-way vented standmount with a 2
 | sensitivity_claimed_db | 88 dB (2.83 V, 1 m) | already 2.83 V; no conversion |
 | claimed_fr | 50 Hz-28 kHz ±3 dB; 45 Hz-33 kHz at -6 dB | claimed |
 | drivers | 1x 25 mm decoupled carbon dome; 1x 165 mm (6.5") Continuum cone | |
-| port | Flowport (rear, dimpled, below terminals) | per [[hifinews-bowers-wilkins-705-s3-signature]] description |
+| port | Flowport (rear, dimpled, below terminals) | per [hifinews-bowers-wilkins-705-s3-signature](hifinews-bowers-wilkins-705-s3-signature.md) description |
 | dimensions | 345 x 192 x 297 mm cabinet; 413 mm high including tweeter pod | |
 | weight | 10.35 kg each | |
 | amplifier | 30-120 W into 8 Ω | recommended |
@@ -34,7 +34,7 @@ Manufacturer page for the 705 S3 Signature, a two-way vented standmount with a 2
 Page fetched by script; spec block read directly from the saved raw file.
 
 ## Reliability notes
-Tier C. Claimed minimum impedance (3.7 Ω) is lower than the Hi-Fi News measurement (4.7 Ω); see [[hifinews-bowers-wilkins-705-s3-signature-lab]].
+Tier C. Claimed minimum impedance (3.7 Ω) is lower than the Hi-Fi News measurement (4.7 Ω); see [hifinews-bowers-wilkins-705-s3-signature-lab](hifinews-bowers-wilkins-705-s3-signature-lab.md).
 
 ## Related
-[[bowers-wilkins-705-s3-signature]] · [[bowers-wilkins]]
+[Bowers & Wilkins 705 S3 Signature](../speakers/bowers-wilkins-705-s3-signature.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

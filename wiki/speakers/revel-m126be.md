@@ -46,41 +46,41 @@ The Revel Performa M126Be is an 8 Ω nominal two-way, 6.5" ported standmount wit
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 85.7 dB (average) | [[eac-revel-m126be]] | A | computed (scripts/cta2034.py v2) |
-| Sensitivity | 85.25 dB | [[soundstage-nrc-revel-m126be]] | A | 300 Hz-3 kHz listening window |
-| Sensitivity | 87.9 dB | [[audioholics-revel-m126be]] | A | gated outdoor; claimed 86 dB per [[mfr-revel-m126be]] |
-| Listening-window deviation | ±1.1 dB, 300 Hz-10 kHz (excellent) | [[eac-revel-m126be]] | A | computed |
-| On-axis deviation | ±1.8 dB (good) | [[eac-revel-m126be]] | A | computed |
-| f3 / f6 | 93 / 50 Hz | [[eac-revel-m126be]] | A | computed; f3 inflated by the bass shelf, see Conflicts |
-| Bass knee | a little below 60 Hz; usable below 50 Hz | [[audioholics-revel-m126be]] | A | groundplane, ported |
-| Min impedance | 4.9 Ω (above 80 Hz) | [[eac-revel-m126be]] | A | graph legend; ~170 Hz graph-read |
-| Min impedance | ~4.5 Ω @ ~200 Hz | [[soundstage-nrc-revel-m126be]] | A | graph-read (approx.) |
-| Min impedance | ~6 Ω just above 200 Hz | [[audioholics-revel-m126be]] | A | text |
-| Min EPDR | 3.0 Ω (above 80 Hz) | [[eac-revel-m126be]] | A | |
-| THD 86 dB @ 1 m | ~1.7% at 100 Hz | [[eac-revel-m126be]] | A | graph-read; highest in 100 Hz-10 kHz |
-| THD 96 dB @ 1 m | ~4.2% at 100 Hz | [[eac-revel-m126be]] | A | graph-read |
-| THD+N 90 dB @ 2 m | ~4% near 100 Hz | [[soundstage-nrc-revel-m126be]] | A | graph-read; includes noise |
-| Compression | no ≥3 dB at 102 dB @ 1 m | [[eac-revel-m126be]] | A | top tested level, so max_spl_db is a lower bound |
-| Preference score | 5.1 (no sub) / 7.3 (sub) | [[eac-revel-m126be]] via [[spinorama-org]] | A | not meaningful to <0.5 |
-| Crossover | 1.7 kHz | [[mfr-revel-m126be]], [[audioholics-revel-m126be]] | C/A | 2nd-order tweeter, 3rd-order woofer |
+| Sensitivity (2.83 V/1 m) | 85.7 dB (average) | [eac-revel-m126be](../sources/eac-revel-m126be.md) | A | computed (scripts/cta2034.py v2) |
+| Sensitivity | 85.25 dB | [soundstage-nrc-revel-m126be](../sources/soundstage-nrc-revel-m126be.md) | A | 300 Hz-3 kHz listening window |
+| Sensitivity | 87.9 dB | [audioholics-revel-m126be](../sources/audioholics-revel-m126be.md) | A | gated outdoor; claimed 86 dB per [mfr-revel-m126be](../sources/mfr-revel-m126be.md) |
+| Listening-window deviation | ±1.1 dB, 300 Hz-10 kHz (excellent) | [eac-revel-m126be](../sources/eac-revel-m126be.md) | A | computed |
+| On-axis deviation | ±1.8 dB (good) | [eac-revel-m126be](../sources/eac-revel-m126be.md) | A | computed |
+| f3 / f6 | 93 / 50 Hz | [eac-revel-m126be](../sources/eac-revel-m126be.md) | A | computed; f3 inflated by the bass shelf, see Conflicts |
+| Bass knee | a little below 60 Hz; usable below 50 Hz | [audioholics-revel-m126be](../sources/audioholics-revel-m126be.md) | A | groundplane, ported |
+| Min impedance | 4.9 Ω (above 80 Hz) | [eac-revel-m126be](../sources/eac-revel-m126be.md) | A | graph legend; ~170 Hz graph-read |
+| Min impedance | ~4.5 Ω @ ~200 Hz | [soundstage-nrc-revel-m126be](../sources/soundstage-nrc-revel-m126be.md) | A | graph-read (approx.) |
+| Min impedance | ~6 Ω just above 200 Hz | [audioholics-revel-m126be](../sources/audioholics-revel-m126be.md) | A | text |
+| Min EPDR | 3.0 Ω (above 80 Hz) | [eac-revel-m126be](../sources/eac-revel-m126be.md) | A | |
+| THD 86 dB @ 1 m | ~1.7% at 100 Hz | [eac-revel-m126be](../sources/eac-revel-m126be.md) | A | graph-read; highest in 100 Hz-10 kHz |
+| THD 96 dB @ 1 m | ~4.2% at 100 Hz | [eac-revel-m126be](../sources/eac-revel-m126be.md) | A | graph-read |
+| THD+N 90 dB @ 2 m | ~4% near 100 Hz | [soundstage-nrc-revel-m126be](../sources/soundstage-nrc-revel-m126be.md) | A | graph-read; includes noise |
+| Compression | no ≥3 dB at 102 dB @ 1 m | [eac-revel-m126be](../sources/eac-revel-m126be.md) | A | top tested level, so max_spl_db is a lower bound |
+| Preference score | 5.1 (no sub) / 7.3 (sub) | [eac-revel-m126be](../sources/eac-revel-m126be.md) via [spinorama-org](../sources/spinorama-org.md) | A | not meaningful to <0.5 |
+| Crossover | 1.7 kHz | [mfr-revel-m126be](../sources/mfr-revel-m126be.md), [audioholics-revel-m126be](../sources/audioholics-revel-m126be.md) | C/A | 2nd-order tweeter, 3rd-order woofer |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 129°, vertical about 109° (computed). DI is minor-discontinuity (ERDI residual 1.1 dB); SPDI rises from 5.5 dB at 1 kHz to 8.1 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 1.3 dB, under the 3 dB flag. Erin notes a vertical dip near 1.7 kHz, so stay within a few degrees of the tweeter axis. On-axis minus listening window above 4 kHz is +0.6 dB, so either aim works. Audioholics found off-axis behaviour exceptionally flat and a 5 kHz on-axis bump that vanishes beyond 10°. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 129°, vertical about 109° (computed). DI is minor-discontinuity (ERDI residual 1.1 dB); SPDI rises from 5.5 dB at 1 kHz to 8.1 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 1.3 dB, under the 3 dB flag. Erin notes a vertical dip near 1.7 kHz, so stay within a few degrees of the tweeter axis. On-axis minus listening window above 4 kHz is +0.6 dB, so either aim works. Audioholics found off-axis behaviour exceptionally flat and a 5 kHz on-axis bump that vanishes beyond 10°. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-EAC's 86 dB THD is about 1.7% at 100 Hz and under about 0.5% above 200 Hz; at 96 dB it is about 4.2% at 100 Hz and rises below that, with 0.5-0.6% bumps near 300 Hz and 1.8-2 kHz. Compression is small (within about ±0.8 dB above 100 Hz at 102 dB, +1.7 dB enhancement near 1.7 kHz), so no ≥3 dB compression through 102 dB @ 1 m. Erin links the 1.7 kHz distortion to a possible upper-mid glare. Multitone distortion stayed under 3%. Good for medium rooms at high levels with a sub or high-pass below about 80 Hz. See [[compression-and-max-spl]].
+EAC's 86 dB THD is about 1.7% at 100 Hz and under about 0.5% above 200 Hz; at 96 dB it is about 4.2% at 100 Hz and rises below that, with 0.5-0.6% bumps near 300 Hz and 1.8-2 kHz. Compression is small (within about ±0.8 dB above 100 Hz at 102 dB, +1.7 dB enhancement near 1.7 kHz), so no ≥3 dB compression through 102 dB @ 1 m. Erin links the 1.7 kHz distortion to a possible upper-mid glare. Multitone distortion stayed under 3%. Good for medium rooms at high levels with a sub or high-pass below about 80 Hz. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-8 Ω nominal. Measured minimum 4.9 Ω (EAC), about 4.5 Ω (NRC), below the IEC floor of 6.4 Ω, so flagged `below-iec`; but not below 4 Ω. Min EPDR 3.0 Ω above 80 Hz (reading from the graph legend); phase stays within about ±40°. Audioholics called the load benign. Any competent amplifier will do. See [[impedance-and-epdr]].
+8 Ω nominal. Measured minimum 4.9 Ω (EAC), about 4.5 Ω (NRC), below the IEC floor of 6.4 Ω, so flagged `below-iec`; but not below 4 Ω. Min EPDR 3.0 Ω above 80 Hz (reading from the graph legend); phase stays within about ±40°. Audioholics called the load benign. Any competent amplifier will do. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[soundstage-revel-m126be]] (SoundStage!, Reviewers' Choice): even tonal balance, exceptional clarity and imaging; bass clean but not deep.
-- [[tas-revel-m126be]] (The Absolute Sound): refined M106 successor, slightly cool and forward, airy non-brittle beryllium treble; bottom octave out of reach.
-- [[hometheaterhifi-revel-m126be]] (HomeTheaterHifi): extended smooth treble, no bass trickery, no audible distortion at high levels.
-- [[audioholics-revel-m126be]] (Audioholics, 5/5 performance and value): flat wide response, natural sound, imaging; "no real shortcomings".
+- [soundstage-revel-m126be](../sources/soundstage-revel-m126be.md) (SoundStage!, Reviewers' Choice): even tonal balance, exceptional clarity and imaging; bass clean but not deep.
+- [tas-revel-m126be](../sources/tas-revel-m126be.md) (The Absolute Sound): refined M106 successor, slightly cool and forward, airy non-brittle beryllium treble; bottom octave out of reach.
+- [hometheaterhifi-revel-m126be](../sources/hometheaterhifi-revel-m126be.md) (HomeTheaterHifi): extended smooth treble, no bass trickery, no audible distortion at high levels.
+- [audioholics-revel-m126be](../sources/audioholics-revel-m126be.md) (Audioholics, 5/5 performance and value): flat wide response, natural sound, imaging; "no real shortcomings".
 
 ## User reviews
-About 3 reports, so anecdotal ([[users-revel-m126be]]): 2 praise sound quality and dynamics; 1 each mentions needing a sub, strained symphonic peaks, and no perceived soundstage. No QC problems reported.
+About 3 reports, so anecdotal ([users-revel-m126be](../sources/users-revel-m126be.md)): 2 praise sound quality and dynamics; 1 each mentions needing a sub, strained symphonic peaks, and no perceived soundstage. No QC problems reported.
 
 ## Conflicts
 - Sensitivity: 85.7 dB (EAC computed) and 85.25 dB (NRC) vs 87.9 dB (Audioholics, gated outdoor) vs 86 dB claimed; the Audioholics figure is >1 dB higher.
@@ -90,4 +90,4 @@ About 3 reports, so anecdotal ([[users-revel-m126be]]): 2 praise sound quality a
 - EAC's page date (2023-06-23) differs from the 2023-12-19 spinorama.org date in the raw header.
 
 ## Related
-[[revel]] · [[revel-m16]] · [[revel-m105]] · [[revel-m106]] · [[kef-ls50-meta]] · [[spinorama]] · [[preference-score]]
+[Revel](../brands/revel.md) · [Revel M16](revel-m16.md) · [Revel M105](revel-m105.md) · [Revel M106](revel-m106.md) · [KEF LS50 Meta](kef-ls50-meta.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

@@ -26,7 +26,7 @@ Current Entry Series passive standmount. Maker page gives no US price; US dealer
 | Max SPL | 103 dB |
 | Crossover | 2.5 kHz (maker); Stereophile measured just above 2 kHz |
 | Drivers | 125 mm mid/bass with integral soft dome; 25 mm soft-dome tweeter with alloy waveguide |
-| Enclosure | sealed (per [[stereophile-review-atc-scm7]]) |
+| Enclosure | sealed (per [stereophile-review-atc-scm7](stereophile-review-atc-scm7.md)) |
 | Recommended amp | 75-300 W (Stereophile lists 50-200 W) |
 | Dimensions | 300 x 174 x 215 mm (grille adds 28 mm) |
 | Weight | 7.5 kg each |
@@ -38,4 +38,4 @@ Current on ATC site. Sound Approach $1,749/pair, special order (https://soundapp
 Claims only.
 
 ## Related
-[[atc-scm7]] · [[atc]]
+[ATC SCM7](../speakers/atc-scm7.md) · [ATC](../brands/atc.md)

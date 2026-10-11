@@ -28,4 +28,4 @@ UK listening review praising the built-in spring isolation and the quiet cabinet
 Single reviewer, no measurements; tested without the treble-reduction jumper.
 
 ## Related
-[[q-acoustics-concept-300]] · [[q-acoustics]]
+[Q Acoustics Concept 300](../speakers/q-acoustics-concept-300.md) · [Q Acoustics](../brands/q-acoustics.md)

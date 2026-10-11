@@ -46,31 +46,31 @@ The BIC Venturi DV62si is an 8 Ω, rear-ported 6.5" two-way with a 0.75" soft do
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 87.0 dB (average) | [[asr-bic-america-venturi-dv62si]] | A | computed (scripts/cta2034.py v2); claimed 90 dB per [[mfr-bic-america-venturi-dv62si]] |
-| Listening-window deviation | ±3.5 dB, 300 Hz-10 kHz (coloured) | [[asr-bic-america-venturi-dv62si]] | A | computed |
-| On-axis deviation | ±4.1 dB | [[asr-bic-america-venturi-dv62si]] | A | computed |
-| f3 / f6 | 80 / 70 Hz (needs a sub) | [[asr-bic-america-venturi-dv62si]] | A | computed |
-| LW dip above f3 | -3.3 dB @ 219 Hz | [[asr-bic-america-venturi-dv62si]] | A | computed |
-| Min impedance | ~5.8 Ω @ ~10 kHz | [[asr-bic-america-venturi-dv62si]] | A | graph-read (approx.); ASR annotation says 7 Ω |
-| THD 86 dB | ~1.7% peak at ~1.8 kHz | [[asr-bic-america-venturi-dv62si]] | A | graph-read (approx.), relative THD |
-| THD 96 dB | ~1.9% peak | [[asr-bic-america-venturi-dv62si]] | A | graph-read (approx.) |
-| Preference score | 2.4 (no sub) / 5.3 (with sub) | [[asr-bic-america-venturi-dv62si]] via [[spinorama-org]] | A | not a ranking on its own |
-| Crossover | ~3.5 kHz | [[asr-bic-america-venturi-dv62si]] | A | ASR second-hand; maker does not state |
+| Sensitivity (2.83 V/1 m) | 87.0 dB (average) | [asr-bic-america-venturi-dv62si](../sources/asr-bic-america-venturi-dv62si.md) | A | computed (scripts/cta2034.py v2); claimed 90 dB per [mfr-bic-america-venturi-dv62si](../sources/mfr-bic-america-venturi-dv62si.md) |
+| Listening-window deviation | ±3.5 dB, 300 Hz-10 kHz (coloured) | [asr-bic-america-venturi-dv62si](../sources/asr-bic-america-venturi-dv62si.md) | A | computed |
+| On-axis deviation | ±4.1 dB | [asr-bic-america-venturi-dv62si](../sources/asr-bic-america-venturi-dv62si.md) | A | computed |
+| f3 / f6 | 80 / 70 Hz (needs a sub) | [asr-bic-america-venturi-dv62si](../sources/asr-bic-america-venturi-dv62si.md) | A | computed |
+| LW dip above f3 | -3.3 dB @ 219 Hz | [asr-bic-america-venturi-dv62si](../sources/asr-bic-america-venturi-dv62si.md) | A | computed |
+| Min impedance | ~5.8 Ω @ ~10 kHz | [asr-bic-america-venturi-dv62si](../sources/asr-bic-america-venturi-dv62si.md) | A | graph-read (approx.); ASR annotation says 7 Ω |
+| THD 86 dB | ~1.7% peak at ~1.8 kHz | [asr-bic-america-venturi-dv62si](../sources/asr-bic-america-venturi-dv62si.md) | A | graph-read (approx.), relative THD |
+| THD 96 dB | ~1.9% peak | [asr-bic-america-venturi-dv62si](../sources/asr-bic-america-venturi-dv62si.md) | A | graph-read (approx.) |
+| Preference score | 2.4 (no sub) / 5.3 (with sub) | [asr-bic-america-venturi-dv62si](../sources/asr-bic-america-venturi-dv62si.md) via [spinorama-org](../sources/spinorama-org.md) | A | not a ranking on its own |
+| Crossover | ~3.5 kHz | [asr-bic-america-venturi-dv62si](../sources/asr-bic-america-venturi-dv62si.md) | A | ASR second-hand; maker does not state |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 111 degrees, vertical about 122 degrees (the vertical is wider than the horizontal, unusual for a two-way). DI has a minor discontinuity (ERDI residual 1.3 dB). Early-reflection dip near 1.5 kHz is 5.2 dB, above the 3 dB flag, and ASR notes a ~3 kHz dip whose depth depends on room absorption. SPDI rises from 5.0 dB at 1 kHz to 6.7 dB at 10 kHz. On-axis minus listening window above 4 kHz is +0.6 dB, so toe-in is not decisive, though ASR's EQ experience shows the highs need taming. ASR called the horizontal directivity the worst it had seen, with no attempt to match off-axis to on-axis. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 111 degrees, vertical about 122 degrees (the vertical is wider than the horizontal, unusual for a two-way). DI has a minor discontinuity (ERDI residual 1.3 dB). Early-reflection dip near 1.5 kHz is 5.2 dB, above the 3 dB flag, and ASR notes a ~3 kHz dip whose depth depends on room absorption. SPDI rises from 5.0 dB at 1 kHz to 6.7 dB at 10 kHz. On-axis minus listening window above 4 kHz is +0.6 dB, so toe-in is not decisive, though ASR's EQ experience shows the highs need taming. ASR called the horizontal directivity the worst it had seen, with no attempt to match off-axis to on-axis. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No max-SPL test. ASR's relative THD plots show about 1.7% at 86 dB with a step near 1.8 kHz (woofer breakup region) and roughly 1.9% peaks at 96 dB, with distortion across most of the band at 96 dB (all graph-read, approx.). Bass distortion rises steeply below ~70 Hz. ASR credits the large woofer with the ability to play loud. Fine for small-to-medium rooms at moderate levels; not clean at high levels. See [[compression-and-max-spl]].
+No max-SPL test. ASR's relative THD plots show about 1.7% at 86 dB with a step near 1.8 kHz (woofer breakup region) and roughly 1.9% peaks at 96 dB, with distortion across most of the band at 96 dB (all graph-read, approx.). Bass distortion rises steeply below ~70 Hz. ASR credits the large woofer with the ability to play loud. Fine for small-to-medium rooms at moderate levels; not clean at high levels. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-8 Ω nominal. ASR's graph reads a minimum of about 5.8 Ω near 10 kHz, below the IEC 80% floor of 6.4 Ω, so flagged `below-iec`; ASR's own annotation says 7 Ω, and the curve is about 7 Ω at low and mid frequencies. Peaks around 34 Ω (~23 Hz) and 28 Ω (~95 Hz) come from the port. ASR calls it an easy load. EPDR not computed. See [[impedance-and-epdr]].
+8 Ω nominal. ASR's graph reads a minimum of about 5.8 Ω near 10 kHz, below the IEC 80% floor of 6.4 Ω, so flagged `below-iec`; ASR's own annotation says 7 Ω, and the curve is about 7 Ω at low and mid frequencies. Peaks around 34 Ω (~23 Hz) and 28 Ω (~95 Hz) come from the port. ASR calls it an easy load. EPDR not computed. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-No professional reviews found beyond ASR. [[asr-bic-america-venturi-dv62si]] (ASR, Tier D listening notes): highs stand out then become sharp and lisping, large woofer gives warmth and loudness; not recommended.
+No professional reviews found beyond ASR. [asr-bic-america-venturi-dv62si](../sources/asr-bic-america-venturi-dv62si.md) (ASR, Tier D listening notes): highs stand out then become sharp and lisping, large woofer gives warmth and loudness; not recommended.
 
 ## User reviews
-Anecdotal ([[users-bic-america-venturi-dv62si]]): of 2 direct owner reports, 1 positive on value and 1 found highs harsh; ASR cites Amazon at 4.5 stars over 429 ratings with a few 2-star "harsh highs" reviews. QC: ASR mentions Amazon reports of a rattling glued tweeter (secondhand, unverified).
+Anecdotal ([users-bic-america-venturi-dv62si](../sources/users-bic-america-venturi-dv62si.md)): of 2 direct owner reports, 1 positive on value and 1 found highs harsh; ASR cites Amazon at 4.5 stars over 429 ratings with a few 2-star "harsh highs" reviews. QC: ASR mentions Amazon reports of a rattling glued tweeter (secondhand, unverified).
 
 ## Conflicts
 - Sensitivity: 87.0 dB measured vs 90 dB claimed (about 3 dB lower).
@@ -80,4 +80,4 @@ Anecdotal ([[users-bic-america-venturi-dv62si]]): of 2 direct owner reports, 1 p
 - Retailer price varies from about $160 to $347; BIC's MSRP is $275. Some retailer titles say "powered", but it is passive.
 
 ## Related
-[[bic-america]] · [[spinorama]] · [[preference-score]] · [[directivity-index]]
+[BIC America](../brands/bic-america.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md) · [directivity-index](../concepts/directivity-index.md)

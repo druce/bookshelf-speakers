@@ -25,10 +25,10 @@ Atkinson (pages 1-2; second page in raw/reviews-critic/stereophile-review-p2-dyn
 - Verdict: does a lot exceptionally well for its size; price $2,999/pair at review. He called it limited-edition (Dynaudio's current page lists it as current; see speaker page Conflicts).
 
 ## Method notes
-Celestion 24" stands, Lamm M1.2 Reference monoblocks, Roon music. Measurements: [[stereophile-dynaudio-special-forty]].
+Celestion 24" stands, Lamm M1.2 Reference monoblocks, Roon music. Measurements: [stereophile-dynaudio-special-forty](stereophile-dynaudio-special-forty.md).
 
 ## Reliability notes
 Single reviewer and sample. The cabinet observation is corroborated by his own measurements, and he warns against over-weighting it.
 
 ## Related
-[[dynaudio-special-forty]] · [[stereophile]] · [[dynaudio]]
+[Dynaudio Special Forty](../speakers/dynaudio-special-forty.md) · [stereophile](../reviewers/stereophile.md) · [Dynaudio](../brands/dynaudio.md)

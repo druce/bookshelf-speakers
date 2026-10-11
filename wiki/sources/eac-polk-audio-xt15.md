@@ -41,7 +41,7 @@ Klippel NFS data on a purchased sample, part of a series covering the whole Polk
 Klippel NFS, reference point at the tweeter, grille off. Instant compression test: 2.7 s sweep at 76 dB baseline vs 86, 96, 102 dB. Impedance/THD/compression read from plots.
 
 ## Reliability notes
-Single purchased sample. Manufacturer specs quoted in the review match [[mfr-polk-audio-xt15]]. No listening notes.
+Single purchased sample. Manufacturer specs quoted in the review match [mfr-polk-audio-xt15](mfr-polk-audio-xt15.md). No listening notes.
 
 ## Related
-[[polk-audio-xt15]] · [[erins-audio-corner]] · [[polk-audio]] · [[spinorama-org]]
+[Polk Audio Monitor XT15](../speakers/polk-audio-xt15.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Polk Audio](../brands/polk-audio.md) · [spinorama-org](spinorama-org.md)

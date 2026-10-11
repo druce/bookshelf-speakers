@@ -37,4 +37,4 @@ Maker page fetched with the scripted fetcher; Amazon page saved separately.
 Tier C claims only. Whether the maker page's $189.99 is per pair is inferred from the Amazon pair price.
 
 ## Related
-[[neumi-silk-4]] · [[neumi]]
+[Neumi Silk 4](../speakers/neumi-silk-4.md) · [Neumi](../brands/neumi.md)

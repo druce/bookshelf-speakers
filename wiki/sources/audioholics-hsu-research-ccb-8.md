@@ -41,4 +41,4 @@ Single sample from the maker. Internal inconsistency on nominal impedance (8 Ω 
 - Cons listed: odd appearance, placement needs care; no cabinet bracing.
 
 ## Related
-[[hsu-research-ccb-8]] · [[audioholics]] · [[hsu-research]]
+[Hsu Research CCB-8](../speakers/hsu-research-ccb-8.md) · [audioholics](../reviewers/audioholics.md) · [Hsu Research](../brands/hsu-research.md)

@@ -46,33 +46,33 @@ The Revel Performa3 M105 is an 8 Ω nominal, 5.25" two-way ported standmount wit
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 84.8 dB (average) | [[asr-revel-m105]] | A | computed (scripts/cta2034.py v2); claimed 86 dB per [[mfr-revel-m105]] |
-| Listening-window deviation | ±1.3 dB, 300 Hz-10 kHz (excellent) | [[asr-revel-m105]] | A | computed |
-| On-axis deviation | ±1.8 dB (good) | [[asr-revel-m105]] | A | computed; peak near 5 kHz |
-| f3 / f6 | 60 / 54 Hz (modest) | [[asr-revel-m105]] | A | computed; claimed -3 dB 60 Hz |
-| Min impedance | 3.8 Ω @ ~230 Hz | [[asr-revel-m105]] | A | graph-read (approx.); effectively-4ohm |
-| THD at 96 dB | ~8% at 100 Hz; <0.3% above 500 Hz | [[asr-revel-m105]] | A | graph-read (approx.), Klippel, 96 dB @1 m |
-| Compression at 80 Hz | ~111 dB SPL | [[asr-revel-m105]] | A | graph-read, draft chart, criterion not stated |
-| Preference score | 5.8 (no sub) / 8.2 (with sub) | [[asr-revel-m105]] via [[spinorama-org]] | A | differences under 0.5 not meaningful |
-| THD (in-room, 1 kHz @100 dB) | 0.12% | [[hometheaterhifi-revel-m105]] | D | near-field bench, not Tier A/B |
-| Crossover | 2.3 kHz | [[mfr-revel-m105]] | C | |
+| Sensitivity (2.83 V/1 m) | 84.8 dB (average) | [asr-revel-m105](../sources/asr-revel-m105.md) | A | computed (scripts/cta2034.py v2); claimed 86 dB per [mfr-revel-m105](../sources/mfr-revel-m105.md) |
+| Listening-window deviation | ±1.3 dB, 300 Hz-10 kHz (excellent) | [asr-revel-m105](../sources/asr-revel-m105.md) | A | computed |
+| On-axis deviation | ±1.8 dB (good) | [asr-revel-m105](../sources/asr-revel-m105.md) | A | computed; peak near 5 kHz |
+| f3 / f6 | 60 / 54 Hz (modest) | [asr-revel-m105](../sources/asr-revel-m105.md) | A | computed; claimed -3 dB 60 Hz |
+| Min impedance | 3.8 Ω @ ~230 Hz | [asr-revel-m105](../sources/asr-revel-m105.md) | A | graph-read (approx.); effectively-4ohm |
+| THD at 96 dB | ~8% at 100 Hz; <0.3% above 500 Hz | [asr-revel-m105](../sources/asr-revel-m105.md) | A | graph-read (approx.), Klippel, 96 dB @1 m |
+| Compression at 80 Hz | ~111 dB SPL | [asr-revel-m105](../sources/asr-revel-m105.md) | A | graph-read, draft chart, criterion not stated |
+| Preference score | 5.8 (no sub) / 8.2 (with sub) | [asr-revel-m105](../sources/asr-revel-m105.md) via [spinorama-org](../sources/spinorama-org.md) | A | differences under 0.5 not meaningful |
+| THD (in-room, 1 kHz @100 dB) | 0.12% | [hometheaterhifi-revel-m105](../sources/hometheaterhifi-revel-m105.md) | D | near-field bench, not Tier A/B |
+| Crossover | 2.3 kHz | [mfr-revel-m105](../sources/mfr-revel-m105.md) | C | |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 141 degrees, vertical about 111 degrees. DI is smooth with a minor discontinuity (ERDI residual 1.2 dB); SPDI rises from 5.2 dB at 1 kHz to 8.1 dB at 10 kHz. Early-reflection dip near 1.5 kHz is only 0.4 dB, well under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.7 dB, so on-axis is slightly brighter (the ASR-noted 5 kHz hump); either aim works. ASR says tonality barely changes with toe-in. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 141 degrees, vertical about 111 degrees. DI is smooth with a minor discontinuity (ERDI residual 1.2 dB); SPDI rises from 5.2 dB at 1 kHz to 8.1 dB at 10 kHz. Early-reflection dip near 1.5 kHz is only 0.4 dB, well under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.7 dB, so on-axis is slightly brighter (the ASR-noted 5 kHz hump); either aim works. ASR says tonality barely changes with toe-in. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-ASR's Klippel THD at 96 dB @1 m is about 8% near 100 Hz (woofer displacement, 2nd harmonic) falling to under 0.3% above 500 Hz; no 86 dB plot is given. The draft 80 Hz compression test shows about 111 dB before compression, slightly above the M106 and M16. HomeTheaterHifi's in-room bench found 0.12% at 1 kHz at 100 dB. Practical implication: very clean midrange and treble at high levels, but bass distortion limits loud low-frequency material; fine for small-to-medium rooms. See [[compression-and-max-spl]].
+ASR's Klippel THD at 96 dB @1 m is about 8% near 100 Hz (woofer displacement, 2nd harmonic) falling to under 0.3% above 500 Hz; no 86 dB plot is given. The draft 80 Hz compression test shows about 111 dB before compression, slightly above the M106 and M16. HomeTheaterHifi's in-room bench found 0.12% at 1 kHz at 100 dB. Practical implication: very clean midrange and treble at high levels, but bass distortion limits loud low-frequency material; fine for small-to-medium rooms. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Rated 8 Ω; ASR measured about 3.8 Ω near 230 Hz, below 4.0 Ω, so flagged `effectively-4ohm`. Phase swings occur around the port/crossover. EPDR not computed. ASR advises an amplifier that handles low-impedance loads; Revel recommends 50-120 W. See [[impedance-and-epdr]].
+Rated 8 Ω; ASR measured about 3.8 Ω near 230 Hz, below 4.0 Ω, so flagged `effectively-4ohm`. Phase swings occur around the port/crossover. EPDR not computed. ASR advises an amplifier that handles low-impedance loads; Revel recommends 50-120 W. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[whathifi-revel-m105]] (What Hi-Fi? republishing Australian Hi-Fi): accurate and revealing, clean neutral bass, smooth highs; lowest octave modest.
-- [[hometheaterhifi-revel-m105]] (HomeTheaterHifi, 2013): smooth natural balance, low distortion; bass rolls off below 60 Hz, add a sub for large orchestral material.
-- [[asr-revel-m105]] (ASR, Tier D listening notes): clean, balanced, room-friendly; strongly recommended with minor EQ (steep LF roll-off, narrow cut at the 5 kHz hump).
+- [whathifi-revel-m105](../sources/whathifi-revel-m105.md) (What Hi-Fi? republishing Australian Hi-Fi): accurate and revealing, clean neutral bass, smooth highs; lowest octave modest.
+- [hometheaterhifi-revel-m105](../sources/hometheaterhifi-revel-m105.md) (HomeTheaterHifi, 2013): smooth natural balance, low distortion; bass rolls off below 60 Hz, add a sub for large orchestral material.
+- [asr-revel-m105](../sources/asr-revel-m105.md) (ASR, Tier D listening notes): clean, balanced, room-friendly; strongly recommended with minor EQ (steep LF roll-off, narrow cut at the 5 kHz hump).
 
 ## User reviews
-No owner reports found ([[users-revel-m105]]); no QC or reliability issues reported.
+No owner reports found ([users-revel-m105](../sources/users-revel-m105.md)); no QC or reliability issues reported.
 
 ## Conflicts
 - Sensitivity: 84.8 dB computed vs 86 dB claimed (1.2 dB shortfall).
@@ -81,4 +81,4 @@ No owner reports found ([[users-revel-m105]]); no QC or reliability issues repor
 - Only one Tier A source; no Stereophile or NRC measurement found for the M105.
 
 ## Related
-[[revel]] · [[revel-m106]] · [[revel-m16]] · [[revel-m126be]] · [[spinorama]] · [[preference-score]]
+[Revel](../brands/revel.md) · [Revel M106](revel-m106.md) · [Revel M16](revel-m16.md) · [Revel M126Be](revel-m126be.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

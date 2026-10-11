@@ -30,4 +30,4 @@ Review of the limited-edition carbon-fibre-finish C 3 (same speaker, $1,399.98/p
 Page captured by WebFetch (model-extracted, not verbatim). Review is of the Carbon Fiber finish.
 
 ## Related
-[[nht-c3]] · [[soundstage-nrc]] · [[nht]]
+[NHT C3](../speakers/nht-c3.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [NHT](../brands/nht.md)

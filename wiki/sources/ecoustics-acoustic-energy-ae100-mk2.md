@@ -31,4 +31,4 @@ Listening only. Review states the series is sold through selected authorized Nor
 Single reviewer; affiliate links present (Amazon price link).
 
 ## Related
-[[acoustic-energy-ae100-mk2]] · [[acoustic-energy]]
+[Acoustic Energy AE100 Mk2](../speakers/acoustic-energy-ae100-mk2.md) · [Acoustic Energy](../brands/acoustic-energy.md)

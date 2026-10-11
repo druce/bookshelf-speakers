@@ -28,4 +28,4 @@ Few true owner reports: about 2 own-position or ownership remarks (anecdotal) am
 Fewer than 5 owner reports; anecdotal.
 
 ## Related
-[[salk-wow1]] · [[salk]]
+[Salk WoW1](../speakers/salk-wow1.md) · [Salk](../brands/salk.md)

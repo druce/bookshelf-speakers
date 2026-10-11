@@ -25,4 +25,4 @@ Described as honest, musical and easy to drive and place, a clear step up from t
 Tier D; independent Malaysian site, one reviewer, modest equipment chain.
 
 ## Related
-[[elac-debut-2-0-b6-2]] · [[elac]]
+[Elac Debut 2.0 B6.2](../speakers/elac-debut-2-0-b6-2.md) · [Elac](../brands/elac.md)

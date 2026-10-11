@@ -35,10 +35,10 @@ Klippel NFS measurement of a manufacturer-supplied CBM-170SE2 (US$468/pair). Ami
 | compression / max SPL | not tested | ASR power sweep reaches 96 dB without complaint; audible distortion first at 101 dB at sweep start (listening note) |
 
 ## Method notes
-Klippel NFS, tweeter-centre reference, grille off. THD sweeps are non-anechoic near-field transfer-function measurements (see [[compression-and-max-spl]]). ASR measured the sample as supplied by Ascend. The thread's listening notes are Tier D.
+Klippel NFS, tweeter-centre reference, grille off. THD sweeps are non-anechoic near-field transfer-function measurements (see [compression-and-max-spl](../concepts/compression-and-max-spl.md)). ASR measured the sample as supplied by Ascend. The thread's listening notes are Tier D.
 
 ## Reliability notes
 Manufacturer-supplied sample, so possible selection of a good unit; the maker owns a Klippel NFS and optimised the design to it. Impedance and THD values are read from graphs. Amir disclosed no financial tie beyond receiving the loaner.
 
 ## Related
-[[ascend-acoustics-cbm-170-se2]] · [[asr]] · [[ascend-acoustics]] · [[spinorama-org]]
+[Ascend Acoustics CBM-170 SE2](../speakers/ascend-acoustics-cbm-170-se2.md) · [asr](../reviewers/asr.md) · [Ascend Acoustics](../brands/ascend-acoustics.md) · [spinorama-org](spinorama-org.md)

@@ -43,4 +43,4 @@ Klippel NFS, speaker driven on its own; non-anechoic THD plots at 86 and 96 dB. 
 Single loaned sample. Directivity and distortion plots are as shown; no max SPL test. The THD plot title in the image reads "Monitor Audio Apex 100" (apparent labelling slip on a reused template); the post and file names identify the A10.
 
 ## Related
-[[monitor-audio-apex-a10]] · [[asr]] · [[monitor-audio]] · [[spinorama-org]]
+[Monitor Audio Apex A10](../speakers/monitor-audio-apex-a10.md) · [asr](../reviewers/asr.md) · [Monitor Audio](../brands/monitor-audio.md) · [spinorama-org](spinorama-org.md)

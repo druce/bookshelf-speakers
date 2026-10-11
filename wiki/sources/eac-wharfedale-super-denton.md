@@ -41,4 +41,4 @@ Klippel NFS, reference at the tweeter, grille on (grille-off spin also provided)
 Loaned sample, no payment; affiliate links disclosed. Numbers read from graphs are approximate.
 
 ## Related
-[[wharfedale-super-denton]] · [[erins-audio-corner]] · [[wharfedale]]
+[Wharfedale Super Denton](../speakers/wharfedale-super-denton.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Wharfedale](../brands/wharfedale.md)

@@ -27,4 +27,4 @@ Scores listed: Sound 4, Compatibility 5, Build 5. Praised for scale and a refine
 Reviewed on Burmester and Naim electronics. Tested in the UK; no measurements.
 
 ## Related
-[[dynaudio-emit-20]] · [[dynaudio]]
+[Dynaudio Emit 20](../speakers/dynaudio-emit-20.md) · [Dynaudio](../brands/dynaudio.md)

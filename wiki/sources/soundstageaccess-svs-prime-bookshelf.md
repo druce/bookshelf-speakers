@@ -26,4 +26,4 @@ System review in which the Prime Bookshelf served as front L/R. The Bookshelf re
 No independent measurements; spec figures are SVS's. Capture not verbatim.
 
 ## Related
-[[svs-prime-bookshelf]] · [[soundstage-nrc]] · [[svs]]
+[SVS Prime Bookshelf](../speakers/svs-prime-bookshelf.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [SVS](../brands/svs.md)

@@ -32,4 +32,4 @@ Focal's own product URL returned 404 at fetch time; specs taken from the authori
 | Price / status | $1,098/pair at World Wide Stereo, in stock 2026-10-11; street $938-1,098 seen elsewhere | |
 
 ## Related
-[[focal-theva-n1]] · [[focal]]
+[Focal Theva N°1](../speakers/focal-theva-n1.md) · [Focal](../brands/focal.md)

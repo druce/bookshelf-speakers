@@ -46,37 +46,37 @@ The 705 S3 Signature is an 8 Ω-rated, two-way ported standmount with a 25 mm ca
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 86.0 dB mean 500 Hz-8 kHz (average); 84.1 dB at 1 kHz | [[hifinews-bowers-wilkins-705-s3-signature-lab]] | B | claimed 88 dB per [[mfr-bowers-wilkins-705-s3-signature]] |
-| Min impedance | 4.7 Ω @ 175 Hz | [[hifinews-bowers-wilkins-705-s3-signature-lab]] | B | below the 6.4 Ω IEC floor: `below-iec`; maker claims 3.7 Ω |
-| EPDR min | 2.2 Ω @ 120 Hz | [[hifinews-bowers-wilkins-705-s3-signature-lab]] | B | phase +49°/-56° at 20-100 Hz |
-| LF extension f6 | 53 Hz (modest) | [[hifinews-bowers-wilkins-705-s3-signature-lab]] | B | -6 dB re 200 Hz, nearfield-merged, port tuned 44 Hz; no f3 |
-| Axial response error | ±4.1 dB / ±3.9 dB, 200 Hz-20 kHz (coloured) | [[hifinews-bowers-wilkins-705-s3-signature-lab]] | B | on-axis, not listening window; intentional uptilt |
-| Pair matching | 0.8 dB | [[hifinews-bowers-wilkins-705-s3-signature-lab]] | B | |
-| Crossover | 3.5 kHz | [[hifinews-bowers-wilkins-705-s3-signature]] | D | stated by reviewer |
-| Claimed FR | 50 Hz-28 kHz ±3 dB | [[mfr-bowers-wilkins-705-s3-signature]] | C | |
+| Sensitivity (2.83 V/1 m) | 86.0 dB mean 500 Hz-8 kHz (average); 84.1 dB at 1 kHz | [hifinews-bowers-wilkins-705-s3-signature-lab](../sources/hifinews-bowers-wilkins-705-s3-signature-lab.md) | B | claimed 88 dB per [mfr-bowers-wilkins-705-s3-signature](../sources/mfr-bowers-wilkins-705-s3-signature.md) |
+| Min impedance | 4.7 Ω @ 175 Hz | [hifinews-bowers-wilkins-705-s3-signature-lab](../sources/hifinews-bowers-wilkins-705-s3-signature-lab.md) | B | below the 6.4 Ω IEC floor: `below-iec`; maker claims 3.7 Ω |
+| EPDR min | 2.2 Ω @ 120 Hz | [hifinews-bowers-wilkins-705-s3-signature-lab](../sources/hifinews-bowers-wilkins-705-s3-signature-lab.md) | B | phase +49°/-56° at 20-100 Hz |
+| LF extension f6 | 53 Hz (modest) | [hifinews-bowers-wilkins-705-s3-signature-lab](../sources/hifinews-bowers-wilkins-705-s3-signature-lab.md) | B | -6 dB re 200 Hz, nearfield-merged, port tuned 44 Hz; no f3 |
+| Axial response error | ±4.1 dB / ±3.9 dB, 200 Hz-20 kHz (coloured) | [hifinews-bowers-wilkins-705-s3-signature-lab](../sources/hifinews-bowers-wilkins-705-s3-signature-lab.md) | B | on-axis, not listening window; intentional uptilt |
+| Pair matching | 0.8 dB | [hifinews-bowers-wilkins-705-s3-signature-lab](../sources/hifinews-bowers-wilkins-705-s3-signature-lab.md) | B | |
+| Crossover | 3.5 kHz | [hifinews-bowers-wilkins-705-s3-signature](../sources/hifinews-bowers-wilkins-705-s3-signature.md) | D | stated by reviewer |
+| Claimed FR | 50 Hz-28 kHz ±3 dB | [mfr-bowers-wilkins-705-s3-signature](../sources/mfr-bowers-wilkins-705-s3-signature.md) | C | |
 
 ## Directivity
-No spinorama, beamwidth or DI data exist for this model in the ingested sources. Hi-Fi News notes the 10 kHz bump softens with 15° toe-in or toe-out ([[hifinews-bowers-wilkins-705-s3-signature-lab]]); the lifted treble means the listener should sit on or slightly off the tweeter axis with some toe-in. See [[directivity-index]], [[early-reflections]].
+No spinorama, beamwidth or DI data exist for this model in the ingested sources. Hi-Fi News notes the 10 kHz bump softens with 15° toe-in or toe-out ([hifinews-bowers-wilkins-705-s3-signature-lab](../sources/hifinews-bowers-wilkins-705-s3-signature-lab.md)); the lifted treble means the listener should sit on or slightly off the tweeter axis with some toe-in. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No compression or max-SPL test. Distortion numbers were not captured (the HFN table did not extract). B&W claims below 1% for 2nd/3rd harmonics from 100 Hz to 22 kHz at 90 dB (Tier C). Suited to small-to-medium rooms; see [[compression-and-max-spl]].
+No compression or max-SPL test. Distortion numbers were not captured (the HFN table did not extract). B&W claims below 1% for 2nd/3rd harmonics from 100 Hz to 22 kHz at 90 dB (Tier C). Suited to small-to-medium rooms; see [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-8 Ω nominal but 4.7 Ω minimum with phase swings in the bass; EPDR 2.2 Ω at 120 Hz, which Hi-Fi News calls fairly agreeable. Use an amplifier stable into 4 Ω; B&W recommends 30-120 W. See [[impedance-and-epdr]].
+8 Ω nominal but 4.7 Ω minimum with phase swings in the bass; EPDR 2.2 Ω at 120 Hz, which Hi-Fi News calls fairly agreeable. Use an amplifier stable into 4 Ω; B&W recommends 30-120 W. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[hifinews-bowers-wilkins-705-s3-signature]] (Hi-Fi News, sound quality 87%): rich, energetic, detailed imaging; sparkly, forward treble.
-- [[7review-bowers-wilkins-705-s3-signature]] (7Review, 8/10): neutral, detailed, more coherent than the standard model; not deep bass; large price premium.
-- [[futureaudiophile-bowers-wilkins-705-s3-signature]] (Future Audiophile): superb mid and treble resolution, bass better than its size implies.
+- [hifinews-bowers-wilkins-705-s3-signature](../sources/hifinews-bowers-wilkins-705-s3-signature.md) (Hi-Fi News, sound quality 87%): rich, energetic, detailed imaging; sparkly, forward treble.
+- [7review-bowers-wilkins-705-s3-signature](../sources/7review-bowers-wilkins-705-s3-signature.md) (7Review, 8/10): neutral, detailed, more coherent than the standard model; not deep bass; large price premium.
+- [futureaudiophile-bowers-wilkins-705-s3-signature](../sources/futureaudiophile-bowers-wilkins-705-s3-signature.md) (Future Audiophile): superb mid and treble resolution, bass better than its size implies.
 
 ## User reviews
 No user reports ingested yet.
 
 ## Conflicts
-- Minimum impedance: claimed 3.7 Ω ([[mfr-bowers-wilkins-705-s3-signature]]) vs measured 4.7 Ω (HFN); the measurement is used.
+- Minimum impedance: claimed 3.7 Ω ([mfr-bowers-wilkins-705-s3-signature](../sources/mfr-bowers-wilkins-705-s3-signature.md)) vs measured 4.7 Ω (HFN); the measurement is used.
 - Sensitivity: claimed 88 dB vs 86.0 dB mean / 84.1 dB at 1 kHz; the 4-dB spread depends on averaging band.
 - Price: B&W US and World Wide Stereo $5,200; 7Review cited $4,200 to $4,500 earlier; World Wide Stereo feed showed it unavailable on 2026-10-11 while B&W US offered Add to Cart.
 - Only one measurement source, so no cross-check.
 
 ## Related
-[[bowers-wilkins]] · [[bowers-wilkins-705-s3]] · [[bowers-wilkins-805-d4]] · [[bowers-wilkins-805-d4-signature]] · [[impedance-and-epdr]] · [[directivity-index]]
+[Bowers & Wilkins](../brands/bowers-wilkins.md) · [Bowers & Wilkins 705 S3](bowers-wilkins-705-s3.md) · [Bowers & Wilkins 805 D4](bowers-wilkins-805-d4.md) · [Bowers & Wilkins 805 D4 Signature](bowers-wilkins-805-d4-signature.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [directivity-index](../concepts/directivity-index.md)

@@ -25,4 +25,4 @@ Four owner comments on the maker's store (all positive: front heights, clarity, 
 | QC / reliability problems | 0 |
 
 ## Related
-[[hsu-research-mfl-6]] · [[asr-hsu-research-mfl-6]]
+[Hsu Research MFL-6](../speakers/hsu-research-mfl-6.md) · [asr-hsu-research-mfl-6](asr-hsu-research-mfl-6.md)

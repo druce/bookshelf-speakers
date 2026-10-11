@@ -35,4 +35,4 @@ Revel's product page and bookshelf listing (raw/manufacturer/mfr-revel-m105-list
 Claims only; measured values override.
 
 ## Related
-[[revel-m106]] · [[revel]]
+[Revel M106](../speakers/revel-m106.md) · [Revel](../brands/revel.md)

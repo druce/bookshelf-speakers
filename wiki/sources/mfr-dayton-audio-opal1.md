@@ -22,10 +22,10 @@ Parts Express (Dayton's sister retailer) lists the black pair as CLEARANCE $499.
 |---|---|---|
 | price | $499.00 pair (clearance), MSRP $1,038.99 | in stock 2026-10-11 |
 | drivers | 5.5" MMAG woofer, dual passive radiators, silk dome tweeter | page text |
-| impedance | not stated on this page | see [[mfr-dayton-audio-opal1-daytonaudio]] |
+| impedance | not stated on this page | see [mfr-dayton-audio-opal1-daytonaudio](mfr-dayton-audio-opal1-daytonaudio.md) |
 
 ## Reliability notes
 Retail page; specs taken from the maker page.
 
 ## Related
-[[dayton-audio-opal1]] · [[dayton-audio]]
+[Dayton Audio OPAL1](../speakers/dayton-audio-opal1.md) · [Dayton Audio](../brands/dayton-audio.md)

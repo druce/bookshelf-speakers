@@ -46,29 +46,29 @@ The Theva N°1 is Focal's entry-level 2-way, 6.5" rear-ported standmount with a 
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 88.5 dB (high) | [[audioholics-focal-theva-n1]] | A | stated by reviewer; claimed 89 dB in [[mfr-focal-theva-n1]] |
-| Min impedance | ~4.5 Ω @ ~190 Hz | [[audioholics-focal-theva-n1]] | A | graph-read (approx.); text says just above 4 Ω at ~200 Hz; maker claims 4.6 Ω |
-| Bass extension | knee below 80 Hz, gradual roll-off, good to near 50 Hz | [[audioholics-focal-theva-n1]] | A | groundplane; no numeric f3 stated, so f3 null |
-| Listening window | smooth, roughly 84.5-87 dB across 250 Hz-15 kHz | [[audioholics-focal-theva-n1]] | A | eyeballed from graph; no deviation figure, so null |
-| Beamwidth | about 60° horizontal trend, no beaming until above ~11 kHz | [[audioholics-focal-theva-n1]] | A | reviewer description, not -6 dB metric |
-| Crossover | 3 kHz | [[mfr-focal-theva-n1]] | C | |
+| Sensitivity (2.83 V/1 m) | 88.5 dB (high) | [audioholics-focal-theva-n1](../sources/audioholics-focal-theva-n1.md) | A | stated by reviewer; claimed 89 dB in [mfr-focal-theva-n1](../sources/mfr-focal-theva-n1.md) |
+| Min impedance | ~4.5 Ω @ ~190 Hz | [audioholics-focal-theva-n1](../sources/audioholics-focal-theva-n1.md) | A | graph-read (approx.); text says just above 4 Ω at ~200 Hz; maker claims 4.6 Ω |
+| Bass extension | knee below 80 Hz, gradual roll-off, good to near 50 Hz | [audioholics-focal-theva-n1](../sources/audioholics-focal-theva-n1.md) | A | groundplane; no numeric f3 stated, so f3 null |
+| Listening window | smooth, roughly 84.5-87 dB across 250 Hz-15 kHz | [audioholics-focal-theva-n1](../sources/audioholics-focal-theva-n1.md) | A | eyeballed from graph; no deviation figure, so null |
+| Beamwidth | about 60° horizontal trend, no beaming until above ~11 kHz | [audioholics-focal-theva-n1](../sources/audioholics-focal-theva-n1.md) | A | reviewer description, not -6 dB metric |
+| Crossover | 3 kHz | [mfr-focal-theva-n1](../sources/mfr-focal-theva-n1.md) | C | |
 | Preference score | not available | | | no spinorama.org data |
 
 Gated at 11 ms: accuracy lost below 110 Hz (LF via groundplane).
 
 ## Directivity
-Audioholics describes very even dispersion: beamwidth near 60°, slight excess energy 5-8 kHz, minor waist near 2 kHz, and an inverted tweeter that holds dispersion to above 11 kHz. The reviewer found best response with no toe-in. Vertically the speaker is asymmetric: listen from 5° below to 15° above tweeter axis, flattest 5-10° above; at 10° below, crossover cancellation cuts the midrange, so avoid tall stands. See [[directivity-index]], [[early-reflections]].
+Audioholics describes very even dispersion: beamwidth near 60°, slight excess energy 5-8 kHz, minor waist near 2 kHz, and an inverted tweeter that holds dispersion to above 11 kHz. The reviewer found best response with no toe-in. Vertically the speaker is asymmetric: listen from 5° below to 15° above tweeter axis, flattest 5-10° above; at 10° below, crossover cancellation cuts the midrange, so avoid tall stands. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No distortion, compression or max-SPL test. The reviewer expects dynamics limited mainly by woofer low-end excursion, helped by the 3 kHz crossover (Tier D inference). What Hi-Fi? says it plays loud without issue. High sensitivity suggests adequate level for medium rooms; unverified. See [[compression-and-max-spl]].
+No distortion, compression or max-SPL test. The reviewer expects dynamics limited mainly by woofer low-end excursion, helped by the 3 kHz crossover (Tier D inference). What Hi-Fi? says it plays loud without issue. High sensitivity suggests adequate level for medium rooms; unverified. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-8 Ω nominal, but the measured minimum of about 4.5 Ω (graph-read) is below the IEC 80% floor of 6.4 Ω, so it is flagged `below-iec` (not under 4 Ω). Audioholics nonetheless calls it an extremely benign load: impedance rises to roughly 26 Ω near 2 kHz, phase is small, and the bass saddle bottoms near 5 Ω. EPDR not computed. Any competent amplifier should drive it; What Hi-Fi? suggests an amp with some grunt. See [[impedance-and-epdr]].
+8 Ω nominal, but the measured minimum of about 4.5 Ω (graph-read) is below the IEC 80% floor of 6.4 Ω, so it is flagged `below-iec` (not under 4 Ω). Audioholics nonetheless calls it an extremely benign load: impedance rises to roughly 26 Ω near 2 kHz, phase is small, and the bass saddle bottoms near 5 Ω. EPDR not computed. Any competent amplifier should drive it; What Hi-Fi? suggests an amp with some grunt. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[audioholics-focal-theva-n1]] (Audioholics, 4.5/5 performance, 5/5 value): balanced, accurate, excellent imaging, surprising bass for size.
-- [[whathifi-focal-theva-n1]] (What Hi-Fi?, 4/5): big authoritative full-bodied sound; treble slightly exposed, lacks verve, weak at low volume.
-- [[ptaudio-focal-theva-n1]] (pt.AUDIO, Reviewer's Choice): rich midrange, soft treble, mid-bass bloom; good for TV and relaxed listening.
+- [audioholics-focal-theva-n1](../sources/audioholics-focal-theva-n1.md) (Audioholics, 4.5/5 performance, 5/5 value): balanced, accurate, excellent imaging, surprising bass for size.
+- [whathifi-focal-theva-n1](../sources/whathifi-focal-theva-n1.md) (What Hi-Fi?, 4/5): big authoritative full-bodied sound; treble slightly exposed, lacks verve, weak at low volume.
+- [ptaudio-focal-theva-n1](../sources/ptaudio-focal-theva-n1.md) (pt.AUDIO, Reviewer's Choice): rich midrange, soft treble, mid-bass bloom; good for TV and relaxed listening.
 
 ## User reviews
 No user reports ingested yet (owner threads not found; the Audioholics forum thread only reposts the review).
@@ -80,4 +80,4 @@ No user reports ingested yet (owner threads not found; the Audioholics forum thr
 - Audioholics text says impedance peak about 35 Ω near 2 kHz while its graph shows about 26 Ω.
 
 ## Related
-[[focal]] · [[impedance-and-epdr]] · [[directivity-index]]
+[Focal](../brands/focal.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [directivity-index](../concepts/directivity-index.md)

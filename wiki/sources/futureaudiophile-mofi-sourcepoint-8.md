@@ -27,4 +27,4 @@ Stone used the SourcePoint 8 as a nearfield reference for about a month and like
 Publication date not captured (URL slug names the SourcePoint 10 but content is the SourcePoint 8). Affiliate link present in the page. Single reviewer.
 
 ## Related
-[[mofi-sourcepoint-8]] · [[mofi]]
+[MoFi SourcePoint 8](../speakers/mofi-sourcepoint-8.md) · [MoFi](../brands/mofi.md)

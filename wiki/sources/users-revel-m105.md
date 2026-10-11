@@ -22,4 +22,4 @@ speakers: [revel-m105]
 No owner pattern can be stated; treat user evidence as absent. Raw thread: raw/reviews-user/asr-thread-revel-m105.md.
 
 ## Related
-[[revel-m105]]
+[Revel M105](../speakers/revel-m105.md)

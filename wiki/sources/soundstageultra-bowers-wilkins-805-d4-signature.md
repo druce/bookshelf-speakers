@@ -19,7 +19,7 @@ Jason Thorpe, previously taken with the 801 D4 Signature, used the 805 D4 Signat
 ## Key claims
 - Midrange clear, expressive and "bell-like"; bass tight and juicy with a slight lift, no flab; extreme low end absent.
 - Treble and upper-midrange rise unlikely to suit listeners who want a laid-back speaker.
-- Price at review: US$12,000 per pair. NRC measurements: [[soundstage-bowers-wilkins-805-d4-signature]].
+- Price at review: US$12,000 per pair. NRC measurements: [soundstage-bowers-wilkins-805-d4-signature](soundstage-bowers-wilkins-805-d4-signature.md).
 
 ## Method notes
 Listening with Hegel and BAT amplification, also paired with two B&W DB2D subwoofers to approximate the 801 D4 Signature.
@@ -28,4 +28,4 @@ Listening with Hegel and BAT amplification, also paired with two B&W DB2D subwoo
 Single reviewer; sells the speaker as value in the B&W range; price differs from today's $14,000.
 
 ## Related
-[[bowers-wilkins-805-d4-signature]] · [[soundstage-nrc]] · [[bowers-wilkins]]
+[Bowers & Wilkins 805 D4 Signature](../speakers/bowers-wilkins-805-d4-signature.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

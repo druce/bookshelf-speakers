@@ -44,4 +44,4 @@ Klippel NFS, grille off. Reviewer notes THD at 86/96 dB @1 m and compression swe
 Single manufacturer-loaned sample. Graph-read values are approximate. The page title says "Verus V8B", matching the Verus III Concert V8B (same drivers and specs).
 
 ## Related
-[[aperion-audio-verus-iii-concert-v8b]] · [[erins-audio-corner]] · [[aperion-audio]] · [[spinorama-org]]
+[Aperion Audio Verus III Concert V8B](../speakers/aperion-audio-verus-iii-concert-v8b.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Aperion Audio](../brands/aperion-audio.md) · [spinorama-org](spinorama-org.md)

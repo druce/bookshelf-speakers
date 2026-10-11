@@ -34,4 +34,4 @@ The avantonepro.com product URL returned 404 to a scripted fetch, so specs are A
 Spec sheets from retailers; no maker page retrieved. Stock is mixed across retailers but Sweetwater shows in stock, so treated as current.
 
 ## Related
-[[avantone-pro-cla-10]] · [[avantone-pro]]
+[Avantone Pro CLA-10](../speakers/avantone-pro-cla-10.md) · [Avantone Pro](../brands/avantone-pro.md)

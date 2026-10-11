@@ -43,4 +43,4 @@ Klippel NFS, reference point at tweeter, grille off, compression sweeps referenc
 Single owner-purchased sample. Distortion and compression values read from graphs. Subjective notes are Tier D.
 
 ## Related
-[[elac-debut-2-0-b5-2]] · [[erins-audio-corner]] · [[elac]]
+[Elac Debut 2.0 B5.2](../speakers/elac-debut-2-0-b5-2.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Elac](../brands/elac.md)

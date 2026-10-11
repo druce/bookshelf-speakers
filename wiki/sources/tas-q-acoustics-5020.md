@@ -24,10 +24,10 @@ Very positive review at $899 per pair. Methfessel praises low-level detail, dyna
 - Powered by a 150 W Hegel H190v; room about 1,600 cubic ft.
 
 ## Method notes
-Listening only. His "flat" description conflicts with Erin's "treble heavy" Klippel verdict ([[eac-q-acoustics-5020]]).
+Listening only. His "flat" description conflicts with Erin's "treble heavy" Klippel verdict ([eac-q-acoustics-5020](eac-q-acoustics-5020.md)).
 
 ## Reliability notes
 Loaner conditions not stated in the saved text; price cited ($899) is below the maker's current $1,199.
 
 ## Related
-[[q-acoustics-5020]] · [[q-acoustics]]
+[Q Acoustics 5020](../speakers/q-acoustics-5020.md) · [Q Acoustics](../brands/q-acoustics.md)

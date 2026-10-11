@@ -42,4 +42,4 @@ Klippel NFS, tweeter axis, grille off, 800+ points, 76 F. Near vs far field comp
 Single purchased sample. Impedance and THD are graph-read only. Amir warns that spikes in the relative-distortion plot are caused by response dips.
 
 ## Related
-[[fluance-hfs-signature]] · [[asr]] · [[fluance]] · [[spinorama-org]]
+[Fluance HFS Signature](../speakers/fluance-hfs-signature.md) · [asr](../reviewers/asr.md) · [Fluance](../brands/fluance.md) · [spinorama-org](spinorama-org.md)

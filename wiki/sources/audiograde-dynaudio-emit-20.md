@@ -27,4 +27,4 @@ Calls the Emit 20 arguably the sweet spot of the Emit range at 825 GBP: balanced
 UK outlet; reviewer in 7x4.5 m room; no measurements.
 
 ## Related
-[[dynaudio-emit-20]] · [[dynaudio]]
+[Dynaudio Emit 20](../speakers/dynaudio-emit-20.md) · [Dynaudio](../brands/dynaudio.md)

@@ -34,4 +34,4 @@ Flagship-series two-way ported standmount: 1 in diamond-coated aluminium dome, 6
 Maker figures, Tier C.
 
 ## Related
-[[svs-ultra-evolution-bookshelf]] · [[svs]]
+[SVS Ultra Evolution Bookshelf](../speakers/svs-ultra-evolution-bookshelf.md) · [SVS](../brands/svs.md)

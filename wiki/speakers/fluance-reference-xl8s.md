@@ -46,26 +46,26 @@ The Fluance Reference XL8S is a $180-per-pair, 5.25" two-way with a 1" silk dome
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | ~85 dB (average) | [[archimago-fluance-reference-xl8s]] | B | text, 500 Hz-7 kHz average |
-| f6 | ~60 Hz (reviewer estimate) | [[archimago-fluance-reference-xl8s]] | B | maker claims 50 Hz without tolerance |
-| Min impedance | ~6 Ω | [[archimago-fluance-reference-xl8s]] | B | text/graph-read (approx.) at 2-3 kHz |
-| EPDR min | 3.5 Ω @ ~150 Hz | [[archimago-fluance-reference-xl8s]] | B | stated |
-| Preference score | 3.5 (no sub) / 5.6 (with sub) | [[archimago-fluance-reference-xl8s]] via [[spinorama-org]] | B | from digitized data; <0.5 not meaningful |
+| Sensitivity (2.83 V/1 m) | ~85 dB (average) | [archimago-fluance-reference-xl8s](../sources/archimago-fluance-reference-xl8s.md) | B | text, 500 Hz-7 kHz average |
+| f6 | ~60 Hz (reviewer estimate) | [archimago-fluance-reference-xl8s](../sources/archimago-fluance-reference-xl8s.md) | B | maker claims 50 Hz without tolerance |
+| Min impedance | ~6 Ω | [archimago-fluance-reference-xl8s](../sources/archimago-fluance-reference-xl8s.md) | B | text/graph-read (approx.) at 2-3 kHz |
+| EPDR min | 3.5 Ω @ ~150 Hz | [archimago-fluance-reference-xl8s](../sources/archimago-fluance-reference-xl8s.md) | B | stated |
+| Preference score | 3.5 (no sub) / 5.6 (with sub) | [archimago-fluance-reference-xl8s](../sources/archimago-fluance-reference-xl8s.md) via [spinorama-org](../sources/spinorama-org.md) | B | from digitized data; <0.5 not meaningful |
 | LW deviation, f3, beamwidth | not computed | | | no numeric export |
-| Crossover | 3.1 kHz | [[mfr-fluance-reference-xl8s]] | C | |
+| Crossover | 3.1 kHz | [mfr-fluance-reference-xl8s](../sources/mfr-fluance-reference-xl8s.md) | C | |
 
 ## Directivity
-No numeric beamwidth. Archimago reports DI bouncing around and dipping near 6 kHz as dispersion widens, then narrowing toward 20 kHz (tweeter beaming). Crossover at 3.1 kHz coincides with a vertical dip near 0°; stay within ±30° horizontally and sit at or slightly below tweeter axis. See [[directivity-index]], [[early-reflections]].
+No numeric beamwidth. Archimago reports DI bouncing around and dipping near 6 kHz as dispersion widens, then narrowing toward 20 kHz (tweeter beaming). Crossover at 3.1 kHz coincides with a vertical dip near 0°; stay within ±30° horizontally and sit at or slightly below tweeter axis. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Archimago: THD at about 85 dB stays low (-40 dB = 1%, mostly 3rd harmonic); dynamic linearity within ±1 dB for 70-100 dB bursts; IMD at or below 1% through 80 dB but rising noticeably at 90 dB. No max-SPL test; best at moderate levels in small rooms. See [[compression-and-max-spl]].
+Archimago: THD at about 85 dB stays low (-40 dB = 1%, mostly 3rd harmonic); dynamic linearity within ±1 dB for 70-100 dB bursts; IMD at or below 1% through 80 dB but rising noticeably at 90 dB. No max-SPL test; best at moderate levels in small rooms. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Impedance minimum about 6 Ω (below the IEC 6.4 Ω floor, so flagged `below-iec`, approximate), box resonance 54 Hz, EPDR dips to 3.5 Ω near 150 Hz; Archimago calls it not challenging for modern amps. See [[impedance-and-epdr]].
+Impedance minimum about 6 Ω (below the IEC 6.4 Ω floor, so flagged `below-iec`, approximate), box resonance 54 Hz, EPDR dips to 3.5 Ω near 150 Hz; Archimago calls it not challenging for modern amps. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[archimago-fluance-reference-xl8s]] (Archimago, measurements): rough 1.5-8 kHz, three accentuations, more resonant than KEF LS50 and Edifier S2000 Mk III.
-- [[hometheaterhifi-fluance-reference-xl8s]] (HomeTheaterHiFi): lush mids, crisp highs, wide stage; limited bass, wants a sub.
+- [archimago-fluance-reference-xl8s](../sources/archimago-fluance-reference-xl8s.md) (Archimago, measurements): rough 1.5-8 kHz, three accentuations, more resonant than KEF LS50 and Edifier S2000 Mk III.
+- [hometheaterhifi-fluance-reference-xl8s](../sources/hometheaterhifi-fluance-reference-xl8s.md) (HomeTheaterHiFi): lush mids, crisp highs, wide stage; limited bass, wants a sub.
 
 ## User reviews
 No user reports ingested yet.
@@ -77,4 +77,4 @@ No user reports ingested yet.
 - Duplicate: lineup packet `fluance-reference-2-way-bookshelf` is this same product.
 
 ## Related
-[[fluance]] · [[fluance-hfs-signature]] · [[polk-audio-t15]] · Dayton Audio B652-AIR · [[spinorama]] · [[preference-score]]
+[Fluance](../brands/fluance.md) · [Fluance HFS Signature](fluance-hfs-signature.md) · [Polk Audio T15](polk-audio-t15.md) · Dayton Audio B652-AIR · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

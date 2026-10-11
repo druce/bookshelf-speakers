@@ -43,4 +43,4 @@ DRA Labs MLSSA, DPA 4006, farfield at 50", on woofer axis (tweeter is at the bot
 Single review pair. Quasi-anechoic, Tier B below about 300 Hz.
 
 ## Related
-[[psb-alpha-p5]] · [[asr-psb-alpha-p5]] · [[stereophile]] · [[psb]]
+[PSB Alpha P5](../speakers/psb-alpha-p5.md) · [asr-psb-alpha-p5](asr-psb-alpha-p5.md) · [stereophile](../reviewers/stereophile.md) · [PSB](../brands/psb.md)

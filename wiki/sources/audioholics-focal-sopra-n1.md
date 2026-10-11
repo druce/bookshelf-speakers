@@ -15,7 +15,7 @@ speakers: [focal-sopra-n1]
 # Audioholics: Focal Sopra N°1 review (2021-06-09)
 
 ## Summary
-Audioholics measured the Sopra N°1 outdoors (free-air, gated) and ground-plane, and listened in a 24x13 ft room. Response is described as terrifically neutral on and off axis, sensitivity 87.8 dB, with a benign impedance. Rated 5 stars performance, 4 stars value at $9,990/pair. The spinorama dataset index lists this review as the source for "Focal Sopra 1"; it is the same speaker as the N°1 (no separate older model was found), so both packets are merged into [[focal-sopra-n1]].
+Audioholics measured the Sopra N°1 outdoors (free-air, gated) and ground-plane, and listened in a 24x13 ft room. Response is described as terrifically neutral on and off axis, sensitivity 87.8 dB, with a benign impedance. Rated 5 stars performance, 4 stars value at $9,990/pair. The spinorama dataset index lists this review as the source for "Focal Sopra 1"; it is the same speaker as the N°1 (no separate older model was found), so both packets are merged into [Focal Sopra N°1](../speakers/focal-sopra-n1.md).
 
 ## Extracted values
 | Field | Value | Note |
@@ -36,4 +36,4 @@ Free-air at 7.5 ft height, 1 m, 10 ms gate; resolution lost below 250 Hz and acc
 Single review pair. Values for impedance minimum are text only. Tier A by the repo's rule (outdoor/gated full spin), but low-frequency numbers are weaker than Klippel NFS.
 
 ## Related
-[[focal-sopra-n1]] · [[audioholics]] · [[focal]] · [[soundstage-nrc-focal-sopra-n1]]
+[Focal Sopra N°1](../speakers/focal-sopra-n1.md) · [audioholics](../reviewers/audioholics.md) · [Focal](../brands/focal.md) · [soundstage-nrc-focal-sopra-n1](soundstage-nrc-focal-sopra-n1.md)

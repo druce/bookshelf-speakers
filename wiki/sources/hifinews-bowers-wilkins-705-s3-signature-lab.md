@@ -36,4 +36,4 @@ HFN freefield response corrected to 1 m at 2.83 V with nearfield driver/port sum
 Single sample pair, vendor-supplied. Numeric table (including THD) was not extracted; values above come from the lab text.
 
 ## Related
-[[bowers-wilkins-705-s3-signature]] · [[bowers-wilkins]]
+[Bowers & Wilkins 705 S3 Signature](../speakers/bowers-wilkins-705-s3-signature.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

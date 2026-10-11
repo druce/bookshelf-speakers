@@ -34,4 +34,4 @@ NRC anechoic chamber, measured at 2 m and plotted at 1 m; microphone between twe
 Single sample supplied by the manufacturer for review. Values are graph-read; no f3 or deviation figures stated by the source.
 
 ## Related
-[[dynaudio-special-forty]] · [[soundstage-nrc]] · [[dynaudio]]
+[Dynaudio Special Forty](../speakers/dynaudio-special-forty.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Dynaudio](../brands/dynaudio.md)

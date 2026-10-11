@@ -29,4 +29,4 @@ Four-star review (Sound 4, Build 4, Compatibility 4). Praised for scale, authori
 Subjective listening only; no measurements. Rated against competitors, which colours the verdict.
 
 ## Related
-[[focal-theva-n1]] · [[focal]]
+[Focal Theva N°1](../speakers/focal-theva-n1.md) · [Focal](../brands/focal.md)

@@ -41,4 +41,4 @@ Free-air at 7.5 ft height, 1 m, 11 ms gate: resolution lost below ~250 Hz, accur
 Loaner from Yamaha (disclosed as offered by Yamaha). Single review author.
 
 ## Related
-[[yamaha-ns-800a]] · [[audioholics]] · [[yamaha]]
+[Yamaha NS-800A](../speakers/yamaha-ns-800a.md) · [audioholics](../reviewers/audioholics.md) · [Yamaha](../brands/yamaha.md)

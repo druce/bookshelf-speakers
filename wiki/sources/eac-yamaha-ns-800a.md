@@ -45,4 +45,4 @@ Klippel NFS, reference point at tweeter, no grille, broken-in sample. Also ran m
 Single loaner sample. Measured price context: Erin quotes about 4,800 USD/pair MSRP. Distortion and compression values are graph-read.
 
 ## Related
-[[yamaha-ns-800a]] · [[erins-audio-corner]] · [[spinorama-org]] · [[yamaha]]
+[Yamaha NS-800A](../speakers/yamaha-ns-800a.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [spinorama-org](spinorama-org.md) · [Yamaha](../brands/yamaha.md)

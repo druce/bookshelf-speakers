@@ -43,7 +43,7 @@ Klippel NFS CTA-2034 measurement of a manufacturer-loaned pair. Erin finds rough
 Klippel Near-Field Scanner, reference point at the tweeter, grille off, speaker broken in. Instantaneous compression sweeps at 86/96/102 dB referenced to 76 dB at 1 m; multitone distortion at 70/79/87/96 dB. Impedance measured at 0.10 V RMS.
 
 ## Reliability notes
-Single manufacturer-loaned pair; Erin states no compensation. Subjective notes are Tier D and attributed to him. Price context has since changed (see [[mfr-psb-imagine-b50]]).
+Single manufacturer-loaned pair; Erin states no compensation. Subjective notes are Tier D and attributed to him. Price context has since changed (see [mfr-psb-imagine-b50](mfr-psb-imagine-b50.md)).
 
 ## Related
-[[psb-imagine-b50]] · [[erins-audio-corner]] · [[spinorama-org]] · [[psb]]
+[PSB Imagine B50](../speakers/psb-imagine-b50.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [spinorama-org](spinorama-org.md) · [PSB](../brands/psb.md)

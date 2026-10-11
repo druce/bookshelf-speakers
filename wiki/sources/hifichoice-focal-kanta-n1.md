@@ -30,4 +30,4 @@ Subjective only; specs restated from Focal.
 Single reviewer; initials only on page.
 
 ## Related
-[[focal-kanta-n1]] · [[focal]]
+[Focal Kanta N°1](../speakers/focal-kanta-n1.md) · [Focal](../brands/focal.md)

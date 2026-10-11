@@ -38,4 +38,4 @@ Manufacturer claims only. Page text is a US Shopify store; spec labels (W/H/D) a
 Tier C. Price rose from $4,499.99 (2020, Stereophile/SoundStage) to $6,399 now.
 
 ## Related
-[[q-acoustics-concept-300]] · [[q-acoustics]]
+[Q Acoustics Concept 300](../speakers/q-acoustics-concept-300.md) · [Q Acoustics](../brands/q-acoustics.md)

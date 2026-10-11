@@ -24,10 +24,10 @@ Diego Estan finds the B600 balanced and neutral with remarkably deep bass for a 
 - Price at review $2,499/pair; matching 24" stand $599/pair.
 
 ## Method notes
-Small treated room (15 x 12 ft), grilles off, toe-in about 15°. NRC anechoic data: [[soundstage-nrc-psb-synchrony-b600]].
+Small treated room (15 x 12 ft), grilles off, toe-in about 15°. NRC anechoic data: [soundstage-nrc-psb-synchrony-b600](soundstage-nrc-psb-synchrony-b600.md).
 
 ## Reliability notes
 In-room bass figure includes room gain and must not be credited to the speaker.
 
 ## Related
-[[psb-synchrony-b600]] · [[revel-m126be]] · [[psb]]
+[PSB Synchrony B600](../speakers/psb-synchrony-b600.md) · [Revel M126Be](../speakers/revel-m126be.md) · [PSB](../brands/psb.md)

@@ -30,4 +30,4 @@ Subjective comparison with two other listeners confirming. Outlier against the o
 Sample supplied by an Italian distributor. Review is of the same model (UBR62).
 
 ## Related
-[[elac-uni-fi-reference-ubr62]] · [[elac-debut-reference-dbr-62]] · [[elac]]
+[Elac Uni-Fi Reference UBR62](../speakers/elac-uni-fi-reference-ubr62.md) · [Elac Debut Reference DBR-62](../speakers/elac-debut-reference-dbr-62.md) · [Elac](../brands/elac.md)

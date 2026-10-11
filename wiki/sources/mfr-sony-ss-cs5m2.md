@@ -31,4 +31,4 @@ Sony's own pages (sony.com, electronics.sony.com) and B&H returned 403 to script
 | Status | current (2025 model, replaces SS-CS5) | |
 
 ## Related
-[[sony-ss-cs5m2]] · [[sony]]
+[Sony SS-CS5M2](../speakers/sony-ss-cs5m2.md) · [Sony](../brands/sony.md)

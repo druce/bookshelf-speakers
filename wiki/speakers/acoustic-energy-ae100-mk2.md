@@ -46,33 +46,33 @@ The AE100 Mk2 (marketed AE100²) is a 6 Ω, two-way, 5" ported standmount with a
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 83.6 dB (low) | [[eac-acoustic-energy-ae100-mk2]] | A | computed (scripts/cta2034.py v2); claimed 87 dB per [[mfr-acoustic-energy-ae100-mk2]] |
-| Listening-window deviation | ±2.0 dB, 300 Hz-10 kHz (good) | [[eac-acoustic-energy-ae100-mk2]] | A | computed |
-| On-axis deviation | ±2.8 dB | [[eac-acoustic-energy-ae100-mk2]] | A | computed |
-| f3 / f6 | 64 / 50 Hz (modest) | [[eac-acoustic-energy-ae100-mk2]] | A | computed |
-| Min impedance | 4.7 Ω above 80 Hz, near ~200 Hz | [[eac-acoustic-energy-ae100-mk2]] | A | value stated on plot, frequency graph-read |
-| EPDR min | 2.5 Ω above 80 Hz | [[eac-acoustic-energy-ae100-mk2]] | A | stated on plot |
-| THD @86 dB | ~1.3% | [[eac-acoustic-energy-ae100-mk2]] | A | graph-read (approx.); narrow ~2.0% spike near 330 Hz |
-| THD @96 dB | ~5.0% | [[eac-acoustic-energy-ae100-mk2]] | A | graph-read (approx.); peaks near 140 and 330 Hz |
-| Preference score | 4.96 (no sub) / 7.18 (with sub) | [[eac-acoustic-energy-ae100-mk2]] via [[spinorama-org]] | A | coarse aid only |
-| Crossover | 2.9 kHz | [[mfr-acoustic-energy-ae100-mk2]] | C | |
+| Sensitivity (2.83 V/1 m) | 83.6 dB (low) | [eac-acoustic-energy-ae100-mk2](../sources/eac-acoustic-energy-ae100-mk2.md) | A | computed (scripts/cta2034.py v2); claimed 87 dB per [mfr-acoustic-energy-ae100-mk2](../sources/mfr-acoustic-energy-ae100-mk2.md) |
+| Listening-window deviation | ±2.0 dB, 300 Hz-10 kHz (good) | [eac-acoustic-energy-ae100-mk2](../sources/eac-acoustic-energy-ae100-mk2.md) | A | computed |
+| On-axis deviation | ±2.8 dB | [eac-acoustic-energy-ae100-mk2](../sources/eac-acoustic-energy-ae100-mk2.md) | A | computed |
+| f3 / f6 | 64 / 50 Hz (modest) | [eac-acoustic-energy-ae100-mk2](../sources/eac-acoustic-energy-ae100-mk2.md) | A | computed |
+| Min impedance | 4.7 Ω above 80 Hz, near ~200 Hz | [eac-acoustic-energy-ae100-mk2](../sources/eac-acoustic-energy-ae100-mk2.md) | A | value stated on plot, frequency graph-read |
+| EPDR min | 2.5 Ω above 80 Hz | [eac-acoustic-energy-ae100-mk2](../sources/eac-acoustic-energy-ae100-mk2.md) | A | stated on plot |
+| THD @86 dB | ~1.3% | [eac-acoustic-energy-ae100-mk2](../sources/eac-acoustic-energy-ae100-mk2.md) | A | graph-read (approx.); narrow ~2.0% spike near 330 Hz |
+| THD @96 dB | ~5.0% | [eac-acoustic-energy-ae100-mk2](../sources/eac-acoustic-energy-ae100-mk2.md) | A | graph-read (approx.); peaks near 140 and 330 Hz |
+| Preference score | 4.96 (no sub) / 7.18 (with sub) | [eac-acoustic-energy-ae100-mk2](../sources/eac-acoustic-energy-ae100-mk2.md) via [spinorama-org](../sources/spinorama-org.md) | A | coarse aid only |
+| Crossover | 2.9 kHz | [mfr-acoustic-energy-ae100-mk2](../sources/mfr-acoustic-energy-ae100-mk2.md) | C | |
 
 Erin also describes resonances near 300 Hz, 750 Hz and 5 kHz and a tweeter about 3 dB above the midrange.
 
 ## Directivity
-Horizontal -6 dB beamwidth about 119°, vertical about 72° (narrow vertically, so keep ears near tweeter height). DI has a minor discontinuity (ERDI residual 1.3 dB); SPDI rises from 4.9 dB at 1 kHz to 9.1 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 2.2 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +1.1 dB, so on-axis is brighter than the window: use little or no toe-in (ecoustics reached the same placement advice). Erin calls the directivity "actually pretty good". See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 119°, vertical about 72° (narrow vertically, so keep ears near tweeter height). DI has a minor discontinuity (ERDI residual 1.3 dB); SPDI rises from 4.9 dB at 1 kHz to 9.1 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 2.2 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +1.1 dB, so on-axis is brighter than the window: use little or no toe-in (ecoustics reached the same placement advice). Erin calls the directivity "actually pretty good". See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Erin's tests at 1 m: THD about 1.3% at 86 dB, rising to about 5% at 96 dB in the 140-330 Hz region (all graph-read). Compression at 102 dB stays at about 1.4 dB or less above 100 Hz, but the port region near 50-65 Hz swings from +2.9 to -2.2 dB, so deep notes distort at higher levels. Maker claims 112 dB peak, untested. Fine for small rooms at moderate levels; ecoustics found a 40 W amp ran out of headroom. See [[compression-and-max-spl]].
+Erin's tests at 1 m: THD about 1.3% at 86 dB, rising to about 5% at 96 dB in the 140-330 Hz region (all graph-read). Compression at 102 dB stays at about 1.4 dB or less above 100 Hz, but the port region near 50-65 Hz swings from +2.9 to -2.2 dB, so deep notes distort at higher levels. Maker claims 112 dB peak, untested. Fine for small rooms at moderate levels; ecoustics found a 40 W amp ran out of headroom. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-6 Ω nominal; minimum 4.7 Ω is under the IEC floor of 4.8 Ω, so flagged `below-iec`. Minimum EPDR 2.5 Ω is demanding for a budget speaker; use a stable amp comfortable into 4 Ω. ecoustics found it harder to drive than specs suggest. See [[impedance-and-epdr]].
+6 Ω nominal; minimum 4.7 Ω is under the IEC floor of 4.8 Ω, so flagged `below-iec`. Minimum EPDR 2.5 Ω is demanding for a budget speaker; use a stable amp comfortable into 4 Ω. ecoustics found it harder to drive than specs suggest. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[stereonet-acoustic-energy-ae100-mk2]] (StereoNET, positive): accurate tonality, good timing and staging; wants 40 W or more.
-- [[ecoustics-acoustic-energy-ae100-mk2]] (ecoustics, positive with caveats): punchy, precise imaging; bright lower treble, amp- and placement-sensitive.
-- [[hifireport-acoustic-energy-ae100-mk2]] (HiFiReport, very positive): wide stage, warm smooth sound, big gain over Mk1.
-- [[eac-acoustic-energy-ae100-mk2]] (Erin, Tier D listening): hollow midrange from 300-800 Hz dip and hot tweeter; would pass without EQ.
+- [stereonet-acoustic-energy-ae100-mk2](../sources/stereonet-acoustic-energy-ae100-mk2.md) (StereoNET, positive): accurate tonality, good timing and staging; wants 40 W or more.
+- [ecoustics-acoustic-energy-ae100-mk2](../sources/ecoustics-acoustic-energy-ae100-mk2.md) (ecoustics, positive with caveats): punchy, precise imaging; bright lower treble, amp- and placement-sensitive.
+- [hifireport-acoustic-energy-ae100-mk2](../sources/hifireport-acoustic-energy-ae100-mk2.md) (HiFiReport, very positive): wide stage, warm smooth sound, big gain over Mk1.
+- [eac-acoustic-energy-ae100-mk2](../sources/eac-acoustic-energy-ae100-mk2.md) (Erin, Tier D listening): hollow midrange from 300-800 Hz dip and hot tweeter; would pass without EQ.
 
 ## User reviews
 No user reports ingested yet.
@@ -84,4 +84,4 @@ No user reports ingested yet.
 - Price/status: $499/pair from a 2024 ecoustics Amazon link and a dealer search snippet; Amazon page price not readable, one tool report called it unavailable. Check live stock.
 
 ## Related
-[[acoustic-energy]] · [[elac-debut-2-0-b5-2]] · [[q-acoustics-3030i]] · KEF Q150 · [[spinorama]] · [[preference-score]]
+[Acoustic Energy](../brands/acoustic-energy.md) · [Elac Debut 2.0 B5.2](elac-debut-2-0-b5-2.md) · [Q Acoustics 3030i](q-acoustics-3030i.md) · KEF Q150 · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

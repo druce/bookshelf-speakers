@@ -24,4 +24,4 @@ About 5 forum posts (partly one conversation) plus aggregator summaries, so anec
 - QC/reliability: no reports of failures or defects.
 
 ## Related
-[[kef-ls50-meta]] · [[kef]]
+[KEF LS50 Meta](../speakers/kef-ls50-meta.md) · [KEF](../brands/kef.md)

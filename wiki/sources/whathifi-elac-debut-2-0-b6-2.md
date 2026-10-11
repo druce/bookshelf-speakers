@@ -26,4 +26,4 @@ Praised as mature, transparent and rhythmic, adding no character of their own; w
 Tier D, subjective. Update note is the evidence for the Debut 3.0 replacement.
 
 ## Related
-[[elac-debut-2-0-b6-2]] · [[elac]]
+[Elac Debut 2.0 B6.2](../speakers/elac-debut-2-0-b6-2.md) · [Elac](../brands/elac.md)

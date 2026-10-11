@@ -28,4 +28,4 @@ Enthusiastic review with extensive designer background (Viet Nguyen); the author
 Subjective only, no measurements; contradicts ASR's measured tonal balance and bass. Single sample.
 
 ## Related
-[[xsa-labs-vanguard]] · [[xsa-labs]]
+[XSA Labs Vanguard](../speakers/xsa-labs-vanguard.md) · [XSA Labs](../brands/xsa-labs.md)

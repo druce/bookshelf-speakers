@@ -23,4 +23,4 @@ The **listening window** is the energy average of nine measurements: on-axis, ±
 Values from other sources (e.g. a reviewer's "±2 dB 200 Hz–15 kHz") use different bands and smoothing and are recorded verbatim, not substituted.
 
 ## Related
-[[spinorama]] · [[early-reflections]] · [[preference-score]]
+[spinorama](spinorama.md) · [early-reflections](early-reflections.md) · [preference-score](preference-score.md)

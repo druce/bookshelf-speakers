@@ -41,4 +41,4 @@ DRA Labs MLSSA, DPA 4006 mic far-field at 50 in, Earthworks QTC-40 near-field, n
 Sample serial 32302E000037/38. Review is Tier D for sound: Reichert listened on 24 in stands, five feet apart, with Rogue Stereo 100, Schiit Aegir and Line Magnetic LM-518 IA amps; preferred the tube amp's treble. Compared with KEF LS50: Elac more refined and rolled off, KEF more punchy.
 
 ## Related
-[[elac-carina-bs243-4]] · [[stereophile]] · [[elac]]
+[Elac Carina BS243.4](../speakers/elac-carina-bs243-4.md) · [stereophile](../reviewers/stereophile.md) · [Elac](../brands/elac.md)

@@ -46,33 +46,33 @@ The Avantone Pro CLA-10 Passive is an 8 Ω sealed two-way studio monitor (7" pap
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 90.2 dB (high) | [[asr-avantone-pro-cla-10]] | A | computed (scripts/cta2034.py v2); claimed 90 dB per [[mfr-avantone-pro-cla-10]] |
-| Listening-window deviation | ±2.8 dB, 300 Hz-10 kHz (good by number, but broad tilted boost) | [[asr-avantone-pro-cla-10]] | A | computed |
-| On-axis deviation | ±3.3 dB | [[asr-avantone-pro-cla-10]] | A | computed |
-| f3 / f6 | 131 / 95 Hz (needs a sub) | [[asr-avantone-pro-cla-10]] | A | computed; sealed alignment |
-| LW dip above f3 | -3.1 dB @ 284 Hz | [[asr-avantone-pro-cla-10]] | A | computed |
-| Min impedance | 6.8 Ω | [[asr-avantone-pro-cla-10]] | A | stated on ASR graph; frequency not marked |
-| Impedance peak | ~33 Ω @ ~100 Hz | [[asr-avantone-pro-cla-10]] | A | graph-read (approx.) |
-| Preference score | 2.2 (no sub) / 5.9 (with sub) | [[asr-avantone-pro-cla-10]] via [[spinorama-org]] | A | ignores distortion and max output |
-| Narrow resonance | ~3.5 kHz | [[asr-avantone-pro-cla-10]] | A | not in near-field, so likely cabinet/diffraction rather than driver |
-| Tested orientation | vertical | [[asr-avantone-pro-cla-10]] | A | see Directivity |
+| Sensitivity (2.83 V/1 m) | 90.2 dB (high) | [asr-avantone-pro-cla-10](../sources/asr-avantone-pro-cla-10.md) | A | computed (scripts/cta2034.py v2); claimed 90 dB per [mfr-avantone-pro-cla-10](../sources/mfr-avantone-pro-cla-10.md) |
+| Listening-window deviation | ±2.8 dB, 300 Hz-10 kHz (good by number, but broad tilted boost) | [asr-avantone-pro-cla-10](../sources/asr-avantone-pro-cla-10.md) | A | computed |
+| On-axis deviation | ±3.3 dB | [asr-avantone-pro-cla-10](../sources/asr-avantone-pro-cla-10.md) | A | computed |
+| f3 / f6 | 131 / 95 Hz (needs a sub) | [asr-avantone-pro-cla-10](../sources/asr-avantone-pro-cla-10.md) | A | computed; sealed alignment |
+| LW dip above f3 | -3.1 dB @ 284 Hz | [asr-avantone-pro-cla-10](../sources/asr-avantone-pro-cla-10.md) | A | computed |
+| Min impedance | 6.8 Ω | [asr-avantone-pro-cla-10](../sources/asr-avantone-pro-cla-10.md) | A | stated on ASR graph; frequency not marked |
+| Impedance peak | ~33 Ω @ ~100 Hz | [asr-avantone-pro-cla-10](../sources/asr-avantone-pro-cla-10.md) | A | graph-read (approx.) |
+| Preference score | 2.2 (no sub) / 5.9 (with sub) | [asr-avantone-pro-cla-10](../sources/asr-avantone-pro-cla-10.md) via [spinorama-org](../sources/spinorama-org.md) | A | ignores distortion and max output |
+| Narrow resonance | ~3.5 kHz | [asr-avantone-pro-cla-10](../sources/asr-avantone-pro-cla-10.md) | A | not in near-field, so likely cabinet/diffraction rather than driver |
+| Tested orientation | vertical | [asr-avantone-pro-cla-10](../sources/asr-avantone-pro-cla-10.md) | A | see Directivity |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 142 degrees and vertical about 110 degrees, as tested with the speaker upright; DI has a minor discontinuity (ERDI residual 1.9 dB). SPDI rises from 5.7 dB at 1 kHz to 7.8 dB at 10 kHz. Early-reflection dip near 1.5 kHz is only 0.8 dB. ASR calls the directivity error large and says that laying the speaker on its side (the usual studio orientation) puts it in the horizontal plane, so upright is preferable. On-axis minus listening window above 4 kHz is +0.7 dB, so toe-in is not decisive; aiming at the listener is fine. ASR advises absorbing the nearby walls. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 142 degrees and vertical about 110 degrees, as tested with the speaker upright; DI has a minor discontinuity (ERDI residual 1.9 dB). SPDI rises from 5.7 dB at 1 kHz to 7.8 dB at 10 kHz. Early-reflection dip near 1.5 kHz is only 0.8 dB. ASR calls the directivity error large and says that laying the speaker on its side (the usual studio orientation) puts it in the horizontal plane, so upright is preferable. On-axis minus listening window above 4 kHz is +0.7 dB, so toe-in is not decisive; aiming at the listener is fine. ASR advises absorbing the nearby walls. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No max-SPL test. ASR's THD plots (86 and 96 dB at 1 m, in dB not %) are described by the reviewer as very low bass distortion; at 96 dB, graph-read distortion in the mids and bass is roughly 2-3% (approx.), with "broad distortions" in the most sensitive region per ASR using relative THD. THD fields left null because no defensible % could be read. High sensitivity helps; the sealed 7" limits bass loudness. Suited to small rooms and nearfield use. See [[compression-and-max-spl]].
+No max-SPL test. ASR's THD plots (86 and 96 dB at 1 m, in dB not %) are described by the reviewer as very low bass distortion; at 96 dB, graph-read distortion in the mids and bass is roughly 2-3% (approx.), with "broad distortions" in the most sensitive region per ASR using relative THD. THD fields left null because no defensible % could be read. High sensitivity helps; the sealed 7" limits bass loudness. Suited to small rooms and nearfield use. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-8 Ω nominal; ASR measured a 6.8 Ω minimum, above the IEC 80% floor of 6.4 Ω, so no flag. A sealed-box resonance peaks near 33 Ω at ~100 Hz; phase is moderate (about ±40 degrees). Easy load for any amplifier; the 60 W program rating means avoid very large amps at high gain. EPDR not computed. See [[impedance-and-epdr]].
+8 Ω nominal; ASR measured a 6.8 Ω minimum, above the IEC 80% floor of 6.4 Ω, so no flag. A sealed-box resonance peaks near 33 Ω at ~100 Hz; phase is moderate (about ±40 degrees). Easy load for any amplifier; the 60 W program rating means avoid very large amps at high gain. EPDR not computed. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[soundonsound-avantone-pro-cla-10]] (Sound On Sound, Phil Ward): "an NS-10 in all but name" but 3-4 dB brighter above 2.5 kHz and tiring; fast, accurate bass.
-- [[musictech-avantone-pro-cla-10]] (MusicTech, John Pickford): fair NS10 recreation, but brighter than his originals; clean but limited bass; not a sole monitor.
-- [[asr-avantone-pro-cla-10]] (ASR, Tier D listening notes): grungy and treble-heavy; still poor after EQ; not recommended.
+- [soundonsound-avantone-pro-cla-10](../sources/soundonsound-avantone-pro-cla-10.md) (Sound On Sound, Phil Ward): "an NS-10 in all but name" but 3-4 dB brighter above 2.5 kHz and tiring; fast, accurate bass.
+- [musictech-avantone-pro-cla-10](../sources/musictech-avantone-pro-cla-10.md) (MusicTech, John Pickford): fair NS10 recreation, but brighter than his originals; clean but limited bass; not a sole monitor.
+- [asr-avantone-pro-cla-10](../sources/asr-avantone-pro-cla-10.md) (ASR, Tier D listening notes): grungy and treble-heavy; still poor after EQ; not recommended.
 
 ## User reviews
-Anecdotal ([[users-avantone-pro-cla-10]]): 3 written Thomann reviews (9 ratings, avg 4.9/5) all like the NS10-style sound for the price; about 5 ASR commenters (none stating ownership) call it brighter than or unlike the original. No QC problems reported; SOS notes push-on terminals.
+Anecdotal ([users-avantone-pro-cla-10](../sources/users-avantone-pro-cla-10.md)): 3 written Thomann reviews (9 ratings, avg 4.9/5) all like the NS10-style sound for the price; about 5 ASR commenters (none stating ownership) call it brighter than or unlike the original. No QC problems reported; SOS notes push-on terminals.
 
 ## Conflicts
 - Claimed 90 dB vs measured 90.2 dB: consistent.
@@ -82,4 +82,4 @@ Anecdotal ([[users-avantone-pro-cla-10]]): 3 written Thomann reviews (9 ratings,
 - Availability: Sweetwater shows in stock at $699; zZounds only reserve/preorder and ProAudioDesign shows sold out.
 
 ## Related
-[[avantone-pro]] · Yamaha NS-6490 · [[spinorama]] · [[preference-score]] · [[directivity-index]]
+[Avantone Pro](../brands/avantone-pro.md) · Yamaha NS-6490 · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md) · [directivity-index](../concepts/directivity-index.md)

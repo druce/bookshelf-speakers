@@ -34,7 +34,7 @@ Maker spec page for the SX-60 two-way front-ported standmount. Lists 8 Ω, 89 dB
 Not a measurement. Price evidence is mixed (maker $329; V2 label at $369 at Audio Advice).
 
 ## Reliability notes
-Manufacturer claims; sensitivity is 2.4 dB above Hi-Fi World's measurement ([[hifiworld-cambridge-audio-sx-60]]).
+Manufacturer claims; sensitivity is 2.4 dB above Hi-Fi World's measurement ([hifiworld-cambridge-audio-sx-60](hifiworld-cambridge-audio-sx-60.md)).
 
 ## Related
-[[cambridge-audio-sx-60]] · [[cambridge-audio]]
+[Cambridge Audio SX-60](../speakers/cambridge-audio-sx-60.md) · [Cambridge Audio](../brands/cambridge-audio.md)

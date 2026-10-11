@@ -29,4 +29,4 @@ Listening only, on FS-700 S3 stands, about 4 ft from the front wall, slight toe-
 Single reviewer; publication date not captured; headline price $5,200 matches current B&W US price.
 
 ## Related
-[[bowers-wilkins-705-s3-signature]] · [[bowers-wilkins]]
+[Bowers & Wilkins 705 S3 Signature](../speakers/bowers-wilkins-705-s3-signature.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

@@ -30,7 +30,7 @@ Anechoic-chamber measurements at the National Research Council of Canada accompa
 Microphone between tweeter and midrange, grille off; on-axis, 15/30/45/60/75 degree off-axis, listening window (5-point average), THD+N at 90 dB, deviation from linearity (90 vs 70 dB), impedance and phase.
 
 ## Reliability notes
-Single sample supplied for review. Charts only; no tabulated numbers beyond sensitivity. The narrow response disturbance near 650-700 Hz matches the port-pipe and panel resonances Stereophile found ([[stereophile-totem-acoustic-signature-one]]).
+Single sample supplied for review. Charts only; no tabulated numbers beyond sensitivity. The narrow response disturbance near 650-700 Hz matches the port-pipe and panel resonances Stereophile found ([stereophile-totem-acoustic-signature-one](stereophile-totem-acoustic-signature-one.md)).
 
 ## Related
-[[totem-acoustic-signature-one]] · [[soundstage-nrc]] · [[totem-acoustic]]
+[Totem Acoustic Signature One](../speakers/totem-acoustic-signature-one.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Totem Acoustic](../brands/totem-acoustic.md)

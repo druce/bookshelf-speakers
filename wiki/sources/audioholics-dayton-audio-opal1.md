@@ -40,4 +40,4 @@ Free-air measurement at 7.5 ft height, 1 m, gated at 11 ms: resolution lost belo
 Single review sample, listening in a 24x13 ft room with Marantz 7705 and Monolith 5x200 amplification. Reviewer argues anechoic curve overstates irregularity versus in-room.
 
 ## Related
-[[dayton-audio-opal1]] · [[audioholics]] · [[dayton-audio]]
+[Dayton Audio OPAL1](../speakers/dayton-audio-opal1.md) · [audioholics](../reviewers/audioholics.md) · [Dayton Audio](../brands/dayton-audio.md)

@@ -38,7 +38,7 @@ Klippel NFS review of a single sealed C3 bought new by a member (about $391 each
 Klippel NFS, tweeter reference axis, no grille, 56 F, over 1000 measurements. Speaker is sealed. Reviewer EQ'd highs down and filled the 1-4 kHz and upper-bass dips. Listening notes (Tier D): highs clearly overdone but not obnoxious; dynamics very good; bass a little light; needs more than 50 W.
 
 ## Reliability notes
-Single sample, possibly damaged midrange; Amir notes measurements elsewhere were much flatter (see [[hometheaterhifi-nht-c3]]). Treat the on-axis wave and dips with caution.
+Single sample, possibly damaged midrange; Amir notes measurements elsewhere were much flatter (see [hometheaterhifi-nht-c3](hometheaterhifi-nht-c3.md)). Treat the on-axis wave and dips with caution.
 
 ## Related
-[[nht-c3]] · [[asr]] · [[nht]] · [[spinorama-org]]
+[NHT C3](../speakers/nht-c3.md) · [asr](../reviewers/asr.md) · [NHT](../brands/nht.md) · [spinorama-org](spinorama-org.md)

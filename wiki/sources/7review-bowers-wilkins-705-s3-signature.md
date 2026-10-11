@@ -29,4 +29,4 @@ Listening with Luxman L-509Z and a Lehmannaudio/Accustic Arts combination. The l
 Single sample; affiliate links on page; prices differ from current B&W US $5,200.
 
 ## Related
-[[bowers-wilkins-705-s3-signature]] · [[bowers-wilkins]]
+[Bowers & Wilkins 705 S3 Signature](../speakers/bowers-wilkins-705-s3-signature.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

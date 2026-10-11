@@ -27,7 +27,7 @@ Subwoofer-led review that added five MFL-6 speakers as a 5.1 set. Wilson began s
 Listening only; no measurements. Review is mainly about the subwoofers.
 
 ## Reliability notes
-Single reviewer who received samples from Hsu; strongly disagrees with [[asr-hsu-research-mfl-6]] on treble character. Not a standalone MFL-6 review.
+Single reviewer who received samples from Hsu; strongly disagrees with [asr-hsu-research-mfl-6](asr-hsu-research-mfl-6.md) on treble character. Not a standalone MFL-6 review.
 
 ## Related
-[[hsu-research-mfl-6]] · [[hsu-research]]
+[Hsu Research MFL-6](../speakers/hsu-research-mfl-6.md) · [Hsu Research](../brands/hsu-research.md)

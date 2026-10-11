@@ -31,4 +31,4 @@ Listening only (a separate in-room test bench page exists, not ingested). Subs a
 Sample supplied by Elac. Stated in-room measurements are not anechoic and not used.
 
 ## Related
-[[elac-uni-fi-reference-ubr62]] · [[elac]]
+[Elac Uni-Fi Reference UBR62](../speakers/elac-uni-fi-reference-ubr62.md) · [Elac](../brands/elac.md)

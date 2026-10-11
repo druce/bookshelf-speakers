@@ -33,4 +33,4 @@ Mic 7" above the tweeter dome (manufacturer-specified), grille off, measured at 
 Anechoic, but no full spinorama. Graph-read numbers are approximate. THD+N includes noise, so is not directly comparable with Erin's THD.
 
 ## Related
-[[revel-m126be]] · [[soundstage-nrc]] · [[revel]]
+[Revel M126Be](../speakers/revel-m126be.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Revel](../brands/revel.md)

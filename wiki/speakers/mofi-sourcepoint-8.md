@@ -46,36 +46,36 @@ The MoFi SourcePoint 8 is an Andrew Jones-designed 8 Ω two-way with an 8" paper
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 85.9 dB (average) | [[eac-mofi-sourcepoint-8]] | A | computed (scripts/cta2034.py v2); claimed 87 dB per [[mfr-mofi-sourcepoint-8]] |
-| Sensitivity | ~87 dB | [[stereophile-mofi-sourcepoint-8]] | B | B-weighted estimate |
-| Listening-window deviation | ±1.3 dB, 300 Hz-10 kHz (excellent) | [[eac-mofi-sourcepoint-8]] | A | computed, 0° reference; ±2.0 dB with 15° reference |
-| On-axis deviation | ±1.9 dB (good) | [[eac-mofi-sourcepoint-8]] | A | computed |
-| f3 / f6 | 52 / 47 Hz (good) | [[eac-mofi-sourcepoint-8]] | A | computed; claimed 47 Hz low limit |
-| Min impedance | 8.0 Ω | [[eac-mofi-sourcepoint-8]] | A | graph-read (approx.); plot says 8 Ω above 80 Hz |
-| Min impedance | 7.5 Ω @ 120 Hz | [[stereophile-mofi-sourcepoint-8]] | B | claimed 6.4 Ω min |
-| EPDR min | 4.3 Ω (above 80 Hz) | [[eac-mofi-sourcepoint-8]] | A | stated on plot |
-| EPDR min | 3.8 Ω @ 242 Hz | [[stereophile-mofi-sourcepoint-8]] | B | below 4 Ω only 197-341 Hz |
-| THD at 86 dB / 1 m | ~2.2% near 100 Hz | [[eac-mofi-sourcepoint-8]] | A | graph-read (approx.); worst across 100 Hz-10 kHz |
-| THD at 96 dB / 1 m | ~6.5% near 100 Hz | [[eac-mofi-sourcepoint-8]] | A | graph-read (approx.) |
-| Preference score | 5.15 (no sub) / 7.28 (sub) | [[eac-mofi-sourcepoint-8]] via [[spinorama-org]] | A | 0° ref; 5.23 / 7.37 with 15° ref; ignores distortion and max output |
-| Crossover | 1.6 kHz | [[mfr-mofi-sourcepoint-8]] | C | |
+| Sensitivity (2.83 V/1 m) | 85.9 dB (average) | [eac-mofi-sourcepoint-8](../sources/eac-mofi-sourcepoint-8.md) | A | computed (scripts/cta2034.py v2); claimed 87 dB per [mfr-mofi-sourcepoint-8](../sources/mfr-mofi-sourcepoint-8.md) |
+| Sensitivity | ~87 dB | [stereophile-mofi-sourcepoint-8](../sources/stereophile-mofi-sourcepoint-8.md) | B | B-weighted estimate |
+| Listening-window deviation | ±1.3 dB, 300 Hz-10 kHz (excellent) | [eac-mofi-sourcepoint-8](../sources/eac-mofi-sourcepoint-8.md) | A | computed, 0° reference; ±2.0 dB with 15° reference |
+| On-axis deviation | ±1.9 dB (good) | [eac-mofi-sourcepoint-8](../sources/eac-mofi-sourcepoint-8.md) | A | computed |
+| f3 / f6 | 52 / 47 Hz (good) | [eac-mofi-sourcepoint-8](../sources/eac-mofi-sourcepoint-8.md) | A | computed; claimed 47 Hz low limit |
+| Min impedance | 8.0 Ω | [eac-mofi-sourcepoint-8](../sources/eac-mofi-sourcepoint-8.md) | A | graph-read (approx.); plot says 8 Ω above 80 Hz |
+| Min impedance | 7.5 Ω @ 120 Hz | [stereophile-mofi-sourcepoint-8](../sources/stereophile-mofi-sourcepoint-8.md) | B | claimed 6.4 Ω min |
+| EPDR min | 4.3 Ω (above 80 Hz) | [eac-mofi-sourcepoint-8](../sources/eac-mofi-sourcepoint-8.md) | A | stated on plot |
+| EPDR min | 3.8 Ω @ 242 Hz | [stereophile-mofi-sourcepoint-8](../sources/stereophile-mofi-sourcepoint-8.md) | B | below 4 Ω only 197-341 Hz |
+| THD at 86 dB / 1 m | ~2.2% near 100 Hz | [eac-mofi-sourcepoint-8](../sources/eac-mofi-sourcepoint-8.md) | A | graph-read (approx.); worst across 100 Hz-10 kHz |
+| THD at 96 dB / 1 m | ~6.5% near 100 Hz | [eac-mofi-sourcepoint-8](../sources/eac-mofi-sourcepoint-8.md) | A | graph-read (approx.) |
+| Preference score | 5.15 (no sub) / 7.28 (sub) | [eac-mofi-sourcepoint-8](../sources/eac-mofi-sourcepoint-8.md) via [spinorama-org](../sources/spinorama-org.md) | A | 0° ref; 5.23 / 7.37 with 15° ref; ignores distortion and max output |
+| Crossover | 1.6 kHz | [mfr-mofi-sourcepoint-8](../sources/mfr-mofi-sourcepoint-8.md) | C | |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 122°, vertical about 117°: very wide and even for a two-way. DI is smooth (ERDI residual 0.8 dB); SPDI rises from 4.6 dB at 1 kHz to 8.4 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 1.4 dB, well under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.6 dB, so either straight-ahead or modest toe-in works (Rubinson preferred about half toe-in in his room, [[stereophile-review-mofi-sourcepoint-8]]); Atkinson notes a small peak just above 3 kHz that fades off-axis. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 122°, vertical about 117°: very wide and even for a two-way. DI is smooth (ERDI residual 0.8 dB); SPDI rises from 4.6 dB at 1 kHz to 8.4 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 1.4 dB, well under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.6 dB, so either straight-ahead or modest toe-in works (Rubinson preferred about half toe-in in his room, [stereophile-review-mofi-sourcepoint-8](../sources/stereophile-review-mofi-sourcepoint-8.md)); Atkinson notes a small peak just above 3 kHz that fades off-axis. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Erin's compression sweeps show at most about 0.5 dB loss above 100 Hz at 102 dB @1 m, and about 1.4 dB dip near 53 Hz (port tuning region) at 96 dB, so no 3 dB compression within the test. Distortion is the weaker side: about 2.2% near 100 Hz at 86 dB and about 6.5% there at 96 dB, falling below 0.5% above about 700 Hz at 96 dB (all graph-read). No max-SPL figure is stated. Stone found about 80 dB average at the listening position enough for punch ([[futureaudiophile-mofi-sourcepoint-8]], Tier D). Fine for small to medium rooms at moderate levels; heavy bass at high levels will distort. See [[compression-and-max-spl]].
+Erin's compression sweeps show at most about 0.5 dB loss above 100 Hz at 102 dB @1 m, and about 1.4 dB dip near 53 Hz (port tuning region) at 96 dB, so no 3 dB compression within the test. Distortion is the weaker side: about 2.2% near 100 Hz at 86 dB and about 6.5% there at 96 dB, falling below 0.5% above about 700 Hz at 96 dB (all graph-read). No max-SPL figure is stated. Stone found about 80 dB average at the listening position enough for punch ([futureaudiophile-mofi-sourcepoint-8](../sources/futureaudiophile-mofi-sourcepoint-8.md), Tier D). Fine for small to medium rooms at moderate levels; heavy bass at high levels will distort. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Easy load. Impedance is about 8 Ω or higher across the band with a large peak (~76 Ω, graph-read) near the 1.8 kHz crossover; phase stays within about ±55 degrees. EPDR minimum 4.3 Ω (EAC) or 3.8 Ω (Stereophile, narrow band), so any competent amplifier works; Atkinson notes tube amplifiers would tilt the treble up because of the high treble impedance. Measured minimum exceeds the claimed 6.4 Ω; no flag. See [[impedance-and-epdr]].
+Easy load. Impedance is about 8 Ω or higher across the band with a large peak (~76 Ω, graph-read) near the 1.8 kHz crossover; phase stays within about ±55 degrees. EPDR minimum 4.3 Ω (EAC) or 3.8 Ω (Stereophile, narrow band), so any competent amplifier works; Atkinson notes tube amplifiers would tilt the treble up because of the high treble impedance. Measured minimum exceeds the claimed 6.4 Ω; no flag. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[stereophile-review-mofi-sourcepoint-8]] (Stereophile, Kalman Rubinson): balanced, wide-range, non-fatiguing; wide, deep, transparent soundstage; tight bass above 50 Hz but little below.
-- [[futureaudiophile-mofi-sourcepoint-8]] (Future Audiophile, Steven Stone): warm, easy tonal balance, excellent dynamics and imaging; best in small rooms or nearfield, ideally with a sub.
-- [[eac-mofi-sourcepoint-8]] (Erin, Tier D notes): neutral, no high-frequency lift, slightly less bass than the SourcePoint 10; likes it a lot.
+- [stereophile-review-mofi-sourcepoint-8](../sources/stereophile-review-mofi-sourcepoint-8.md) (Stereophile, Kalman Rubinson): balanced, wide-range, non-fatiguing; wide, deep, transparent soundstage; tight bass above 50 Hz but little below.
+- [futureaudiophile-mofi-sourcepoint-8](../sources/futureaudiophile-mofi-sourcepoint-8.md) (Future Audiophile, Steven Stone): warm, easy tonal balance, excellent dynamics and imaging; best in small rooms or nearfield, ideally with a sub.
+- [eac-mofi-sourcepoint-8](../sources/eac-mofi-sourcepoint-8.md) (Erin, Tier D notes): neutral, no high-frequency lift, slightly less bass than the SourcePoint 10; likes it a lot.
 
 ## User reviews
-Only 2 owner reports found, so anecdotal ([[users-mofi-sourcepoint-8]]): one praises drums and bass and balance, one hears slightly recessed upper treble (on a modified-crossover pair). No QC problems reported.
+Only 2 owner reports found, so anecdotal ([users-mofi-sourcepoint-8](../sources/users-mofi-sourcepoint-8.md)): one praises drums and bass and balance, one hears slightly recessed upper treble (on a modified-crossover pair). No QC problems reported.
 
 ## Conflicts
 - Sensitivity: 85.9 dB (EAC, Tier A computed) vs ~87 dB (Stereophile, Tier B; also the claim). Difference 1.1 dB; frontmatter follows Tier A.
@@ -83,4 +83,4 @@ Only 2 owner reports found, so anecdotal ([[users-mofi-sourcepoint-8]]): one pra
 - EPDR minimum: 4.3 Ω (EAC, above 80 Hz) vs 3.8 Ω (Stereophile at 242 Hz); different methods.
 
 ## Related
-[[mofi]] · [[directivity-index]] · [[early-reflections]] · [[impedance-and-epdr]] · [[compression-and-max-spl]] · [[preference-score]]
+[MoFi](../brands/mofi.md) · [directivity-index](../concepts/directivity-index.md) · [early-reflections](../concepts/early-reflections.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [compression-and-max-spl](../concepts/compression-and-max-spl.md) · [preference-score](../concepts/preference-score.md)

@@ -32,4 +32,4 @@ Subjective listening only; no measurements.
 Single reviewer, Tier D.
 
 ## Related
-[[revel-m126be]] · [[revel]]
+[Revel M126Be](../speakers/revel-m126be.md) · [Revel](../brands/revel.md)

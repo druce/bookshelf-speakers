@@ -46,30 +46,30 @@ The Fluance Signature HFS is a $200-per-pair, 5" two-way with a 1" silk dome and
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 85.8 dB (average) | [[asr-fluance-hfs-signature]] | A | computed (scripts/cta2034.py v2); thread reply states 86.1 dB |
-| Listening-window deviation | ±4.5 dB (coloured) | [[asr-fluance-hfs-signature]] | A | computed |
-| On-axis deviation | ±5.2 dB | [[asr-fluance-hfs-signature]] | A | computed |
-| f3 / f6 | 74 / 57 Hz (needs a sub) | [[asr-fluance-hfs-signature]] | A | computed |
-| Preference score | 2.9 (no sub) / 5.5 (with sub) | [[asr-fluance-hfs-signature]] via [[spinorama-org]] | A | thread poster computed 3.4 / 5.9 |
-| Min impedance | ~3.7 Ω @ ~140 Hz | [[asr-fluance-hfs-signature]] | A | graph-read (approx.) |
-| Crossover | 2.3 kHz | [[mfr-fluance-hfs-signature]] | C | |
-| Claimed sensitivity | 85 dB @ 2.83 V | [[mfr-fluance-hfs-signature]] | C | |
+| Sensitivity (2.83 V/1 m) | 85.8 dB (average) | [asr-fluance-hfs-signature](../sources/asr-fluance-hfs-signature.md) | A | computed (scripts/cta2034.py v2); thread reply states 86.1 dB |
+| Listening-window deviation | ±4.5 dB (coloured) | [asr-fluance-hfs-signature](../sources/asr-fluance-hfs-signature.md) | A | computed |
+| On-axis deviation | ±5.2 dB | [asr-fluance-hfs-signature](../sources/asr-fluance-hfs-signature.md) | A | computed |
+| f3 / f6 | 74 / 57 Hz (needs a sub) | [asr-fluance-hfs-signature](../sources/asr-fluance-hfs-signature.md) | A | computed |
+| Preference score | 2.9 (no sub) / 5.5 (with sub) | [asr-fluance-hfs-signature](../sources/asr-fluance-hfs-signature.md) via [spinorama-org](../sources/spinorama-org.md) | A | thread poster computed 3.4 / 5.9 |
+| Min impedance | ~3.7 Ω @ ~140 Hz | [asr-fluance-hfs-signature](../sources/asr-fluance-hfs-signature.md) | A | graph-read (approx.) |
+| Crossover | 2.3 kHz | [mfr-fluance-hfs-signature](../sources/mfr-fluance-hfs-signature.md) | C | |
+| Claimed sensitivity | 85 dB @ 2.83 V | [mfr-fluance-hfs-signature](../sources/mfr-fluance-hfs-signature.md) | C | |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 145°, vertical about 122°. DI has minor discontinuities (ERDI residual 1.8 dB); SPDI rises from 5.1 dB at 1 kHz to 8.9 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 4.1 dB, over the 3 dB flag. ASR calls horizontal directivity uneven and advises tweeter at or above ear height. On-axis minus listening window above 4 kHz is +0.5 dB, so toe-in is not critical. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 145°, vertical about 122°. DI has minor discontinuities (ERDI residual 1.8 dB); SPDI rises from 5.1 dB at 1 kHz to 8.9 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 4.1 dB, over the 3 dB flag. ASR calls horizontal directivity uneven and advises tweeter at or above ear height. On-axis minus listening window above 4 kHz is +0.5 dB, so toe-in is not critical. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No max-SPL or compression test. ASR's 96 dB plot shows THD of roughly 5% near 100-150 Hz and about 3% near 300 Hz (graph-read, approx.), falling below ~0.5% above 500 Hz; woofer is the weak point. No 86 dB plot, so `thd_86db_pct` is null. Fine for desktop or small rooms at moderate level, with a high-pass below ~80 Hz advisable. See [[compression-and-max-spl]].
+No max-SPL or compression test. ASR's 96 dB plot shows THD of roughly 5% near 100-150 Hz and about 3% near 300 Hz (graph-read, approx.), falling below ~0.5% above 500 Hz; woofer is the weak point. No 86 dB plot, so `thd_86db_pct` is null. Fine for desktop or small rooms at moderate level, with a high-pass below ~80 Hz advisable. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Rated 8 ohm compatible, but ASR's curve falls to about 3.7 Ω near 140 Hz, below 4 Ω, so flagged `effectively-4ohm`. Impedance peaks near 16 Ω around 105 Hz; phase is moderate. EPDR not computed. Use an amplifier stable into 4 Ω. See [[impedance-and-epdr]].
+Rated 8 ohm compatible, but ASR's curve falls to about 3.7 Ω near 140 Hz, below 4 Ω, so flagged `effectively-4ohm`. Impedance peaks near 16 Ω around 105 Hz; phase is moderate. EPDR not computed. Use an amplifier stable into 4 Ω. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[asr-fluance-hfs-signature]] (ASR, Tier D listening): bright and not rescued by filters; not recommended.
-- [[hometheaterhifi-fluance-hfs-signature]] (HomeTheaterHiFi): clear dialogue and good value; lean bass, wants a sub.
+- [asr-fluance-hfs-signature](../sources/asr-fluance-hfs-signature.md) (ASR, Tier D listening): bright and not rescued by filters; not recommended.
+- [hometheaterhifi-fluance-hfs-signature](../sources/hometheaterhifi-fluance-hfs-signature.md) (HomeTheaterHiFi): clear dialogue and good value; lean bass, wants a sub.
 
 ## User reviews
-Four reports, so anecdotal ([[users-fluance-hfs-signature]]): 2 call treble forward or fatiguing, 2 call it clear and balanced, 1 notes limited bass. No QC or failure reports found.
+Four reports, so anecdotal ([users-fluance-hfs-signature](../sources/users-fluance-hfs-signature.md)): 2 call treble forward or fatiguing, 2 call it clear and balanced, 1 notes limited bass. No QC or failure reports found.
 
 ## Conflicts
 - Critics disagree: HomeTheaterHiFi (sponsored sample, listening only) is positive; ASR measurements and listening are negative.
@@ -79,4 +79,4 @@ Four reports, so anecdotal ([[users-fluance-hfs-signature]]): 2 call treble forw
 - Status: maker page shows price and a Notify Me button; stock unconfirmed.
 
 ## Related
-[[fluance]] · [[fluance-reference-xl8s]] · [[polk-audio-t15]] · [[elac-debut-2-0-b5-2]] · [[spinorama]] · [[preference-score]]
+[Fluance](../brands/fluance.md) · [Fluance Reference XL8S](fluance-reference-xl8s.md) · [Polk Audio T15](polk-audio-t15.md) · [Elac Debut 2.0 B5.2](elac-debut-2-0-b5-2.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

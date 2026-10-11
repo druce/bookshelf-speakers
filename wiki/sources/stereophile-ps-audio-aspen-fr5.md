@@ -45,4 +45,4 @@ DRA Labs MLSSA, DPA 4006 mic, farfield at 50" on tweeter axis, 30-degree horizon
 Single sample (serial FR5-A-4E0303/4). Review sample supplied by the maker. Quasi-anechoic, so Tier B below about 300 Hz.
 
 ## Related
-[[ps-audio-aspen-fr5]] · [[stereophile]] · [[ps-audio]]
+[PS Audio Aspen FR5](../speakers/ps-audio-aspen-fr5.md) · [stereophile](../reviewers/stereophile.md) · [PS Audio](../brands/ps-audio.md)

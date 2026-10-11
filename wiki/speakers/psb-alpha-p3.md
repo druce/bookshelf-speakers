@@ -46,29 +46,29 @@ The PSB Alpha P3 is a very small (220 mm tall) 8 Ω-rated two-way with a 4" woof
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 80.3 dB (low) | [[asr-psb-alpha-p3]] | A | computed (scripts/cta2034.py v2); maker claims 85 dB anechoic ([[mfr-psb-alpha-p3]]) |
-| Listening-window deviation | ±3.1 dB, 300 Hz-10 kHz (between good and coloured) | [[asr-psb-alpha-p3]] | A | computed |
-| On-axis deviation | ±3.4 dB | [[asr-psb-alpha-p3]] | A | computed; port/woofer resonances |
-| f3 / f6 | 62 / 56 Hz (modest) | [[asr-psb-alpha-p3]] | A | computed |
-| Min impedance | 3.9 Ω @ ~190 Hz | [[asr-psb-alpha-p3]] | A | graph-read (approx.); maker 4 Ω |
-| THD at 86 dB | ~2.7 % (100-300 Hz) | [[asr-psb-alpha-p3]] | A | graph-read (approx.); narrow >5 % spike ~380 Hz |
-| THD at 96 dB | >5 % ~100 Hz-1 kHz | [[asr-psb-alpha-p3]] | A | graph clips at 5 %; no number entered |
-| Preference score | 3.1 (no sub) / 5.6 (with sub) | [[asr-psb-alpha-p3]] via [[spinorama-org]] | A | coarse aid |
-| Crossover | 3 kHz, 4th-order acoustic LR | [[mfr-psb-alpha-p3]] | C | |
+| Sensitivity (2.83 V/1 m) | 80.3 dB (low) | [asr-psb-alpha-p3](../sources/asr-psb-alpha-p3.md) | A | computed (scripts/cta2034.py v2); maker claims 85 dB anechoic ([mfr-psb-alpha-p3](../sources/mfr-psb-alpha-p3.md)) |
+| Listening-window deviation | ±3.1 dB, 300 Hz-10 kHz (between good and coloured) | [asr-psb-alpha-p3](../sources/asr-psb-alpha-p3.md) | A | computed |
+| On-axis deviation | ±3.4 dB | [asr-psb-alpha-p3](../sources/asr-psb-alpha-p3.md) | A | computed; port/woofer resonances |
+| f3 / f6 | 62 / 56 Hz (modest) | [asr-psb-alpha-p3](../sources/asr-psb-alpha-p3.md) | A | computed |
+| Min impedance | 3.9 Ω @ ~190 Hz | [asr-psb-alpha-p3](../sources/asr-psb-alpha-p3.md) | A | graph-read (approx.); maker 4 Ω |
+| THD at 86 dB | ~2.7 % (100-300 Hz) | [asr-psb-alpha-p3](../sources/asr-psb-alpha-p3.md) | A | graph-read (approx.); narrow >5 % spike ~380 Hz |
+| THD at 96 dB | >5 % ~100 Hz-1 kHz | [asr-psb-alpha-p3](../sources/asr-psb-alpha-p3.md) | A | graph clips at 5 %; no number entered |
+| Preference score | 3.1 (no sub) / 5.6 (with sub) | [asr-psb-alpha-p3](../sources/asr-psb-alpha-p3.md) via [spinorama-org](../sources/spinorama-org.md) | A | coarse aid |
+| Crossover | 3 kHz, 4th-order acoustic LR | [mfr-psb-alpha-p3](../sources/mfr-psb-alpha-p3.md) | C | |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 134°, vertical about 83°. DI classed minor-discontinuity (ERDI residual 1.6 dB); SPDI rises from 1.4 dB at 1 kHz to 8.2 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 2.3 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.4 dB, so either aim works. ASR notes a typical two-way vertical lobe: put the tweeter (below the woofer) near ear height or slightly below. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 134°, vertical about 83°. DI classed minor-discontinuity (ERDI residual 1.6 dB); SPDI rises from 1.4 dB at 1 kHz to 8.2 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 2.3 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.4 dB, so either aim works. ASR notes a typical two-way vertical lobe: put the tweeter (below the woofer) near ear height or slightly below. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-ASR's Klippel plots show about 2-2.7 % THD between 100 and 300 Hz at 86 dB SPL (graph-read), with a narrow spike above 5 % near 380 Hz, and over 5 % across roughly 100 Hz-1 kHz at 96 dB. ASR needed the highest drive level he has tested to reach 86 dB because of low sensitivity, and bass turned tubby when pushed. No compression or max-SPL test. Suitable only for small rooms at moderate volume. See [[compression-and-max-spl]].
+ASR's Klippel plots show about 2-2.7 % THD between 100 and 300 Hz at 86 dB SPL (graph-read), with a narrow spike above 5 % near 380 Hz, and over 5 % across roughly 100 Hz-1 kHz at 96 dB. ASR needed the highest drive level he has tested to reach 86 dB because of low sensitivity, and bass turned tubby when pushed. No compression or max-SPL test. Suitable only for small rooms at moderate volume. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Rated 8 Ω nominal, 4 Ω minimum, but ASR measured about 3.9 Ω near 190 Hz, flagged `effectively-4ohm`, with a large resonance peak near 90 Hz. With 80 dB sensitivity, ASR says it needs a "very stout" amplifier despite its size. EPDR not computed. See [[impedance-and-epdr]].
+Rated 8 Ω nominal, 4 Ω minimum, but ASR measured about 3.9 Ω near 190 Hz, flagged `effectively-4ohm`, with a large resonance peak near 90 Hz. With 80 dB sensitivity, ASR says it needs a "very stout" amplifier despite its size. EPDR not computed. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[soundstage-psb-alpha-p3]] (SoundStage!, Doug Schneider, 2019): very clean mids and highs for the price; nothing below about 60 Hz.
-- [[trustedreviews-psb-alpha-p3]] (Trusted Reviews, 2019): poised, agile and refined treble; cool-neutral tone; fuzzy deep bass.
-- [[asr-psb-alpha-p3]] (ASR, Tier D listening): harsh highs and a vocal resonance until EQ'd; does not recommend.
+- [soundstage-psb-alpha-p3](../sources/soundstage-psb-alpha-p3.md) (SoundStage!, Doug Schneider, 2019): very clean mids and highs for the price; nothing below about 60 Hz.
+- [trustedreviews-psb-alpha-p3](../sources/trustedreviews-psb-alpha-p3.md) (Trusted Reviews, 2019): poised, agile and refined treble; cool-neutral tone; fuzzy deep bass.
+- [asr-psb-alpha-p3](../sources/asr-psb-alpha-p3.md) (ASR, Tier D listening): harsh highs and a vocal resonance until EQ'd; does not recommend.
 
 ## User reviews
 No user reports ingested yet (Reddit blocked scripted access; retailer and Amazon pages did not yield review text).
@@ -79,4 +79,4 @@ No user reports ingested yet (Reddit blocked scripted access; retailer and Amazo
 - Impedance: maker 4 Ω min vs 3.9 Ω measured; consistent, but triggers the below-4 Ω flag.
 
 ## Related
-[[psb]], [[psb-alpha-p5]], [[psb-imagine-b50]], KEF Q150, [[elac-debut-2-0-b5-2]], [[directivity-index]], [[impedance-and-epdr]]
+[PSB](../brands/psb.md), [PSB Alpha P5](psb-alpha-p5.md), [PSB Imagine B50](psb-imagine-b50.md), KEF Q150, [Elac Debut 2.0 B5.2](elac-debut-2-0-b5-2.md), [directivity-index](../concepts/directivity-index.md), [impedance-and-epdr](../concepts/impedance-and-epdr.md)

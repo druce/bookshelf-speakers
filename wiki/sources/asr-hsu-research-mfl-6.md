@@ -43,4 +43,4 @@ Klippel NFS, grille off, reference axis rotated so the mic is at 90° to the sla
 Single sample. Because the reference axis differs from a flat-baffle speaker, deviation figures are not directly comparable with 0° measurements elsewhere.
 
 ## Related
-[[hsu-research-mfl-6]] · [[asr]] · [[hsu-research]] · [[spinorama-org]]
+[Hsu Research MFL-6](../speakers/hsu-research-mfl-6.md) · [asr](../reviewers/asr.md) · [Hsu Research](../brands/hsu-research.md) · [spinorama-org](spinorama-org.md)

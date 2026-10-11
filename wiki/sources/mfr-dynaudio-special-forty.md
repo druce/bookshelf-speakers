@@ -35,7 +35,7 @@ Dynaudio's own page lists the Special Forty (Editions series) with Status "Curre
 Price: Audio Vision SF lists $3,599/pair (page fetched via WebFetch, 2026-10-11, stock unclear); a TMR Audio listing shows list $3,500 and sold out. 2017-18 launch price was $2,999/pair (SoundStage!, Stereophile, TAS). Dynaudio's page shows no price.
 
 ## Reliability notes
-Maker claims only; measured values supersede (see [[eac-dynaudio-special-forty]]).
+Maker claims only; measured values supersede (see [eac-dynaudio-special-forty](eac-dynaudio-special-forty.md)).
 
 ## Related
-[[dynaudio-special-forty]] · [[dynaudio]]
+[Dynaudio Special Forty](../speakers/dynaudio-special-forty.md) · [Dynaudio](../brands/dynaudio.md)

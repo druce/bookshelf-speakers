@@ -28,4 +28,4 @@ Only about 3 owner-type comments were found (anecdotal): one detailed ASR thread
 Fewer than 5 reports; do not treat as a pattern.
 
 ## Related
-[[revel-m126be]] · [[revel]]
+[Revel M126Be](../speakers/revel-m126be.md) · [Revel](../brands/revel.md)

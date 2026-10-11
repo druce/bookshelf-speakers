@@ -42,4 +42,4 @@ Klippel NFS, reference at tweeter, no grille, 14 °C room. Port plug tested; mea
 Single loaned sample. Recommendation is "with equalization (cost not considered)", despite poor measurements.
 
 ## Related
-[[wilson-audio-tunetot]] · [[asr]] · [[wilson-audio]] · [[spinorama-org]]
+[Wilson Audio TuneTot](../speakers/wilson-audio-tunetot.md) · [asr](../reviewers/asr.md) · [Wilson Audio](../brands/wilson-audio.md) · [spinorama-org](spinorama-org.md)

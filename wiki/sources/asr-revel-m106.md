@@ -44,4 +44,4 @@ Klippel NFS, >800 points, anechoic-equivalent. The sample was a pre-owned unit w
 Single, not-new sample. Graph-read values approximate. LF distortion near 100 Hz is displacement/motor driven, as for most small ported speakers.
 
 ## Related
-[[revel-m106]] · [[asr]] · [[revel]] · [[spinorama-org]]
+[Revel M106](../speakers/revel-m106.md) · [asr](../reviewers/asr.md) · [Revel](../brands/revel.md) · [spinorama-org](spinorama-org.md)

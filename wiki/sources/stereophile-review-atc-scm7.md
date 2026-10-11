@@ -27,7 +27,7 @@ Marks calls it highly recommended and an "extremely competitive" entry among Bri
 - Price then $1,499/pair; less transparent than a far costlier Vivid Oval V1.5.
 
 ## Reliability notes
-Tier D, 2014; review pair matches the v.3 measured by John Atkinson ([[stereophile-atc-scm7]]).
+Tier D, 2014; review pair matches the v.3 measured by John Atkinson ([stereophile-atc-scm7](stereophile-atc-scm7.md)).
 
 ## Related
-[[atc-scm7]] · [[stereophile]] · [[atc]]
+[ATC SCM7](../speakers/atc-scm7.md) · [stereophile](../reviewers/stereophile.md) · [ATC](../brands/atc.md)

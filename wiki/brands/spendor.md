@@ -9,12 +9,12 @@ last_updated: 2026-10-11
 # Spendor
 
 ## Overview
-Spendor's Classic range is inspired by 1970s BBC designs, with thin-wall damped cabinets, EP77 polymer cones and 22 mm polyamide domes, made in the UK and sold through dealers at $3-5k a pair ([[mfr-spendor-classic-3-1]]). The Classic 3/1 evidence is Hi-Fi News lab data and reviews ([[hifinews-spendor-classic-3-1]], [[hifichoice-spendor-classic-3-1]]); no independent spinorama exists.
+Spendor's Classic range is inspired by 1970s BBC designs, with thin-wall damped cabinets, EP77 polymer cones and 22 mm polyamide domes, made in the UK and sold through dealers at $3-5k a pair ([mfr-spendor-classic-3-1](../sources/mfr-spendor-classic-3-1.md)). The Classic 3/1 evidence is Hi-Fi News lab data and reviews ([hifinews-spendor-classic-3-1](../sources/hifinews-spendor-classic-3-1.md), [hifichoice-spendor-classic-3-1](../sources/hifichoice-spendor-classic-3-1.md)); no independent spinorama exists.
 
 ## Models in this wiki
 | Model | Price/pr | Rated Ω | Min Ω (flag) | LW ±dB | f3 Hz | Sens. dB | Pref (w/sub) |
 |---|---|---|---|---|---|---|---|
-| [[spendor-classic-3-1]] | $4,999 | 8.0 | 5.7 (below-iec) | — | — | 84.9 | — |
+| [Spendor Classic 3/1](../speakers/spendor-classic-3-1.md) | $4,999 | 8.0 | 5.7 (below-iec) | — | — | 84.9 | — |
 
 ## Other models screened
 - Classic 4/5 — no Tier A/B data; $2,999/pair.
@@ -24,4 +24,4 @@ Spendor's Classic range is inspired by 1970s BBC designs, with thin-wall damped 
 Single paged model: 5.7 Ω minimum (below-iec), 84.9 dB measured vs 88.0 claimed (3.1 dB short). Both screened siblings are in scope but unmeasured, so conclusions rest on one speaker. Critics (Hi-Fi News, HiFi Choice) praise a seamless, easy-to-drive speaker. No user pages ingested.
 
 ## Related
-[[spendor-classic-3-1]] · [[impedance-and-epdr]] · [[candidate-universe]]
+[Spendor Classic 3/1](../speakers/spendor-classic-3-1.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [candidate-universe](../comparisons/candidate-universe.md)

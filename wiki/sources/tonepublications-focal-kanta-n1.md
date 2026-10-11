@@ -30,4 +30,4 @@ Listening on 24 in sand-filled stands; no measurements.
 Review is bundled with a dealer package and manufacturer pairing; date and author byline not on saved page.
 
 ## Related
-[[focal-kanta-n1]] · [[focal]]
+[Focal Kanta N°1](../speakers/focal-kanta-n1.md) · [Focal](../brands/focal.md)

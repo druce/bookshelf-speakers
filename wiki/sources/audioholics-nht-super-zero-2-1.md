@@ -26,4 +26,4 @@ Short preview-style review of the SuperZero 2.1 paired with the Super 8 subwoofe
 Article states it is a preview; the FR/impedance curve is courtesy of NHT. Listening was with the subwoofer.
 
 ## Related
-[[nht-super-zero-2-1]] · [[audioholics]] · [[nht]]
+[NHT Super Zero 2.1](../speakers/nht-super-zero-2-1.md) · [audioholics](../reviewers/audioholics.md) · [NHT](../brands/nht.md)

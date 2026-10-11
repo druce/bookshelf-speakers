@@ -27,7 +27,7 @@ speakers: [totem-acoustic-signature-one]
 | Price / status | $3,800.00 per pair, current on totemacoustic.com, 2026-10-11 | |
 
 ## Reliability notes
-Maker figures (Tier C). Measured sensitivity is 83.0-83.5 dB ([[nrc-totem-acoustic-signature-one]], [[stereophile-totem-acoustic-signature-one]]).
+Maker figures (Tier C). Measured sensitivity is 83.0-83.5 dB ([nrc-totem-acoustic-signature-one](nrc-totem-acoustic-signature-one.md), [stereophile-totem-acoustic-signature-one](stereophile-totem-acoustic-signature-one.md)).
 
 ## Related
-[[totem-acoustic-signature-one]] · [[totem-acoustic]]
+[Totem Acoustic Signature One](../speakers/totem-acoustic-signature-one.md) · [Totem Acoustic](../brands/totem-acoustic.md)

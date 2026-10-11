@@ -28,7 +28,7 @@ Enthusiastic review of the 3D-printed LC1 at about $1,000 per pair; no measureme
 Home listening in several rooms and placements; no amplifier model stated in the extracted text. Publication date not shown (update note September 2026).
 
 ## Reliability notes
-Site uses affiliate links; the review frames the product as a pick for its best-of-2026 list. Claims conflict with Erin's Klippel findings on bass and tonal balance ([[eac-chesky-audio-lc1]]).
+Site uses affiliate links; the review frames the product as a pick for its best-of-2026 list. Claims conflict with Erin's Klippel findings on bass and tonal balance ([eac-chesky-audio-lc1](eac-chesky-audio-lc1.md)).
 
 ## Related
-[[chesky-audio-lc1]] · [[chesky-audio]]
+[Chesky Audio LC1](../speakers/chesky-audio-lc1.md) · [Chesky Audio](../brands/chesky-audio.md)

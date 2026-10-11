@@ -36,4 +36,4 @@ Maker cites Klippel NFS tests by Warkwyn Acoustic Consultants.
 Tier C marketing page.
 
 ## Related
-[[march-audio-sointuva-awg]] · [[march-audio]]
+[March Audio Sointuva AWG](../speakers/march-audio-sointuva-awg.md) · [March Audio](../brands/march-audio.md)

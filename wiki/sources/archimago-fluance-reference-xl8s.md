@@ -38,4 +38,4 @@ qSpin: gated 1 m response blended with summed nearfield incl. ports; amplifier E
 Single hobbyist rig, single pair (serial 2005023xx). Tier B; low-frequency data merges nearfield measurements. Values read from text and graphs.
 
 ## Related
-[[fluance-reference-xl8s]] · [[fluance]] · [[spinorama-org]]
+[Fluance Reference XL8S](../speakers/fluance-reference-xl8s.md) · [Fluance](../brands/fluance.md) · [spinorama-org](spinorama-org.md)

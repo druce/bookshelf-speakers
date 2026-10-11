@@ -32,4 +32,4 @@ Direct-sale page for the E50, a ported (passive-radiator) standmount with a Puri
 Tier C and partly model-extracted; verify the impedance rating on the live page. The "4/6 ohms" wording is ambiguous; scope was decided as 6 Ω because the maker itself says it qualifies as 6 Ω and the spinorama vendor entry is 5.0 Ω.
 
 ## Related
-[[buchardt-audio-e50]] · [[buchardt-audio]]
+[Buchardt Audio E50](../speakers/buchardt-audio-e50.md) · [Buchardt Audio](../brands/buchardt-audio.md)

@@ -36,7 +36,7 @@ Klippel NFS measurement of a manufacturer-loaned pair, measured with the referen
 | THD 86 dB @1 m | about 0.8% worst (~100 Hz, narrow peak) over 100 Hz-10 kHz; ~0.1-0.3% above 600 Hz | graph-read (approx.) |
 | THD 96 dB @1 m | about 0.9% worst (~100 Hz and ~9.5 kHz peaks); ~0.15% near 1 kHz | graph-read (approx.) |
 | compression 102 dB @1 m | under ~0.6 dB above 80 Hz, ~1 dB at 20 kHz | graph-read; baseline 76 dB; test ceiling, not a limit |
-| Manufacturer figures (Tier C) | 6 Ω nominal, 3.4 Ω min @168 Hz, 83.0 dB, F3 37 Hz | copied from [[mfr-march-audio-sointuva-awg]] |
+| Manufacturer figures (Tier C) | 6 Ω nominal, 3.4 Ω min @168 Hz, 83.0 dB, F3 37 Hz | copied from [mfr-march-audio-sointuva-awg](mfr-march-audio-sointuva-awg.md) |
 | price | ~US$4,100/pair MSRP | as of Erin's writeup |
 
 ## Method notes
@@ -46,4 +46,4 @@ Klippel Near-Field Scanner, CTA-2034 spinorama, reference point 7° above tweete
 Single manufacturer-loaned pair; Erin states no compensation. Computed sensitivity (81.2 dB) is below the 83.0 dB claim; the 7° reference axis may shift level slightly.
 
 ## Related
-[[march-audio-sointuva-awg]] · [[erins-audio-corner]] · [[march-audio]] · [[spinorama-org]]
+[March Audio Sointuva AWG](../speakers/march-audio-sointuva-awg.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [March Audio](../brands/march-audio.md) · [spinorama-org](spinorama-org.md)

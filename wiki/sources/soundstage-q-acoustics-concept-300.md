@@ -25,10 +25,10 @@ Listening review versus the reviewer's Bowers & Wilkins 705 S2. Estan found the 
 - Conclusion: for a minimonitor it did nothing wrong and almost everything right; worth the price at $4,499/pair then.
 
 ## Method notes
-Room 15 x 12 x 8 ft, speakers 16 in from wall, toed in 18°, McIntosh amplification. Companion NRC measurements: [[nrc-q-acoustics-concept-300]].
+Room 15 x 12 x 8 ft, speakers 16 in from wall, toed in 18°, McIntosh amplification. Companion NRC measurements: [nrc-q-acoustics-concept-300](nrc-q-acoustics-concept-300.md).
 
 ## Reliability notes
 Single reviewer; in-room LF measurement not comparable to anechoic f3.
 
 ## Related
-[[q-acoustics-concept-300]] · [[soundstage-nrc]] · [[q-acoustics]]
+[Q Acoustics Concept 300](../speakers/q-acoustics-concept-300.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Q Acoustics](../brands/q-acoustics.md)

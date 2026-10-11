@@ -31,4 +31,4 @@ Port plugged by default; data digitised on spinorama.org so no computed metrics 
 Port-plugged configuration is not the default-open setup used by ASR/EAC; treat comparisons with care. Magazine, single sample.
 
 ## Related
-[[kef-ls50-meta]] · [[kef]] · [[spinorama-org]]
+[KEF LS50 Meta](../speakers/kef-ls50-meta.md) · [KEF](../brands/kef.md) · [spinorama-org](spinorama-org.md)

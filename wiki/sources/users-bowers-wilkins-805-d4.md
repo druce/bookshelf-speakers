@@ -30,4 +30,4 @@ WebFetch extracts, not verbatim; see raw clip.
 Fewer than 5 reports; amplifier pairing differs per report.
 
 ## Related
-[[bowers-wilkins-805-d4]] · [[bowers-wilkins]]
+[Bowers & Wilkins 805 D4](../speakers/bowers-wilkins-805-d4.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

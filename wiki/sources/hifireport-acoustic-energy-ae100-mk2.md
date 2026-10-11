@@ -30,4 +30,4 @@ Listening only; amplifier details not captured.
 Date not captured; market price not US. Strongly positive and at odds with the Klippel-based review.
 
 ## Related
-[[acoustic-energy-ae100-mk2]] · [[acoustic-energy]]
+[Acoustic Energy AE100 Mk2](../speakers/acoustic-energy-ae100-mk2.md) · [Acoustic Energy](../brands/acoustic-energy.md)

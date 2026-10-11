@@ -28,4 +28,4 @@ No owner reports found; the ASR replies are reactions to the measurement. Treate
 Fewer than 5 owner reports; anecdotal.
 
 ## Related
-[[role-audio-skiff]] · [[role-audio]]
+[Role Audio Skiff](../speakers/role-audio-skiff.md) · [Role Audio](../brands/role-audio.md)

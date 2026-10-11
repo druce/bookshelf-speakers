@@ -28,7 +28,7 @@ Wilson's own site pages for the TuneTot could not be fetched (404). The dealer p
 | port | rear slot port (ASR: downward-tilted rectangular) | |
 | dimensions | 14.83 x 8.61 x 10.19 in (377x219x259 mm) | |
 | weight | 29 lb (13.2 kg) each (dealer lists 58 lb, apparently pair) | |
-| price | launch $9,800 pair ($10,500 upgrade colours) per [[tas-wilson-audio-tunetot]]; Speakerdecision lists $13,545 | current US price not confirmed |
+| price | launch $9,800 pair ($10,500 upgrade colours) per [tas-wilson-audio-tunetot](tas-wilson-audio-tunetot.md); Speakerdecision lists $13,545 | current US price not confirmed |
 
 ## Method notes
 Spec copy only.
@@ -37,4 +37,4 @@ Spec copy only.
 Tier C. Dealer page not Wilson's own; price not verified at a US retailer.
 
 ## Related
-[[wilson-audio-tunetot]] · [[wilson-audio]]
+[Wilson Audio TuneTot](../speakers/wilson-audio-tunetot.md) · [Wilson Audio](../brands/wilson-audio.md)

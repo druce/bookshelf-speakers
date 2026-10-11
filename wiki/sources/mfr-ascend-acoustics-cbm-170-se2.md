@@ -38,4 +38,4 @@ Maker states measurements are 360-degree Klippel NFS scans (800+ points); the ma
 Marketing copy ("head and shoulders above anything near its price") is not evidence. The in-room 91 dB figure is not comparable to anechoic data.
 
 ## Related
-[[ascend-acoustics-cbm-170-se2]] · [[ascend-acoustics]]
+[Ascend Acoustics CBM-170 SE2](../speakers/ascend-acoustics-cbm-170-se2.md) · [Ascend Acoustics](../brands/ascend-acoustics.md)

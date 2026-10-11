@@ -30,4 +30,4 @@ Rega Osiris integrated, PS Audio DirectStream DAC, treated room.
 Single reviewer; enthusiastic prose, no measurements; does not mention the resonances found by Stereophile and Erin's Audio Corner.
 
 ## Related
-[[dynaudio-special-forty]] · [[dynaudio]]
+[Dynaudio Special Forty](../speakers/dynaudio-special-forty.md) · [Dynaudio](../brands/dynaudio.md)

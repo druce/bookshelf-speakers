@@ -27,4 +27,4 @@ Reichert, an owner of the earlier Model 1 Signature, finds the new 8 Ω Signatur
 Single listener, extended break-in noted. No rating.
 
 ## Related
-[[totem-acoustic-signature-one]] · [[stereophile]]
+[Totem Acoustic Signature One](../speakers/totem-acoustic-signature-one.md) · [stereophile](../reviewers/stereophile.md)

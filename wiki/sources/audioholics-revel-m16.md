@@ -38,4 +38,4 @@ Measured outdoors at ~9 ft height, gated at 14 ms; reviewer states accuracy is l
 Quasi-anechoic, single sample; numbers given are limited to graphs and text. Review is ~10 years old (Concerta2 era; same model as current).
 
 ## Related
-[[revel-m16]] · [[audioholics]] · [[revel]]
+[Revel M16](../speakers/revel-m16.md) · [audioholics](../reviewers/audioholics.md) · [Revel](../brands/revel.md)

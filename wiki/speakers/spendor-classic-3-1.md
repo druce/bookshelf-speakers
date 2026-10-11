@@ -46,26 +46,26 @@ The Spendor Classic 3/1 is a UK-built 2-way reflex standmount with an 18 cm (abo
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 84.9 dB mean 500 Hz-8 kHz (average); 84.5 dB @ 1 kHz | [[hifinews-spendor-classic-3-1]] | B | claimed 88 dB/1 W per [[mfr-spendor-classic-3-1]] |
-| Min impedance | 5.7 ohm @ 175 Hz | [[hifinews-spendor-classic-3-1]] | B | below 6.4 ohm IEC floor; maker says min 5.9 |
-| Response error | +/-2.1 / +/-2.4 dB, 200 Hz-20 kHz | [[hifinews-spendor-classic-3-1]] | B | midway axis, not CTA-2034 LW; not entered as lw_deviation |
-| LF extension | 45 Hz (-6 dB re 200 Hz) | [[hifinews-spendor-classic-3-1]] | B | near-field summed port; no -3 dB figure |
-| THD @ 90 dB / 1 m | 0.5% @ 100 Hz, 0.25% @ 1 kHz, 0.2% @ 10 kHz | [[hifinews-spendor-classic-3-1]] | B | clean per [[compression-and-max-spl]] |
-| Port tuning | 34 Hz | [[hifinews-spendor-classic-3-1]] | B | |
-| Crossover | 3.7 kHz | [[mfr-spendor-classic-3-1]] | C | |
+| Sensitivity (2.83 V/1 m) | 84.9 dB mean 500 Hz-8 kHz (average); 84.5 dB @ 1 kHz | [hifinews-spendor-classic-3-1](../sources/hifinews-spendor-classic-3-1.md) | B | claimed 88 dB/1 W per [mfr-spendor-classic-3-1](../sources/mfr-spendor-classic-3-1.md) |
+| Min impedance | 5.7 ohm @ 175 Hz | [hifinews-spendor-classic-3-1](../sources/hifinews-spendor-classic-3-1.md) | B | below 6.4 ohm IEC floor; maker says min 5.9 |
+| Response error | +/-2.1 / +/-2.4 dB, 200 Hz-20 kHz | [hifinews-spendor-classic-3-1](../sources/hifinews-spendor-classic-3-1.md) | B | midway axis, not CTA-2034 LW; not entered as lw_deviation |
+| LF extension | 45 Hz (-6 dB re 200 Hz) | [hifinews-spendor-classic-3-1](../sources/hifinews-spendor-classic-3-1.md) | B | near-field summed port; no -3 dB figure |
+| THD @ 90 dB / 1 m | 0.5% @ 100 Hz, 0.25% @ 1 kHz, 0.2% @ 10 kHz | [hifinews-spendor-classic-3-1](../sources/hifinews-spendor-classic-3-1.md) | B | clean per [compression-and-max-spl](../concepts/compression-and-max-spl.md) |
+| Port tuning | 34 Hz | [hifinews-spendor-classic-3-1](../sources/hifinews-spendor-classic-3-1.md) | B | |
+| Crossover | 3.7 kHz | [mfr-spendor-classic-3-1](../sources/mfr-spendor-classic-3-1.md) | C | |
 
 ## Directivity
-No beamwidth, DI or early-reflection data. Hi-Fi News notes a soft dome with no abrupt breakup and two 2-3 dB dips at 900 Hz and 2.9 kHz tied to driver/termination modes, but gives no off-axis data. The 3.7 kHz crossover is high for a 7" driver. See [[directivity-index]], [[early-reflections]].
+No beamwidth, DI or early-reflection data. Hi-Fi News notes a soft dome with no abrupt breakup and two 2-3 dB dips at 900 Hz and 2.9 kHz tied to driver/termination modes, but gives no off-axis data. The 3.7 kHz crossover is high for a 7" driver. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Distortion is about 0.5% or lower at 90 dB SPL from 100 Hz to 10 kHz (Tier B). No compression or max-SPL test. Hi-Fi News's reviewer found it hardens at anti-social levels (Tier D), consistent with a small-to-medium room speaker. See [[compression-and-max-spl]].
+Distortion is about 0.5% or lower at 90 dB SPL from 100 Hz to 10 kHz (Tier B). No compression or max-SPL test. Hi-Fi News's reviewer found it hardens at anti-social levels (Tier D), consistent with a small-to-medium room speaker. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-8 ohm nominal but measured minimum 5.7 ohm at 175 Hz (flag: `below-iec`; not below 4 ohm), with phase -55 deg to +65 deg. Hi-Fi News calls it driveable and closer to a 6 ohm load; maker recommends 25-150 W. EPDR not measured. See [[impedance-and-epdr]].
+8 ohm nominal but measured minimum 5.7 ohm at 175 Hz (flag: `below-iec`; not below 4 ohm), with phase -55 deg to +65 deg. Hi-Fi News calls it driveable and closer to a 6 ohm load; maker recommends 25-150 W. EPDR not measured. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[hifinews-review-spendor-classic-3-1]] (Hi-Fi News, Outstanding): seamless, open and effortless with little cabinet colouration; bass grip and integration praised.
-- [[hifichoice-spendor-classic-3-1]] (HiFi Choice, group-test winner, maker-quoted): accurate, refined, fun and unfussy about placement and partnering.
+- [hifinews-review-spendor-classic-3-1](../sources/hifinews-review-spendor-classic-3-1.md) (Hi-Fi News, Outstanding): seamless, open and effortless with little cabinet colouration; bass grip and integration praised.
+- [hifichoice-spendor-classic-3-1](../sources/hifichoice-spendor-classic-3-1.md) (HiFi Choice, group-test winner, maker-quoted): accurate, refined, fun and unfussy about placement and partnering.
 
 ## User reviews
 No user reports ingested yet.
@@ -76,4 +76,4 @@ No user reports ingested yet.
 - The maker's "typical in-room 40 Hz" claim vs 45 Hz (-6 dB) measured near-field; different metrics, not directly comparable.
 
 ## Related
-[[spendor]] · Spendor Classic 4/5 · Spendor A1.2 · [[impedance-and-epdr]] · [[sensitivity-normalization]]
+[Spendor](../brands/spendor.md) · Spendor Classic 4/5 · Spendor A1.2 · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [sensitivity-normalization](../concepts/sensitivity-normalization.md)

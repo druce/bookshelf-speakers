@@ -24,4 +24,4 @@ Room gain does not belong to the speaker. Pages credit only anechoic figures. Pl
 Ported designs reach lower for a given box size but roll off at 24 dB/octave and unload below tuning. Sealed designs roll off at 12 dB/octave and integrate more predictably with room gain and subwoofers.
 
 ## Related
-[[preference-score]] · [[compression-and-max-spl]] · [[spinorama]]
+[preference-score](preference-score.md) · [compression-and-max-spl](compression-and-max-spl.md) · [spinorama](spinorama.md)

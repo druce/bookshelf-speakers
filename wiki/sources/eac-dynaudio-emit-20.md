@@ -45,4 +45,4 @@ Klippel Near-Field Scanner, reference at tweeter, grille off, broken in. Raw woo
 Single loaned sample. Computed sensitivity (83.2 dB) is 2.8 dB under the maker's 86 dB. THD and compression from images.
 
 ## Related
-[[dynaudio-emit-20]] · [[erins-audio-corner]] · [[dynaudio]] · [[spinorama-org]]
+[Dynaudio Emit 20](../speakers/dynaudio-emit-20.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Dynaudio](../brands/dynaudio.md) · [spinorama-org](spinorama-org.md)

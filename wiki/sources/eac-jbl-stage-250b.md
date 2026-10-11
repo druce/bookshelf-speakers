@@ -45,4 +45,4 @@ Klippel NFS, reference at tweeter, grille off, broken-in sample. Impedance at 0.
 Single viewer-supplied sample; no compensation per Erin. THD at 86 dB read from graph.
 
 ## Related
-[[jbl-stage-250b]] · [[erins-audio-corner]] · [[jbl]] · [[spinorama-org]]
+[JBL Stage 250B](../speakers/jbl-stage-250b.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [JBL](../brands/jbl.md) · [spinorama-org](spinorama-org.md)

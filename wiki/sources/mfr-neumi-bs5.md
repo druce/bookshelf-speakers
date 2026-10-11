@@ -37,4 +37,4 @@ Amazon page saved 2026-10-11 by scripted fetch.
 Tier C: claims only. Price is uncertain; no authorised US retailer confirmed in stock.
 
 ## Related
-[[neumi-bs5]] · [[neumi]]
+[Neumi BS5](../speakers/neumi-bs5.md) · [Neumi](../brands/neumi.md)

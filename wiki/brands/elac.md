@@ -9,17 +9,17 @@ last_updated: 2026-10-11
 # Elac
 
 ## Overview
-Elac's paged models are Andrew Jones-era designs spanning Debut 2.0/3.0, Debut Reference, Uni-Fi Reference (3-way concentric) and Carina (AMT tweeter), per the maker and review pages ([[mfr-elac-debut-2-0-b5-2]], [[mfr-elac-uni-fi-reference-ubr62]], [[mfr-elac-carina-bs243-4]]). All six are rated 6 Ω, and five have spinorama-grade data with listening-window deviation of 1.3-2.8 dB, the DBR-62 being the flattest.
+Elac's paged models are Andrew Jones-era designs spanning Debut 2.0/3.0, Debut Reference, Uni-Fi Reference (3-way concentric) and Carina (AMT tweeter), per the maker and review pages ([mfr-elac-debut-2-0-b5-2](../sources/mfr-elac-debut-2-0-b5-2.md), [mfr-elac-uni-fi-reference-ubr62](../sources/mfr-elac-uni-fi-reference-ubr62.md), [mfr-elac-carina-bs243-4](../sources/mfr-elac-carina-bs243-4.md)). All six are rated 6 Ω, and five have spinorama-grade data with listening-window deviation of 1.3-2.8 dB, the DBR-62 being the flattest.
 
 ## Models in this wiki
 | Model | Price/pr | Rated Ω | Min Ω (flag) | LW ±dB | f3 Hz | Sens. dB | Pref (w/sub) |
 |---|---|---|---|---|---|---|---|
-| [[elac-debut-reference-dbr-62]] | $799 | 6 | 5.2 | 1.3 | 52 | 83.9 | 5.1 (7.3) |
-| [[elac-debut-2-0-b5-2]] | $294 | 6 | 5.2 | 2.2 | 62 | 83.3 | 5.0 (7.3) |
-| [[elac-uni-fi-reference-ubr62]] | $1,299 | 6 | 4.2 (below-iec) | 1.9 | 56 | 83.0 | 5.4 (7.7) |
-| [[elac-debut-3-0-b6-3]] | $499 | 6 | 4.4 (below-iec) | — | 60 | 85.5 | — |
-| [[elac-carina-bs243-4]] | $1,199 | 6 | 4.6 (below-iec) | 2.8 | 54 | 82.2 | 4.9 (7.0) |
-| [[elac-debut-2-0-b6-2]] | $374 | 6 | 5.2 | 2.3 | 59 | 86.2 | 4.8 (7.0) |
+| [Elac Debut Reference DBR-62](../speakers/elac-debut-reference-dbr-62.md) | $799 | 6 | 5.2 | 1.3 | 52 | 83.9 | 5.1 (7.3) |
+| [Elac Debut 2.0 B5.2](../speakers/elac-debut-2-0-b5-2.md) | $294 | 6 | 5.2 | 2.2 | 62 | 83.3 | 5.0 (7.3) |
+| [Elac Uni-Fi Reference UBR62](../speakers/elac-uni-fi-reference-ubr62.md) | $1,299 | 6 | 4.2 (below-iec) | 1.9 | 56 | 83.0 | 5.4 (7.7) |
+| [Elac Debut 3.0 B6.3](../speakers/elac-debut-3-0-b6-3.md) | $499 | 6 | 4.4 (below-iec) | — | 60 | 85.5 | — |
+| [Elac Carina BS243.4](../speakers/elac-carina-bs243-4.md) | $1,199 | 6 | 4.6 (below-iec) | 2.8 | 54 | 82.2 | 4.9 (7.0) |
+| [Elac Debut 2.0 B6.2](../speakers/elac-debut-2-0-b6-2.md) | $374 | 6 | 5.2 | 2.3 | 59 | 86.2 | 4.8 (7.0) |
 
 ## Other models screened
 - BS 41 — discontinued: Not listed on Elac's US site (bookshelf category and sitemap show no BS41 product page); no authorized US retailer listing found; only used/marketplace (eBay, Reverb, US Audio Mart) and Amazon UK shown unavailable. Spec per Erin: sealed, 4 in woofer, 6 Ω nominal, MSRP $180/pair
@@ -34,7 +34,7 @@ Elac's paged models are Andrew Jones-era designs spanning Debut 2.0/3.0, Debut R
 - 6 of 6 measure below claimed sensitivity, by 0.8-2.8 dB (e.g. Carina 82.2 vs 85.0; B6.2 86.2 vs 87.0).
 - 3 of 6 (Uni-Fi Reference UBR62, Debut 3.0 B6.3, Carina) have measured minima of 4.2-4.6 Ω, below the 4.8 Ω (80% of 6 Ω) IEC floor; the other three bottom at 5.2 Ω.
 - Five measured preference scores run 4.8-5.4 (7.0-7.7 with sub); f3 ranges 52-62 Hz.
-- User reports are thin (2-3 per model); 1 report of a tweeter failure with unanswered support on the DBR-62 ([[users-elac-debut-reference-dbr-62]]); none reported for B5.2 and B6.2.
+- User reports are thin (2-3 per model); 1 report of a tweeter failure with unanswered support on the DBR-62 ([users-elac-debut-reference-dbr-62](../sources/users-elac-debut-reference-dbr-62.md)); none reported for B5.2 and B6.2.
 
 ## Related
-[[elac-debut-reference-dbr-62]] · [[elac-debut-2-0-b5-2]] · [[elac-uni-fi-reference-ubr62]] · [[elac-debut-3-0-b6-3]] · [[elac-carina-bs243-4]] · [[elac-debut-2-0-b6-2]] · [[impedance-and-epdr]] · [[sensitivity-normalization]] · [[preference-score]] · [[candidate-universe]]
+[Elac Debut Reference DBR-62](../speakers/elac-debut-reference-dbr-62.md) · [Elac Debut 2.0 B5.2](../speakers/elac-debut-2-0-b5-2.md) · [Elac Uni-Fi Reference UBR62](../speakers/elac-uni-fi-reference-ubr62.md) · [Elac Debut 3.0 B6.3](../speakers/elac-debut-3-0-b6-3.md) · [Elac Carina BS243.4](../speakers/elac-carina-bs243-4.md) · [Elac Debut 2.0 B6.2](../speakers/elac-debut-2-0-b6-2.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [sensitivity-normalization](../concepts/sensitivity-normalization.md) · [preference-score](../concepts/preference-score.md) · [candidate-universe](../comparisons/candidate-universe.md)

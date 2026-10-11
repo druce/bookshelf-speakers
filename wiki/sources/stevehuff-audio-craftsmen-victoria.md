@@ -25,7 +25,7 @@ Enthusiastic subjective review on a very expensive reference system; calls it a 
 - Praises double-walled cabinet and SEAS drivers.
 
 ## Reliability notes
-Tier D; a hobbyist-enthusiast site, loaner context not stated in what I read; no measurements. Conflicts with the Klippel result (recessed midrange, limited bass) from [[eac-audio-craftsmen-victoria]].
+Tier D; a hobbyist-enthusiast site, loaner context not stated in what I read; no measurements. Conflicts with the Klippel result (recessed midrange, limited bass) from [eac-audio-craftsmen-victoria](eac-audio-craftsmen-victoria.md).
 
 ## Related
-[[audio-craftsmen-victoria]] · [[audio-craftsmen]]
+[Audio Craftsmen Victoria](../speakers/audio-craftsmen-victoria.md) · [Audio Craftsmen](../brands/audio-craftsmen.md)

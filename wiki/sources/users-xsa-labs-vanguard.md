@@ -29,4 +29,4 @@ Eleven forum reactions in the ASR review thread, none confirmed owners; two sear
 One second-hand claim (unverified) that the designer cited woofer unit-to-unit variation.
 
 ## Related
-[[xsa-labs-vanguard]]
+[XSA Labs Vanguard](../speakers/xsa-labs-vanguard.md)

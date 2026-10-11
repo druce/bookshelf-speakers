@@ -37,4 +37,4 @@ Frequency response measured outdoors (ground-plane style, 1/12-octave smoothing)
 Two samples, consistent impedance. No numeric deviation figures. NHT supplied the review samples.
 
 ## Related
-[[nht-c3]] · [[nht]]
+[NHT C3](../speakers/nht-c3.md) · [NHT](../brands/nht.md)

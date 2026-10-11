@@ -31,7 +31,7 @@ Boutique New Hampshire maker selling the 81 DK at $1,397 per pair, with hand-mad
 | power | 175 W rated | |
 
 ## Reliability notes
-Tier C; claims not supported by [[asr-human-speakers-81-dk]] (resonance and tweeter roll-off). Page says prices and specs may change without notice.
+Tier C; claims not supported by [asr-human-speakers-81-dk](asr-human-speakers-81-dk.md) (resonance and tweeter roll-off). Page says prices and specs may change without notice.
 
 ## Related
-[[human-speakers-81-dk]] · [[human-speakers]]
+[Human Speakers 81 dk](../speakers/human-speakers-81-dk.md) · [Human Speakers](../brands/human-speakers.md)

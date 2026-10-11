@@ -31,4 +31,4 @@ Subjective listening in the reviewer's own system; no measurements.
 Enthusiastic narrative piece; spec comparison to the original is useful. Not an independent measurement.
 
 ## Related
-[[klipsch-rp-600m-ii]] · [[stereophile]] · [[klipsch]]
+[Klipsch RP-600M II](../speakers/klipsch-rp-600m-ii.md) · [stereophile](../reviewers/stereophile.md) · [Klipsch](../brands/klipsch.md)

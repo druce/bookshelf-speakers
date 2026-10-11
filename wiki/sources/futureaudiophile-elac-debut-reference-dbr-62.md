@@ -30,4 +30,4 @@ Subjective only; no measurements. Rated alongside affiliate sales links.
 Commercial affiliate relationship; read as lower-weight Tier D.
 
 ## Related
-[[elac-debut-reference-dbr-62]] · [[elac]]
+[Elac Debut Reference DBR-62](../speakers/elac-debut-reference-dbr-62.md) · [Elac](../brands/elac.md)

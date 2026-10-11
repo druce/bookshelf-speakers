@@ -15,7 +15,7 @@ speakers: [ps-audio-aspen-fr5]
 # PS Audio: Aspen FR5 product page
 
 ## Summary
-Maker page lists the FR5 as current at $3,499.00 per pair, sold direct with free US shipping and returns. The page states sensitivity and driver complement but no nominal impedance; the 6 Ω nominal / 5.6 Ω minimum figures come from the maker spec as printed in Stereophile ([[stereophile-ps-audio-aspen-fr5]]) and TAS.
+Maker page lists the FR5 as current at $3,499.00 per pair, sold direct with free US shipping and returns. The page states sensitivity and driver complement but no nominal impedance; the 6 Ω nominal / 5.6 Ω minimum figures come from the maker spec as printed in Stereophile ([stereophile-ps-audio-aspen-fr5](stereophile-ps-audio-aspen-fr5.md)) and TAS.
 
 ## Specs
 | Field | Value | Note |
@@ -32,4 +32,4 @@ Maker page lists the FR5 as current at $3,499.00 per pair, sold direct with free
 Tier C. Maker's separate specifications page (psaudio.com/pages/specifications-aspen-fr5-loudspeaker) renders empty to scripted fetches.
 
 ## Related
-[[ps-audio-aspen-fr5]] · [[ps-audio]]
+[PS Audio Aspen FR5](../speakers/ps-audio-aspen-fr5.md) · [PS Audio](../brands/ps-audio.md)

@@ -28,4 +28,4 @@ AVForums thread read through a model summary.
 Anecdotal.
 
 ## Related
-[[wharfedale-super-denton]] · [[wharfedale]]
+[Wharfedale Super Denton](../speakers/wharfedale-super-denton.md) · [Wharfedale](../brands/wharfedale.md)

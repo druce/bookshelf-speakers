@@ -34,4 +34,4 @@ Anechoic chamber at NRC Canada; microphone between woofer and tweeter; grille of
 Single sample supplied by B&W. Reviewer and measurement are from the same site. The graph-read values are approximate; the THD graph is at 90 dB, not 86/96 dB, so the frontmatter THD fields stay null.
 
 ## Related
-[[bowers-wilkins-805-d4]] · [[soundstage-nrc]] · [[bowers-wilkins]] · [[soundstageultra-bowers-wilkins-805-d4]]
+[Bowers & Wilkins 805 D4](../speakers/bowers-wilkins-805-d4.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md) · [soundstageultra-bowers-wilkins-805-d4](soundstageultra-bowers-wilkins-805-d4.md)

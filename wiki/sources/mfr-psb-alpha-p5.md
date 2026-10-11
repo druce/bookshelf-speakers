@@ -33,4 +33,4 @@ Maker lists the P5 as current at $699/pair direct ("Only 5 left"); World Wide St
 Tier C. Claimed 87 dB is 3.4 dB above computed 83.6 dB and 2 dB above Stereophile's 85 dB.
 
 ## Related
-[[psb-alpha-p5]] · [[psb]]
+[PSB Alpha P5](../speakers/psb-alpha-p5.md) · [PSB](../brands/psb.md)

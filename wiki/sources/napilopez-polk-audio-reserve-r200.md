@@ -26,10 +26,10 @@ Hobbyist spinorama of the R200 ($700 then) posted to ASR. He found the listening
 | HF directivity | beams heavily after 5 kHz | attributed |
 
 ## Method notes
-Home measurement rig with many-angle spinorama (same measurer as the TNW review, [[tnw-polk-audio-reserve-r200]]); not Klippel NFS. Tier B.
+Home measurement rig with many-angle spinorama (same measurer as the TNW review, [tnw-polk-audio-reserve-r200](tnw-polk-audio-reserve-r200.md)); not Klippel NFS. Tier B.
 
 ## Reliability notes
 Single sample. Pref score 6.16 is 1.1 higher than EAC's 5.09 for the same model; different rig and sample, treated as conflict, not averaged.
 
 ## Related
-[[polk-audio-reserve-r200]] · [[spinorama-org]] · [[polk-audio]]
+[Polk Audio Reserve R200](../speakers/polk-audio-reserve-r200.md) · [spinorama-org](spinorama-org.md) · [Polk Audio](../brands/polk-audio.md)

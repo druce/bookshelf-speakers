@@ -34,4 +34,4 @@ NRC anechoic chamber, microphone between woofer and tweeter, grille off, measure
 Single sample from B&W; published with the review. Graph-read values are approximate; THD is at 90 dB, so frontmatter THD stays null.
 
 ## Related
-[[bowers-wilkins-805-d4-signature]] · [[soundstage-nrc]] · [[bowers-wilkins]] · [[soundstageultra-bowers-wilkins-805-d4-signature]]
+[Bowers & Wilkins 805 D4 Signature](../speakers/bowers-wilkins-805-d4-signature.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md) · [soundstageultra-bowers-wilkins-805-d4-signature](soundstageultra-bowers-wilkins-805-d4-signature.md)

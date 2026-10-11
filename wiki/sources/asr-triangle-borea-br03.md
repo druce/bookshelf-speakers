@@ -41,4 +41,4 @@ Klippel NFS, tweeter-centre reference axis, grille off, over 1000 points; error 
 Single owner-supplied sample, reviewer admits uncertainty about his own listening verdict. Tier D listening notes: warm at first, midrange "grungy", highs stand out, slightly boomy, not recommended.
 
 ## Related
-[[triangle-borea-br03]] · [[asr]] · [[triangle]] · [[spinorama-org]]
+[Triangle Borea BR03](../speakers/triangle-borea-br03.md) · [asr](../reviewers/asr.md) · [Triangle](../brands/triangle.md) · [spinorama-org](spinorama-org.md)

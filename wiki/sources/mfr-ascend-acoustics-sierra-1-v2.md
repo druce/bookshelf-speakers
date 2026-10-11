@@ -37,4 +37,4 @@ Maker's own Klippel NFS data; Tier C. Pairs matched to ±1.5 dB with a serialise
 Marketing copy; in-room sensitivity is not an anechoic figure. Independent measurements put sensitivity near 81 dB, 2 dB under the maker's anechoic claim.
 
 ## Related
-[[ascend-acoustics-sierra-1-v2]] · [[ascend-acoustics]]
+[Ascend Acoustics Sierra-1 V2](../speakers/ascend-acoustics-sierra-1-v2.md) · [Ascend Acoustics](../brands/ascend-acoustics.md)

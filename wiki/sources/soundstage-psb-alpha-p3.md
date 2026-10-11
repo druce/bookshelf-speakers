@@ -27,4 +27,4 @@ Schneider finds the P3 remarkably clean and detailed above the low bass for its 
 Subjective Tier D at launch price. Review predates ASR's measurements showing resonances. No measurements.
 
 ## Related
-[[psb-alpha-p3]] · [[psb]]
+[PSB Alpha P3](../speakers/psb-alpha-p3.md) · [PSB](../brands/psb.md)

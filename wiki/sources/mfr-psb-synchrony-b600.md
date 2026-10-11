@@ -38,4 +38,4 @@ Maker figures are Tier C.
 PSB's page does not state currency; US pair price inferred from a per-each retailer listing.
 
 ## Related
-[[psb-synchrony-b600]] · [[psb]]
+[PSB Synchrony B600](../speakers/psb-synchrony-b600.md) · [PSB](../brands/psb.md)

@@ -21,4 +21,4 @@ speakers: [bic-america-venturi-dv62si]
 - QC: tweeter-rattle reports mentioned by ASR (via Amazon); not verified by me.
 
 ## Related
-[[bic-america-venturi-dv62si]] · [[bic-america]]
+[BIC America Venturi DV62si](../speakers/bic-america-venturi-dv62si.md) · [BIC America](../brands/bic-america.md)

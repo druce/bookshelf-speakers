@@ -33,10 +33,10 @@ Maker's US store lists the 5020 pair at $1,199.00, shipping within 1-2 business 
 | price | $1,199.00 per pair | maker store, 2026-10-11 |
 
 ## Method notes
-Port location not on page; Trusted Reviews describes a rear port with bungs ([[trustedreviews-q-acoustics-5020]]).
+Port location not on page; Trusted Reviews describes a rear port with bungs ([trustedreviews-q-acoustics-5020](trustedreviews-q-acoustics-5020.md)).
 
 ## Reliability notes
 Claimed specs only (Tier C); claimed 87.9 dB is about 1.2 dB above the Klippel-computed 86.7 dB.
 
 ## Related
-[[q-acoustics-5020]] · [[q-acoustics]]
+[Q Acoustics 5020](../speakers/q-acoustics-5020.md) · [Q Acoustics](../brands/q-acoustics.md)

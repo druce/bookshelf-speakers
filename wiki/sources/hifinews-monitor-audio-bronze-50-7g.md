@@ -37,4 +37,4 @@ Hi-Fi News lab: quasi-anechoic farfield plus nearfield summed driver/port respon
 Two samples, good agreement. Quasi-anechoic, so less certain below about 300 Hz. No directivity data beyond a mention of a flatter response off-axis.
 
 ## Related
-[[monitor-audio-bronze-50-7g]] · [[monitor-audio]]
+[Monitor Audio Bronze 50 7G](../speakers/monitor-audio-bronze-50-7g.md) · [Monitor Audio](../brands/monitor-audio.md)

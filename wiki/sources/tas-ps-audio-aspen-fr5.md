@@ -31,4 +31,4 @@ Two rooms; reference system plus roughly $12,000 smaller system. No measurements
 Subjective Tier D; unsigned staff byline.
 
 ## Related
-[[ps-audio-aspen-fr5]] · [[ps-audio]]
+[PS Audio Aspen FR5](../speakers/ps-audio-aspen-fr5.md) · [PS Audio](../brands/ps-audio.md)

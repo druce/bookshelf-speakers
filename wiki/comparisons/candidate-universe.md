@@ -6,7 +6,7 @@ last_updated: 2026-10-11
 ---
 # Candidate universe
 
-Built by `scripts/build_universe.py` from the [[spinorama-org]] passive-bookshelf list (Tier A/B entries), manufacturer lineup sweeps of about 40 brands, and the scope verdicts written by ingest. Ingest verdicts were checked against manufacturer spec pages and US retailers on 2026-10-11. Rows marked "quick pass" were excluded on a first search pass and not re-verified, so treat them as provisional. Scope: passive, rated 6 or 8 Ω, bookshelf or standmount, sold new in the US (Claude.md §2).
+Built by `scripts/build_universe.py` from the [spinorama-org](../sources/spinorama-org.md) passive-bookshelf list (Tier A/B entries), manufacturer lineup sweeps of about 40 brands, and the scope verdicts written by ingest. Ingest verdicts were checked against manufacturer spec pages and US retailers on 2026-10-11. Rows marked "quick pass" were excluded on a first search pass and not re-verified, so treat them as provisional. Scope: passive, rated 6 or 8 Ω, bookshelf or standmount, sold new in the US (Claude.md §2).
 
 **Counts:** 375 screened · 141 in scope · 89 in scope with Tier A/B data.
 
@@ -14,95 +14,95 @@ Built by `scripts/build_universe.py` from the [[spinorama-org]] passive-bookshel
 
 | Brand | Model | Price/pr | Rated Ω | Tier A/B data | Sources |
 |---|---|---|---|---|---|
-| Acoustic Energy | [[acoustic-energy-ae100-mk2]] | $499 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/acoustic_energy_ae100_mk2/) |
-| Amphion | [[amphion-argon1]] | $1,919 | 8 | y (B) | [1](https://www.audiosciencereview.com/forum/index.php?threads/amphion-argon1-low-spinorama-and-measurements-updated.13025/) |
-| Aperion Audio | [[aperion-audio-verus-iii-concert-v8b]] | $1,549 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/aperion_verus_8/) |
-| Ascend Acoustics | [[ascend-acoustics-cbm-170-se2]] | $468 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/ascend-cbm-170se2-speaker-review.72683/) |
-| Ascend Acoustics | [[ascend-acoustics-sierra-1-v2]] | $998 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/) [2](https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/) |
-| Ascend Acoustics | [[ascend-acoustics-sierra-lx]] | $1,598 | 8 | y (A) | — |
-| ATC | [[atc-scm19]] | $3,749 | 8 | y (A/B) | — |
-| ATC | [[atc-scm7]] | $1,749 | 8 | y (A/B) | — |
-| Audio Craftsmen | [[audio-craftsmen-victoria]] | $3,990 | 8 | y (A) | [1](https://youtu.be/Oujx5LziiZA?si=n7KHvAtXeQm7LZnc) |
-| Avantone Pro | [[avantone-pro-cla-10]] | $699 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/avantone-cla-10-yamaha-ns-10m-clone-review.46954/) |
-| BIC America | [[bic-america-venturi-dv62si]] | $199 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/bic-america-dv62si-bookshelf-speaker-review.14918/) |
-| Bowers & Wilkins | [[bowers-wilkins-705-s3]] | $3,800 | 8 | y (A/B) | — |
-| Bowers & Wilkins | [[bowers-wilkins-705-s3-signature]] | $5,200 | 8 | y (A/B) | — |
-| Bowers & Wilkins | [[bowers-wilkins-805-d4]] | $10,000 | 8 | y (A/B) | — |
-| Bowers & Wilkins | [[bowers-wilkins-805-d4-signature]] | $14,000 | 8 | y (A/B) | — |
-| Buchardt Audio | [[buchardt-audio-e50]] | $4,300 | 6 | y (A) | [1](https://youtu.be/MmrIYaFii5Q?si=JT8pRsT6t6y-U5TK) |
-| Cambridge Audio | [[cambridge-audio-sx-60]] | $329 | 8 | y (A/B) | — |
-| Chesky Audio | [[chesky-audio-lc1]] | $996 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/chesky_lc1/) |
-| Dayton Audio | [[dayton-audio-opal1]] | $499 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/dayton_opal1/) |
-| Dynaudio | [[dynaudio-emit-20]] | $1,049 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/dynaudio_emit_20/) |
-| Dynaudio | [[dynaudio-special-forty]] | $3,599 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/dynaudio_special_forty/) |
-| Elac | [[elac-carina-bs243-4]] | $1,199 | 6 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/elac-carina-bs243-4-review-bookshelf-speaker.34398/) |
-| Elac | [[elac-debut-2-0-b5-2]] | $294 | 6 | y (A/B) | [1](https://www.erinsaudiocorner.com/loudspeakers/elac_db52/) [2](https://gall.dcinside.com/mgallery/board/view/?id=speakers&no=265694) |
-| Elac | [[elac-debut-2-0-b6-2]] | $374 | 6 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-2-0-b6-2-speaker-review.14272/) [2](https://www.erinsaudiocorner.com/loudspeakers/elac_db62/) |
-| Elac | [[elac-debut-3-0-b6-3]] | $499 | 6 | y (A/B) | — |
-| Elac | [[elac-debut-reference-dbr-62]] | $799 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/elac_dbr62/) [2](https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-reference-dbr-62-speaker-review.12232/#post-357719) |
-| Elac | [[elac-uni-fi-reference-ubr62]] | $1,299 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/elac_ubr62/) |
-| Fluance | [[fluance-hfs-signature]] | $200 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/fluance-signature-bookshelf-speaker-review.16337/) |
-| Fluance | [[fluance-reference-xl8s]] | $180 | 8 | y (B) | [1](https://archimago.blogspot.com/2020/11/measurements-fluance-reference-xl8s.html) |
-| Focal | [[focal-dome-flax]] | $1,378 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/focal-dome-flax-speaker-review.47510/) |
-| Focal | [[focal-kanta-n1]] | $8,598 | 8 | y (A/B) | — |
-| Focal | [[focal-sopra-n1]] | $12,998 | 8 | y (A/B) | — |
-| Focal | [[focal-theva-n1]] | $1,098 | 8 | y (A/B) | [1](https://www.audioholics.com/bookshelf-speaker-reviews/focal-theva-no.1) |
-| Fyne Audio | [[fyne-audio-f500sp]] | $1,999 | 8 | y (A/B) | — |
-| Hsu Research | [[hsu-research-ccb-8]] | $778 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/hsu-ccb-8-speaker-review.68131/) [2](https://www.audioholics.com/bookshelf-speaker-reviews/ccb-8-bookshelf/measurements) |
-| Hsu Research | [[hsu-research-mfl-6]] | $558 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/hsu-mfl-6-home-theater-speaker-review.67955/) |
-| Human Speakers | [[human-speakers-81-dk]] | $1,397 | 6 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/human-speakers-81-dk-review.50915/) |
-| JBL | [[jbl-stage-250b]] | $440 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/jbl_250b/) |
-| KEF | [[kef-ls50-meta]] | $1,600 | 8 | y (A/B) | [1](https://www.erinsaudiocorner.com/loudspeakers/kef_ls50_meta/) [2](https://www.erinsaudiocorner.com/loudspeakers/kef_ls50_meta/) [3](https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/) |
-| Klipsch | [[klipsch-rp-500m-ii]] | $400 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_500m_ii/) |
-| Klipsch | [[klipsch-rp-600m-ii]] | $700 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_ii/) [2](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_ii/) |
-| March Audio | [[march-audio-sointuva-awg]] | $4,100 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/march_sointuva_awg/) |
-| MoFi | [[mofi-sourcepoint-8]] | $2,195 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/mofi_8/) [2](https://www.erinsaudiocorner.com/loudspeakers/mofi_8/) |
-| Monitor Audio | [[monitor-audio-apex-a10]] | $1,698 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/monitor-audio-apex-a10-speaker-review.60230/) |
-| Monitor Audio | [[monitor-audio-bronze-50-7g]] | $849 | 8 | y (A/B) | — |
-| Neumi | [[neumi-bs5]] | — | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5_nfs/) [2](https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5_nfs/) [3](https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5/) |
-| Neumi | [[neumi-silk-4]] | $190 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/neumi_silk4/) |
-| NHT | [[nht-c3]] | $1,250 | 6 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/nht-c3-review-3-way-speaker.20287/) |
-| NHT | [[nht-super-zero-2-1]] | $270 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/nht-super-zero-2-1-review-bookshelf-speaker.18643/) |
-| Paradigm | [[paradigm-founder-40b]] | $2,400 | 8 | y (A/B) | [1](https://www.spinorama.org/speakers/Paradigm%20Founder%2040B/ErinsAudioCorner/index_eac.html) |
-| Paradigm | [[paradigm-monitor-se-atom]] | $400 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/paradigm-monitor-se-atom-speaker-review.17837/) |
-| Paradigm | [[paradigm-persona-b]] | $10,500 | 8 | y (A/B) | — |
-| Polk Audio | [[polk-audio-reserve-r100]] | $559 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/polk_r100/) |
-| Polk Audio | [[polk-audio-reserve-r200]] | $639 | 8 | y (A/B) | [1](https://www.erinsaudiocorner.com/loudspeakers/polk_r200/) [2](https://www.audiosciencereview.com/forum/index.php?threads/polk-reserve-r200-spinorama-and-measurements-a-really-nice-surprise.23502/#post-785637) |
-| Polk Audio | [[polk-audio-signature-elite-es20]] | $399 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/polk-signature-elite-es20-review-bookshelf-speaker.33834/) |
-| Polk Audio | [[polk-audio-t15]] | $149 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/polk-t15-bookshelf-speaker-review.11720/) |
-| Polk Audio | [[polk-audio-xt15]] | $149 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/polk_xt15/) |
-| Polk Audio | [[polk-audio-xt20]] | $279 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/polk_xt20/) |
-| PS Audio | [[ps-audio-aspen-fr5]] | $3,499 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/ps_audio_aspen_fr5/) [2](https://www.erinsaudiocorner.com/loudspeakers/ps_audio_aspen_fr5/) |
-| PSB | [[psb-alpha-p3]] | $349 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/psb-alpha-p3-review-bookshelf-speaker.27498/) |
-| PSB | [[psb-alpha-p5]] | $549 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/psb-alpha-p5-speaker-review.15161/) |
-| PSB | [[psb-imagine-b50]] | $999 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/psb_b50/) |
-| PSB | [[psb-synchrony-b600]] | $3,799 | 6 | y (A/B) | — |
-| Q Acoustics | [[q-acoustics-3020i]] | $350 | 6 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/q-acoustics-3020i-bookshelf-speaker-review.14568/) |
-| Q Acoustics | [[q-acoustics-3030i]] | $500 | 6 | y (B) | [1](https://www.audiosciencereview.com/forum/index.php?threads/q-acoustics-3030i-low-spinorama-and-other-measurements.12500/) |
-| Q Acoustics | [[q-acoustics-5020]] | $1,199 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/q_acoustics_5020/) |
-| Q Acoustics | [[q-acoustics-concept-300]] | $6,399 | 6 | y (A/B) | — |
-| Revel | [[revel-m105]] | $1,650 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/revel-m105-bookshelf-speaker-review.14745/) |
-| Revel | [[revel-m106]] | $2,200 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/revel-m106-bookshelf-speaker-review.14363/) |
-| Revel | [[revel-m126be]] | $4,400 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/revel_m126be/) [2](https://www.audioholics.com/bookshelf-speaker-reviews/revel-performa-m126be/conclusion) |
-| Revel | [[revel-m16]] | $990 | 6 | y (A/B) | [1](https://www.audiosciencereview.com/forum/index.php?threads/revel-m16-speaker-review.11884/) |
-| Role Audio | [[role-audio-skiff]] | $495 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/role-audio-skiff-speaker-review.47981/) |
-| Salk | [[salk-wow1]] | $2,595 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/salk-wow1-bookshelf-speaker-review.14842/) |
-| Sony | [[sony-ss-cs5m2]] | $250 | 6 | y (A/B) | [1](https://www.erinsaudiocorner.com/loudspeakers/sony_sscs5/) [2](https://www.audiosciencereview.com/forum/index.php?threads/sony-ss-cs5-3-way-speaker-review.13562/) |
-| Spendor | [[spendor-classic-3-1]] | $4,999 | 8 | y (A/B) | — |
-| SVS | [[svs-prime-bookshelf]] | $699 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/svs_prime_bookshelf/) |
-| SVS | [[svs-ultra-evolution-bookshelf]] | $1,200 | 6 | y (A/B) | — |
-| Totem Acoustic | [[totem-acoustic-bison-monitor]] | $2,300 | 8 | y (A/B) | — |
-| Totem Acoustic | [[totem-acoustic-kin-one]] | $599 | 6 | y (A) | — |
-| Totem Acoustic | [[totem-acoustic-signature-one]] | $3,800 | 8 | y (A/B) | — |
-| Triangle | [[triangle-borea-br03]] | $599 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/triangle_br03/) [2](https://www.audiosciencereview.com/forum/index.php?threads/triangle-borea-br03-review-bookshelf-speaker.21739/) |
-| Triangle | [[triangle-esprit-comete-40th]] | $1,900 | 8 | y (A/B) | — |
-| Vandersteen | [[vandersteen-vlr]] | $2,060 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/vandersteen-vlr-speaker-review.35444/) |
-| Wharfedale | [[wharfedale-evo-4-1]] | $649 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-evo-4-1-review-speaker.28305/) |
-| Wharfedale | [[wharfedale-super-denton]] | $1,499 | 6 | y (A/B) | — |
-| Wilson Audio | [[wilson-audio-tunetot]] | $13,545 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/wilson-audio-tunetot-review-high-end-bookshelf-speaker.29219/) |
-| XSA Labs | [[xsa-labs-vanguard]] | $995 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/xsa-labs-vanguard-speaker-review.46629/) |
-| Yamaha | [[yamaha-ns-800a]] | $5,000 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/yamaha_ns800a/) |
-| Zu Audio | [[zu-audio-method]] | $1,438 | 8 | y (A) | — |
+| Acoustic Energy | [Acoustic Energy AE100 Mk2](../speakers/acoustic-energy-ae100-mk2.md) | $499 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/acoustic_energy_ae100_mk2/) |
+| Amphion | [Amphion Argon1](../speakers/amphion-argon1.md) | $1,919 | 8 | y (B) | [1](https://www.audiosciencereview.com/forum/index.php?threads/amphion-argon1-low-spinorama-and-measurements-updated.13025/) |
+| Aperion Audio | [Aperion Audio Verus III Concert V8B](../speakers/aperion-audio-verus-iii-concert-v8b.md) | $1,549 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/aperion_verus_8/) |
+| Ascend Acoustics | [Ascend Acoustics CBM-170 SE2](../speakers/ascend-acoustics-cbm-170-se2.md) | $468 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/ascend-cbm-170se2-speaker-review.72683/) |
+| Ascend Acoustics | [Ascend Acoustics Sierra-1 V2](../speakers/ascend-acoustics-sierra-1-v2.md) | $998 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/) [2](https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/) |
+| Ascend Acoustics | [Ascend Acoustics Sierra-LX](../speakers/ascend-acoustics-sierra-lx.md) | $1,598 | 8 | y (A) | — |
+| ATC | [ATC SCM19](../speakers/atc-scm19.md) | $3,749 | 8 | y (A/B) | — |
+| ATC | [ATC SCM7](../speakers/atc-scm7.md) | $1,749 | 8 | y (A/B) | — |
+| Audio Craftsmen | [Audio Craftsmen Victoria](../speakers/audio-craftsmen-victoria.md) | $3,990 | 8 | y (A) | [1](https://youtu.be/Oujx5LziiZA?si=n7KHvAtXeQm7LZnc) |
+| Avantone Pro | [Avantone Pro CLA-10](../speakers/avantone-pro-cla-10.md) | $699 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/avantone-cla-10-yamaha-ns-10m-clone-review.46954/) |
+| BIC America | [BIC America Venturi DV62si](../speakers/bic-america-venturi-dv62si.md) | $199 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/bic-america-dv62si-bookshelf-speaker-review.14918/) |
+| Bowers & Wilkins | [Bowers & Wilkins 705 S3](../speakers/bowers-wilkins-705-s3.md) | $3,800 | 8 | y (A/B) | — |
+| Bowers & Wilkins | [Bowers & Wilkins 705 S3 Signature](../speakers/bowers-wilkins-705-s3-signature.md) | $5,200 | 8 | y (A/B) | — |
+| Bowers & Wilkins | [Bowers & Wilkins 805 D4](../speakers/bowers-wilkins-805-d4.md) | $10,000 | 8 | y (A/B) | — |
+| Bowers & Wilkins | [Bowers & Wilkins 805 D4 Signature](../speakers/bowers-wilkins-805-d4-signature.md) | $14,000 | 8 | y (A/B) | — |
+| Buchardt Audio | [Buchardt Audio E50](../speakers/buchardt-audio-e50.md) | $4,300 | 6 | y (A) | [1](https://youtu.be/MmrIYaFii5Q?si=JT8pRsT6t6y-U5TK) |
+| Cambridge Audio | [Cambridge Audio SX-60](../speakers/cambridge-audio-sx-60.md) | $329 | 8 | y (A/B) | — |
+| Chesky Audio | [Chesky Audio LC1](../speakers/chesky-audio-lc1.md) | $996 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/chesky_lc1/) |
+| Dayton Audio | [Dayton Audio OPAL1](../speakers/dayton-audio-opal1.md) | $499 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/dayton_opal1/) |
+| Dynaudio | [Dynaudio Emit 20](../speakers/dynaudio-emit-20.md) | $1,049 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/dynaudio_emit_20/) |
+| Dynaudio | [Dynaudio Special Forty](../speakers/dynaudio-special-forty.md) | $3,599 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/dynaudio_special_forty/) |
+| Elac | [Elac Carina BS243.4](../speakers/elac-carina-bs243-4.md) | $1,199 | 6 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/elac-carina-bs243-4-review-bookshelf-speaker.34398/) |
+| Elac | [Elac Debut 2.0 B5.2](../speakers/elac-debut-2-0-b5-2.md) | $294 | 6 | y (A/B) | [1](https://www.erinsaudiocorner.com/loudspeakers/elac_db52/) [2](https://gall.dcinside.com/mgallery/board/view/?id=speakers&no=265694) |
+| Elac | [Elac Debut 2.0 B6.2](../speakers/elac-debut-2-0-b6-2.md) | $374 | 6 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-2-0-b6-2-speaker-review.14272/) [2](https://www.erinsaudiocorner.com/loudspeakers/elac_db62/) |
+| Elac | [Elac Debut 3.0 B6.3](../speakers/elac-debut-3-0-b6-3.md) | $499 | 6 | y (A/B) | — |
+| Elac | [Elac Debut Reference DBR-62](../speakers/elac-debut-reference-dbr-62.md) | $799 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/elac_dbr62/) [2](https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-reference-dbr-62-speaker-review.12232/#post-357719) |
+| Elac | [Elac Uni-Fi Reference UBR62](../speakers/elac-uni-fi-reference-ubr62.md) | $1,299 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/elac_ubr62/) |
+| Fluance | [Fluance HFS Signature](../speakers/fluance-hfs-signature.md) | $200 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/fluance-signature-bookshelf-speaker-review.16337/) |
+| Fluance | [Fluance Reference XL8S](../speakers/fluance-reference-xl8s.md) | $180 | 8 | y (B) | [1](https://archimago.blogspot.com/2020/11/measurements-fluance-reference-xl8s.html) |
+| Focal | [Focal Dome Flax](../speakers/focal-dome-flax.md) | $1,378 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/focal-dome-flax-speaker-review.47510/) |
+| Focal | [Focal Kanta N°1](../speakers/focal-kanta-n1.md) | $8,598 | 8 | y (A/B) | — |
+| Focal | [Focal Sopra N°1](../speakers/focal-sopra-n1.md) | $12,998 | 8 | y (A/B) | — |
+| Focal | [Focal Theva N°1](../speakers/focal-theva-n1.md) | $1,098 | 8 | y (A/B) | [1](https://www.audioholics.com/bookshelf-speaker-reviews/focal-theva-no.1) |
+| Fyne Audio | [Fyne Audio F500SP](../speakers/fyne-audio-f500sp.md) | $1,999 | 8 | y (A/B) | — |
+| Hsu Research | [Hsu Research CCB-8](../speakers/hsu-research-ccb-8.md) | $778 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/hsu-ccb-8-speaker-review.68131/) [2](https://www.audioholics.com/bookshelf-speaker-reviews/ccb-8-bookshelf/measurements) |
+| Hsu Research | [Hsu Research MFL-6](../speakers/hsu-research-mfl-6.md) | $558 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/hsu-mfl-6-home-theater-speaker-review.67955/) |
+| Human Speakers | [Human Speakers 81 dk](../speakers/human-speakers-81-dk.md) | $1,397 | 6 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/human-speakers-81-dk-review.50915/) |
+| JBL | [JBL Stage 250B](../speakers/jbl-stage-250b.md) | $440 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/jbl_250b/) |
+| KEF | [KEF LS50 Meta](../speakers/kef-ls50-meta.md) | $1,600 | 8 | y (A/B) | [1](https://www.erinsaudiocorner.com/loudspeakers/kef_ls50_meta/) [2](https://www.erinsaudiocorner.com/loudspeakers/kef_ls50_meta/) [3](https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/) |
+| Klipsch | [Klipsch RP-500M II](../speakers/klipsch-rp-500m-ii.md) | $400 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_500m_ii/) |
+| Klipsch | [Klipsch RP-600M II](../speakers/klipsch-rp-600m-ii.md) | $700 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_ii/) [2](https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_ii/) |
+| March Audio | [March Audio Sointuva AWG](../speakers/march-audio-sointuva-awg.md) | $4,100 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/march_sointuva_awg/) |
+| MoFi | [MoFi SourcePoint 8](../speakers/mofi-sourcepoint-8.md) | $2,195 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/mofi_8/) [2](https://www.erinsaudiocorner.com/loudspeakers/mofi_8/) |
+| Monitor Audio | [Monitor Audio Apex A10](../speakers/monitor-audio-apex-a10.md) | $1,698 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/monitor-audio-apex-a10-speaker-review.60230/) |
+| Monitor Audio | [Monitor Audio Bronze 50 7G](../speakers/monitor-audio-bronze-50-7g.md) | $849 | 8 | y (A/B) | — |
+| Neumi | [Neumi BS5](../speakers/neumi-bs5.md) | — | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5_nfs/) [2](https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5_nfs/) [3](https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5/) |
+| Neumi | [Neumi Silk 4](../speakers/neumi-silk-4.md) | $190 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/neumi_silk4/) |
+| NHT | [NHT C3](../speakers/nht-c3.md) | $1,250 | 6 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/nht-c3-review-3-way-speaker.20287/) |
+| NHT | [NHT Super Zero 2.1](../speakers/nht-super-zero-2-1.md) | $270 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/nht-super-zero-2-1-review-bookshelf-speaker.18643/) |
+| Paradigm | [Paradigm Founder 40B](../speakers/paradigm-founder-40b.md) | $2,400 | 8 | y (A/B) | [1](https://www.spinorama.org/speakers/Paradigm%20Founder%2040B/ErinsAudioCorner/index_eac.html) |
+| Paradigm | [Paradigm Monitor SE Atom](../speakers/paradigm-monitor-se-atom.md) | $400 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/paradigm-monitor-se-atom-speaker-review.17837/) |
+| Paradigm | [Paradigm Persona B](../speakers/paradigm-persona-b.md) | $10,500 | 8 | y (A/B) | — |
+| Polk Audio | [Polk Audio Reserve R100](../speakers/polk-audio-reserve-r100.md) | $559 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/polk_r100/) |
+| Polk Audio | [Polk Audio Reserve R200](../speakers/polk-audio-reserve-r200.md) | $639 | 8 | y (A/B) | [1](https://www.erinsaudiocorner.com/loudspeakers/polk_r200/) [2](https://www.audiosciencereview.com/forum/index.php?threads/polk-reserve-r200-spinorama-and-measurements-a-really-nice-surprise.23502/#post-785637) |
+| Polk Audio | [Polk Audio Signature Elite ES20](../speakers/polk-audio-signature-elite-es20.md) | $399 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/polk-signature-elite-es20-review-bookshelf-speaker.33834/) |
+| Polk Audio | [Polk Audio T15](../speakers/polk-audio-t15.md) | $149 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/polk-t15-bookshelf-speaker-review.11720/) |
+| Polk Audio | [Polk Audio Monitor XT15](../speakers/polk-audio-xt15.md) | $149 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/polk_xt15/) |
+| Polk Audio | [Polk Audio Monitor XT20](../speakers/polk-audio-xt20.md) | $279 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/polk_xt20/) |
+| PS Audio | [PS Audio Aspen FR5](../speakers/ps-audio-aspen-fr5.md) | $3,499 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/ps_audio_aspen_fr5/) [2](https://www.erinsaudiocorner.com/loudspeakers/ps_audio_aspen_fr5/) |
+| PSB | [PSB Alpha P3](../speakers/psb-alpha-p3.md) | $349 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/psb-alpha-p3-review-bookshelf-speaker.27498/) |
+| PSB | [PSB Alpha P5](../speakers/psb-alpha-p5.md) | $549 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/psb-alpha-p5-speaker-review.15161/) |
+| PSB | [PSB Imagine B50](../speakers/psb-imagine-b50.md) | $999 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/psb_b50/) |
+| PSB | [PSB Synchrony B600](../speakers/psb-synchrony-b600.md) | $3,799 | 6 | y (A/B) | — |
+| Q Acoustics | [Q Acoustics 3020i](../speakers/q-acoustics-3020i.md) | $350 | 6 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/q-acoustics-3020i-bookshelf-speaker-review.14568/) |
+| Q Acoustics | [Q Acoustics 3030i](../speakers/q-acoustics-3030i.md) | $500 | 6 | y (B) | [1](https://www.audiosciencereview.com/forum/index.php?threads/q-acoustics-3030i-low-spinorama-and-other-measurements.12500/) |
+| Q Acoustics | [Q Acoustics 5020](../speakers/q-acoustics-5020.md) | $1,199 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/q_acoustics_5020/) |
+| Q Acoustics | [Q Acoustics Concept 300](../speakers/q-acoustics-concept-300.md) | $6,399 | 6 | y (A/B) | — |
+| Revel | [Revel M105](../speakers/revel-m105.md) | $1,650 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/revel-m105-bookshelf-speaker-review.14745/) |
+| Revel | [Revel M106](../speakers/revel-m106.md) | $2,200 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/revel-m106-bookshelf-speaker-review.14363/) |
+| Revel | [Revel M126Be](../speakers/revel-m126be.md) | $4,400 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/revel_m126be/) [2](https://www.audioholics.com/bookshelf-speaker-reviews/revel-performa-m126be/conclusion) |
+| Revel | [Revel M16](../speakers/revel-m16.md) | $990 | 6 | y (A/B) | [1](https://www.audiosciencereview.com/forum/index.php?threads/revel-m16-speaker-review.11884/) |
+| Role Audio | [Role Audio Skiff](../speakers/role-audio-skiff.md) | $495 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/role-audio-skiff-speaker-review.47981/) |
+| Salk | [Salk WoW1](../speakers/salk-wow1.md) | $2,595 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/salk-wow1-bookshelf-speaker-review.14842/) |
+| Sony | [Sony SS-CS5M2](../speakers/sony-ss-cs5m2.md) | $250 | 6 | y (A/B) | [1](https://www.erinsaudiocorner.com/loudspeakers/sony_sscs5/) [2](https://www.audiosciencereview.com/forum/index.php?threads/sony-ss-cs5-3-way-speaker-review.13562/) |
+| Spendor | [Spendor Classic 3/1](../speakers/spendor-classic-3-1.md) | $4,999 | 8 | y (A/B) | — |
+| SVS | [SVS Prime Bookshelf](../speakers/svs-prime-bookshelf.md) | $699 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/svs_prime_bookshelf/) |
+| SVS | [SVS Ultra Evolution Bookshelf](../speakers/svs-ultra-evolution-bookshelf.md) | $1,200 | 6 | y (A/B) | — |
+| Totem Acoustic | [Totem Acoustic Bison Monitor](../speakers/totem-acoustic-bison-monitor.md) | $2,300 | 8 | y (A/B) | — |
+| Totem Acoustic | [Totem Acoustic Kin One](../speakers/totem-acoustic-kin-one.md) | $599 | 6 | y (A) | — |
+| Totem Acoustic | [Totem Acoustic Signature One](../speakers/totem-acoustic-signature-one.md) | $3,800 | 8 | y (A/B) | — |
+| Triangle | [Triangle Borea BR03](../speakers/triangle-borea-br03.md) | $599 | 8 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/triangle_br03/) [2](https://www.audiosciencereview.com/forum/index.php?threads/triangle-borea-br03-review-bookshelf-speaker.21739/) |
+| Triangle | [Triangle Esprit Comete 40th](../speakers/triangle-esprit-comete-40th.md) | $1,900 | 8 | y (A/B) | — |
+| Vandersteen | [Vandersteen VLR](../speakers/vandersteen-vlr.md) | $2,060 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/vandersteen-vlr-speaker-review.35444/) |
+| Wharfedale | [Wharfedale EVO 4.1](../speakers/wharfedale-evo-4-1.md) | $649 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-evo-4-1-review-speaker.28305/) |
+| Wharfedale | [Wharfedale Super Denton](../speakers/wharfedale-super-denton.md) | $1,499 | 6 | y (A/B) | — |
+| Wilson Audio | [Wilson Audio TuneTot](../speakers/wilson-audio-tunetot.md) | $13,545 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/wilson-audio-tunetot-review-high-end-bookshelf-speaker.29219/) |
+| XSA Labs | [XSA Labs Vanguard](../speakers/xsa-labs-vanguard.md) | $995 | 8 | y (A) | [1](https://www.audiosciencereview.com/forum/index.php?threads/xsa-labs-vanguard-speaker-review.46629/) |
+| Yamaha | [Yamaha NS-800A](../speakers/yamaha-ns-800a.md) | $5,000 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/yamaha_ns800a/) |
+| Zu Audio | [Zu Audio Method](../speakers/zu-audio-method.md) | $1,438 | 8 | y (A) | — |
 
 ## In scope — no Tier A/B measurement found (52)
 
@@ -415,4 +415,4 @@ _None._
 | Zaph Audio | ZA5.2 | — | — | y (A) |
 
 ## Related
-[[overview]] · [[spinorama-org]] · [[active-alternatives]]
+[overview](../overview.md) · [spinorama-org](../sources/spinorama-org.md) · [active-alternatives](../concepts/active-alternatives.md)

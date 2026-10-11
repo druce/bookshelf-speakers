@@ -31,4 +31,4 @@ Anecdotal at best; no pattern meets the 3-independent-report bar.
 Aggregator and snippet-level information only.
 
 ## Related
-[[cambridge-audio-sx-60]] · [[cambridge-audio]]
+[Cambridge Audio SX-60](../speakers/cambridge-audio-sx-60.md) · [Cambridge Audio](../brands/cambridge-audio.md)

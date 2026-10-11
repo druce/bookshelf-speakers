@@ -46,35 +46,35 @@ The Reference Premiere RP-600M II is a rear-ported 6.5" standmount with a 1" tit
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 85.4 dB (average) | [[eac-klipsch-rp-600m-ii]] | A | computed (scripts/cta2034.py v2); Erin states 86 dB; claimed 94.5 dB half-space per [[mfr-klipsch-rp-600m-ii]] |
-| Listening-window deviation | ±1.9 dB, 300 Hz-10 kHz (good) | [[eac-klipsch-rp-600m-ii]] | A | computed, grille off; ±1.7 dB grille on |
-| On-axis deviation | ±2.5 dB (good) | [[eac-klipsch-rp-600m-ii]] | A | computed |
-| f3 / f6 | 68 / 50 Hz (modest) | [[eac-klipsch-rp-600m-ii]] | A | computed; claimed 44 Hz at -3 dB is not a measured anechoic value |
-| Min impedance | 3.5 Ω above 80 Hz, near 180 Hz | [[eac-klipsch-rp-600m-ii]] | A | value printed on plot; frequency graph-read (approx.) |
-| EPDR min | 1.8 Ω above 80 Hz | [[eac-klipsch-rp-600m-ii]] | A | printed on plot |
-| THD 86 dB @1 m | about 0.7% max, 100 Hz-10 kHz | [[eac-klipsch-rp-600m-ii]] | A | graph-read (approx.) |
-| THD 96 dB @1 m | about 2.0% max, 100 Hz-10 kHz | [[eac-klipsch-rp-600m-ii]] | A | graph-read (approx.) |
-| Compression | at most about 1 dB at 102 dB @1 m | [[eac-klipsch-rp-600m-ii]] | A | graph-read (approx.) |
-| Preference score | 5.6 (no sub) / 7.8 (with sub) | [[eac-klipsch-rp-600m-ii]] via [[spinorama-org]] | A | grille on 5.4 / 7.6; not meaningful to <0.5 |
-| Crossover | 1.5 kHz | [[mfr-klipsch-rp-600m-ii]] | C | claimed |
+| Sensitivity (2.83 V/1 m) | 85.4 dB (average) | [eac-klipsch-rp-600m-ii](../sources/eac-klipsch-rp-600m-ii.md) | A | computed (scripts/cta2034.py v2); Erin states 86 dB; claimed 94.5 dB half-space per [mfr-klipsch-rp-600m-ii](../sources/mfr-klipsch-rp-600m-ii.md) |
+| Listening-window deviation | ±1.9 dB, 300 Hz-10 kHz (good) | [eac-klipsch-rp-600m-ii](../sources/eac-klipsch-rp-600m-ii.md) | A | computed, grille off; ±1.7 dB grille on |
+| On-axis deviation | ±2.5 dB (good) | [eac-klipsch-rp-600m-ii](../sources/eac-klipsch-rp-600m-ii.md) | A | computed |
+| f3 / f6 | 68 / 50 Hz (modest) | [eac-klipsch-rp-600m-ii](../sources/eac-klipsch-rp-600m-ii.md) | A | computed; claimed 44 Hz at -3 dB is not a measured anechoic value |
+| Min impedance | 3.5 Ω above 80 Hz, near 180 Hz | [eac-klipsch-rp-600m-ii](../sources/eac-klipsch-rp-600m-ii.md) | A | value printed on plot; frequency graph-read (approx.) |
+| EPDR min | 1.8 Ω above 80 Hz | [eac-klipsch-rp-600m-ii](../sources/eac-klipsch-rp-600m-ii.md) | A | printed on plot |
+| THD 86 dB @1 m | about 0.7% max, 100 Hz-10 kHz | [eac-klipsch-rp-600m-ii](../sources/eac-klipsch-rp-600m-ii.md) | A | graph-read (approx.) |
+| THD 96 dB @1 m | about 2.0% max, 100 Hz-10 kHz | [eac-klipsch-rp-600m-ii](../sources/eac-klipsch-rp-600m-ii.md) | A | graph-read (approx.) |
+| Compression | at most about 1 dB at 102 dB @1 m | [eac-klipsch-rp-600m-ii](../sources/eac-klipsch-rp-600m-ii.md) | A | graph-read (approx.) |
+| Preference score | 5.6 (no sub) / 7.8 (with sub) | [eac-klipsch-rp-600m-ii](../sources/eac-klipsch-rp-600m-ii.md) via [spinorama-org](../sources/spinorama-org.md) | A | grille on 5.4 / 7.6; not meaningful to <0.5 |
+| Crossover | 1.5 kHz | [mfr-klipsch-rp-600m-ii](../sources/mfr-klipsch-rp-600m-ii.md) | C | claimed |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 94°, vertical about 78°; Erin calls horizontal directivity good (about ±50-60°) and vertical weaker. DI has a minor discontinuity (ERDI residual 1.8 dB); SPDI rises from 4.7 dB at 1 kHz to 10.6 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 0.8 dB, well under 3 dB. On-axis minus listening window above 4 kHz is +1.3 dB, so the on-axis treble is hotter than the window: Erin suggests turning the speakers about 20° outward (aim past the listener) or using the grille. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 94°, vertical about 78°; Erin calls horizontal directivity good (about ±50-60°) and vertical weaker. DI has a minor discontinuity (ERDI residual 1.8 dB); SPDI rises from 4.7 dB at 1 kHz to 10.6 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 0.8 dB, well under 3 dB. On-axis minus listening window above 4 kHz is +1.3 dB, so the on-axis treble is hotter than the window: Erin suggests turning the speakers about 20° outward (aim past the listener) or using the grille. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-At 86 dB @ 1 m THD peaks near 0.7% around 100-150 Hz and is lower above; at 96 dB it reaches about 2.0% near 100 Hz and stays under about 1% above 1 kHz (graph-read). Compression is small: up to about 1 dB at 102 dB @ 1 m, mainly 100-150 Hz. No formal max SPL is stated. Good for medium rooms at normal-to-loud levels; the limit is bass depth, not compression. See [[compression-and-max-spl]].
+At 86 dB @ 1 m THD peaks near 0.7% around 100-150 Hz and is lower above; at 96 dB it reaches about 2.0% near 100 Hz and stays under about 1% above 1 kHz (graph-read). Compression is small: up to about 1 dB at 102 dB @ 1 m, mainly 100-150 Hz. No formal max SPL is stated. Good for medium rooms at normal-to-loud levels; the limit is bass depth, not compression. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Maker says "8 Ω compatible", but Erin measured 3.5 Ω minimum above 80 Hz (flag `effectively-4ohm`) with EPDR down to 1.8 Ω, and phase up to about 60° near 1.3 kHz and -50° near 100 Hz. Peaks reach 26 Ω near 2.4 kHz, which suits tube amps tonally. Use an amp stable into 4 Ω; the real sensitivity (85 dB) means it is not as easy to drive as the 94.5 dB claim suggests. See [[impedance-and-epdr]].
+Maker says "8 Ω compatible", but Erin measured 3.5 Ω minimum above 80 Hz (flag `effectively-4ohm`) with EPDR down to 1.8 Ω, and phase up to about 60° near 1.3 kHz and -50° near 100 Hz. Peaks reach 26 Ω near 2.4 kHz, which suits tube amps tonally. Use an amp stable into 4 Ω; the real sensitivity (85 dB) means it is not as easy to drive as the 94.5 dB claim suggests. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[stereophile-klipsch-rp-600m-ii]] (Stereophile, Herb Reichert): more refined than the original, even bass for a ported standmount, works with a 3.5 W tube amp.
-- [[hifitrends-klipsch-rp-600m-ii]] (HiFi Trends, 8.7/10): detailed with strong imaging and bass control, but brighter on solid-state; needs matching.
-- [[stereonet-klipsch-rp-600m-ii]] (StereoNET): big, fun and dynamic but not neutral; better for rock and pop than classical.
-- [[eac-klipsch-rp-600m-ii]] (Erin, Tier D notes): one of the more neutral Klipsch speakers; treble boost from about 8 kHz.
+- [stereophile-klipsch-rp-600m-ii](../sources/stereophile-klipsch-rp-600m-ii.md) (Stereophile, Herb Reichert): more refined than the original, even bass for a ported standmount, works with a 3.5 W tube amp.
+- [hifitrends-klipsch-rp-600m-ii](../sources/hifitrends-klipsch-rp-600m-ii.md) (HiFi Trends, 8.7/10): detailed with strong imaging and bass control, but brighter on solid-state; needs matching.
+- [stereonet-klipsch-rp-600m-ii](../sources/stereonet-klipsch-rp-600m-ii.md) (StereoNET): big, fun and dynamic but not neutral; better for rock and pop than classical.
+- [eac-klipsch-rp-600m-ii](../sources/eac-klipsch-rp-600m-ii.md) (Erin, Tier D notes): one of the more neutral Klipsch speakers; treble boost from about 8 kHz.
 
 ## User reviews
-Anecdotal ([[users-klipsch-rp-600m-ii]]): only 1 direct owner report found (lively, not harsh), plus 1 negative retailer review calling it harsh; 2-3 comments mention treble fatigue at volume or on a horn. No QC failures documented (one unspecified build complaint).
+Anecdotal ([users-klipsch-rp-600m-ii](../sources/users-klipsch-rp-600m-ii.md)): only 1 direct owner report found (lively, not harsh), plus 1 negative retailer review calling it harsh; 2-3 comments mention treble fatigue at volume or on a horn. No QC failures documented (one unspecified build complaint).
 
 ## Conflicts
 - Sensitivity: claimed 94.5 dB (half-space) vs 85.4 dB Klippel (Erin states 86 dB); about 9 dB gap, more than half-space gain explains. Measurement takes precedence.
@@ -83,4 +83,4 @@ Anecdotal ([[users-klipsch-rp-600m-ii]]): only 1 direct owner report found (live
 - Reviewers split on treble: Erin and HiFi Trends hear a lift or brightness, Stereophile finds the top smoother than the original.
 
 ## Related
-[[klipsch]] · [[klipsch-rp-500m-ii]] · Klipsch RP-400M · [[revel-m16]] · [[polk-audio-reserve-r200]] · KEF Q150 · [[spinorama]] · [[impedance-and-epdr]] · [[sensitivity-normalization]]
+[Klipsch](../brands/klipsch.md) · [Klipsch RP-500M II](klipsch-rp-500m-ii.md) · Klipsch RP-400M · [Revel M16](revel-m16.md) · [Polk Audio Reserve R200](polk-audio-reserve-r200.md) · KEF Q150 · [spinorama](../concepts/spinorama.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [sensitivity-normalization](../concepts/sensitivity-normalization.md)

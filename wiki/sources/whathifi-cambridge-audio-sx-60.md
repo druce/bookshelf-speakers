@@ -31,4 +31,4 @@ Subjective, in-house test rooms; 2013 review of the original model, which may pr
 Date is old relative to current production; dimensions match current spec.
 
 ## Related
-[[cambridge-audio-sx-60]] · [[cambridge-audio]]
+[Cambridge Audio SX-60](../speakers/cambridge-audio-sx-60.md) · [Cambridge Audio](../brands/cambridge-audio.md)

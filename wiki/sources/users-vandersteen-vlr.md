@@ -32,4 +32,4 @@ Clip file paraphrases posts; see raw file.
 n=1, so anecdote per CLAUDE.md §7.
 
 ## Related
-[[vandersteen-vlr]] · [[asr-vandersteen-vlr]]
+[Vandersteen VLR](../speakers/vandersteen-vlr.md) · [asr-vandersteen-vlr](asr-vandersteen-vlr.md)

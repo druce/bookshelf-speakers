@@ -33,4 +33,4 @@ Model-extracted summaries; not verbatim. Fewer than 5 relevant reports, so anecd
 Deal-thread comments skew toward price; some commenters own other Reference Premiere models.
 
 ## Related
-[[klipsch-rp-600m-ii]] · [[klipsch]]
+[Klipsch RP-600M II](../speakers/klipsch-rp-600m-ii.md) · [Klipsch](../brands/klipsch.md)

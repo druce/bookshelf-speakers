@@ -13,7 +13,7 @@ assets: []
 speakers: [fyne-audio-f500sp]
 ---
 # Stereophile: F500SP review by Ken Micallef (2022-02-02)
-Page 2 is saved at raw/reviews-critic/stereophile-review-fyne-audio-f500sp-page2.md. Measurements are in [[stereophile-fyne-audio-f500sp]].
+Page 2 is saved at raw/reviews-critic/stereophile-review-fyne-audio-f500sp-page2.md. Measurements are in [stereophile-fyne-audio-f500sp](stereophile-fyne-audio-f500sp.md).
 
 ## Summary
 Micallef found the F500SP precise but not analytical, with a wide, deep soundstage, good texture and taut bass, though lighter in weight than larger-woofer designs. He found it amplifier-sensitive and less forgiving of near-wall placement than Fyne's BassTrax claims suggest.
@@ -34,4 +34,4 @@ Listened mostly to vinyl on 24" stands with four integrated amps. Price at revie
 Single reviewer, subjective; amp-dependence limits generalisation.
 
 ## Related
-[[fyne-audio-f500sp]] · [[stereophile]] · [[fyne-audio]]
+[Fyne Audio F500SP](../speakers/fyne-audio-f500sp.md) · [stereophile](../reviewers/stereophile.md) · [Fyne Audio](../brands/fyne-audio.md)

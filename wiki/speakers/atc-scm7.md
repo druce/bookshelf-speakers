@@ -46,25 +46,25 @@ The ATC SCM7 (v3) is a small 8 Ω sealed standmount with a 5" mid/bass driver an
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 82.0 dB (low) | [[stereophile-atc-scm7]] | B | Stereophile estimate; 84 dB claimed in [[mfr-atc-scm7]] |
-| Min impedance | 5.3 Ω (5.25) @ 1.1 kHz | [[stereophile-atc-scm7]] | B | text; average about 6 Ω in mids |
-| Impedance peak | 48 Ω @ 57 Hz | [[stereophile-atc-scm7]] | B | sealed-box tuning |
-| f6 | about 57 Hz | [[stereophile-atc-scm7]] | B | nearfield woofer text, approximate; f3 not stated |
-| Crossover | just above 2 kHz (measured); 2.5 kHz claimed | [[stereophile-atc-scm7]], [[mfr-atc-scm7]] | B/C | |
+| Sensitivity (2.83 V/1 m) | 82.0 dB (low) | [stereophile-atc-scm7](../sources/stereophile-atc-scm7.md) | B | Stereophile estimate; 84 dB claimed in [mfr-atc-scm7](../sources/mfr-atc-scm7.md) |
+| Min impedance | 5.3 Ω (5.25) @ 1.1 kHz | [stereophile-atc-scm7](../sources/stereophile-atc-scm7.md) | B | text; average about 6 Ω in mids |
+| Impedance peak | 48 Ω @ 57 Hz | [stereophile-atc-scm7](../sources/stereophile-atc-scm7.md) | B | sealed-box tuning |
+| f6 | about 57 Hz | [stereophile-atc-scm7](../sources/stereophile-atc-scm7.md) | B | nearfield woofer text, approximate; f3 not stated |
+| Crossover | just above 2 kHz (measured); 2.5 kHz claimed | [stereophile-atc-scm7](../sources/stereophile-atc-scm7.md), [mfr-atc-scm7](../sources/mfr-atc-scm7.md) | B/C | |
 | LW deviation / pref score | not measured | | | no spinorama |
 
 ## Directivity
-Horizontal dispersion is wide and even to about 8 kHz, then narrows. Vertically, suck-outs at the crossover appear beyond about 20° above/below the tweeter axis. No numeric beamwidths. The response lacks a top-octave boost, so it sounds mellow at distance; sit close with moderate toe-in. See [[directivity-index]], [[early-reflections]].
+Horizontal dispersion is wide and even to about 8 kHz, then narrows. Vertically, suck-outs at the crossover appear beyond about 20° above/below the tweeter axis. No numeric beamwidths. The response lacks a top-octave boost, so it sounds mellow at distance; sit close with moderate toe-in. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No distortion or compression measurement. Critics report no audible distortion and a woofer that handles large excursion ([[stereophile-review-atc-scm7]]); ATC claims 103 dB max SPL (claimed). With a 5" sealed woofer and 82 dB sensitivity, expect small rooms or nearfield use; see [[compression-and-max-spl]].
+No distortion or compression measurement. Critics report no audible distortion and a woofer that handles large excursion ([stereophile-review-atc-scm7](../sources/stereophile-review-atc-scm7.md)); ATC claims 103 dB max SPL (claimed). With a 5" sealed woofer and 82 dB sensitivity, expect small rooms or nearfield use; see [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Minimum 5.25 Ω near 1.1 kHz, below the 6.4 Ω IEC floor, so flagged `below-iec`; the impedance averages about 6 Ω in the mids and the largest phase angle (-61° at 73 Hz) occurs where impedance is high, so Stereophile saw no drive difficulty. Low sensitivity still calls for a decent amp. See [[impedance-and-epdr]].
+Minimum 5.25 Ω near 1.1 kHz, below the 6.4 Ω IEC floor, so flagged `below-iec`; the impedance averages about 6 Ω in the mids and the largest phase angle (-61° at 73 Hz) occurs where impedance is high, so Stereophile saw no drive difficulty. Low sensitivity still calls for a decent amp. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[stereophile-review-atc-scm7]] (Stereophile, John Marks, 2014): pinpoint imaging, no audible distortion, bass respectable but not convincing; highly recommended.
-- [[stereonet-atc-scm7]] (Stereonet): rhythmic and tonally pure with an indestructible-sounding woofer; cannot match larger speakers for punch.
+- [stereophile-review-atc-scm7](../sources/stereophile-review-atc-scm7.md) (Stereophile, John Marks, 2014): pinpoint imaging, no audible distortion, bass respectable but not convincing; highly recommended.
+- [stereonet-atc-scm7](../sources/stereonet-atc-scm7.md) (Stereonet): rhythmic and tonally pure with an indestructible-sounding woofer; cannot match larger speakers for punch.
 
 ## User reviews
 No user reports ingested yet (forum pages were blocked to scripted fetch).
@@ -76,4 +76,4 @@ No user reports ingested yet (forum pages were blocked to scripted fetch).
 - The measured model is v.3 and the current ATC page is "scm7-mk3", so they match.
 
 ## Related
-[[atc]] · [[atc-scm19]] · ATC SCM11 · [[sensitivity-normalization]] · [[impedance-and-epdr]]
+[ATC](../brands/atc.md) · [ATC SCM19](atc-scm19.md) · ATC SCM11 · [sensitivity-normalization](../concepts/sensitivity-normalization.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md)

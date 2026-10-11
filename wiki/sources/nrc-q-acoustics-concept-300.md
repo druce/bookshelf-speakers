@@ -32,7 +32,7 @@ Anechoic NRC chamber data accompanying the SoundStage! Hi-Fi review. Stated sens
 NRC anechoic chamber, measured at 2 m and plotted at 1 m, mic between tweeter and mid/woofer, grille off. Curves provided: on-axis, 15/30/45/60/75 degrees, listening window (five-point average), THD+N at 90 dB, deviation from linearity, impedance and phase.
 
 ## Reliability notes
-Single sample, graph images only, no numeric tables. All values except sensitivity are my graph reads. Sensitivity differs from Stereophile's 86 dB estimate by 1.8 dB (see [[stereophile-q-acoustics-concept-300]]).
+Single sample, graph images only, no numeric tables. All values except sensitivity are my graph reads. Sensitivity differs from Stereophile's 86 dB estimate by 1.8 dB (see [stereophile-q-acoustics-concept-300](stereophile-q-acoustics-concept-300.md)).
 
 ## Related
-[[q-acoustics-concept-300]] · [[soundstage-nrc]] · [[q-acoustics]] · [[soundstage-q-acoustics-concept-300]]
+[Q Acoustics Concept 300](../speakers/q-acoustics-concept-300.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Q Acoustics](../brands/q-acoustics.md) · [soundstage-q-acoustics-concept-300](soundstage-q-acoustics-concept-300.md)

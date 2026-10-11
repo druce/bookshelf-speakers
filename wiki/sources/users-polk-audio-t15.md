@@ -25,4 +25,4 @@ Only the ASR thread was ingested; its replies discuss the measurements rather th
 Fewer than 5 owner reports; anecdotal at best. Not used for `user_consensus`.
 
 ## Related
-[[polk-audio-t15]] · [[asr]]
+[Polk Audio T15](../speakers/polk-audio-t15.md) · [asr](../reviewers/asr.md)

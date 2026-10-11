@@ -31,4 +31,4 @@ Listening only. Maker figures quoted: 8 Ω nominal (min 6.5 Ω), 88 dB/W/m, 125 
 Hosted by the manufacturer; excerpts are selected. Not independent of the maker's marketing.
 
 ## Related
-[[role-audio-skiff]] · [[role-audio]]
+[Role Audio Skiff](../speakers/role-audio-skiff.md) · [Role Audio](../brands/role-audio.md)

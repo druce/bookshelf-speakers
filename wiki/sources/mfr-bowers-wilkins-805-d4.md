@@ -23,7 +23,7 @@ Manufacturer page for the 805 D4, the standmount in the 800 Series Diamond range
 | sensitivity_claimed_db | 88 dB (2.83 V, 1 m) | no conversion needed |
 | claimed_fr | 42 Hz-28 kHz ±3 dB; frequency range 34 Hz-35 kHz | claimed |
 | drivers | 1x 25 mm diamond dome; 1x 165 mm (6.5") Continuum | |
-| port | Flowport, front baffle | per [[whathifi-bowers-wilkins-805-d4]] |
+| port | Flowport, front baffle | per [whathifi-bowers-wilkins-805-d4](whathifi-bowers-wilkins-805-d4.md) |
 | dimensions | 440 x 240 x 373 mm | height 17.3 in, under the 18 in limit |
 | weight | 15.55 kg each | |
 | amplifier | 50-120 W into 8 Ω | |
@@ -34,4 +34,4 @@ Manufacturer page for the 805 D4, the standmount in the 800 Series Diamond range
 Tier C. Stereophile (2024) quoted $9,500 per pair, so the price has risen. Stock is inconsistent across sellers.
 
 ## Related
-[[bowers-wilkins-805-d4]] · [[bowers-wilkins]]
+[Bowers & Wilkins 805 D4](../speakers/bowers-wilkins-805-d4.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

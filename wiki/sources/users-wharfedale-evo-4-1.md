@@ -30,4 +30,4 @@ No independent systematic sample; AVS thread not directly readable.
 Very small, partly incentivised sample.
 
 ## Related
-[[wharfedale-evo-4-1]] · [[wharfedale]]
+[Wharfedale EVO 4.1](../speakers/wharfedale-evo-4-1.md) · [Wharfedale](../brands/wharfedale.md)

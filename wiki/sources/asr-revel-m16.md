@@ -41,4 +41,4 @@ Klippel Near-field Scanner, tweeter axis, grille off, 1000+ points. Reviewer not
 Single sample purchased by the reviewer's company. Disclosed conflicts of interest with Harman. Impedance values are graph-read only.
 
 ## Related
-[[revel-m16]] · [[asr]] · [[revel]] · [[spinorama-org]]
+[Revel M16](../speakers/revel-m16.md) · [asr](../reviewers/asr.md) · [Revel](../brands/revel.md) · [spinorama-org](spinorama-org.md)

@@ -15,7 +15,7 @@ speakers: [dynaudio-special-forty]
 # SoundStage!: Dynaudio Special Forty review (Doug Schneider, 2018-01-15)
 
 ## Summary
-A Reviewers' Choice review in a large (about 36 x 18 ft) room. Schneider initially found bass thuddy and treble slightly tipped up, which improved after about 50 hours of run-in; he then described a very uncolored, detailed sound with a wide soundstage, but no bottom octave. Measurements for this review are in [[soundstage-nrc-dynaudio-special-forty]].
+A Reviewers' Choice review in a large (about 36 x 18 ft) room. Schneider initially found bass thuddy and treble slightly tipped up, which improved after about 50 hours of run-in; he then described a very uncolored, detailed sound with a wide soundstage, but no bottom octave. Measurements for this review are in [soundstage-nrc-dynaudio-special-forty](soundstage-nrc-dynaudio-special-forty.md).
 
 ## Key claims
 - After run-in, balance seemed neutral from about 40 Hz up; bass was tight and very clean, with no audible port noise at high levels.
@@ -31,4 +31,4 @@ Reference system with Constellation electronics, 24" stands, about 10 deg toe-in
 Single reviewer, loaned sample, 2018 launch-era review. Review text does not discuss the cabinet-resonance issue Stereophile reported.
 
 ## Related
-[[dynaudio-special-forty]] · [[soundstage-nrc]] · [[dynaudio]]
+[Dynaudio Special Forty](../speakers/dynaudio-special-forty.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Dynaudio](../brands/dynaudio.md)

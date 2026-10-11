@@ -15,4 +15,4 @@ Powered speakers are out of scope (Claude.md §2). This page notes active models
 | Dynaudio Xeo 3 | Wireless active. | Discover enrichment |
 
 ## Related
-[[spinorama]] · [[candidate-universe]]
+[spinorama](spinorama.md) · [candidate-universe](../comparisons/candidate-universe.md)

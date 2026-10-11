@@ -46,4 +46,4 @@ Klippel Near-Field Scanner, reference plane at the tweeter, grille off for main 
 Single loaned sample. No payment; affiliate link to Audio Advice disclosed. THD, compression, impedance figures here are read from graphs. Subjective notes (Tier D): mid-range clarity improved over v1; 10-15 kHz peak can make synths strained; suits moderate volumes at distance; toe out about 30° for smoother treble; buy RP-600M if more output is needed.
 
 ## Related
-[[klipsch-rp-500m-ii]] · [[erins-audio-corner]] · [[klipsch]] · [[spinorama-org]]
+[Klipsch RP-500M II](../speakers/klipsch-rp-500m-ii.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Klipsch](../brands/klipsch.md) · [spinorama-org](spinorama-org.md)

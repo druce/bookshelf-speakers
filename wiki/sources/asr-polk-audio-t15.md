@@ -41,4 +41,4 @@ Klippel NFS, tweeter axis, grille off. Vertical sweeps show the +/-20° axes are
 Single sample purchased by the reviewer. Impedance and THD are graph-read.
 
 ## Related
-[[polk-audio-t15]] · [[asr]] · [[polk-audio]] · [[spinorama-org]]
+[Polk Audio T15](../speakers/polk-audio-t15.md) · [asr](../reviewers/asr.md) · [Polk Audio](../brands/polk-audio.md) · [spinorama-org](spinorama-org.md)

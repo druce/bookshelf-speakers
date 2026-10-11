@@ -32,10 +32,10 @@ Klippel NFS CTA-2034 data for the Sierra-LX measured by Erin's Audio Corner and 
 | impedance, THD, compression | not obtained | video only; not read |
 
 ## Method notes
-Klippel NFS, same Erin workflow as [[eac-ascend-acoustics-sierra-1-v2]]. The raw file is the spinorama.org page, which is script-rendered and yielded almost no text; the numbers come from the saved Klippel data under raw_data. Publication date is from spinorama metadata.
+Klippel NFS, same Erin workflow as [eac-ascend-acoustics-sierra-1-v2](eac-ascend-acoustics-sierra-1-v2.md). The raw file is the spinorama.org page, which is script-rendered and yielded almost no text; the numbers come from the saved Klippel data under raw_data. Publication date is from spinorama metadata.
 
 ## Reliability notes
 Single sample; provenance and review text not available. Secondary aggregators quote Erin as measuring 47 Hz (-3 dB) and 81 dB sensitivity, which is consistent with the computed values but is unverified here.
 
 ## Related
-[[ascend-acoustics-sierra-lx]] · [[erins-audio-corner]] · [[ascend-acoustics]] · [[spinorama-org]]
+[Ascend Acoustics Sierra-LX](../speakers/ascend-acoustics-sierra-lx.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Ascend Acoustics](../brands/ascend-acoustics.md) · [spinorama-org](spinorama-org.md)

@@ -27,7 +27,7 @@ ATC lists the SCM19 in its current Entry Series (passive, 8 Ω). Page does not u
 | Max SPL | 108 dB |
 | Crossover | 2.5 kHz |
 | Drivers | 150 mm "SL" mid/bass with 75 mm integral soft dome; 25 mm soft-dome tweeter with alloy waveguide |
-| Enclosure | sealed (per reviews [[tas-atc-scm19]], [[stereotimes-atc-scm19]]) |
+| Enclosure | sealed (per reviews [tas-atc-scm19](tas-atc-scm19.md), [stereotimes-atc-scm19](stereotimes-atc-scm19.md)) |
 | Recommended amp | 75-300 W |
 | Dimensions | 438 x 265 x 300 mm (grille adds 34 mm depth) |
 | Weight | 17.8 kg each |
@@ -39,4 +39,4 @@ Listed on ATC site as current. US dealers: Sound Approach $3,749/pair, special o
 Claims only; measured values override.
 
 ## Related
-[[atc-scm19]] · [[atc]]
+[ATC SCM19](../speakers/atc-scm19.md) · [ATC](../brands/atc.md)

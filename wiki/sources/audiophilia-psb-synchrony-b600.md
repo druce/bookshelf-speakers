@@ -29,4 +29,4 @@ Two rooms (14 x 20 ft and 13 x 14 ft), several amplifiers, no measurements.
 Subjective only; sensitivity quoted from the maker's sheet differs from the 86 dB on the current page.
 
 ## Related
-[[psb-synchrony-b600]] · [[psb]]
+[PSB Synchrony B600](../speakers/psb-synchrony-b600.md) · [PSB](../brands/psb.md)

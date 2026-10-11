@@ -43,4 +43,4 @@ Klippel NFS, reference axis at tweeter centre, no grille mentioned, 17 deg C. Li
 Single loaned sample. The ASR thread (page 2) debates whether the 2.8 kHz hole is woofer cone breakup rather than the tweeter; unresolved. No max-SPL/compression test.
 
 ## Related
-[[elac-carina-bs243-4]] · [[asr]] · [[elac]] · [[spinorama-org]]
+[Elac Carina BS243.4](../speakers/elac-carina-bs243-4.md) · [asr](../reviewers/asr.md) · [Elac](../brands/elac.md) · [spinorama-org](spinorama-org.md)

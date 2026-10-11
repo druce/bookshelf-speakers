@@ -23,7 +23,7 @@ Listed as active on the maker's store at $134.99 per speaker (MSRP $149.99 each)
 | status | active | maker store, fetched 2026-10-11 |
 | price | $134.99 each, $269.98 pair | consumer price x2 |
 | nominal impedance | 8 ohm nominal, 4.3 ohm min (claimed) | maker |
-| sensitivity | 87 dB (condition not stated) | treated as 2.83 V; Audioholics ([[audioholics-nht-super-zero-2-1]]) also prints 87 dB at 2.83 V |
+| sensitivity | 87 dB (condition not stated) | treated as 2.83 V; Audioholics ([audioholics-nht-super-zero-2-1](audioholics-nht-super-zero-2-1.md)) also prints 87 dB at 2.83 V |
 | claimed FR | 85 Hz-20 kHz +/-3 dB | claimed |
 | crossover | 2 kHz, 12 dB/oct high and low pass | |
 | drivers | 4.5" paper woofer, 1" soft dome | |
@@ -32,7 +32,7 @@ Listed as active on the maker's store at $134.99 per speaker (MSRP $149.99 each)
 | power handling | 75 W | |
 
 ## Reliability notes
-Tier C. Claimed 87 dB is far above Klippel result ([[asr-nht-super-zero-2-1]]).
+Tier C. Claimed 87 dB is far above Klippel result ([asr-nht-super-zero-2-1](asr-nht-super-zero-2-1.md)).
 
 ## Related
-[[nht-super-zero-2-1]] · [[nht]]
+[NHT Super Zero 2.1](../speakers/nht-super-zero-2-1.md) · [NHT](../brands/nht.md)

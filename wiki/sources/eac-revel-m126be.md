@@ -46,4 +46,4 @@ Klippel NFS, reference point at tweeter, grille off, speaker broken in. Ported i
 Single loaned sample (The Screening Room, Colorado Springs), no compensation disclosed. Percentages are graph-read and approximate. Erin attributes possible upper-mid glare to compression-driven distortion near 1.7 kHz.
 
 ## Related
-[[revel-m126be]] · [[erins-audio-corner]] · [[revel]] · [[spinorama-org]]
+[Revel M126Be](../speakers/revel-m126be.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Revel](../brands/revel.md) · [spinorama-org](spinorama-org.md)

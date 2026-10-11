@@ -15,7 +15,7 @@ speakers: [focal-kanta-n1]
 # NRC anechoic measurements: Focal Kanta N°1 (2019-06-01)
 
 ## Summary
-Anechoic-chamber measurements published with [[soundstage-focal-kanta-n1]]. Sensitivity 86.5 dB, listening window within roughly ±2.3 dB with a presence/upper-mid trough, impedance minimum in the mid-4 Ω range, THD+N about 1.3% at moderate-high level.
+Anechoic-chamber measurements published with [soundstage-focal-kanta-n1](soundstage-focal-kanta-n1.md). Sensitivity 86.5 dB, listening window within roughly ±2.3 dB with a presence/upper-mid trough, impedance minimum in the mid-4 Ω range, THD+N about 1.3% at moderate-high level.
 
 ## Extracted values
 | Field | Value | Note |
@@ -34,4 +34,4 @@ Same NRC protocol as other SoundStage! entries: 2 m measurement plotted at 1 m, 
 Single sample; graph reads only; no spin-o-rama export.
 
 ## Related
-[[focal-kanta-n1]] · [[soundstage-nrc]] · [[hifinews-focal-kanta-n1]] · [[focal]]
+[Focal Kanta N°1](../speakers/focal-kanta-n1.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [hifinews-focal-kanta-n1](hifinews-focal-kanta-n1.md) · [Focal](../brands/focal.md)

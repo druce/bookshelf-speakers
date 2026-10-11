@@ -27,4 +27,4 @@ Subjective review, 5/5 performance and 5/5 value. No lab measurements appear in 
 Single reviewer; manufacturer affiliate links on page.
 
 ## Related
-[[svs-ultra-evolution-bookshelf]] · [[audioholics]]
+[SVS Ultra Evolution Bookshelf](../speakers/svs-ultra-evolution-bookshelf.md) · [audioholics](../reviewers/audioholics.md)

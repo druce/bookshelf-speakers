@@ -44,4 +44,4 @@ Klippel Near-Field Scanner, reference point at tweeter, grille off, broken-in sa
 Single loaned sample. Erin is affiliate-funded (disclosed). Distortion values here are read from log-dB plots, so treat as approximate. Erin's subjective listening notes are Tier D.
 
 ## Related
-[[triangle-borea-br03]] · [[erins-audio-corner]] · [[triangle]] · [[spinorama-org]]
+[Triangle Borea BR03](../speakers/triangle-borea-br03.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Triangle](../brands/triangle.md) · [spinorama-org](spinorama-org.md)

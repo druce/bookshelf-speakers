@@ -26,4 +26,4 @@ Only 2 Audiogon owner reports were found, and both were known from search excerp
 | QC or reliability problems | 0 |
 
 ## Related
-[[mofi-sourcepoint-8]] · [[mofi]]
+[MoFi SourcePoint 8](../speakers/mofi-sourcepoint-8.md) · [MoFi](../brands/mofi.md)

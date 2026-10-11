@@ -31,4 +31,4 @@ Paraphrased from search-result summaries; not independent verification.
 Fewer than 5 reports; mixed provenance (one sponsored-style retailer blog).
 
 ## Related
-[[fluance-hfs-signature]] · [[fluance]]
+[Fluance HFS Signature](../speakers/fluance-hfs-signature.md) · [Fluance](../brands/fluance.md)

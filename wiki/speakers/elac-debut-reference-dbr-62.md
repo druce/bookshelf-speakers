@@ -46,35 +46,35 @@ The ELAC Debut Reference DBR62 is a 6 ohm, two-way, front-ported standmount with
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 83.9 dB (low) | [[eac-elac-debut-reference-dbr-62]] | A | computed (scripts/cta2034.py v2); claimed 86 dB per [[mfr-elac-debut-reference-dbr-62]] |
-| Sensitivity | 85.3 dB | [[asr-elac-debut-reference-dbr-62]] | A | computed; ASR doubled drive voltage |
-| Listening-window deviation | +/-1.3 dB (excellent) | [[eac-elac-debut-reference-dbr-62]] | A | computed, 300 Hz-10 kHz |
-| Listening-window deviation | +/-2.1 dB (good) | [[asr-elac-debut-reference-dbr-62]] | A | computed |
+| Sensitivity (2.83 V/1 m) | 83.9 dB (low) | [eac-elac-debut-reference-dbr-62](../sources/eac-elac-debut-reference-dbr-62.md) | A | computed (scripts/cta2034.py v2); claimed 86 dB per [mfr-elac-debut-reference-dbr-62](../sources/mfr-elac-debut-reference-dbr-62.md) |
+| Sensitivity | 85.3 dB | [asr-elac-debut-reference-dbr-62](../sources/asr-elac-debut-reference-dbr-62.md) | A | computed; ASR doubled drive voltage |
+| Listening-window deviation | +/-1.3 dB (excellent) | [eac-elac-debut-reference-dbr-62](../sources/eac-elac-debut-reference-dbr-62.md) | A | computed, 300 Hz-10 kHz |
+| Listening-window deviation | +/-2.1 dB (good) | [asr-elac-debut-reference-dbr-62](../sources/asr-elac-debut-reference-dbr-62.md) | A | computed |
 | On-axis deviation | +/-1.7 dB (EAC), +/-2.4 dB (ASR) | both | A | computed |
-| f3 / f6 | 52 / 46 Hz (good) | [[eac-elac-debut-reference-dbr-62]] | A | computed; ASR 53 / 46 Hz |
-| Min impedance | 5.2 Ω above 80 Hz | [[eac-elac-debut-reference-dbr-62]] | A | stated; frequency about 180 Hz graph-read; ASR states 5 Ω |
-| EPDR min | 2.4 Ω above 80 Hz | [[eac-elac-debut-reference-dbr-62]] | A | stated on graph |
-| THD @86 dB/1 m | about 1.3% (100 Hz-10 kHz max) | [[eac-elac-debut-reference-dbr-62]] | A | graph-read (approx.) |
-| THD @96 dB/1 m | about 2.2% (100 Hz-10 kHz max) | [[eac-elac-debut-reference-dbr-62]] | A | graph-read (approx.) |
-| Preference score | 5.1 (no sub) / 7.3 (with sub) | [[eac-elac-debut-reference-dbr-62]] via [[spinorama-org]] | A | ASR data gives 5.2 / 7.4; differences under 0.5 are not meaningful |
-| Crossover | 2.2 kHz | [[mfr-elac-debut-reference-dbr-62]] | C | |
+| f3 / f6 | 52 / 46 Hz (good) | [eac-elac-debut-reference-dbr-62](../sources/eac-elac-debut-reference-dbr-62.md) | A | computed; ASR 53 / 46 Hz |
+| Min impedance | 5.2 Ω above 80 Hz | [eac-elac-debut-reference-dbr-62](../sources/eac-elac-debut-reference-dbr-62.md) | A | stated; frequency about 180 Hz graph-read; ASR states 5 Ω |
+| EPDR min | 2.4 Ω above 80 Hz | [eac-elac-debut-reference-dbr-62](../sources/eac-elac-debut-reference-dbr-62.md) | A | stated on graph |
+| THD @86 dB/1 m | about 1.3% (100 Hz-10 kHz max) | [eac-elac-debut-reference-dbr-62](../sources/eac-elac-debut-reference-dbr-62.md) | A | graph-read (approx.) |
+| THD @96 dB/1 m | about 2.2% (100 Hz-10 kHz max) | [eac-elac-debut-reference-dbr-62](../sources/eac-elac-debut-reference-dbr-62.md) | A | graph-read (approx.) |
+| Preference score | 5.1 (no sub) / 7.3 (with sub) | [eac-elac-debut-reference-dbr-62](../sources/eac-elac-debut-reference-dbr-62.md) via [spinorama-org](../sources/spinorama-org.md) | A | ASR data gives 5.2 / 7.4; differences under 0.5 are not meaningful |
+| Crossover | 2.2 kHz | [mfr-elac-debut-reference-dbr-62](../sources/mfr-elac-debut-reference-dbr-62.md) | C | |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 126 deg (ASR 130), vertical about 92 deg. DI has minor discontinuities (ERDI residual 1.4 dB); SPDI rises from 5.2 dB at 1 kHz to 8.9 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 1.4 dB (EAC) and 2.7 dB (ASR), both under the 3 dB flag. On-axis minus listening window above 4 kHz is +1.0 dB, so slight toe-in toward the listener is not needed; either aim is fine. ASR notes narrower vertical dispersion, so keep the tweeter near ear height. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 126 deg (ASR 130), vertical about 92 deg. DI has minor discontinuities (ERDI residual 1.4 dB); SPDI rises from 5.2 dB at 1 kHz to 8.9 dB at 10 kHz. Early-reflection dip near 1.5 kHz is 1.4 dB (EAC) and 2.7 dB (ASR), both under the 3 dB flag. On-axis minus listening window above 4 kHz is +1.0 dB, so slight toe-in toward the listener is not needed; either aim is fine. ASR notes narrower vertical dispersion, so keep the tweeter near ear height. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No max-SPL figure is stated. Erin's compression sweeps show at most about 0.7 dB loss above 100 Hz at 102 dB @ 1 m, but 1.5-3 dB loss below about 60 Hz at 86-102 dB. THD rises to about 1.3% at 86 dB and about 2.2% at 96 dB (graph-read); above 3% only in the deep bass. ASR's distortion plot (level not stated, 10 V input) shows up to 3.2% near 70 Hz and a 2% spike near 370 Hz, and ASR notes a 610 Hz cabinet resonance. Fine for medium rooms at moderate-to-loud levels; a sub helps for bass-heavy loud listening. See [[compression-and-max-spl]].
+No max-SPL figure is stated. Erin's compression sweeps show at most about 0.7 dB loss above 100 Hz at 102 dB @ 1 m, but 1.5-3 dB loss below about 60 Hz at 86-102 dB. THD rises to about 1.3% at 86 dB and about 2.2% at 96 dB (graph-read); above 3% only in the deep bass. ASR's distortion plot (level not stated, 10 V input) shows up to 3.2% near 70 Hz and a 2% spike near 370 Hz, and ASR notes a 610 Hz cabinet resonance. Fine for medium rooms at moderate-to-loud levels; a sub helps for bass-heavy loud listening. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-6 Ω nominal. Minimum impedance 5.2 Ω (EAC) / 5 Ω (ASR), above the IEC floor of 4.8 Ω, so no flag. EPDR bottoms at 2.4 Ω and phase reaches about -60 deg near 100 Hz, so ASR recommends a robust amplifier; 50 W+ of good quality (What Hi-Fi?). See [[impedance-and-epdr]].
+6 Ω nominal. Minimum impedance 5.2 Ω (EAC) / 5 Ω (ASR), above the IEC floor of 4.8 Ω, so no flag. EPDR bottoms at 2.4 Ω and phase reaches about -60 deg near 100 Hz, so ASR recommends a robust amplifier; 50 W+ of good quality (What Hi-Fi?). See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[whathifi-elac-debut-reference-dbr-62]] (What Hi-Fi?, 4/5 sound): clean, delicate midrange, seamless drivers; punch and drama subdued; needs good partnering.
-- [[futureaudiophile-elac-debut-reference-dbr-62]] (FutureAudiophile): lifelike vocals, strong imaging, slightly warm; best with a sub.
-- [[asr-elac-debut-reference-dbr-62]] (ASR, Tier D listening notes): balanced, detailed, "strongest recommendation".
+- [whathifi-elac-debut-reference-dbr-62](../sources/whathifi-elac-debut-reference-dbr-62.md) (What Hi-Fi?, 4/5 sound): clean, delicate midrange, seamless drivers; punch and drama subdued; needs good partnering.
+- [futureaudiophile-elac-debut-reference-dbr-62](../sources/futureaudiophile-elac-debut-reference-dbr-62.md) (FutureAudiophile): lifelike vocals, strong imaging, slightly warm; best with a sub.
+- [asr-elac-debut-reference-dbr-62](../sources/asr-elac-debut-reference-dbr-62.md) (ASR, Tier D listening notes): balanced, detailed, "strongest recommendation".
 
 ## User reviews
-Only 3 owner reports found, so anecdotal ([[users-elac-debut-reference-dbr-62]]): 2 needed a strong, high-current amp and 2 found it dull versus alternatives. QC: 1 report of a tweeter failure after five years with no support response.
+Only 3 owner reports found, so anecdotal ([users-elac-debut-reference-dbr-62](../sources/users-elac-debut-reference-dbr-62.md)): 2 needed a strong, high-current amp and 2 found it dull versus alternatives. QC: 1 report of a tweeter failure after five years with no support response.
 
 ## Conflicts
 - Sensitivity: 83.9 dB (EAC) vs 85.3 dB (ASR), a 1.4 dB spread; both below the 86 dB claim.
@@ -83,4 +83,4 @@ Only 3 owner reports found, so anecdotal ([[users-elac-debut-reference-dbr-62]])
 - Status: Audio Advisor in stock; some finishes out of stock elsewhere; no discontinuation notice found.
 
 ## Related
-[[elac]] · [[elac-debut-2-0-b6-2]] · [[elac-debut-3-0-b6-3]] · [[elac-uni-fi-reference-ubr62]] · KEF Q150 · [[spinorama]] · [[preference-score]]
+[Elac](../brands/elac.md) · [Elac Debut 2.0 B6.2](elac-debut-2-0-b6-2.md) · [Elac Debut 3.0 B6.3](elac-debut-3-0-b6-3.md) · [Elac Uni-Fi Reference UBR62](elac-uni-fi-reference-ubr62.md) · KEF Q150 · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

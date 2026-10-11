@@ -27,4 +27,4 @@ speakers: [monitor-audio-apex-a10]
 | Cosmetic: white finish yellows in sunlight | 1 |
 
 ## Related
-[[monitor-audio-apex-a10]] · [[monitor-audio]]
+[Monitor Audio Apex A10](../speakers/monitor-audio-apex-a10.md) · [Monitor Audio](../brands/monitor-audio.md)

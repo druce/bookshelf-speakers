@@ -18,11 +18,11 @@ Retailer overview of the four-model Monitor SE line; the Atom section is a short
 
 ## Key claims
 - Atom described as a relatively large bookshelf that wants a deep shelf (11 in, rear port) and benefits from break-in and placement for imaging.
-- Retailer quotes 55 Hz at -3 dB and 89 dB sensitivity (manufacturer-derived; measured values are 57 Hz and 84.6 dB, see [[asr-paradigm-monitor-se-atom]]).
+- Retailer quotes 55 Hz at -3 dB and 89 dB sensitivity (manufacturer-derived; measured values are 57 Hz and 84.6 dB, see [asr-paradigm-monitor-se-atom](asr-paradigm-monitor-se-atom.md)).
 - Driven well by a Cambridge Topaz AM20.
 
 ## Reliability notes
 Retailer copy; low weight. Used only for placement notes.
 
 ## Related
-[[paradigm-monitor-se-atom]] · [[paradigm]]
+[Paradigm Monitor SE Atom](../speakers/paradigm-monitor-se-atom.md) · [Paradigm](../brands/paradigm.md)

@@ -27,4 +27,4 @@ Long design-focused review; price then $4,299/pair; undated page, probably the o
 Tier D; no measurements; date unknown.
 
 ## Related
-[[atc-scm19]] · [[atc]]
+[ATC SCM19](../speakers/atc-scm19.md) · [ATC](../brands/atc.md)

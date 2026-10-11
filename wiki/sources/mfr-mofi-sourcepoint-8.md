@@ -25,19 +25,19 @@ MoFi's own product page (mofi.com) returned 404 to scripted fetch, so specs come
 | Claimed FR | 47 Hz-30 kHz (no tolerance stated) |
 | Crossover | 1.6 kHz |
 | Drivers | 8" paper-cone concentric woofer, 1.25" wide-roll soft-dome tweeter at centre |
-| Port | two rear ports (per [[stereophile-mofi-sourcepoint-8]]) |
+| Port | two rear ports (per [stereophile-mofi-sourcepoint-8](stereophile-mofi-sourcepoint-8.md)) |
 | Dimensions | 456 x 290 x 335 mm with grille (HxWxD) |
 | Weight | 12.7 kg each |
 | Power | 30 W min, 150 W max |
 | Warranty | 5 years |
 
 ## Price and status evidence
-- The 'In' Groove: $2,195.00, listing titled "(Pair)" (raw/manufacturer/mfr-mofi-sourcepoint-8.md). Launch price was $2,750 per pair ([[eac-mofi-sourcepoint-8]]).
+- The 'In' Groove: $2,195.00, listing titled "(Pair)" (raw/manufacturer/mfr-mofi-sourcepoint-8.md). Launch price was $2,750 per pair ([eac-mofi-sourcepoint-8](eac-mofi-sourcepoint-8.md)).
 - Music Direct (raw/manufacturer/mfr-mofi-sourcepoint-8-musicdirect.md): in stock, new, $2,594 for a bundle with 22" stands (speakers-only price not shown).
 - No discontinuation notice found; sold new at multiple retailers.
 
 ## Reliability notes
-Retailer copy, not the maker's page; figures match those quoted by [[eac-mofi-sourcepoint-8]] and [[stereophile-mofi-sourcepoint-8]].
+Retailer copy, not the maker's page; figures match those quoted by [eac-mofi-sourcepoint-8](eac-mofi-sourcepoint-8.md) and [stereophile-mofi-sourcepoint-8](stereophile-mofi-sourcepoint-8.md).
 
 ## Related
-[[mofi-sourcepoint-8]] · [[mofi]]
+[MoFi SourcePoint 8](../speakers/mofi-sourcepoint-8.md) · [MoFi](../brands/mofi.md)

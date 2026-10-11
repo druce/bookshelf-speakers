@@ -37,7 +37,7 @@ Current Reference Premiere II standmount. Klipsch's US bookshelf category page (
 Manufacturer data; Tier C. Not used for measured fields.
 
 ## Reliability notes
-Sensitivity rating method is generous (about 7 dB above anechoic measurement). Klipsch page lists customer rating 4.9 from 44 reviews (see [[users-klipsch-rp-500m-ii]]).
+Sensitivity rating method is generous (about 7 dB above anechoic measurement). Klipsch page lists customer rating 4.9 from 44 reviews (see [users-klipsch-rp-500m-ii](users-klipsch-rp-500m-ii.md)).
 
 ## Related
-[[klipsch-rp-500m-ii]] · [[klipsch]]
+[Klipsch RP-500M II](../speakers/klipsch-rp-500m-ii.md) · [Klipsch](../brands/klipsch.md)

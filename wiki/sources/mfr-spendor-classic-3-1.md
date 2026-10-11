@@ -21,7 +21,7 @@ Maker data sheet for a 2-way, reflex-loaded standmount with an 18 cm EP77 bass/m
 | Field | Value | Note |
 |---|---|---|
 | nominal_impedance_ohm | 8 (min 5.9 claimed) | maker figure |
-| sensitivity_claimed | 88 dB for 1 W at 1 m | at 8 ohm nominal 1 W = 2.83 V, so 88.0 dB @ 2.83 V; measured is lower, see [[hifinews-spendor-classic-3-1]] |
+| sensitivity_claimed | 88 dB for 1 W at 1 m | at 8 ohm nominal 1 W = 2.83 V, so 88.0 dB @ 2.83 V; measured is lower, see [hifinews-spendor-classic-3-1](hifinews-spendor-classic-3-1.md) |
 | claimed_fr | "Typical in-room response 40 Hz-25 kHz" | no tolerance, not data |
 | crossover_hz | 3700 | |
 | drivers | 18 cm EP77 polymer bass/mid; 22 mm polyamide dome | |
@@ -37,4 +37,4 @@ Maker figures, Tier C. Amplifier 25-150 W; power handling 125 W programme.
 Claimed sensitivity exceeds the Hi-Fi News measurement by about 3 dB.
 
 ## Related
-[[spendor-classic-3-1]] · [[spendor]]
+[Spendor Classic 3/1](../speakers/spendor-classic-3-1.md) · [Spendor](../brands/spendor.md)

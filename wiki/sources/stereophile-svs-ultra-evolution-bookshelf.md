@@ -37,4 +37,4 @@ Conference room 11'11" x 25'3" x 15'8"; speaker on turntable and stand, tweeter 
 Two review samples (serial numbers in the spec sidebar); gated measurement, so lower confidence below about 300 Hz. The -3 dB point comes from a spliced nearfield, not true anechoic.
 
 ## Related
-[[svs-ultra-evolution-bookshelf]] · [[stereophile]] · [[svs]]
+[SVS Ultra Evolution Bookshelf](../speakers/svs-ultra-evolution-bookshelf.md) · [stereophile](../reviewers/stereophile.md) · [SVS](../brands/svs.md)

@@ -28,4 +28,4 @@ Gader praises the P5 as a naturalistic, non-fatiguing budget compact with a smoo
 Subjective Tier D; contrasts with ASR's measurement-based criticism.
 
 ## Related
-[[psb-alpha-p5]] · [[psb]]
+[PSB Alpha P5](../speakers/psb-alpha-p5.md) · [PSB](../brands/psb.md)

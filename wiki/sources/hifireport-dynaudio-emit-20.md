@@ -27,4 +27,4 @@ Reviewer found bass quality beyond expectation for a bookshelf (a colleague said
 Publication date and author not captured; no measurements by the reviewer.
 
 ## Related
-[[dynaudio-emit-20]] · [[dynaudio]]
+[Dynaudio Emit 20](../speakers/dynaudio-emit-20.md) · [Dynaudio](../brands/dynaudio.md)

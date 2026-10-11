@@ -36,4 +36,4 @@ Tier C. The info sheet is generic T-Series literature, not dated.
 Audioholics measured 86.4 dB (2.83 V) vs the 89 dB claim, and the maker's 65 Hz -3 dB limit is far below ASR's 88 Hz f3. Treat claims as claims.
 
 ## Related
-[[polk-audio-t15]] · [[polk-audio]]
+[Polk Audio T15](../speakers/polk-audio-t15.md) · [Polk Audio](../brands/polk-audio.md)

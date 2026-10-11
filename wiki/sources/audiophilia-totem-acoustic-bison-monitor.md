@@ -30,4 +30,4 @@ Naim NSC 222 / NAP 250; brief trial with a Marantz 40n.
 Single reviewer, no measurements; price then $2,250 versus $2,300 now.
 
 ## Related
-[[totem-acoustic-bison-monitor]] · [[totem-acoustic]]
+[Totem Acoustic Bison Monitor](../speakers/totem-acoustic-bison-monitor.md) · [Totem Acoustic](../brands/totem-acoustic.md)

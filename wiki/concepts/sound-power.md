@@ -12,4 +12,4 @@ The SP curve of a conventional forward-firing speaker slopes downward as frequen
 `scripts/cta2034.py` uses the weights published in the spinorama.org implementation: 0.000604 (0°) rising to 0.019629 (90°), mirrored for 100–180°.
 
 ## Related
-[[spinorama]] · [[directivity-index]] · [[early-reflections]]
+[spinorama](spinorama.md) · [directivity-index](directivity-index.md) · [early-reflections](early-reflections.md)

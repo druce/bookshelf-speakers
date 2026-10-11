@@ -29,4 +29,4 @@ Source is a measurement discussion thread, not an owner-review venue.
 Fewer than 5 reports: anecdote only, per CLAUDE.md section 7.
 
 ## Related
-[[dynaudio-special-forty]] · [[asr]]
+[Dynaudio Special Forty](../speakers/dynaudio-special-forty.md) · [asr](../reviewers/asr.md)

@@ -42,4 +42,4 @@ Klippel Near-field Scanner, magnetic grille removed, 0° reference axis; ASR als
 Single sample, drop-shipped by a member. Raw Klippel data available. Reviewer had low motivation to listen, so there are no subjective notes.
 
 ## Related
-[[hsu-research-ccb-8]] · [[asr]] · [[hsu-research]] · [[spinorama-org]]
+[Hsu Research CCB-8](../speakers/hsu-research-ccb-8.md) · [asr](../reviewers/asr.md) · [Hsu Research](../brands/hsu-research.md) · [spinorama-org](spinorama-org.md)

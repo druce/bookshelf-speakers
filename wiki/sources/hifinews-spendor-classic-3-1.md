@@ -37,4 +37,4 @@ Hi-Fi News in-room/quasi-anechoic method: near-field summed driver/port for bass
 Single pair (left/right shown). Tier B per the evidence hierarchy: lower confidence below about 300 Hz. Lab text is the source; graphs not digitised.
 
 ## Related
-[[spendor-classic-3-1]] · [[spendor]]
+[Spendor Classic 3/1](../speakers/spendor-classic-3-1.md) · [Spendor](../brands/spendor.md)

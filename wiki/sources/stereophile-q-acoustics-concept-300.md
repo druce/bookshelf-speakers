@@ -48,4 +48,4 @@ DRA Labs MLSSA, DPA 4006 mic farfield at 50 in (30° horizontal window average o
 Single pair, Stereophile quasi-anechoic (lower confidence below about 300 Hz, nearfield-spliced). Price then $4,499.99/pair with stands.
 
 ## Related
-[[q-acoustics-concept-300]] · [[stereophile]] · [[q-acoustics]] · [[kef-ls50-meta]]
+[Q Acoustics Concept 300](../speakers/q-acoustics-concept-300.md) · [stereophile](../reviewers/stereophile.md) · [Q Acoustics](../brands/q-acoustics.md) · [KEF LS50 Meta](../speakers/kef-ls50-meta.md)

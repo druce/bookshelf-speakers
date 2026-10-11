@@ -46,29 +46,29 @@ The Wharfedale EVO 4.1 is a 5" Kevlar-woofer, AMT-tweeter two-way standmount rat
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 85.9 dB (average) | [[asr-wharfedale-evo-4-1]] | A | computed (scripts/cta2034.py v2); claimed 87 dB per [[mfr-wharfedale-evo-4-1]] |
-| Listening-window deviation | ±2.5 dB, 300 Hz-10 kHz (good, at the limit) | [[asr-wharfedale-evo-4-1]] | A | computed |
-| On-axis deviation | ±2.7 dB | [[asr-wharfedale-evo-4-1]] | A | computed |
-| f3 / f6 | 74 / 46 Hz (modest) | [[asr-wharfedale-evo-4-1]] | A | computed; shelved bass |
-| Min impedance | 3.2 Ω, broad minimum ~100-300 Hz | [[asr-wharfedale-evo-4-1]] | A | stated on graph; frequency graph-read (approx.) |
-| Preference score | 4.5 (no sub) / 6.6 (with sub) | [[asr-wharfedale-evo-4-1]] via [[spinorama-org]] | A | coarse aid only |
-| Crossover | 2.9 kHz | [[mfr-wharfedale-evo-4-1]] | C | claimed |
+| Sensitivity (2.83 V/1 m) | 85.9 dB (average) | [asr-wharfedale-evo-4-1](../sources/asr-wharfedale-evo-4-1.md) | A | computed (scripts/cta2034.py v2); claimed 87 dB per [mfr-wharfedale-evo-4-1](../sources/mfr-wharfedale-evo-4-1.md) |
+| Listening-window deviation | ±2.5 dB, 300 Hz-10 kHz (good, at the limit) | [asr-wharfedale-evo-4-1](../sources/asr-wharfedale-evo-4-1.md) | A | computed |
+| On-axis deviation | ±2.7 dB | [asr-wharfedale-evo-4-1](../sources/asr-wharfedale-evo-4-1.md) | A | computed |
+| f3 / f6 | 74 / 46 Hz (modest) | [asr-wharfedale-evo-4-1](../sources/asr-wharfedale-evo-4-1.md) | A | computed; shelved bass |
+| Min impedance | 3.2 Ω, broad minimum ~100-300 Hz | [asr-wharfedale-evo-4-1](../sources/asr-wharfedale-evo-4-1.md) | A | stated on graph; frequency graph-read (approx.) |
+| Preference score | 4.5 (no sub) / 6.6 (with sub) | [asr-wharfedale-evo-4-1](../sources/asr-wharfedale-evo-4-1.md) via [spinorama-org](../sources/spinorama-org.md) | A | coarse aid only |
+| Crossover | 2.9 kHz | [mfr-wharfedale-evo-4-1](../sources/mfr-wharfedale-evo-4-1.md) | C | claimed |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 133°, vertical about 62° (tall AMT beams vertically). DI is minor-discontinuity (ERDI residual 1.3 dB); SPDI rises from 4.7 dB at 1 kHz to 10.7 dB at 10 kHz, i.e. upper-treble off-axis response drops quickly. Early-reflection dip near 1.5 kHz is 1.7 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +1.0 dB, borderline: slightly less toe-in is reasonable, though ASR found the response about 10° off tweeter axis slightly smoother. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 133°, vertical about 62° (tall AMT beams vertically). DI is minor-discontinuity (ERDI residual 1.3 dB); SPDI rises from 4.7 dB at 1 kHz to 10.7 dB at 10 kHz, i.e. upper-treble off-axis response drops quickly. Early-reflection dip near 1.5 kHz is 1.7 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +1.0 dB, borderline: slightly less toe-in is reasonable, though ASR found the response about 10° off tweeter axis slightly smoother. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-No compression or max-SPL test; maker claims 104 dB peak (unverified). ASR's THD plots are in dB, so no % values are entered. At 86 dB ASR labelled it "Good" (THD peaks near 100-150 Hz and around 2 kHz); at 96 dB ASR labelled it "Very unhappy", with heavy bass distortion and a 2-4 kHz rise tied to the tweeter resonance. ASR heard severe sub-bass distortion at medium-high levels and advises a high-pass filter. Best for small rooms at moderate levels. See [[compression-and-max-spl]].
+No compression or max-SPL test; maker claims 104 dB peak (unverified). ASR's THD plots are in dB, so no % values are entered. At 86 dB ASR labelled it "Good" (THD peaks near 100-150 Hz and around 2 kHz); at 96 dB ASR labelled it "Very unhappy", with heavy bass distortion and a 2-4 kHz rise tied to the tweeter resonance. ASR heard severe sub-bass distortion at medium-high levels and advises a high-pass filter. Best for small rooms at moderate levels. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Maker says "8 Ω compatible", min 3.5 Ω claimed. ASR shows 3.2 Ω minimum (flag `effectively-4ohm`), a broad dip across 100-300 Hz, a ~18.6 Ω peak near 80 Hz, and phase swinging roughly ±40-50° (graph-read). EPDR not computed. Use an amplifier stable into 4 Ω. See [[impedance-and-epdr]].
+Maker says "8 Ω compatible", min 3.5 Ω claimed. ASR shows 3.2 Ω minimum (flag `effectively-4ohm`), a broad dip across 100-300 Hz, a ~18.6 Ω peak near 80 Hz, and phase swinging roughly ±40-50° (graph-read). EPDR not computed. Use an amplifier stable into 4 Ω. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[asr-wharfedale-evo-4-1]] (ASR, Tier D listening): untreated sound was hyper-detailed and bright, vocals unnaturally forward; EQ did not make it enjoyable; preferred the Revel M16; not recommended.
+- [asr-wharfedale-evo-4-1](../sources/asr-wharfedale-evo-4-1.md) (ASR, Tier D listening): untreated sound was hyper-detailed and bright, vocals unnaturally forward; EQ did not make it enjoyable; preferred the Revel M16; not recommended.
 No other professional review of this model was found.
 
 ## User reviews
-Six owner reports, anecdotal ([[users-wharfedale-evo-4-1]]): 5 positive (3 are incentivised Best Buy reviews), 1 finds vocals dull/boxed in. No QC problems reported.
+Six owner reports, anecdotal ([users-wharfedale-evo-4-1](../sources/users-wharfedale-evo-4-1.md)): 5 positive (3 are incentivised Best Buy reviews), 1 finds vocals dull/boxed in. No QC problems reported.
 
 ## Conflicts
 - Sensitivity: 85.9 dB computed vs 86.3 dB (MZKM, ASR thread) vs 87 dB claimed; within ~1 dB.
@@ -79,4 +79,4 @@ Six owner reports, anecdotal ([[users-wharfedale-evo-4-1]]): 5 positive (3 are i
 - Price: $649 at maker-direct (list $799); Crutchfield snippet showed $699, not verified live.
 
 ## Related
-[[wharfedale]] · Wharfedale Linton 85th Anniversary · [[revel-m16]] · [[spinorama]] · [[preference-score]]
+[Wharfedale](../brands/wharfedale.md) · Wharfedale Linton 85th Anniversary · [Revel M16](revel-m16.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

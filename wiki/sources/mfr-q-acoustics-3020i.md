@@ -36,7 +36,7 @@ Maker's US store page lists the 3020i as a pair at $349.96 with "Ships within 1-
 Page does not state port location. Specs are manufacturer claims (Tier C).
 
 ## Reliability notes
-Claimed 88 dB sensitivity is well above the Klippel-computed 86.1 dB and NRC 85.6 dB (see [[q-acoustics-3020i]]).
+Claimed 88 dB sensitivity is well above the Klippel-computed 86.1 dB and NRC 85.6 dB (see [Q Acoustics 3020i](../speakers/q-acoustics-3020i.md)).
 
 ## Related
-[[q-acoustics-3020i]] · [[q-acoustics]]
+[Q Acoustics 3020i](../speakers/q-acoustics-3020i.md) · [Q Acoustics](../brands/q-acoustics.md)

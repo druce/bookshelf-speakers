@@ -31,4 +31,4 @@ Listening only, no measurements.
 Outlet context unclear (appears to be a translated Asian-market review); distributor-supplied sample likely. Treat as single opinion.
 
 ## Related
-[[revel-m16]] · [[revel]]
+[Revel M16](../speakers/revel-m16.md) · [Revel](../brands/revel.md)

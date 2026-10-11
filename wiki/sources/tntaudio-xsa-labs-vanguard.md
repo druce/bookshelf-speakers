@@ -28,4 +28,4 @@ Positive listening test positioning the Vanguard as a LS3/5a variant at 995 USD/
 Subjective only; no measurements. Single reviewer, long-time LS3/5a enthusiast.
 
 ## Related
-[[xsa-labs-vanguard]] · [[xsa-labs]]
+[XSA Labs Vanguard](../speakers/xsa-labs-vanguard.md) · [XSA Labs](../brands/xsa-labs.md)

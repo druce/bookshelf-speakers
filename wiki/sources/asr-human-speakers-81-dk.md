@@ -43,4 +43,4 @@ Klippel NFS; grille left on (stiff); acoustic axis set at the estimated tweeter 
 Single sample, loaned; very recent production date noted. The reviewer questioned whether the price meant kit or finished.
 
 ## Related
-[[human-speakers-81-dk]] · [[asr]] · [[human-speakers]] · [[spinorama-org]]
+[Human Speakers 81 dk](../speakers/human-speakers-81-dk.md) · [asr](../reviewers/asr.md) · [Human Speakers](../brands/human-speakers.md) · [spinorama-org](spinorama-org.md)

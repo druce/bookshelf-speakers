@@ -31,4 +31,4 @@ Listening with Arcam AVR550 and Emotiva amplifiers, sub for about half the liste
 Single reviewer, Tier D. Date uncertain as noted.
 
 ## Related
-[[revel-m126be]] · [[revel]]
+[Revel M126Be](../speakers/revel-m126be.md) · [Revel](../brands/revel.md)

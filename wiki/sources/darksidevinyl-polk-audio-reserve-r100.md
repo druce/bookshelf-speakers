@@ -26,4 +26,4 @@ Short blog-style review; only the sound-quality paragraph was captured.
 Hobbyist outlet, no measurements, author and date unknown. Low-weight Tier D.
 
 ## Related
-[[polk-audio-reserve-r100]] · [[polk-audio]]
+[Polk Audio Reserve R100](../speakers/polk-audio-reserve-r100.md) · [Polk Audio](../brands/polk-audio.md)

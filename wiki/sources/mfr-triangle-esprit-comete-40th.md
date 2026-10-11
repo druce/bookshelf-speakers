@@ -36,7 +36,7 @@ Manufacturer-direct US listing for the 40th Anniversary Comete standmount. Lists
 Manufacturer page only; no measurement method. Minimum impedance "measured at low frequencies" per maker.
 
 ## Reliability notes
-Tier C. Sensitivity claim is 2 dB above the NRC measurement ([[soundstage-nrc-triangle-esprit-comete-40th]]). Crossover text is inconsistent with the reviewer's figure.
+Tier C. Sensitivity claim is 2 dB above the NRC measurement ([soundstage-nrc-triangle-esprit-comete-40th](soundstage-nrc-triangle-esprit-comete-40th.md)). Crossover text is inconsistent with the reviewer's figure.
 
 ## Related
-[[triangle-esprit-comete-40th]] · [[triangle]]
+[Triangle Esprit Comete 40th](../speakers/triangle-esprit-comete-40th.md) · [Triangle](../brands/triangle.md)

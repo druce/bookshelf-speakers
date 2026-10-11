@@ -37,4 +37,4 @@ Retailer reproduction of maker specs: Tier C. Status current: in stock at an aut
 S&V listed $1,200 per pair in 2022; launch price was reported as $999.98 per speaker.
 
 ## Related
-[[elac-uni-fi-reference-ubr62]] · [[elac]]
+[Elac Uni-Fi Reference UBR62](../speakers/elac-uni-fi-reference-ubr62.md) · [Elac](../brands/elac.md)

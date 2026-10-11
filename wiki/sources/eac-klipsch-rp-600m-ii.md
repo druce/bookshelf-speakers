@@ -46,4 +46,4 @@ Klippel Near-Field Scanner; reference plane at the tweeter; grille off primary. 
 Single purchased sample, no manufacturer involvement. Distortion and impedance values read from graphs. Review is deliberately brief; subjective notes are short.
 
 ## Related
-[[klipsch-rp-600m-ii]] · [[erins-audio-corner]] · [[spinorama-org]] · [[klipsch]]
+[Klipsch RP-600M II](../speakers/klipsch-rp-600m-ii.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [spinorama-org](spinorama-org.md) · [Klipsch](../brands/klipsch.md)

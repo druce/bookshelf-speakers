@@ -34,7 +34,7 @@ Totem lists the KIN ONE as a current compact two-way monitor, 6 Ω rated, $599 p
 Maker spec table; frequency response has no stated tolerance beyond ±3 dB and a placement caveat.
 
 ## Reliability notes
-Claimed 89 dB is far above Erin's measured 83.1 dB (see [[eac-totem-acoustic-kin-one]]).
+Claimed 89 dB is far above Erin's measured 83.1 dB (see [eac-totem-acoustic-kin-one](eac-totem-acoustic-kin-one.md)).
 
 ## Related
-[[totem-acoustic-kin-one]] · [[totem-acoustic]]
+[Totem Acoustic Kin One](../speakers/totem-acoustic-kin-one.md) · [Totem Acoustic](../brands/totem-acoustic.md)

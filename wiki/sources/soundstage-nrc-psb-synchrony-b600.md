@@ -33,4 +33,4 @@ Microphone 12 in. up from cabinet bottom (PSB's listening axis), grille off, mea
 Independent lab, single sample. Impedance and distortion values are read from small graphs.
 
 ## Related
-[[psb-synchrony-b600]] · [[soundstage-nrc]] · [[psb]]
+[PSB Synchrony B600](../speakers/psb-synchrony-b600.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [PSB](../brands/psb.md)

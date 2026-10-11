@@ -46,31 +46,31 @@ The Polk Reserve R100 is a 5.25" rear-ported (X-Port) standmount with a 1" Pinna
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 85.1 dB (average) | [[eac-polk-audio-reserve-r100]] | A | computed (scripts/cta2034.py v2); claimed 86 dB in [[mfr-polk-audio-reserve-r100]] |
-| Listening-window deviation | ±1.0 dB, 300 Hz-10 kHz (excellent) | [[eac-polk-audio-reserve-r100]] | A | computed |
-| On-axis deviation | ±1.1 dB | [[eac-polk-audio-reserve-r100]] | A | computed |
-| f3 / f6 | 67 / 56 Hz (modest) | [[eac-polk-audio-reserve-r100]] | A | computed; claimed -3 dB 58 Hz |
-| Min impedance | ~3.6 Ω @ ~250 Hz | [[eac-polk-audio-reserve-r100]] | A | graph-read (approx.); maker also states 3.6 Ω |
-| Preference score | 5.5 (no sub) / 7.9 (with sub) | [[eac-polk-audio-reserve-r100]] via [[spinorama-org]] | A | 5.46 / 7.93 raw |
-| THD 86 dB @1 m | ~1.6 % | [[eac-polk-audio-reserve-r100]] | A | graph-read (approx.), highest across 100 Hz-10 kHz |
-| THD 96 dB @1 m | ~8 % (110 Hz), ~5 % (6 kHz) | [[eac-polk-audio-reserve-r100]] | A | graph-read (approx.) |
-| Crossover | 2.7 kHz | [[mfr-polk-audio-reserve-r100]] | C | |
+| Sensitivity (2.83 V/1 m) | 85.1 dB (average) | [eac-polk-audio-reserve-r100](../sources/eac-polk-audio-reserve-r100.md) | A | computed (scripts/cta2034.py v2); claimed 86 dB in [mfr-polk-audio-reserve-r100](../sources/mfr-polk-audio-reserve-r100.md) |
+| Listening-window deviation | ±1.0 dB, 300 Hz-10 kHz (excellent) | [eac-polk-audio-reserve-r100](../sources/eac-polk-audio-reserve-r100.md) | A | computed |
+| On-axis deviation | ±1.1 dB | [eac-polk-audio-reserve-r100](../sources/eac-polk-audio-reserve-r100.md) | A | computed |
+| f3 / f6 | 67 / 56 Hz (modest) | [eac-polk-audio-reserve-r100](../sources/eac-polk-audio-reserve-r100.md) | A | computed; claimed -3 dB 58 Hz |
+| Min impedance | ~3.6 Ω @ ~250 Hz | [eac-polk-audio-reserve-r100](../sources/eac-polk-audio-reserve-r100.md) | A | graph-read (approx.); maker also states 3.6 Ω |
+| Preference score | 5.5 (no sub) / 7.9 (with sub) | [eac-polk-audio-reserve-r100](../sources/eac-polk-audio-reserve-r100.md) via [spinorama-org](../sources/spinorama-org.md) | A | 5.46 / 7.93 raw |
+| THD 86 dB @1 m | ~1.6 % | [eac-polk-audio-reserve-r100](../sources/eac-polk-audio-reserve-r100.md) | A | graph-read (approx.), highest across 100 Hz-10 kHz |
+| THD 96 dB @1 m | ~8 % (110 Hz), ~5 % (6 kHz) | [eac-polk-audio-reserve-r100](../sources/eac-polk-audio-reserve-r100.md) | A | graph-read (approx.) |
+| Crossover | 2.7 kHz | [mfr-polk-audio-reserve-r100](../sources/mfr-polk-audio-reserve-r100.md) | C | |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 140°, vertical about 117°. DI is a minor discontinuity (ERDI residual 1.1 dB); SPDI rises from 4.9 dB at 1 kHz to 10.0 dB at 10 kHz, so the ring tweeter beams in the top octaves. Early-reflection dip near 1.5 kHz is 2.3 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.8 dB, so either aim works; Erin found treble becomes too prominent at high volume and said angling off-axis helped only a little. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 140°, vertical about 117°. DI is a minor discontinuity (ERDI residual 1.1 dB); SPDI rises from 4.9 dB at 1 kHz to 10.0 dB at 10 kHz, so the ring tweeter beams in the top octaves. Early-reflection dip near 1.5 kHz is 2.3 dB, under the 3 dB flag. On-axis minus listening window above 4 kHz is +0.8 dB, so either aim works; Erin found treble becomes too prominent at high volume and said angling off-axis helped only a little. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Erin's graphs (approximate): THD at 86 dB about 1.6 % at ~110 Hz and ~6 kHz; at 96 dB about 8 % near 110 Hz and 5 % near 6 kHz, well above the 3 % threshold in [[compression-and-max-spl]]. Compression at 102 dB reaches about -2.8 dB near 170 Hz and large LF losses below 80 Hz; Erin advises a subwoofer. No max-SPL figure stated. Fine for moderate listening in small rooms, not for loud levels in large ones.
+Erin's graphs (approximate): THD at 86 dB about 1.6 % at ~110 Hz and ~6 kHz; at 96 dB about 8 % near 110 Hz and 5 % near 6 kHz, well above the 3 % threshold in [compression-and-max-spl](../concepts/compression-and-max-spl.md). Compression at 102 dB reaches about -2.8 dB near 170 Hz and large LF losses below 80 Hz; Erin advises a subwoofer. No max-SPL figure stated. Fine for moderate listening in small rooms, not for loud levels in large ones.
 
 ## Amplifier load
-Maker: 8/6/4 Ω compatible, 3.6 Ω minimum. Measured minimum about 3.6 Ω around 250 Hz (also ~4 Ω above 3 kHz), impedance peaks ~25 Ω at 38 and 90 Hz, phase moderate. EPDR not published. Flag `effectively-4ohm`; use an amp stable into 4 Ω. See [[impedance-and-epdr]].
+Maker: 8/6/4 Ω compatible, 3.6 Ω minimum. Measured minimum about 3.6 Ω around 250 Hz (also ~4 Ω above 3 kHz), impedance peaks ~25 Ω at 38 and 90 Hz, phase moderate. EPDR not published. Flag `effectively-4ohm`; use an amp stable into 4 Ω. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[darksidevinyl-polk-audio-reserve-r100]] (Darkside Vinyl, hobbyist blog): impressive imaging, smooth and detailed treble, vocals well separated.
-- [[eac-polk-audio-reserve-r100]] (Erin's Audio Corner, Tier D notes): punchy midbass/midrange like a small studio monitor, treble heavy at high volume, needs a sub.
+- [darksidevinyl-polk-audio-reserve-r100](../sources/darksidevinyl-polk-audio-reserve-r100.md) (Darkside Vinyl, hobbyist blog): impressive imaging, smooth and detailed treble, vocals well separated.
+- [eac-polk-audio-reserve-r100](../sources/eac-polk-audio-reserve-r100.md) (Erin's Audio Corner, Tier D notes): punchy midbass/midrange like a small studio monitor, treble heavy at high volume, needs a sub.
 
 ## User reviews
-About 5 thin reports, so anecdotal ([[users-polk-audio-reserve-r100]]): 1 dealer audition found it clean and not bright; 2 posters preferred the R200 for bass/price. No QC or reliability problems found.
+About 5 thin reports, so anecdotal ([users-polk-audio-reserve-r100](../sources/users-polk-audio-reserve-r100.md)): 1 dealer audition found it clean and not bright; 2 posters preferred the R200 for bass/price. No QC or reliability problems found.
 
 ## Conflicts
 - Claimed -3 dB limit 58 Hz vs measured f3 67 Hz (9 Hz difference); claimed 86 dB vs 85.1 dB measured.
@@ -78,4 +78,4 @@ About 5 thin reports, so anecdotal ([[users-polk-audio-reserve-r100]]): 1 dealer
 - Price: Polk shows $559 (list $699); Erin cited ~$650 in 2021.
 
 ## Related
-[[polk-audio]] · [[polk-audio-reserve-r200]] · Polk Audio Signature Elite ES15 · [[spinorama]] · [[preference-score]]
+[Polk Audio](../brands/polk-audio.md) · [Polk Audio Reserve R200](polk-audio-reserve-r200.md) · Polk Audio Signature Elite ES15 · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

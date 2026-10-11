@@ -40,4 +40,4 @@ Klippel NFS, grille off, tweeter axis, 700+ points. Tier D: listening notes, sup
 Single retail-purchased sample. Amp used had 1000 W on tap.
 
 ## Related
-[[elac-debut-reference-dbr-62]] · [[asr]] · [[elac]] · [[spinorama-org]]
+[Elac Debut Reference DBR-62](../speakers/elac-debut-reference-dbr-62.md) · [asr](../reviewers/asr.md) · [Elac](../brands/elac.md) · [spinorama-org](spinorama-org.md)

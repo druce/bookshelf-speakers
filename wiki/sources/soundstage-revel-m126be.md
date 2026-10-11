@@ -15,7 +15,7 @@ speakers: [revel-m126be]
 # SoundStage! Hi-Fi: Revel PerformaBe M126Be (2019-08-01)
 
 ## Summary
-Beaudette calls the M126Be the finest speaker he has heard in his room and a benchmark. Review carries a Reviewers' Choice badge. NRC measurements accompany it ([[soundstage-nrc-revel-m126be]]).
+Beaudette calls the M126Be the finest speaker he has heard in his room and a benchmark. Review carries a Reviewers' Choice badge. NRC measurements accompany it ([soundstage-nrc-revel-m126be](soundstage-nrc-revel-m126be.md)).
 
 ## Key claims (attributed)
 - Even tonal balance, exceptional clarity and resolution, precise imaging with a wide, deep stage.
@@ -32,4 +32,4 @@ Listened on 24" stands, Bryston B135 SST2 integrated, mostly CD/file sources; Re
 Enthusiastic single-reviewer opinion; Tier D, attributed only.
 
 ## Related
-[[revel-m126be]] · [[soundstage-nrc]] · [[revel]]
+[Revel M126Be](../speakers/revel-m126be.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Revel](../brands/revel.md)

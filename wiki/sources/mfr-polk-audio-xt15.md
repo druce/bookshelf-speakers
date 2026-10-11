@@ -36,4 +36,4 @@ Tier C. Info sheet text appended to the raw file.
 Specs are claims. Sensitivity reference is unstated; measured value is lower (84.4 dB).
 
 ## Related
-[[polk-audio-xt15]] · [[polk-audio]]
+[Polk Audio Monitor XT15](../speakers/polk-audio-xt15.md) · [Polk Audio](../brands/polk-audio.md)

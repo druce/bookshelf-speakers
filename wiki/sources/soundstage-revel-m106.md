@@ -25,10 +25,10 @@ Philip Beaudette praised the M106 as extremely high quality: ultraclear, open an
 - Claimed specs listed: 8 Ω nominal, 87 dB/W/m, 50-150 W, LF limits 59/54/39 Hz (-3/-6/-10 dB), crossover 2.3 kHz.
 
 ## Method notes
-Review used a Bryston B135 SST2 integrated. Measurements by NRC are on [[soundstage-nrc-revel-m106]].
+Review used a Bryston B135 SST2 integrated. Measurements by NRC are on [soundstage-nrc-revel-m106](soundstage-nrc-revel-m106.md).
 
 ## Reliability notes
 Subjective, single reviewer, 2015 sample of the original-production model.
 
 ## Related
-[[revel-m106]] · [[soundstage-nrc]] · [[revel]]
+[Revel M106](../speakers/revel-m106.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Revel](../brands/revel.md)

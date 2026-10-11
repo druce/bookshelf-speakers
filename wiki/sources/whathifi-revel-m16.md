@@ -32,4 +32,4 @@ Subjective only; no measurements. Date shown is as scraped from page (2018-10-08
 Single outlet opinion. UK pricing.
 
 ## Related
-[[revel-m16]] · [[revel]]
+[Revel M16](../speakers/revel-m16.md) · [Revel](../brands/revel.md)

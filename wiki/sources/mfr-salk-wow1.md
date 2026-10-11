@@ -38,4 +38,4 @@ Salk sells direct and builds to order; there is no retailer stock listing. Statu
 Maker figures only; sensitivity is contradicted by ASR measurement (78.2 dB).
 
 ## Related
-[[salk-wow1]] · [[salk]]
+[Salk WoW1](../speakers/salk-wow1.md) · [Salk](../brands/salk.md)

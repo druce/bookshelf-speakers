@@ -46,33 +46,33 @@ The Kanta N°1 is the only standmount in Focal's mid-line Kanta range: 6.5" flax
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 86.5 dB (average) | [[soundstage-nrc-focal-kanta-n1]] | A | 300 Hz-3 kHz LW average; claimed 88 dB per [[mfr-focal-kanta-n1]] |
-| Sensitivity | 87.7 / 87.2 / 86.7 dB (mean/IEC/music) | [[hifinews-focal-kanta-n1]] | B | reviewer concludes 87 dB |
-| Listening-window deviation | about ±2.3 dB, 300 Hz-10 kHz (good) | [[soundstage-nrc-focal-kanta-n1]] | A | graph-read (approx.) |
-| Response error | ±3.3 / ±3.5 dB, 200 Hz-20 kHz (tweeter axis) | [[hifinews-focal-kanta-n1]] | B | about 2 dB dip 1.3-8 kHz; treble rise above 16 kHz |
-| f6 | 48 Hz (-6 dB re 200 Hz); 87 Hz with port bung | [[hifinews-focal-kanta-n1]] | B | nearfield, diffraction-corrected |
-| LW LF roll-off | about -3 dB near 75 Hz | [[soundstage-nrc-focal-kanta-n1]] | A | graph-read (approx.); not entered as f3 |
-| Min impedance | 3.8 Ω @ 201 Hz | [[hifinews-focal-kanta-n1]] | B | measured; max 32.5 Ω @ 5.2 Hz |
-| Min impedance | about 4.5 Ω @ about 200 Hz | [[soundstage-nrc-focal-kanta-n1]] | A | graph-read (approx.) |
-| EPDR min | 2.0 Ω @ 20 Hz (2.1 Ω @ 134 Hz) | [[hifinews-focal-kanta-n1]] | B | |
-| THD | 0.9% @ 100 Hz, 0.2% @ 1 kHz, 0.1% @ 10 kHz at 90 dB/1 m | [[hifinews-focal-kanta-n1]] | B | |
-| THD+N | about 1.3% max, 100-600 Hz | [[soundstage-nrc-focal-kanta-n1]] | A | graph-read; 90 dB at 2 m, about 96 dB at 1 m |
-| Pair matching | ±0.9 dB | [[hifinews-focal-kanta-n1]] | B | |
+| Sensitivity (2.83 V/1 m) | 86.5 dB (average) | [soundstage-nrc-focal-kanta-n1](../sources/soundstage-nrc-focal-kanta-n1.md) | A | 300 Hz-3 kHz LW average; claimed 88 dB per [mfr-focal-kanta-n1](../sources/mfr-focal-kanta-n1.md) |
+| Sensitivity | 87.7 / 87.2 / 86.7 dB (mean/IEC/music) | [hifinews-focal-kanta-n1](../sources/hifinews-focal-kanta-n1.md) | B | reviewer concludes 87 dB |
+| Listening-window deviation | about ±2.3 dB, 300 Hz-10 kHz (good) | [soundstage-nrc-focal-kanta-n1](../sources/soundstage-nrc-focal-kanta-n1.md) | A | graph-read (approx.) |
+| Response error | ±3.3 / ±3.5 dB, 200 Hz-20 kHz (tweeter axis) | [hifinews-focal-kanta-n1](../sources/hifinews-focal-kanta-n1.md) | B | about 2 dB dip 1.3-8 kHz; treble rise above 16 kHz |
+| f6 | 48 Hz (-6 dB re 200 Hz); 87 Hz with port bung | [hifinews-focal-kanta-n1](../sources/hifinews-focal-kanta-n1.md) | B | nearfield, diffraction-corrected |
+| LW LF roll-off | about -3 dB near 75 Hz | [soundstage-nrc-focal-kanta-n1](../sources/soundstage-nrc-focal-kanta-n1.md) | A | graph-read (approx.); not entered as f3 |
+| Min impedance | 3.8 Ω @ 201 Hz | [hifinews-focal-kanta-n1](../sources/hifinews-focal-kanta-n1.md) | B | measured; max 32.5 Ω @ 5.2 Hz |
+| Min impedance | about 4.5 Ω @ about 200 Hz | [soundstage-nrc-focal-kanta-n1](../sources/soundstage-nrc-focal-kanta-n1.md) | A | graph-read (approx.) |
+| EPDR min | 2.0 Ω @ 20 Hz (2.1 Ω @ 134 Hz) | [hifinews-focal-kanta-n1](../sources/hifinews-focal-kanta-n1.md) | B | |
+| THD | 0.9% @ 100 Hz, 0.2% @ 1 kHz, 0.1% @ 10 kHz at 90 dB/1 m | [hifinews-focal-kanta-n1](../sources/hifinews-focal-kanta-n1.md) | B | |
+| THD+N | about 1.3% max, 100-600 Hz | [soundstage-nrc-focal-kanta-n1](../sources/soundstage-nrc-focal-kanta-n1.md) | A | graph-read; 90 dB at 2 m, about 96 dB at 1 m |
+| Pair matching | ±0.9 dB | [hifinews-focal-kanta-n1](../sources/hifinews-focal-kanta-n1.md) | B | |
 | Preference score | not available | n/a | n/a | no Klippel data |
 
 ## Directivity
-No beamwidth or DI export. NRC plots 0-75 degree off-axis curves (not numerically read here). TONE Audio (Tier D) reports wide horizontal and vertical dispersion making placement forgiving; Hi-Fi News notes a tweeter-axis measurement only. See [[directivity-index]], [[early-reflections]].
+No beamwidth or DI export. NRC plots 0-75 degree off-axis curves (not numerically read here). TONE Audio (Tier D) reports wide horizontal and vertical dispersion making placement forgiving; Hi-Fi News notes a tweeter-axis measurement only. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Hi-Fi News: THD 0.9% at 100 Hz, 0.2% at 1 kHz at 90 dB/1 m; NRC about 1.3% at about 96 dB/1 m (graph-read). Hi-Fi Choice heard the single 6.5" driver go "dynamically flat" on loud bass-heavy rock (Tier D); SoundStage! heard no compression at loud vocal levels. Fine for small-to-medium rooms; not for very loud bass-heavy playback. See [[compression-and-max-spl]].
+Hi-Fi News: THD 0.9% at 100 Hz, 0.2% at 1 kHz at 90 dB/1 m; NRC about 1.3% at about 96 dB/1 m (graph-read). Hi-Fi Choice heard the single 6.5" driver go "dynamically flat" on loud bass-heavy rock (Tier D); SoundStage! heard no compression at loud vocal levels. Fine for small-to-medium rooms; not for very loud bass-heavy playback. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-8 Ω nominal but Hi-Fi News measured 3.8 Ω minimum at 201 Hz (flag `effectively-4ohm`), with EPDR down to 2.0 Ω at 20 Hz and 2.1-2.2 Ω near 134 and 358 Hz, so it is a demanding load. TONE suggests the 4 Ω amplifier tap. Use an amplifier stable into 4 Ω. See [[impedance-and-epdr]].
+8 Ω nominal but Hi-Fi News measured 3.8 Ω minimum at 201 Hz (flag `effectively-4ohm`), with EPDR down to 2.0 Ω at 20 Hz and 2.1-2.2 Ω near 134 and 358 Hz, so it is a demanding load. TONE suggests the 4 Ω amplifier tap. Use an amplifier stable into 4 Ω. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[soundstage-focal-kanta-n1]] (SoundStage!, Doug Schneider): most accurate and revealing Focal he had reviewed; boxless imaging; bass stops near 40 Hz.
-- [[hifichoice-focal-kanta-n1]] (Hi-Fi Choice): clean, open, agile; strains on loud bass-heavy material.
-- [[tonepublications-focal-kanta-n1]] (TONE Audio): "absolutely lovely", warm-leaning, easy to match with amplifiers.
+- [soundstage-focal-kanta-n1](../sources/soundstage-focal-kanta-n1.md) (SoundStage!, Doug Schneider): most accurate and revealing Focal he had reviewed; boxless imaging; bass stops near 40 Hz.
+- [hifichoice-focal-kanta-n1](../sources/hifichoice-focal-kanta-n1.md) (Hi-Fi Choice): clean, open, agile; strains on loud bass-heavy material.
+- [tonepublications-focal-kanta-n1](../sources/tonepublications-focal-kanta-n1.md) (TONE Audio): "absolutely lovely", warm-leaning, easy to match with amplifiers.
 
 ## User reviews
 No user reports ingested yet.
@@ -83,4 +83,4 @@ No user reports ingested yet.
 - Price/status: $8,598 at TMR (2026) vs $5,999 in 2019; Upscale Audio shows all finishes sold out.
 
 ## Related
-[[focal]] · [[focal-sopra-n1]] · Focal Vestia N°1 · [[focal-theva-n1]] · Focal Aria Evo X N°1 · [[impedance-and-epdr]]
+[Focal](../brands/focal.md) · [Focal Sopra N°1](focal-sopra-n1.md) · Focal Vestia N°1 · [Focal Theva N°1](focal-theva-n1.md) · Focal Aria Evo X N°1 · [impedance-and-epdr](../concepts/impedance-and-epdr.md)

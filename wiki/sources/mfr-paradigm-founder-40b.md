@@ -19,7 +19,7 @@ Paradigm's US page lists the 40B at $1,199.99 each ($2,399.98 per pair), "compat
 ## Extracted values
 | Field | Value | Note |
 |---|---|---|
-| nominal_impedance_ohm | 8 (compatible) | no explicit nominal; measured minimum is much lower, see [[eac-paradigm-founder-40b]] |
+| nominal_impedance_ohm | 8 (compatible) | no explicit nominal; measured minimum is much lower, see [eac-paradigm-founder-40b](eac-paradigm-founder-40b.md) |
 | sensitivity_claimed_db | 89.0 anechoic (92 room) | unit not stated; equals 2.83 V only if per 1 W into 8 Ω, not applied |
 | claimed_fr | ±2 dB 69 Hz-23 kHz on-axis; 41 Hz (DIN) | tolerance stated |
 | crossover_hz | 1600 | 2nd-order electro-acoustic; NTL measured ~2.8 kHz electrical |
@@ -35,4 +35,4 @@ Tier C figures only.
 Measured sensitivity is lower than claimed (see Conflicts on the speaker page).
 
 ## Related
-[[paradigm-founder-40b]] · [[paradigm]]
+[Paradigm Founder 40B](../speakers/paradigm-founder-40b.md) · [Paradigm](../brands/paradigm.md)

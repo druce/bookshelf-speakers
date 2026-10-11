@@ -30,4 +30,4 @@ Listening review; no measurements.
 Outlet states the original review dates to 2020; this is an updated page. Contrasts with the ASR and EAC measurements (treble and midrange irregularities).
 
 ## Related
-[[triangle-borea-br03]] · [[triangle]]
+[Triangle Borea BR03](../speakers/triangle-borea-br03.md) · [Triangle](../brands/triangle.md)

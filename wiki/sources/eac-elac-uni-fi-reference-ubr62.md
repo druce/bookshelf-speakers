@@ -44,4 +44,4 @@ Klippel NFS, CTA-2034. Subjective listening at 3-4 m, 80-95 dB, on Parasound int
 Single sample; sample provenance not stated in the page body.
 
 ## Related
-[[elac-uni-fi-reference-ubr62]] · [[erins-audio-corner]] · [[elac]] · [[spinorama-org]]
+[Elac Uni-Fi Reference UBR62](../speakers/elac-uni-fi-reference-ubr62.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Elac](../brands/elac.md) · [spinorama-org](spinorama-org.md)

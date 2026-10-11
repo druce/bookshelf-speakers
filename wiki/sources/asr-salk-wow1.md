@@ -45,4 +45,4 @@ Klippel NFS, tweeter axis, grille not mentioned, over 1000 points, 80 °F, sea l
 Single custom-finished sample, drop-shipped; several members suspected a defective sample or wrong crossover and asked for the second unit to be measured. Salk was not reported to have responded in the pages read. ASR's retail price in 2020 was $1,295 (black/white).
 
 ## Related
-[[salk-wow1]] · [[asr]] · [[salk]] · [[spinorama-org]]
+[Salk WoW1](../speakers/salk-wow1.md) · [asr](../reviewers/asr.md) · [Salk](../brands/salk.md) · [spinorama-org](spinorama-org.md)

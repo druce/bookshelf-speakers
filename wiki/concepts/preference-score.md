@@ -16,9 +16,9 @@ Sean Olive's 2004 regression model (AES Convention Paper 6190/6113) predicts bli
 "With sub" (`pref_score_sub`) replaces LFX with an ideal 14.5 Hz extension, isolating everything except bass.
 
 ## How this wiki uses it (Claude.md §3, §7)
-- Values come from [[spinorama-org]]'s computation for each Tier A measurement. When a speaker has several measurements, the value from the source in its frontmatter is used; the others go in the Measurements table.
-- Differences under 0.5 are not meaningful. The score ignores distortion, max output, [[impedance-and-epdr]], and sample variation. It is a coarse ranking aid, never the ranking itself.
+- Values come from [spinorama-org](../sources/spinorama-org.md)'s computation for each Tier A measurement. When a speaker has several measurements, the value from the source in its frontmatter is used; the others go in the Measurements table.
+- Differences under 0.5 are not meaningful. The score ignores distortion, max output, [impedance-and-epdr](impedance-and-epdr.md), and sample variation. It is a coarse ranking aid, never the ranking itself.
 - The model was trained mostly on 2004-era speakers in one room. Bass extension dominates the no-sub score, so small bookshelf speakers are structurally penalised; compare them on `pref_score_sub`.
 
 ## Related
-[[spinorama]] · [[listening-window]] · [[bass-extension-vs-room-gain]]
+[spinorama](spinorama.md) · [listening-window](listening-window.md) · [bass-extension-vs-room-gain](bass-extension-vs-room-gain.md)

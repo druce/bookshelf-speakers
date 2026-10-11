@@ -46,31 +46,31 @@ The JBL Stage 250B is a 6 Ω two-way standmount with a 5.25" woofer, 1" aluminiu
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 85.5 dB (average) | [[eac-jbl-stage-250b]] | A | computed (scripts/cta2034.py v2); claimed 86 dB per [[mfr-jbl-stage-250b]] |
-| Listening-window deviation | ±2.3 dB, 300 Hz-10 kHz (good) | [[eac-jbl-stage-250b]] | A | computed (scripts/cta2034.py v2) |
-| On-axis deviation | ±2.3 dB | [[eac-jbl-stage-250b]] | A | computed |
-| f3 / f6 | 63 / 57 Hz (modest) | [[eac-jbl-stage-250b]] | A | computed; claimed 50 Hz at -6 dB |
-| Min impedance | 3.3 Ω above 80 Hz, near 230 Hz | [[eac-jbl-stage-250b]] | A | value stated on plot; frequency graph-read (approx.) |
-| Min EPDR | 1.6 Ω above 80 Hz | [[eac-jbl-stage-250b]] | A | stated on plot |
-| THD at 86 dB @1 m | about 1.2% worst case, near 100 Hz | [[eac-jbl-stage-250b]] | A | graph-read (approx.) |
-| Preference score | 4.1 (no sub) / 6.6 (with sub) | [[eac-jbl-stage-250b]] via [[spinorama-org]] | A | not meaningful to <0.5 |
-| Crossover | 1.7 kHz | [[mfr-jbl-stage-250b]] | C | |
+| Sensitivity (2.83 V/1 m) | 85.5 dB (average) | [eac-jbl-stage-250b](../sources/eac-jbl-stage-250b.md) | A | computed (scripts/cta2034.py v2); claimed 86 dB per [mfr-jbl-stage-250b](../sources/mfr-jbl-stage-250b.md) |
+| Listening-window deviation | ±2.3 dB, 300 Hz-10 kHz (good) | [eac-jbl-stage-250b](../sources/eac-jbl-stage-250b.md) | A | computed (scripts/cta2034.py v2) |
+| On-axis deviation | ±2.3 dB | [eac-jbl-stage-250b](../sources/eac-jbl-stage-250b.md) | A | computed |
+| f3 / f6 | 63 / 57 Hz (modest) | [eac-jbl-stage-250b](../sources/eac-jbl-stage-250b.md) | A | computed; claimed 50 Hz at -6 dB |
+| Min impedance | 3.3 Ω above 80 Hz, near 230 Hz | [eac-jbl-stage-250b](../sources/eac-jbl-stage-250b.md) | A | value stated on plot; frequency graph-read (approx.) |
+| Min EPDR | 1.6 Ω above 80 Hz | [eac-jbl-stage-250b](../sources/eac-jbl-stage-250b.md) | A | stated on plot |
+| THD at 86 dB @1 m | about 1.2% worst case, near 100 Hz | [eac-jbl-stage-250b](../sources/eac-jbl-stage-250b.md) | A | graph-read (approx.) |
+| Preference score | 4.1 (no sub) / 6.6 (with sub) | [eac-jbl-stage-250b](../sources/eac-jbl-stage-250b.md) via [spinorama-org](../sources/spinorama-org.md) | A | not meaningful to <0.5 |
+| Crossover | 1.7 kHz | [mfr-jbl-stage-250b](../sources/mfr-jbl-stage-250b.md) | C | |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 123°, vertical about 90° (narrower vertically; sit near tweeter height). DI has a minor discontinuity (ERDI residual 1.9 dB); SPDI rises from 5.3 dB at 1 kHz to 10.7 dB at 10 kHz. The early-reflection dip near 1.5 kHz is 3.7 dB, above the 3 dB flag. On-axis minus listening window above 4 kHz is +0.7 dB, so either aim works. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 123°, vertical about 90° (narrower vertically; sit near tweeter height). DI has a minor discontinuity (ERDI residual 1.9 dB); SPDI rises from 5.3 dB at 1 kHz to 10.7 dB at 10 kHz. The early-reflection dip near 1.5 kHz is 3.7 dB, above the 3 dB flag. On-axis minus listening window above 4 kHz is +0.7 dB, so either aim works. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-EAC's 86 dB THD plot peaks near -38 dB (about 1.2%) around 100 Hz and falls below 0.2% above 2 kHz (graph-read, approx.); this is acceptable (<1% is "clean"). The 96 dB THD image on the page repeats the 86 dB graph, so no 96 dB figure is recorded. Compression stays under 0.5 dB above 100 Hz at 96 dB and about 1.4 dB at worst above 60 Hz at 102 dB; below about 50 Hz output collapses. No max SPL limit was found, so it is a lower bound of at least 102 dB @1 m mid-band. Good for small-to-medium rooms; use a high-pass with a sub for loud play. See [[compression-and-max-spl]].
+EAC's 86 dB THD plot peaks near -38 dB (about 1.2%) around 100 Hz and falls below 0.2% above 2 kHz (graph-read, approx.); this is acceptable (<1% is "clean"). The 96 dB THD image on the page repeats the 86 dB graph, so no 96 dB figure is recorded. Compression stays under 0.5 dB above 100 Hz at 96 dB and about 1.4 dB at worst above 60 Hz at 102 dB; below about 50 Hz output collapses. No max SPL limit was found, so it is a lower bound of at least 102 dB @1 m mid-band. Good for small-to-medium rooms; use a high-pass with a sub for loud play. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-Rated 6 Ω but measured 3.3 Ω minimum above 80 Hz and a 1.6 Ω EPDR minimum, so flagged `effectively-4ohm`. Phase swings roughly +45° to -60° (graph-read). Use a stable amplifier or receiver rated for 4 Ω loads. See [[impedance-and-epdr]].
+Rated 6 Ω but measured 3.3 Ω minimum above 80 Hz and a 1.6 Ω EPDR minimum, so flagged `effectively-4ohm`. Phase swings roughly +45° to -60° (graph-read). Use a stable amplifier or receiver rated for 4 Ω loads. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[eac-jbl-stage-250b]] (Erin's Audio Corner, Tier D notes): disappointed in linearity for the price; both Stage 2 models benefit significantly from EQ; better suited to home theatre; Polk R200 suggested for those wanting flatness without EQ.
-- [[phileweb-jbl-stage-250b]] (Phile-web, sponsored): direct, energetic, image-focused JBL sound; good body in acoustic bass; space not as large as costlier JBLs.
+- [eac-jbl-stage-250b](../sources/eac-jbl-stage-250b.md) (Erin's Audio Corner, Tier D notes): disappointed in linearity for the price; both Stage 2 models benefit significantly from EQ; better suited to home theatre; Polk R200 suggested for those wanting flatness without EQ.
+- [phileweb-jbl-stage-250b](../sources/phileweb-jbl-stage-250b.md) (Phile-web, sponsored): direct, energetic, image-focused JBL sound; good body in acoustic bass; space not as large as costlier JBLs.
 
 ## User reviews
-Only 5 reports, so anecdotal ([[users-jbl-stage-250b]]): 4 positive, 2 praise bass, 1 reports a stressed, ringing tweeter at high volume (later resolved). No QC problems reported.
+Only 5 reports, so anecdotal ([users-jbl-stage-250b](../sources/users-jbl-stage-250b.md)): 4 positive, 2 praise bass, 1 reports a stressed, ringing tweeter at high volume (later resolved). No QC problems reported.
 
 ## Conflicts
 - Claimed 86 dB vs measured 85.5 dB: within 1 dB. Claimed -6 dB at 50 Hz vs measured f6 57 Hz: about 7 Hz shallower than claimed.
@@ -78,4 +78,4 @@ Only 5 reports, so anecdotal ([[users-jbl-stage-250b]]): 4 positive, 2 praise ba
 - Sponsored Phile-web praise vs EAC's measured linearity criticism.
 
 ## Related
-[[jbl]] · JBL Stage A130 (older Stage A line, discontinued) · Klipsch RP-500M · [[impedance-and-epdr]] · [[spinorama]] · [[preference-score]]
+[JBL](../brands/jbl.md) · JBL Stage A130 (older Stage A line, discontinued) · Klipsch RP-500M · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

@@ -45,4 +45,4 @@ Klippel NFS, 700+ points, tweeter-centre axis, 78 F. Review shows relative THD (
 Single loaned sample (member-owned); build quality remarks (glued tweeter rattle reports) are secondhand from Amazon. Subjective listening: highs stand out and seem "high-resolution" at first, then sharp and lisping; EQ to fix left grit (Tier D).
 
 ## Related
-[[bic-america-venturi-dv62si]] · [[asr]] · [[bic-america]] · [[spinorama-org]]
+[BIC America Venturi DV62si](../speakers/bic-america-venturi-dv62si.md) · [asr](../reviewers/asr.md) · [BIC America](../brands/bic-america.md) · [spinorama-org](spinorama-org.md)

@@ -38,4 +38,4 @@ Listening window = average of on-axis, ±10/20/30° horizontal and ±10° vertic
 Single hobbyist sample of each model (M2 build date not discernible; M1 July 2024). Reviewer notes Erin's Audio Corner video showed a 2 dB bass difference between M1 and M2 which he could not reproduce, possibly production variation. Low-frequency data are gated plus nearfield; no numeric f3 or LW deviation published.
 
 ## Related
-[[sony-ss-cs5m2]] · [[sony]]
+[Sony SS-CS5M2](../speakers/sony-ss-cs5m2.md) · [Sony](../brands/sony.md)

@@ -38,4 +38,4 @@ DRA Labs MLSSA with DPA 4006 microphone for farfield (tweeter axis at 50", 30-de
 Two samples measured with matching tweeter behaviour. Tier B; no CTA-2034 spinorama, so spinorama-derived fields stay null.
 
 ## Related
-[[bowers-wilkins-705-s3]] · [[stereophile]] · [[bowers-wilkins]]
+[Bowers & Wilkins 705 S3](../speakers/bowers-wilkins-705-s3.md) · [stereophile](../reviewers/stereophile.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

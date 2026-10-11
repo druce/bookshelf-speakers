@@ -24,4 +24,4 @@ Only one independent owner report was retrievable (AV Forums), so anecdotal. Red
 - QC/reliability: no failures reported; hollow-sounding cabinet knock noted by 1.
 
 ## Related
-[[dynaudio-emit-20]] · [[dynaudio]]
+[Dynaudio Emit 20](../speakers/dynaudio-emit-20.md) · [Dynaudio](../brands/dynaudio.md)

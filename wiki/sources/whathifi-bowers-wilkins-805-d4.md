@@ -29,4 +29,4 @@ Listening with Naim, Burmester and Rotel Michi electronics. Specs quoted from B&
 Single sample; review follows 2022 launch; no measurements.
 
 ## Related
-[[bowers-wilkins-805-d4]] · [[bowers-wilkins]]
+[Bowers & Wilkins 805 D4](../speakers/bowers-wilkins-805-d4.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

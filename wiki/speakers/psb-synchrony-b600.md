@@ -46,30 +46,30 @@ The PSB Synchrony B600 is PSB's flagship standmount: a 6 Ω-rated 6.5" ported tw
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 85.7 dB (average) | [[soundstage-nrc-psb-synchrony-b600]] | A | LW average 300 Hz-3 kHz |
-| Sensitivity | 87.2 dB | [[audioholics-psb-synchrony-b600]] | A | stated, gated measurement |
-| Sensitivity (claimed) | 86 dB anechoic / 88 dB room | [[mfr-psb-synchrony-b600]] | C | |
-| Min impedance | about 3.3 Ω near 190 Hz | [[soundstage-nrc-psb-synchrony-b600]] | A | graph-read (approx.) |
-| Min impedance | about 4 Ω near 200 Hz | [[audioholics-psb-synchrony-b600]] | A | stated; curve reads about 4.5 Ω |
-| Port tuning | about 45 Hz | [[audioholics-psb-synchrony-b600]] | A | from impedance graph |
-| Ground-plane bass | "elbow" near 40 Hz; about 80 dB at 45 Hz vs 83 dB at 100 Hz | [[audioholics-psb-synchrony-b600]] | A | graph-read (approx.); includes ground-plane gain, so f3 not entered |
-| LW (5-point) | about 84-88 dB, 100 Hz-20 kHz | [[soundstage-nrc-psb-synchrony-b600]] | A | graph-read (approx.); deviation not stated |
-| THD+N @ 90 dB, 2 m | about 2.4% near 100 Hz, about 1.6% near 1.4 kHz | [[soundstage-nrc-psb-synchrony-b600]] | A | graph-read (approx.); about 96 dB at 1 m |
-| Crossover | 2.2 kHz, 4th-order | [[mfr-psb-synchrony-b600]] | C | |
+| Sensitivity (2.83 V/1 m) | 85.7 dB (average) | [soundstage-nrc-psb-synchrony-b600](../sources/soundstage-nrc-psb-synchrony-b600.md) | A | LW average 300 Hz-3 kHz |
+| Sensitivity | 87.2 dB | [audioholics-psb-synchrony-b600](../sources/audioholics-psb-synchrony-b600.md) | A | stated, gated measurement |
+| Sensitivity (claimed) | 86 dB anechoic / 88 dB room | [mfr-psb-synchrony-b600](../sources/mfr-psb-synchrony-b600.md) | C | |
+| Min impedance | about 3.3 Ω near 190 Hz | [soundstage-nrc-psb-synchrony-b600](../sources/soundstage-nrc-psb-synchrony-b600.md) | A | graph-read (approx.) |
+| Min impedance | about 4 Ω near 200 Hz | [audioholics-psb-synchrony-b600](../sources/audioholics-psb-synchrony-b600.md) | A | stated; curve reads about 4.5 Ω |
+| Port tuning | about 45 Hz | [audioholics-psb-synchrony-b600](../sources/audioholics-psb-synchrony-b600.md) | A | from impedance graph |
+| Ground-plane bass | "elbow" near 40 Hz; about 80 dB at 45 Hz vs 83 dB at 100 Hz | [audioholics-psb-synchrony-b600](../sources/audioholics-psb-synchrony-b600.md) | A | graph-read (approx.); includes ground-plane gain, so f3 not entered |
+| LW (5-point) | about 84-88 dB, 100 Hz-20 kHz | [soundstage-nrc-psb-synchrony-b600](../sources/soundstage-nrc-psb-synchrony-b600.md) | A | graph-read (approx.); deviation not stated |
+| THD+N @ 90 dB, 2 m | about 2.4% near 100 Hz, about 1.6% near 1.4 kHz | [soundstage-nrc-psb-synchrony-b600](../sources/soundstage-nrc-psb-synchrony-b600.md) | A | graph-read (approx.); about 96 dB at 1 m |
+| Crossover | 2.2 kHz, 4th-order | [mfr-psb-synchrony-b600](../sources/mfr-psb-synchrony-b600.md) | C | |
 
 ## Directivity
-Audioholics reports dispersion that is not perfect but with consistent response shape off-axis, hence flat directivity indexes; off-axis becomes uneven beyond 30° and recessed above 5 kHz. Vertical window is about ±10° from the tweeter axis before the crossover null; listening with the woofer axis at ear level gives a smoother treble (the tweeter is the lower driver). NRC's listening axis is 12 in. up from the cabinet bottom. Beamwidth, DI smoothness and toe-in data were not computed (no Klippel data). See [[directivity-index]], [[early-reflections]].
+Audioholics reports dispersion that is not perfect but with consistent response shape off-axis, hence flat directivity indexes; off-axis becomes uneven beyond 30° and recessed above 5 kHz. Vertical window is about ±10° from the tweeter axis before the crossover null; listening with the woofer axis at ear level gives a smoother treble (the tweeter is the lower driver). NRC's listening axis is 12 in. up from the cabinet bottom. Beamwidth, DI smoothness and toe-in data were not computed (no Klippel data). See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-NRC THD+N at 90 dB/2 m (about 96 dB at 1 m) is about 2.4% near 100 Hz and under 2% in the midrange, rising steeply below 60 Hz; no compression test exists. Audioholics saw woofers near excursion limits at high levels and recommends a sub for loud bass, while SoundStage! played 95-100 dB peaks without strain (in-room, Tier D). Adequate for medium rooms; not for large rooms or listening distances beyond a few meters (Audioholics). See [[compression-and-max-spl]].
+NRC THD+N at 90 dB/2 m (about 96 dB at 1 m) is about 2.4% near 100 Hz and under 2% in the midrange, rising steeply below 60 Hz; no compression test exists. Audioholics saw woofers near excursion limits at high levels and recommends a sub for loud bass, while SoundStage! played 95-100 dB peaks without strain (in-room, Tier D). Adequate for medium rooms; not for large rooms or listening distances beyond a few meters (Audioholics). See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-6 Ω nominal, minimum about 3.3 Ω (NRC) to about 4 Ω (Audioholics) near 190-200 Hz with a steep phase angle, so flagged `effectively-4ohm` on the lower Tier-A value. Audioholics says to treat it as a 4 Ω speaker; PSB rates 15-150 W. EPDR not computed. Use an amplifier stable into 4 Ω with at least 100 W for medium rooms. See [[impedance-and-epdr]].
+6 Ω nominal, minimum about 3.3 Ω (NRC) to about 4 Ω (Audioholics) near 190-200 Hz with a steep phase angle, so flagged `effectively-4ohm` on the lower Tier-A value. Audioholics says to treat it as a 4 Ω speaker; PSB rates 15-150 W. EPDR not computed. Use an amplifier stable into 4 Ω with at least 100 W for medium rooms. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[audioholics-psb-synchrony-b600]] (Audioholics, 4.5/5 performance and value): good tonal accuracy, outstanding bass extension for a bookshelf, only flaw the binding posts.
-- [[soundstage-psb-synchrony-b600]] (SoundStage!, Reviewers' Choice): neutral, imaging first-rate, bass deeper than the Revel M126Be.
-- [[audiophilia-psb-synchrony-b600]] (Audiophilia, Star Component): incredible bass, wide stage; highs initially a bit hot.
+- [audioholics-psb-synchrony-b600](../sources/audioholics-psb-synchrony-b600.md) (Audioholics, 4.5/5 performance and value): good tonal accuracy, outstanding bass extension for a bookshelf, only flaw the binding posts.
+- [soundstage-psb-synchrony-b600](../sources/soundstage-psb-synchrony-b600.md) (SoundStage!, Reviewers' Choice): neutral, imaging first-rate, bass deeper than the Revel M126Be.
+- [audiophilia-psb-synchrony-b600](../sources/audiophilia-psb-synchrony-b600.md) (Audiophilia, Star Component): incredible bass, wide stage; highs initially a bit hot.
 
 ## User reviews
 No user reports ingested yet.
@@ -81,4 +81,4 @@ No user reports ingested yet.
 - Bass: SoundStage! in-room -3 dB at 25 Hz includes room gain; maker claims 50 Hz; ground-plane curve suggests about 40-45 Hz.
 
 ## Related
-[[psb]] · [[psb-imagine-b50]] · [[revel-m126be]] · [[bowers-wilkins-705-s3]] · [[impedance-and-epdr]] · [[compression-and-max-spl]]
+[PSB](../brands/psb.md) · [PSB Imagine B50](psb-imagine-b50.md) · [Revel M126Be](revel-m126be.md) · [Bowers & Wilkins 705 S3](bowers-wilkins-705-s3.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [compression-and-max-spl](../concepts/compression-and-max-spl.md)

@@ -29,10 +29,10 @@ Maker spec page for the passive OPAL1 two-way with dual passive radiators. Rated
 | dimensions | 7" x 9.5" x 14" (WxDxH) = 356 x 178 x 241 mm HxWxD | |
 | weight | 20.8 lb (9.4 kg) | per speaker presumed; shipping weight 52.9 lb for the pair |
 | power | 200 W | |
-| status/price | MSRP $1,038.99 listed; see [[mfr-dayton-audio-opal1]] for $499 clearance | |
+| status/price | MSRP $1,038.99 listed; see [mfr-dayton-audio-opal1](mfr-dayton-audio-opal1.md) for $499 clearance | |
 
 ## Reliability notes
 Maker figures, Tier C; never override measurements.
 
 ## Related
-[[dayton-audio-opal1]] · [[dayton-audio]]
+[Dayton Audio OPAL1](../speakers/dayton-audio-opal1.md) · [Dayton Audio](../brands/dayton-audio.md)

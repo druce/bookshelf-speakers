@@ -38,4 +38,4 @@ Retailer page, not the maker's own; the maker-direct page could not be fetched.
 Price at $4,400/pair is above the original $4,000 MSRP; confirm at a second retailer before use.
 
 ## Related
-[[revel-m126be]] · [[revel]]
+[Revel M126Be](../speakers/revel-m126be.md) · [Revel](../brands/revel.md)

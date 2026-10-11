@@ -45,4 +45,4 @@ Klippel Near-Field Scanner, reference at the tweeter, grille off; THD at 86/96 d
 Single loaner sample from SVS; manufacturer did not preview the review. Distortion and compression numbers are graph-read.
 
 ## Related
-[[svs-prime-bookshelf]] · [[erins-audio-corner]] · [[svs]] · [[spinorama-org]]
+[SVS Prime Bookshelf](../speakers/svs-prime-bookshelf.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [SVS](../brands/svs.md) · [spinorama-org](spinorama-org.md)

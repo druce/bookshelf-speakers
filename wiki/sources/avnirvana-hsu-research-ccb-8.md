@@ -27,7 +27,7 @@ Part one of a two-part review, listening to the CCB-8 as a stereo speaker. Ander
 Subjective listening, no measurements. Reviewer had a prior favourable view of Hsu's HB-1 MK2.
 
 ## Reliability notes
-Single reviewer; 2017 sample; contradicted on dispersion by [[asr-hsu-research-ccb-8]] and partly by [[audioholics-hsu-research-ccb-8]].
+Single reviewer; 2017 sample; contradicted on dispersion by [asr-hsu-research-ccb-8](asr-hsu-research-ccb-8.md) and partly by [audioholics-hsu-research-ccb-8](audioholics-hsu-research-ccb-8.md).
 
 ## Related
-[[hsu-research-ccb-8]] · [[hsu-research]]
+[Hsu Research CCB-8](../speakers/hsu-research-ccb-8.md) · [Hsu Research](../brands/hsu-research.md)

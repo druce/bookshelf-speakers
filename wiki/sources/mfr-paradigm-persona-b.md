@@ -34,4 +34,4 @@ Page text captured by WebFetch (model-extracted, not verbatim).
 Manufacturer claims (Tier C). The measured minimum impedance is below 4 Ω, so "8 ohm compatible" is generous.
 
 ## Related
-[[paradigm-persona-b]] · [[paradigm]]
+[Paradigm Persona B](../speakers/paradigm-persona-b.md) · [Paradigm](../brands/paradigm.md)

@@ -45,4 +45,4 @@ Klippel NFS, reference point at tweeter, grille off, speaker broken in. Multiton
 Single loaned sample; Erin states the manufacturer did not see the review before release. Computed F3 and Erin's text F3 differ by 10 Hz.
 
 ## Related
-[[neumi-silk-4]] · [[erins-audio-corner]] · [[spinorama-org]] · [[neumi]]
+[Neumi Silk 4](../speakers/neumi-silk-4.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [spinorama-org](spinorama-org.md) · [Neumi](../brands/neumi.md)

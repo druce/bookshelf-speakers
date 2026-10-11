@@ -43,4 +43,4 @@ Klippel NFS, speaker tested vertically (tweeter-centre reference axis); horizont
 Single purchased retail sample, no manufacturer involvement. Strongly negative tone; the subjective part is Tier D. A forum member's EQ-based score calculation (1.4 no-EQ) differs from the 2.2 computed here because of different orientation or method; the spinorama.org value is used.
 
 ## Related
-[[avantone-pro-cla-10]] · [[asr]] · [[avantone-pro]] · [[spinorama-org]]
+[Avantone Pro CLA-10](../speakers/avantone-pro-cla-10.md) · [asr](../reviewers/asr.md) · [Avantone Pro](../brands/avantone-pro.md) · [spinorama-org](spinorama-org.md)

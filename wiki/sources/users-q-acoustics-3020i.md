@@ -29,4 +29,4 @@ No failures or sample-variation reports.
 Clip file in raw is paraphrased with ids U1-U5.
 
 ## Related
-[[q-acoustics-3020i]] · [[asr-q-acoustics-3020i]]
+[Q Acoustics 3020i](../speakers/q-acoustics-3020i.md) · [asr-q-acoustics-3020i](asr-q-acoustics-3020i.md)

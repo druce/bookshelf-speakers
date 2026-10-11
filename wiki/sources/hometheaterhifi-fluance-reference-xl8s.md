@@ -29,4 +29,4 @@ Listening only, no measurements; Cambridge CXA61 and Marantz SR6009; Q Acoustics
 Manufacturer-supplied sample; system review where XL8S gets limited space.
 
 ## Related
-[[fluance-reference-xl8s]] · [[fluance]]
+[Fluance Reference XL8S](../speakers/fluance-reference-xl8s.md) · [Fluance](../brands/fluance.md)

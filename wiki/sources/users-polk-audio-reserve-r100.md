@@ -24,4 +24,4 @@ Five thin reports; anecdotal. Retailer review pages (Best Buy) timed out.
 - QC/reliability: none reported.
 
 ## Related
-[[polk-audio-reserve-r100]]
+[Polk Audio Reserve R100](../speakers/polk-audio-reserve-r100.md)

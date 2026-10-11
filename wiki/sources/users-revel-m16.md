@@ -29,4 +29,4 @@ No QC problems reported.
 Slickdeals and What Hi-Fi forum fetched via WebFetch (model-extracted). Raw ASR page-2 saved at raw/reviews-user/asrthread-revel-m16-p2.md.
 
 ## Related
-[[revel-m16]] · [[asr]]
+[Revel M16](../speakers/revel-m16.md) · [asr](../reviewers/asr.md)

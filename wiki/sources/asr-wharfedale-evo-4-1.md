@@ -43,4 +43,4 @@ Klippel NFS, reference axis at AMT centre. Room 15 °C. Best vertical response a
 Single purchased sample (partly member-funded); no manufacturer involvement. Impedance and THD read from graphs.
 
 ## Related
-[[wharfedale-evo-4-1]] · [[asr]] · [[wharfedale]] · [[spinorama-org]]
+[Wharfedale EVO 4.1](../speakers/wharfedale-evo-4-1.md) · [asr](../reviewers/asr.md) · [Wharfedale](../brands/wharfedale.md) · [spinorama-org](spinorama-org.md)

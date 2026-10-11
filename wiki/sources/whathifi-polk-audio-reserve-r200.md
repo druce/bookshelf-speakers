@@ -28,4 +28,4 @@ Australian Sound+Image review republished by What Hi-Fi?. Positive: powerful per
 Sound United-adjacent distributor context (reviewer used Sound United amplifiers). Tier D.
 
 ## Related
-[[polk-audio-reserve-r200]] · [[polk-audio]]
+[Polk Audio Reserve R200](../speakers/polk-audio-reserve-r200.md) · [Polk Audio](../brands/polk-audio.md)

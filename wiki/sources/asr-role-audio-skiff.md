@@ -44,4 +44,4 @@ Klippel NFS, grille not removable. Reviewer notes the response is flat to DC, so
 Single loaned sample. Impedance minimum is the reviewer's graph label. Distortion tested at lower levels than usual, so not directly comparable to 86/96 dB THD for other speakers.
 
 ## Related
-[[role-audio-skiff]] · [[asr]] · [[role-audio]] · [[spinorama-org]]
+[Role Audio Skiff](../speakers/role-audio-skiff.md) · [asr](../reviewers/asr.md) · [Role Audio](../brands/role-audio.md) · [spinorama-org](spinorama-org.md)

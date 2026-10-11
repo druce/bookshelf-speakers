@@ -32,4 +32,4 @@ Subjective only, no measurements. Magnetic grilles and woven-veneer MDF cabinet 
 Single outlet, unnamed author, sample provenance not stated. Tier D.
 
 ## Related
-[[neumi-silk-4]] · [[neumi]]
+[Neumi Silk 4](../speakers/neumi-silk-4.md) · [Neumi](../brands/neumi.md)

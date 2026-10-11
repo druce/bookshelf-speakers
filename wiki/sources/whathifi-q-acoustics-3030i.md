@@ -31,4 +31,4 @@ Listening only. Lists spec 46 Hz-30 kHz (claimed), 6 Ω, 88 dB.
 Date of the supersession note is not given.
 
 ## Related
-[[q-acoustics-3030i]] · [[q-acoustics]]
+[Q Acoustics 3030i](../speakers/q-acoustics-3030i.md) · [Q Acoustics](../brands/q-acoustics.md)

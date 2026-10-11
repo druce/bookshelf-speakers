@@ -44,4 +44,4 @@ Klippel Near-Field Scanner, reference point at tweeter, grille off, speaker brok
 Single loaned sample (from a viewer). Graph-read values are approximate. Erin explicitly notes disagreement with positive reviews elsewhere.
 
 ## Related
-[[acoustic-energy-ae100-mk2]] · [[erins-audio-corner]] · [[acoustic-energy]] · [[spinorama-org]]
+[Acoustic Energy AE100 Mk2](../speakers/acoustic-energy-ae100-mk2.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Acoustic Energy](../brands/acoustic-energy.md) · [spinorama-org](spinorama-org.md)

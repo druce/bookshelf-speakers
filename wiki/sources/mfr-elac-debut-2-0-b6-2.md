@@ -34,4 +34,4 @@ Manufacturer spec page for the 6 Ω, 6.5" two-way front-ported standmount. No di
 Manufacturer claims (Tier C). Measured sensitivity is 86.2 dB (ASR export) or 84.5 dB (EAC) against 87 dB claimed.
 
 ## Related
-[[elac-debut-2-0-b6-2]] · [[elac]]
+[Elac Debut 2.0 B6.2](../speakers/elac-debut-2-0-b6-2.md) · [Elac](../brands/elac.md)

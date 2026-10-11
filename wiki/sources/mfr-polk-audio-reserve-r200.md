@@ -38,4 +38,4 @@ Maker figures, Tier C. polkaudio.com mirror hosted by Sound United used for scri
 Claimed -3 dB 51 Hz vs measured f3 68 Hz. Page cites a The Absolute Sound "Bookshelf Loudspeaker of The Year" award (category/year not verified).
 
 ## Related
-[[polk-audio-reserve-r200]] · [[polk-audio]]
+[Polk Audio Reserve R200](../speakers/polk-audio-reserve-r200.md) · [Polk Audio](../brands/polk-audio.md)

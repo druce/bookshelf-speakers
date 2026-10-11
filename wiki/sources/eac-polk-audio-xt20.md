@@ -41,7 +41,7 @@ Klippel NFS data on a purchased sample, from the same lineup series as the XT15.
 Klippel NFS, tweeter reference, grille off. Instant compression test (76 dB baseline vs 86/96/102 dB). Graph values read by eye.
 
 ## Reliability notes
-Single purchased sample. Specs quoted match [[mfr-polk-audio-xt20]].
+Single purchased sample. Specs quoted match [mfr-polk-audio-xt20](mfr-polk-audio-xt20.md).
 
 ## Related
-[[polk-audio-xt20]] · [[erins-audio-corner]] · [[polk-audio]] · [[spinorama-org]]
+[Polk Audio Monitor XT20](../speakers/polk-audio-xt20.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Polk Audio](../brands/polk-audio.md) · [spinorama-org](spinorama-org.md)

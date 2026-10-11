@@ -33,4 +33,4 @@ speakers: [yamaha-ns-800a]
 Maker table extracted from page HTML. Status "current": listed on Yamaha USA, orderable at US retailers.
 
 ## Related
-[[yamaha-ns-800a]] · [[yamaha]]
+[Yamaha NS-800A](../speakers/yamaha-ns-800a.md) · [Yamaha](../brands/yamaha.md)

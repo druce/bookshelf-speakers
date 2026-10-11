@@ -9,12 +9,12 @@ last_updated: 2026-10-11
 # JBL
 
 ## Overview
-JBL's only paged model is the Stage 250B, the largest standmount in the Stage 2 series that replaced Stage A in 2024 ([[mfr-jbl-stage-250b]]). Erin's data show it rated 6 Ω yet measuring 3.3 Ω minimum, with linearity that benefits from EQ ([[eac-jbl-stage-250b]]); a sponsored Japanese review praised its energetic sound ([[phileweb-jbl-stage-250b]]).
+JBL's only paged model is the Stage 250B, the largest standmount in the Stage 2 series that replaced Stage A in 2024 ([mfr-jbl-stage-250b](../sources/mfr-jbl-stage-250b.md)). Erin's data show it rated 6 Ω yet measuring 3.3 Ω minimum, with linearity that benefits from EQ ([eac-jbl-stage-250b](../sources/eac-jbl-stage-250b.md)); a sponsored Japanese review praised its energetic sound ([phileweb-jbl-stage-250b](../sources/phileweb-jbl-stage-250b.md)).
 
 ## Models in this wiki
 | Model | Price/pr | Rated Ω | Min Ω (flag) | LW ±dB | f3 Hz | Sens. dB | Pref (w/sub) |
 |---|---|---|---|---|---|---|---|
-| [[jbl-stage-250b]] | $440 | 6 | 3.3 (effectively-4ohm) | 2.3 | 63 | 85.5 | 4.1 (6.6) |
+| [JBL Stage 250B](../speakers/jbl-stage-250b.md) | $440 | 6 | 3.3 (effectively-4ohm) | 2.3 | 63 | 85.5 | 4.1 (6.6) |
 
 ## Other models screened
 - 708i passive — out-of-scope: nominal impedance not stated by maker (spec page and Audioholics preview say not rated); ASR review does not state it either. 8 in woofer, 438 mm tall, passive pro monitor, ~$1,599 each at RSPE
@@ -34,7 +34,7 @@ JBL's only paged model is the Stage 250B, the largest standmount in the Stage 2 
 - 1 of 1 paged model is effectively-4ohm (3.3 Ω minimum vs 6 Ω rating).
 - Sensitivity is close to claim: 85.5 vs 86.0 dB.
 - Of 12 other models screened, 8 are out of scope (5 rated 4 Ω, 2 too large, 1 with no stated impedance) and 4 are discontinued.
-- 5 user reports gathered, anecdotal, no failure reports ([[users-jbl-stage-250b]]).
+- 5 user reports gathered, anecdotal, no failure reports ([users-jbl-stage-250b](../sources/users-jbl-stage-250b.md)).
 
 ## Related
-[[jbl-stage-250b]] · [[impedance-and-epdr]] · [[sensitivity-normalization]] · [[preference-score]] · [[candidate-universe]]
+[JBL Stage 250B](../speakers/jbl-stage-250b.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [sensitivity-normalization](../concepts/sensitivity-normalization.md) · [preference-score](../concepts/preference-score.md) · [candidate-universe](../comparisons/candidate-universe.md)

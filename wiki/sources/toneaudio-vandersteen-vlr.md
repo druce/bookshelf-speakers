@@ -27,7 +27,7 @@ Glowing subjective review, read from a reprint hosted by the manufacturer. Price
 Subjective, multiple amplifiers, mixed with comparison to the LS50.
 
 ## Reliability notes
-Tier D. Hosted by the manufacturer (selection bias). Review is seven years older than the ASR measurement and says nothing about the 2.3 Ω impedance dip measured later; its "easy to drive" claim conflicts with [[asr-vandersteen-vlr]].
+Tier D. Hosted by the manufacturer (selection bias). Review is seven years older than the ASR measurement and says nothing about the 2.3 Ω impedance dip measured later; its "easy to drive" claim conflicts with [asr-vandersteen-vlr](asr-vandersteen-vlr.md).
 
 ## Related
-[[vandersteen-vlr]] · [[vandersteen]]
+[Vandersteen VLR](../speakers/vandersteen-vlr.md) · [Vandersteen](../brands/vandersteen.md)

@@ -28,4 +28,4 @@ Verdict: poise and agility uncommon at the price; worthy of consideration if you
 Subjective Tier D; no measurements; star rating not captured.
 
 ## Related
-[[psb-alpha-p3]] · [[psb]]
+[PSB Alpha P3](../speakers/psb-alpha-p3.md) · [PSB](../brands/psb.md)

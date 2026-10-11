@@ -26,4 +26,4 @@ No individual forum or Reddit reports could be retrieved. Only the maker-hosted 
 Maker-curated and aggregated; not countable as independent reports.
 
 ## Related
-[[svs-prime-bookshelf]] · [[svs]]
+[SVS Prime Bookshelf](../speakers/svs-prime-bookshelf.md) · [SVS](../brands/svs.md)

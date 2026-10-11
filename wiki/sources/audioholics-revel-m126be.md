@@ -36,4 +36,4 @@ Free-air at 7.5 ft height, 2 m, gated at 9 ms: resolution lost below 250 Hz and 
 Gated outdoor measurement (Tier A per CLAUDE.md for Audioholics but with limited LF and no numeric spinorama values extracted). Sensitivity is 2 dB above the Klippel computation. Single review sample from the manufacturer.
 
 ## Related
-[[revel-m126be]] · [[audioholics]] · [[revel]]
+[Revel M126Be](../speakers/revel-m126be.md) · [audioholics](../reviewers/audioholics.md) · [Revel](../brands/revel.md)

@@ -27,7 +27,7 @@ Manufacturer page for the Signature version of the 805 D4 (upgraded crossover, m
 | price | $14,000 per pair | B&W US; earlier $13,500 (Stereophile, 2024) and $12,000 (SoundStage! Ultra, 2025) |
 
 ## Reliability notes
-Tier C. Same cabinet as the standard [[bowers-wilkins-805-d4]].
+Tier C. Same cabinet as the standard [Bowers & Wilkins 805 D4](../speakers/bowers-wilkins-805-d4.md).
 
 ## Related
-[[bowers-wilkins-805-d4-signature]] · [[bowers-wilkins]]
+[Bowers & Wilkins 805 D4 Signature](../speakers/bowers-wilkins-805-d4-signature.md) · [Bowers & Wilkins](../brands/bowers-wilkins.md)

@@ -46,34 +46,34 @@ The PSB Imagine B50 is an 8 Ω-rated, two-way ported standmount with a 1" titani
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 83.9 dB (low) | [[eac-psb-imagine-b50]] | A | computed (scripts/cta2034.py v2) |
-| Sensitivity | 83.8 dB | [[soundstage-nrc-psb-imagine-b50]] | A | LW average 300 Hz-3 kHz |
-| Sensitivity (claimed) | 85 dB anechoic / 87 dB room | [[mfr-psb-imagine-b50]] | C | |
-| Listening-window deviation | ±2.2 dB, 300 Hz-10 kHz (good) | [[eac-psb-imagine-b50]] | A | computed |
-| On-axis deviation | ±2.4 dB | [[eac-psb-imagine-b50]] | A | computed; Erin states linearity -3.2/+2.4 dB |
-| f3 / f6 | 64 / 50 Hz (modest) | [[eac-psb-imagine-b50]] | A | computed |
-| LW -3 dB point | roughly 70-75 Hz | [[soundstage-nrc-psb-imagine-b50]] | A | graph-read (approx.) |
-| Min impedance | 4.1 Ω near 200 Hz | [[eac-psb-imagine-b50]] | A | annotation (above 80 Hz); frequency graph-read |
-| Min impedance | about 4.1 Ω near 150-200 Hz | [[soundstage-nrc-psb-imagine-b50]] | A | graph-read (approx.) |
-| Min EPDR | 2.1 Ω above 80 Hz | [[eac-psb-imagine-b50]] | A | stated |
-| THD @ 86 dB/1 m | about 0.9% worst case 100 Hz-10 kHz | [[eac-psb-imagine-b50]] | A | graph-read (approx.) |
-| THD @ 96 dB/1 m | about 3.1% worst case near 90-100 Hz | [[eac-psb-imagine-b50]] | A | graph-read (approx.) |
-| THD+N @ 90 dB, 2 m | about 1.8-2.5% | [[soundstage-nrc-psb-imagine-b50]] | A | graph-read (approx.) |
-| Preference score | 4.63 (no sub) / 6.92 (with sub) | [[eac-psb-imagine-b50]] via [[spinorama-org]] | A | not meaningful to <0.5 |
+| Sensitivity (2.83 V/1 m) | 83.9 dB (low) | [eac-psb-imagine-b50](../sources/eac-psb-imagine-b50.md) | A | computed (scripts/cta2034.py v2) |
+| Sensitivity | 83.8 dB | [soundstage-nrc-psb-imagine-b50](../sources/soundstage-nrc-psb-imagine-b50.md) | A | LW average 300 Hz-3 kHz |
+| Sensitivity (claimed) | 85 dB anechoic / 87 dB room | [mfr-psb-imagine-b50](../sources/mfr-psb-imagine-b50.md) | C | |
+| Listening-window deviation | ±2.2 dB, 300 Hz-10 kHz (good) | [eac-psb-imagine-b50](../sources/eac-psb-imagine-b50.md) | A | computed |
+| On-axis deviation | ±2.4 dB | [eac-psb-imagine-b50](../sources/eac-psb-imagine-b50.md) | A | computed; Erin states linearity -3.2/+2.4 dB |
+| f3 / f6 | 64 / 50 Hz (modest) | [eac-psb-imagine-b50](../sources/eac-psb-imagine-b50.md) | A | computed |
+| LW -3 dB point | roughly 70-75 Hz | [soundstage-nrc-psb-imagine-b50](../sources/soundstage-nrc-psb-imagine-b50.md) | A | graph-read (approx.) |
+| Min impedance | 4.1 Ω near 200 Hz | [eac-psb-imagine-b50](../sources/eac-psb-imagine-b50.md) | A | annotation (above 80 Hz); frequency graph-read |
+| Min impedance | about 4.1 Ω near 150-200 Hz | [soundstage-nrc-psb-imagine-b50](../sources/soundstage-nrc-psb-imagine-b50.md) | A | graph-read (approx.) |
+| Min EPDR | 2.1 Ω above 80 Hz | [eac-psb-imagine-b50](../sources/eac-psb-imagine-b50.md) | A | stated |
+| THD @ 86 dB/1 m | about 0.9% worst case 100 Hz-10 kHz | [eac-psb-imagine-b50](../sources/eac-psb-imagine-b50.md) | A | graph-read (approx.) |
+| THD @ 96 dB/1 m | about 3.1% worst case near 90-100 Hz | [eac-psb-imagine-b50](../sources/eac-psb-imagine-b50.md) | A | graph-read (approx.) |
+| THD+N @ 90 dB, 2 m | about 1.8-2.5% | [soundstage-nrc-psb-imagine-b50](../sources/soundstage-nrc-psb-imagine-b50.md) | A | graph-read (approx.) |
+| Preference score | 4.63 (no sub) / 6.92 (with sub) | [eac-psb-imagine-b50](../sources/eac-psb-imagine-b50.md) via [spinorama-org](../sources/spinorama-org.md) | A | not meaningful to <0.5 |
 
 ## Directivity
-Horizontal -6 dB beamwidth about 132°, vertical about 93°. DI is classed major-discontinuity (ERDI residual 2.2 dB); Erin attributes a horizontal mismatch near 4 kHz to edge diffraction, with the tweeter wider than the narrowing mid/woofer. Early-reflection dip near 1.5 kHz is 1.8 dB, under the 3 dB flag. SPDI rises from 4.8 dB at 1 kHz to 8.8 dB at 10 kHz. On-axis minus listening window above 4 kHz is +1.1 dB, so on-axis is slightly brighter than the window: use modest toe-in or cross the axes in front of the listener. Erin suggests listening slightly above the tweeter axis. See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth about 132°, vertical about 93°. DI is classed major-discontinuity (ERDI residual 2.2 dB); Erin attributes a horizontal mismatch near 4 kHz to edge diffraction, with the tweeter wider than the narrowing mid/woofer. Early-reflection dip near 1.5 kHz is 1.8 dB, under the 3 dB flag. SPDI rises from 4.8 dB at 1 kHz to 8.8 dB at 10 kHz. On-axis minus listening window above 4 kHz is +1.1 dB, so on-axis is slightly brighter than the window: use modest toe-in or cross the axes in front of the listener. Erin suggests listening slightly above the tweeter axis. See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Erin measured about 0.9% worst-case THD at 86 dB and about 3.1% at 96 dB (100 Hz-10 kHz, graph-read), staying below 3% down to about 50 Hz at 86 dB. Compression at 102 dB vs a 76 dB reference stays within about 1.1 dB above 100 Hz, with about -1.7 dB near 60 Hz; max_spl_db 102 is the highest level tested, not a measured limit. NRC's THD+N at 90 dB/2 m is similar (about 2-2.5%). Fine for small to medium rooms at moderate-to-loud levels; deep bass at high levels will be port-limited. See [[compression-and-max-spl]].
+Erin measured about 0.9% worst-case THD at 86 dB and about 3.1% at 96 dB (100 Hz-10 kHz, graph-read), staying below 3% down to about 50 Hz at 86 dB. Compression at 102 dB vs a 76 dB reference stays within about 1.1 dB above 100 Hz, with about -1.7 dB near 60 Hz; max_spl_db 102 is the highest level tested, not a measured limit. NRC's THD+N at 90 dB/2 m is similar (about 2-2.5%). Fine for small to medium rooms at moderate-to-loud levels; deep bass at high levels will be port-limited. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-8 Ω nominal but about 4.1 Ω minimum near 200 Hz (two sources agree), below the IEC 6.4 Ω floor, so flagged `below-iec`. EPDR minimum is 2.1 Ω, making it a moderately demanding load; phase stays within about ±50°. Use a stable amplifier rated for 4 Ω; PSB recommends 20-150 W. See [[impedance-and-epdr]].
+8 Ω nominal but about 4.1 Ω minimum near 200 Hz (two sources agree), below the IEC 6.4 Ω floor, so flagged `below-iec`. EPDR minimum is 2.1 Ω, making it a moderately demanding load; phase stays within about ±50°. Use a stable amplifier rated for 4 Ω; PSB recommends 20-150 W. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[soundstage-psb-imagine-b50]] (SoundStage!, Reviewers' Choice): even midrange, good dispersion, bass deeper than expected, little compression.
-- [[witchdoctor-psb-imagine-b50]] (Witchdoctor, Gold Badge): coherent, tuneful bass, not for rock/loudness seekers.
-- [[eac-psb-imagine-b50]] (Erin, Tier D listening notes): preferred the T65 tower; midrange bounce was distracting; output fine for the class.
+- [soundstage-psb-imagine-b50](../sources/soundstage-psb-imagine-b50.md) (SoundStage!, Reviewers' Choice): even midrange, good dispersion, bass deeper than expected, little compression.
+- [witchdoctor-psb-imagine-b50](../sources/witchdoctor-psb-imagine-b50.md) (Witchdoctor, Gold Badge): coherent, tuneful bass, not for rock/loudness seekers.
+- [eac-psb-imagine-b50](../sources/eac-psb-imagine-b50.md) (Erin, Tier D listening notes): preferred the T65 tower; midrange bounce was distracting; output fine for the class.
 
 ## User reviews
 No user reports ingested yet.
@@ -84,4 +84,4 @@ No user reports ingested yet.
 - Price: about $700/pair in 2024 (Erin, SoundStage) vs $999 at Audio Advisor now; PSB site lists C$1,199.
 
 ## Related
-[[psb]] · [[psb-alpha-p5]] · [[psb-synchrony-b600]] · [[revel-m16]] · [[monitor-audio-bronze-50-7g]] · [[impedance-and-epdr]] · [[directivity-index]]
+[PSB](../brands/psb.md) · [PSB Alpha P5](psb-alpha-p5.md) · [PSB Synchrony B600](psb-synchrony-b600.md) · [Revel M16](revel-m16.md) · [Monitor Audio Bronze 50 7G](monitor-audio-bronze-50-7g.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [directivity-index](../concepts/directivity-index.md)

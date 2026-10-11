@@ -46,4 +46,4 @@ Klippel Near-Field Scanner; reference point at the tweeter, grille off, speaker 
 Single loaned sample (Aegis Distribution). Distortion values are read from graphs. The 4.9 Ω and 2.5 Ω minima are stated on the plot text.
 
 ## Related
-[[dynaudio-special-forty]] · [[erins-audio-corner]] · [[dynaudio]] · [[spinorama-org]]
+[Dynaudio Special Forty](../speakers/dynaudio-special-forty.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [Dynaudio](../brands/dynaudio.md) · [spinorama-org](spinorama-org.md)

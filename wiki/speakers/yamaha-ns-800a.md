@@ -46,31 +46,31 @@ The Yamaha NS-800A is a 6 Ω, 2-way, 6.5" bass-reflex standmount (1.25" dome) pr
 ## Measurements
 | Metric | Value | Source | Tier | Note |
 |---|---|---|---|---|
-| Sensitivity (2.83 V/1 m) | 84.6 dB (average) | [[eac-yamaha-ns-800a]] | A | computed (scripts/cta2034.py v2) |
-| Sensitivity | 86.2 dB | [[audioholics-yamaha-ns-800a]] | B | stated; claimed 86.5 per [[mfr-yamaha-ns-800a]] |
-| Listening-window deviation | ±2.2 dB, 300 Hz-10 kHz (good) | [[eac-yamaha-ns-800a]] | A | computed |
-| On-axis deviation | ±2.3 dB (good) | [[eac-yamaha-ns-800a]] | A | computed |
-| f3 / f6 | 57 / 40 Hz (good) | [[eac-yamaha-ns-800a]] | A | computed; Audioholics gated data unreliable below ~110 Hz |
-| Port tuning | ~40 Hz | [[audioholics-yamaha-ns-800a]] | B | ground-plane |
-| Min impedance | 4.3 Ω (above 80 Hz) | [[eac-yamaha-ns-800a]] | A | stated on plot; maker claims 3.8 Ω |
-| EPDR min | 2.1 Ω (above 80 Hz) | [[eac-yamaha-ns-800a]] | A | stated on plot |
-| THD 86 dB @1 m | ~0.7% (peak at ~100 Hz) | [[eac-yamaha-ns-800a]] | A | graph-read (approx.); clean |
-| THD 96 dB @1 m | ~2.2% (at ~100 Hz) | [[eac-yamaha-ns-800a]] | A | graph-read (approx.) |
-| Compression | ≤~1.3 dB at 102 dB @1 m | [[eac-yamaha-ns-800a]] | A | graph-read; sweep referenced to 76 dB |
-| Preference score | 4.7 (no sub) / 6.4 (with sub) | [[eac-yamaha-ns-800a]] via [[spinorama-org]] | A | coarse aid |
+| Sensitivity (2.83 V/1 m) | 84.6 dB (average) | [eac-yamaha-ns-800a](../sources/eac-yamaha-ns-800a.md) | A | computed (scripts/cta2034.py v2) |
+| Sensitivity | 86.2 dB | [audioholics-yamaha-ns-800a](../sources/audioholics-yamaha-ns-800a.md) | B | stated; claimed 86.5 per [mfr-yamaha-ns-800a](../sources/mfr-yamaha-ns-800a.md) |
+| Listening-window deviation | ±2.2 dB, 300 Hz-10 kHz (good) | [eac-yamaha-ns-800a](../sources/eac-yamaha-ns-800a.md) | A | computed |
+| On-axis deviation | ±2.3 dB (good) | [eac-yamaha-ns-800a](../sources/eac-yamaha-ns-800a.md) | A | computed |
+| f3 / f6 | 57 / 40 Hz (good) | [eac-yamaha-ns-800a](../sources/eac-yamaha-ns-800a.md) | A | computed; Audioholics gated data unreliable below ~110 Hz |
+| Port tuning | ~40 Hz | [audioholics-yamaha-ns-800a](../sources/audioholics-yamaha-ns-800a.md) | B | ground-plane |
+| Min impedance | 4.3 Ω (above 80 Hz) | [eac-yamaha-ns-800a](../sources/eac-yamaha-ns-800a.md) | A | stated on plot; maker claims 3.8 Ω |
+| EPDR min | 2.1 Ω (above 80 Hz) | [eac-yamaha-ns-800a](../sources/eac-yamaha-ns-800a.md) | A | stated on plot |
+| THD 86 dB @1 m | ~0.7% (peak at ~100 Hz) | [eac-yamaha-ns-800a](../sources/eac-yamaha-ns-800a.md) | A | graph-read (approx.); clean |
+| THD 96 dB @1 m | ~2.2% (at ~100 Hz) | [eac-yamaha-ns-800a](../sources/eac-yamaha-ns-800a.md) | A | graph-read (approx.) |
+| Compression | ≤~1.3 dB at 102 dB @1 m | [eac-yamaha-ns-800a](../sources/eac-yamaha-ns-800a.md) | A | graph-read; sweep referenced to 76 dB |
+| Preference score | 4.7 (no sub) / 6.4 (with sub) | [eac-yamaha-ns-800a](../sources/eac-yamaha-ns-800a.md) via [spinorama-org](../sources/spinorama-org.md) | A | coarse aid |
 
 ## Directivity
-Horizontal -6 dB beamwidth ~141°, vertical ~123°: very wide. DI smooth with minor discontinuity (ERDI residual 1.4 dB); SPDI rises from 5.5 dB at 1 kHz to 6.8 dB at 10 kHz. Early-reflection dip at 1.5 kHz is 1.5 dB (no flag). On-axis minus listening window above 4 kHz is +0.6 dB, so toe-in is a taste choice. Audioholics saw mild waistbanding at 1-2 kHz and advised keeping ears within ±10° vertically of the tweeter (tweeter spaced far from woofer). See [[directivity-index]], [[early-reflections]].
+Horizontal -6 dB beamwidth ~141°, vertical ~123°: very wide. DI smooth with minor discontinuity (ERDI residual 1.4 dB); SPDI rises from 5.5 dB at 1 kHz to 6.8 dB at 10 kHz. Early-reflection dip at 1.5 kHz is 1.5 dB (no flag). On-axis minus listening window above 4 kHz is +0.6 dB, so toe-in is a taste choice. Audioholics saw mild waistbanding at 1-2 kHz and advised keeping ears within ±10° vertically of the tweeter (tweeter spaced far from woofer). See [directivity-index](../concepts/directivity-index.md), [early-reflections](../concepts/early-reflections.md).
 
 ## Output & distortion
-Erin's THD is low: roughly 0.7% at 86 dB and 2.2% at 96 dB at the 100 Hz worst point (graph-read), under 1% above ~300 Hz at 96 dB. Instantaneous compression stays within about 1.3 dB even at 102 dB @1 m, so max SPL is at least 102 dB (limit not reached in test). Audioholics nonetheless found dynamic range a bit limited for the price. Fine for small-to-medium rooms and moderate-to-loud levels; sub advisable for large rooms. See [[compression-and-max-spl]].
+Erin's THD is low: roughly 0.7% at 86 dB and 2.2% at 96 dB at the 100 Hz worst point (graph-read), under 1% above ~300 Hz at 96 dB. Instantaneous compression stays within about 1.3 dB even at 102 dB @1 m, so max SPL is at least 102 dB (limit not reached in test). Audioholics nonetheless found dynamic range a bit limited for the price. Fine for small-to-medium rooms and moderate-to-loud levels; sub advisable for large rooms. See [compression-and-max-spl](../concepts/compression-and-max-spl.md).
 
 ## Amplifier load
-6 Ω nominal. EAC measured 4.3 Ω minimum (maker says 3.8 Ω) and EPDR 2.1 Ω; 4.3 Ω is under the IEC 80% floor of 4.8 Ω, so flagged `below-iec`. Audioholics judged the load benign ("any amplifier should drive it"). Phase swings roughly +65° to -70° (EAC graph, approx.). EPDR near 2 Ω suggests a stable amp rated for 4 Ω. See [[impedance-and-epdr]].
+6 Ω nominal. EAC measured 4.3 Ω minimum (maker says 3.8 Ω) and EPDR 2.1 Ω; 4.3 Ω is under the IEC 80% floor of 4.8 Ω, so flagged `below-iec`. Audioholics judged the load benign ("any amplifier should drive it"). Phase swings roughly +65° to -70° (EAC graph, approx.). EPDR near 2 Ω suggests a stable amp rated for 4 Ω. See [impedance-and-epdr](../concepts/impedance-and-epdr.md).
 
 ## Critic reviews
-- [[audioholics-yamaha-ns-800a]] (Audioholics, 4.5/5): balanced, accurate; impressive bass for size; excellent imaging; pricey and dynamically limited.
-- [[eac-yamaha-ns-800a]] (Erin's Audio Corner, Tier D notes): bright treble, weak bass unless near a wall; EQ helps.
+- [audioholics-yamaha-ns-800a](../sources/audioholics-yamaha-ns-800a.md) (Audioholics, 4.5/5): balanced, accurate; impressive bass for size; excellent imaging; pricey and dynamically limited.
+- [eac-yamaha-ns-800a](../sources/eac-yamaha-ns-800a.md) (Erin's Audio Corner, Tier D notes): bright treble, weak bass unless near a wall; EQ helps.
 
 ## User reviews
 No user reports ingested yet. (Audioholics forum comments reportedly praise the finish; page not retrievable.)
@@ -82,4 +82,4 @@ No user reports ingested yet. (Audioholics forum comments reportedly praise the 
 - Price: 4,999.90 list pair vs discounted listings (B&H 1,299.95 each, New-Age 1,699.95 each); pair price used is list.
 
 ## Related
-[[yamaha]] · [[elac-debut-reference-dbr-62]] · [[revel-m16]] · [[kef-ls50-meta]] · [[spinorama]] · [[preference-score]]
+[Yamaha](../brands/yamaha.md) · [Elac Debut Reference DBR-62](elac-debut-reference-dbr-62.md) · [Revel M16](revel-m16.md) · [KEF LS50 Meta](kef-ls50-meta.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

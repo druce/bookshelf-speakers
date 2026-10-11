@@ -33,4 +33,4 @@ NRC anechoic chamber, tweeter-axis measuring position, grille off, measured at 2
 Single sample supplied for the SoundStage! review. The raw capture holds only the measurements page, with values on chart images.
 
 ## Related
-[[revel-m106]] · [[soundstage-nrc]] · [[revel]] · [[soundstage-revel-m106]]
+[Revel M106](../speakers/revel-m106.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md) · [Revel](../brands/revel.md) · [soundstage-revel-m106](soundstage-revel-m106.md)

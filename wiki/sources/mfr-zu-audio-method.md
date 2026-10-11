@@ -35,4 +35,4 @@ speakers: [zu-audio-method]
 Page capture is model-extracted. Positive Feedback quotes 93 dB; older price 699 each.
 
 ## Related
-[[zu-audio-method]] · [[zu-audio]]
+[Zu Audio Method](../speakers/zu-audio-method.md) · [Zu Audio](../brands/zu-audio.md)
