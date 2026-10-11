@@ -1,3 +1,12 @@
 .DS_Store
 __pycache__/
 *.pyc
+
+# Third-party source copies stay local (see raw/MANIFEST.md). Only the manifest and the
+# spinorama.org metadata export are published.
+raw/measurements/
+raw/reviews-critic/
+raw/reviews-user/
+raw/manufacturer/
+raw/assets/
+raw/spinorama/*/
