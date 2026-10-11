@@ -1,0 +1,58 @@
+{
+ "slug": "acoustic-energy-ae100-mk2",
+ "brand": "Acoustic Energy",
+ "model": "AE100 Mk2",
+ "brand_slug": "acoustic-energy",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 499,
+ "price_source": "https://www.ecoustics.com/reviews/acoustic-energy-ae100-mk2/ (Amazon $499/pair, 2024-04-20); live US stock not verified",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/acoustic-energy-ae100-mk2.md",
+  "wiki/sources/eac-acoustic-energy-ae100-mk2.md",
+  "wiki/sources/stereonet-acoustic-energy-ae100-mk2.md",
+  "wiki/sources/ecoustics-acoustic-energy-ae100-mk2.md",
+  "wiki/sources/hifireport-acoustic-energy-ae100-mk2.md",
+  "wiki/sources/mfr-acoustic-energy-ae100-mk2.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/eac-acoustic-energy-ae100-mk2.md",
+  "raw/reviews-critic/stereonet-acoustic-energy-ae100-mk2.md",
+  "raw/reviews-critic/ecoustics-acoustic-energy-ae100-mk2.md",
+  "raw/reviews-critic/hifireport-acoustic-energy-ae100-mk2.md",
+  "raw/manufacturer/mfr-acoustic-energy-ae100-mk2.md",
+  "raw/assets/eac-acoustic-energy-ae100-mk2-impedance.png",
+  "raw/assets/eac-acoustic-energy-ae100-mk2-thd86.png",
+  "raw/assets/eac-acoustic-energy-ae100-mk2-thd96.png",
+  "raw/assets/eac-acoustic-energy-ae100-mk2-compression.png"
+ ],
+ "index_line": "- [[acoustic-energy-ae100-mk2]] \u2014 6 \u03a9, LW \u00b12.0 dB, f3 64 Hz, sens 83.6 dB, min Z 4.7 \u03a9, pref 5.0 (EAC)",
+ "source_index_lines": [
+  "- [[eac-acoustic-energy-ae100-mk2]] \u2014 Erin's Audio Corner Klippel review, 2023-11-29 (Tier A)",
+  "- [[stereonet-acoustic-energy-ae100-mk2]] \u2014 StereoNET listening review (Tier D)",
+  "- [[ecoustics-acoustic-energy-ae100-mk2]] \u2014 ecoustics review, 2024-04-20 (Tier D)",
+  "- [[hifireport-acoustic-energy-ae100-mk2]] \u2014 HiFiReport review (Tier D)",
+  "- [[mfr-acoustic-energy-ae100-mk2]] \u2014 Acoustic Energy 100 Series specs (Tier C)"
+ ],
+ "brand_notes": "Acoustic Energy (UK) 100 Series Mk2 (AE100\u00b2, AE109\u00b2, AE120\u00b2, AE105): HDF cabinets, WDT waveguide tweeter; AE100 Mk2 is the entry standmount at ~$499 US pair; 6 \u03a9; measured sensitivity well below claim (eac-acoustic-energy-ae100-mk2). AE120\u00b2 is 8 \u03a9 3-way tower (mfr-acoustic-energy-ae100-mk2).",
+ "takeaways": [
+  "Erin Klippel: LW \u00b12.0 dB, f3 64 Hz, sensitivity 83.6 dB vs 87 claimed",
+  "Min impedance 4.7 \u03a9 (below IEC floor 4.8), EPDR 2.5 \u03a9",
+  "Directivity good but midrange dip 300-800 Hz and hot tweeter; Erin would pass without EQ",
+  "Other critics (StereoNET, ecoustics, HiFiReport) positive; amp and placement sensitive",
+  "No user reports ingested; US stock only loosely verified"
+ ],
+ "conflicts": [
+  "Sensitivity 83.6 measured vs 87 claimed",
+  "Critics positive vs Erin negative",
+  "Woofer 125 vs 130 vs 105 mm"
+ ],
+ "log_bullets": [
+  "Created speakers/acoustic-energy-ae100-mk2 and sources eac/stereonet/ecoustics/hifireport/mfr",
+  "Conflict: sensitivity 83.6 vs 87 claimed; woofer size sources disagree; US stock unverified"
+ ]
+}

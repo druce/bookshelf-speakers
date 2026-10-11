@@ -1,0 +1,14 @@
+{
+ "slug": "cambridge-audio-sx-60", "brand": "Cambridge Audio", "model": "SX-60", "brand_slug": "cambridge-audio",
+ "verdict": "in-scope", "reason": null, "successor": null,
+ "nominal_impedance_ohm": 8, "status": "current", "price_usd_pair": 329, "price_source": "https://www.cambridgeaudio.com/usa/en/products/speakers/sx/sx-60",
+ "tier_ab_available": true,
+ "pages_created": ["wiki/speakers/cambridge-audio-sx-60.md","wiki/sources/mfr-cambridge-audio-sx-60.md","wiki/sources/hifiworld-cambridge-audio-sx-60.md","wiki/sources/whathifi-cambridge-audio-sx-60.md","wiki/sources/audioappraisal-cambridge-audio-sx-60.md","wiki/sources/users-cambridge-audio-sx-60.md"],
+ "raw_saved": ["raw/manufacturer/mfr-cambridge-audio-sx-60.md","raw/measurements/hifiworld-cambridge-audio-sx-60.md","raw/reviews-critic/whathifi-cambridge-audio-sx-60.md","raw/reviews-critic/audioappraisal-cambridge-audio-sx-60.md","raw/reviews-user/users-cambridge-audio-sx-60-2026-10-11.md","raw/assets/hifiworld-cambridge-audio-sx-60-img0.png"],
+ "index_line": "- [[cambridge-audio-sx-60]] — 8 Ω, 6.5\" budget standmount, measured sens 86.6 dB (Hi-Fi World, Tier B only; no spinorama)",
+ "source_index_lines": ["- [[hifiworld-cambridge-audio-sx-60]] — Hi-Fi World lab review via 7Review, 2021-10-29 (Tier B, limited)","- [[whathifi-cambridge-audio-sx-60]] — What Hi-Fi? review, 2013 (Tier D)","- [[audioappraisal-cambridge-audio-sx-60]] — Audio Appraisal review, 2022-02-14 (Tier D)","- [[users-cambridge-audio-sx-60]] — thin user aggregate (Tier E)","- [[mfr-cambridge-audio-sx-60]] — Cambridge Audio US spec page (Tier C)"],
+ "brand_notes": "SX series is Cambridge's entry-level speaker range (SX-50 $229, SX-60 $329 on US maker page). SX-60 maker-rated 8 Ω; Hi-Fi World measured ~6 Ω. Audio Advice lists an 'SX-60 V2' at $369/pair (mfr-cambridge-audio-sx-60). Aeromax 2 no longer on US range page. Minx Min 12 is a 78 mm cube satellite sold individually at $99.",
+ "takeaways": ["Only Tier B data: Hi-Fi World lab sheet, sensitivity 86.6 dB vs 89 claimed, smooth tweeter, crossover ~3 kHz, bass roll-off to 60 Hz with port to 30 Hz.","No Klippel/spinorama; LW deviation, f3, directivity unknown.","Critics consistently describe forward, lively, a bit edgy, boxy; bass views differ.","No individual user reports retrievable; no QC issues found.","Price/status: $329 maker and Amazon in stock; Audio Advice V2 at $369."],
+ "conflicts": ["Sensitivity 89 claimed vs 86.6 measured","Nominal 8 Ω (maker) vs ~6 Ω (Hi-Fi World)","Bass: What Hi-Fi? rich/tight vs Hi-Fi World reticent","Price $329 vs $369 'V2' listing"],
+ "log_bullets": ["Created speakers/cambridge-audio-sx-60 and 5 source pages (mfr, hifiworld, whathifi, audioappraisal, users)","Tier B only (Hi-Fi World via 7Review); no spinorama data","Conflicts: sensitivity claim delta 2.4 dB, impedance 8 vs ~6 ohm, bass character, V2 price"]
+}

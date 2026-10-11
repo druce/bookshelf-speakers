@@ -1,0 +1,22 @@
+{
+ "slug": "graham-audio-chartwell-ls6",
+ "brand": "Graham Audio",
+ "model": "Chartwell LS6",
+ "brand_slug": "graham-audio",
+ "verdict": "no-tier-ab",
+ "reason": "In scope on dealer-reproduced specs (8 ohm, 87 dB/2.83V/1m, 6.5in, 370 mm tall) but no Tier A/B measurement found (Sound On Sound, Darko.Audio, Hi-Fi+ are listening reviews). No verified current US new price (UK GBP 2,327 inc VAT at Stone Audio; used US pair listings only). Maker page not fetched.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.stoneaudio.co.uk/products/graham-audio-ls6-loudspeaker",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-graham-audio-chartwell-ls6.md"
+ ],
+ "evidence": [
+  "https://www.stoneaudio.co.uk/products/graham-audio-ls6-loudspeaker",
+  "https://www.soundonsound.com/reviews/graham-audio-chartwell-ls6",
+  "https://darko.audio/2019/01/graham-audio-chartwell-ls6-review/"
+ ]
+}

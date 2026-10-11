@@ -1,0 +1,52 @@
+{
+ "slug": "atc-scm7",
+ "brand": "ATC",
+ "model": "SCM7",
+ "brand_slug": "atc",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1749,
+ "price_source": "https://soundapproach.com/atc-scm7-entry-series-2-way-passive-bookshelf-speakers-pair.html (also Hawthorne Stereo $1,749)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/atc-scm7.md",
+  "wiki/sources/mfr-atc-scm7.md",
+  "wiki/sources/stereophile-atc-scm7.md",
+  "wiki/sources/stereophile-review-atc-scm7.md",
+  "wiki/sources/stereonet-atc-scm7.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-atc-scm7.md",
+  "raw/measurements/stereophile-atc-scm7.md",
+  "raw/reviews-critic/stereophile-review-atc-scm7.md",
+  "raw/reviews-critic/stereophile-review-atc-scm7-p2.md",
+  "raw/reviews-critic/stereonet-atc-scm7.md"
+ ],
+ "index_line": "- [[atc-scm7]] — 8 Ω sealed 5\" mini-monitor, 82 dB, min 5.25 Ω, f6 ~57 Hz (Stereophile Tier B)",
+ "source_index_lines": [
+  "- [[mfr-atc-scm7]] — ATC product page specs (Tier C)",
+  "- [[stereophile-atc-scm7]] — Stereophile measurements by John Atkinson, 2014-03-18 (Tier B)",
+  "- [[stereophile-review-atc-scm7]] — Stereophile review, John Marks, 2014-03-18 (Tier D)",
+  "- [[stereonet-atc-scm7]] — Stereonet system review with SIA2-100 (Tier D)"
+ ],
+ "brand_notes": "SCM7 v3 is ATC entry model, sealed, in-house tweeter; Stereophile measured 82 dB vs 84 dB claimed and 5.25 Ω min (stereophile-atc-scm7). US distribution was Lone Mountain Audio in 2014.",
+ "takeaways": [
+  "Stereophile (JA) measured 82 dB sensitivity, 5.25 Ω min @1.1 kHz, sealed-box tuning peak 48 Ω @57 Hz",
+  "Smooth response with small 500-700 Hz anomaly; wide even horizontal dispersion; mellow top octave, best for close listening",
+  "No spinorama, THD or max SPL data",
+  "Critics praise imaging, low distortion, robust woofer; bass limited",
+  "No user reports ingested (forum sites 403)"
+ ],
+ "conflicts": [
+  "Sensitivity 82 vs 84 claimed",
+  "Crossover ~2 kHz measured vs 2.5 kHz claimed"
+ ],
+ "log_bullets": [
+  "Created speakers/atc-scm7 and sources mfr-, stereophile-, stereophile-review-, stereonet- atc-scm7",
+  "Tier B Stereophile; impedance flag below-iec (5.25 Ω)",
+  "Conflict: sensitivity 82 vs 84 claimed"
+ ]
+}

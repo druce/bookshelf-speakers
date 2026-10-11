@@ -1,0 +1,21 @@
+{
+ "slug": "paradigm-cinema-100",
+ "brand": "Paradigm",
+ "model": "Cinema 100",
+ "brand_slug": "paradigm",
+ "verdict": "discontinued",
+ "reason": "Paradigm's Cinema 100 2.0 two-channel system page is labelled discontinued; the 3.5 in satellite (8 ohm compatible, 8.4 in tall) now survives only inside the 5.1 Cinema 100 CT system, not sold as a standalone pair",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://www.paradigm.com/en/systems/cinema-100 (was $359.99 system)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-paradigm-cinema-100.md"
+ ],
+ "evidence": [
+  "https://www.paradigm.com/en/systems/cinema-100",
+  "https://www.paradigm.com/en/systems/cinema-100-ct"
+ ]
+}

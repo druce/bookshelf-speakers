@@ -1,0 +1,20 @@
+{
+ "slug": "kanto-yup6",
+ "brand": "Kanto",
+ "model": "YUP6",
+ "brand_slug": "kanto",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 6 \u03a9 per retailer/spec listings, 5.25\" woofer, ~272 mm tall, sold new at World Wide Stereo/B&H/ListenUp) but no Tier A/B measurement of the passive YUP6 found; only the active YU6 has been measured (S&V, ASR). Kanto's own spec page not reached (404 on guessed URL); impedance rests on retailer/Hifiverse listings.",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 280,
+ "price_source": "https://www.worldwidestereo.com/products/kanto-yup6-passive-bookshelf-speakers-with-1-silk-dome-tweeter-and-5-25-kevlar-woofer-pair (price from packet hint $279.99, not re-verified)",
+ "tier_ab_available": false,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.worldwidestereo.com/products/kanto-yup6-passive-bookshelf-speakers-with-1-silk-dome-tweeter-and-5-25-kevlar-woofer-pair",
+  "https://www.bhphotovideo.com/c/product/1628458-REG/kanto_living_yup6w_yu_passive_5_25_bookshelf.html/overview",
+  "https://www.hifiverse.io/components/loudspeakers/bookshelf/yup6"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "slug": "revel-m126be",
+ "brand": "Revel",
+ "model": "M126Be",
+ "brand_slug": "revel",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 4400,
+ "price_source": "https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black ($2,200 each; gloss black in stock, other finishes sold out; Upscale Audio also $2,200 each)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/revel-m126be.md",
+  "wiki/sources/eac-revel-m126be.md",
+  "wiki/sources/audioholics-revel-m126be.md",
+  "wiki/sources/soundstage-nrc-revel-m126be.md",
+  "wiki/sources/soundstage-revel-m126be.md",
+  "wiki/sources/tas-revel-m126be.md",
+  "wiki/sources/hometheaterhifi-revel-m126be.md",
+  "wiki/sources/users-revel-m126be.md",
+  "wiki/sources/mfr-revel-m126be.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-revel-m126be.md",
+  "raw/measurements/eac-revel-m126be.md",
+  "raw/measurements/audioholics-revel-m126be.md",
+  "raw/measurements/soundstage-nrc-revel-m126be.md",
+  "raw/reviews-critic/soundstage-revel-m126be.md",
+  "raw/reviews-critic/tas-revel-m126be.md",
+  "raw/reviews-critic/hometheaterhifi-revel-m126be.md",
+  "raw/reviews-user/users-revel-m126be-2026-10-11.md",
+  "raw/assets/eac-revel-m126be-impedance.png",
+  "raw/assets/eac-revel-m126be-thd86.png",
+  "raw/assets/eac-revel-m126be-thd96.png",
+  "raw/assets/eac-revel-m126be-compression.png",
+  "raw/assets/soundstage-nrc-revel-m126be-impedance.png",
+  "raw/assets/soundstage-nrc-revel-m126be-thd90.png",
+  "raw/assets/soundstage-nrc-revel-m126be-lw.png"
+ ],
+ "index_line": "- [[revel-m126be]] \u2014 8 \u03a9, LW \u00b11.1 dB, f6 50 Hz, sens 85.7 dB, min Z 4.9 \u03a9 (below-iec), pref 5.1 (EAC)",
+ "source_index_lines": [
+  "- [[eac-revel-m126be]] \u2014 Erin's Audio Corner Klippel review, 2023 (Tier A)",
+  "- [[audioholics-revel-m126be]] \u2014 Audioholics gated outdoor measurements + review, 2019-08-16 (Tier A)",
+  "- [[soundstage-nrc-revel-m126be]] \u2014 SoundStage!/NRC anechoic measurements, 2019-08-01 (Tier A)",
+  "- [[soundstage-revel-m126be]] \u2014 SoundStage! Hi-Fi review, 2019 (Tier D)",
+  "- [[tas-revel-m126be]] \u2014 The Absolute Sound review, 2019 (Tier D)",
+  "- [[hometheaterhifi-revel-m126be]] \u2014 HomeTheaterHifi review, ~2018 (Tier D)",
+  "- [[users-revel-m126be]] \u2014 User reports clip, ~3 reports (Tier E)",
+  "- [[mfr-revel-m126be]] \u2014 Revel specs via Audio Advice listing (Tier C)"
+ ],
+ "brand_notes": "M126Be is the top PerformaBe-series standmount (beryllium tweeter), above Performa3 M106; launched 2019 at $4,000/pair, now $2,200 each at Audio Advice with some finishes sold out. Revel US site (revelspeakers.com) still lists it. Revel product page returned HTTP 410 to scripted fetch. Harman-style wide, smooth directivity (sources eac-revel-m126be, audioholics-revel-m126be).",
+ "takeaways": [
+  "EAC Klippel: LW \u00b11.1 dB, sens 85.7 dB, pref 5.1/7.3, f6 50 Hz (f3 93 Hz artifact of bass shelf)",
+  "Min impedance 4.9 \u03a9 (EAC), ~4.5 \u03a9 (NRC) on 8 \u03a9 nominal: below-iec but not 4-ohm; EPDR 3 \u03a9",
+  "EAC compression: no \u22653 dB through 102 dB @1 m; THD ~1.7% @100 Hz at 86 dB, ~4.2% at 96 dB (graph-read)",
+  "Four critic reviews all positive (neutral, imaging, smooth Be treble); bass depth is the common caveat",
+  "Price now $4,400/pair, above 2019 MSRP, with scarce stock"
+ ],
+ "conflicts": [
+  "Sensitivity 85.7/85.25 (EAC/NRC) vs 87.9 (Audioholics) vs 86 claimed",
+  "Min impedance 4.9 (EAC) vs ~4.5 (NRC) vs ~6 (Audioholics)",
+  "f3 93 Hz computed inconsistent with f6 50 Hz and Audioholics knee near 60 Hz",
+  "Stock/status thin: some finishes sold out"
+ ],
+ "log_bullets": [
+  "Created speakers/revel-m126be plus 8 source pages (eac, audioholics, soundstage-nrc, soundstage, tas, hometheaterhifi, users, mfr)",
+  "Conflicts: sensitivity (Audioholics 87.9 vs Klippel 85.7), min impedance spread 4.5-6 \u03a9, f3 artifact",
+  "Flagged impedance below-iec (min 4.9 \u03a9 on 8 \u03a9 nominal)"
+ ]
+}

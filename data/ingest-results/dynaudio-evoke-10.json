@@ -1,0 +1,23 @@
+{
+ "slug": "dynaudio-evoke-10",
+ "brand": "Dynaudio",
+ "model": "Evoke 10",
+ "brand_slug": "dynaudio",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (6 ohm rated, rear-ported 14 cm woofer, 315 mm tall, status Current at dynaudio.com, $1,699/pair Audio Advisor) but no Tier A/B measurement found (searches of ASR/Erin/Audioholics/Stereophile/SoundStage/HFN returned none).",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 1699,
+ "price_source": "https://www.audioadvisor.com/dyevoke10-glsblk-pr",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-dynaudio-evoke-10.md",
+  "raw/manufacturer/retail-dynaudio-evoke-10-audioadvisor.md"
+ ],
+ "evidence": [
+  "https://dynaudio.com/home-audio/evoke/evoke-10",
+  "https://www.audioadvisor.com/dyevoke10-glsblk-pr"
+ ],
+ "notes": "Claimed: 84 dB @2.83V/1m, 47 Hz-23 kHz +/-3 dB, crossover 1400 Hz 2nd order, 28 mm Cerotar dome + 14 cm MSP, 6.7 kg, 180x315x266 mm, rear port. Reviews found only non-lab (HiFi Report, Crackling Sound, AudioGurus)."
+}

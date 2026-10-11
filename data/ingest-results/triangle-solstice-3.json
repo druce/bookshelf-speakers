@@ -1,0 +1,21 @@
+{
+ "slug": "triangle-solstice-3",
+ "brand": "Triangle",
+ "model": "Solstice 3",
+ "brand_slug": "triangle",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (8 ohm, 418 mm, 6in) but no Tier A/B measurement found. Claimed 90 dB, 48-22k +/-3 dB, min 5.3 ohm, xo 2.8 kHz, 12.9 kg; only retailer/blog reviews (Audio Tailor, Kronos AV).",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1349,
+ "price_source": "https://trianglehifi.us/products/solstice-3",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-triangle-solstice-3.md"
+ ],
+ "evidence": [
+  "https://trianglehifi.us/products/solstice-3",
+  "https://www.theaudiotailor.com.au/blogs/reviews/triangle-solstice-3-bookshelf-speaker-review-a-new-benchmark-in-compact-hifi"
+ ]
+}

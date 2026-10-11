@@ -1,0 +1,20 @@
+{
+ "slug": "fluance-reference-2-way-bookshelf",
+ "brand": "Fluance",
+ "model": "Reference 2-way bookshelf",
+ "brand_slug": "fluance",
+ "verdict": "out-of-scope",
+ "reason": "Duplicate of fluance-reference-xl8s (same Fluance page, model XL8S); ingested under that slug",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 179.99,
+ "price_source": "https://www.fluance.com/reference-two-way-bookshelf-surround-speakers",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-fluance-reference-2-way-bookshelf.md"
+ ],
+ "evidence": [
+  "https://www.fluance.com/reference-two-way-bookshelf-surround-speakers"
+ ]
+}

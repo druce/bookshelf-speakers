@@ -1,0 +1,20 @@
+{
+ "slug": "wharfedale-denton-1s",
+ "brand": "Wharfedale",
+ "model": "Denton 1S",
+ "brand_slug": "wharfedale",
+ "verdict": "no-tier-ab",
+ "reason": "Coaxial 6.5in, 8 ohm nominal, min 4.5 ohm claimed, 330 mm tall; new 2026 model; no independent measurements found (only Super Denton, a different model, at EAC).",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 999,
+ "price_source": "https://www.wharfedaleusa.com/collections/bookshelf-speakers/products/denton-1s-bookshelf-speakers-pair",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-wharfedale-denton-1s.md"
+ ],
+ "evidence": [
+  "https://www.wharfedaleusa.com/collections/bookshelf-speakers/products/denton-1s-bookshelf-speakers-pair"
+ ]
+}

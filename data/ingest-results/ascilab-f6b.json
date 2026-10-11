@@ -1,0 +1,20 @@
+{
+ "brand": "AsciLab",
+ "brand_slug": "ascilab",
+ "verdict": "out-of-scope",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "tier_ab_available": true,
+ "slug": "ascilab-f6b",
+ "model": "F6B",
+ "reason": "Nominal impedance 4 ohm (min 3.5 ohm @ 140 Hz), 84 dB per Audiophonics listing; EU sales, ~EUR 899, no US retailer found",
+ "price_source": "https://www.audiophonics.fr/en/passive-speakers-and-subwoofer/ascilab-f6b-white-p-20914.html",
+ "raw_saved": [
+  "raw/manufacturer/retailer-ascilab-f6b.md"
+ ],
+ "evidence": [
+  "https://www.audiophonics.fr/en/passive-speakers-and-subwoofer/ascilab-f6b-white-p-20914.html"
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "slug": "canton-plus-glx-3", "brand": "Canton", "model": "Plus GLX.3", "brand_slug": "canton",
+ "verdict": "out-of-scope", "reason": "ASR-reviewed unit is the Canton Plus GXL.3, a small plastic wall-mount/ambient speaker; secondary sources (testagent, hifi-wiki) rate the GXL.3 at 4 ohm nominal (GX.3 variant 4-8 ohm); no maker spec page found; no current US availability (ASR: hard to find in US, single online store at clearance; GX.3 listed out of stock/outdated in catalogs). Would otherwise be discontinued. ASR raw review saved but no pages created.", "successor": null,
+ "nominal_impedance_ohm": 4, "status": "discontinued", "price_usd_pair": null, "price_source": "https://www.audiosciencereview.com/forum/index.php?threads/canton-plus-glx-3-review-speaker.18203/",
+ "tier_ab_available": true,
+ "raw_saved": ["raw/measurements/asr-canton-plus-glx-3.md"],
+ "evidence": ["https://testagent.uk/review/canton-plus-gxl3","https://hifi-wiki.com/index.php/Canton_Plus_GXL","https://www.audiosciencereview.com/forum/index.php?threads/canton-plus-glx-3-review-speaker.18203/"]
+}

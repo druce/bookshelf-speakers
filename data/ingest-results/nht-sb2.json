@@ -1,0 +1,20 @@
+{
+ "slug": "nht-sb2",
+ "brand": "NHT",
+ "model": "SB2",
+ "brand_slug": "nht",
+ "verdict": "discontinued",
+ "reason": "Not listed in NHT's current store product list (C1, C3, C4, SuperOne 2.1, SuperZero 2.1, MS, in-wall etc.); only a legacy manual is offered; remaining supply is used/eBay listings. Third-party sources give 8 \u03a9, 6.5\" woofer, ~2000s model.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.nhthifi.com/api/products",
+  "https://tmraudio.com/old-products/nht-sb2-bookshelf-speakers-excellent-working-pair",
+  "https://soundandvision.com/node/80956"
+ ]
+}

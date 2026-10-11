@@ -1,0 +1,25 @@
+{
+ "slug": "htd-level-three",
+ "brand": "HTD",
+ "model": "Level THREE",
+ "brand_slug": "htd",
+ "verdict": "discontinued",
+ "reason": "HTD's US site (htd.com) marks 'Level THREE Bookshelf Speakers 7-series' as Discontinued (not in stock, pre-order only, $379 black / $449 Macassar Ebony, regular $479). The ASR-tested unit is the earlier Level Three; maker lists 8 ohm, 88 dB, 47 Hz-40 kHz on the 7-series.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://www.htd.com/products/level-three-bookshelf-speakers-7-series",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-htd-level-three.md",
+  "raw/manufacturer/mfr-htd-level-three-7series.md",
+  "raw/measurements/asr-htd-level-three.md"
+ ],
+ "evidence": [
+  "https://www.htd.com/products/level-three-bookshelf-speakers-7-series",
+  "https://www.htd.com/collections/cinema-series",
+  "https://www.audiosciencereview.com/forum/index.php?threads/htd-level-three-review-bookshelf-speaker.26566/"
+ ],
+ "notes": "Price unit (each vs pair) not stated on page. A Cinema Series wall-speaker line is new at htd.com but is not a confirmed successor. ASR Klippel data exist (pref 0.85/2.92, LW +-5.6 dB, f3 46 Hz, min Z about 3.6 ohm near 2 kHz)."
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "kef-q-concerto-meta",
+ "brand": "KEF",
+ "model": "Q Concerto Meta",
+ "brand_slug": "kef",
+ "verdict": "out-of-scope",
+ "reason": "KEF rates nominal impedance 4 \u03a9 (min 3.2 \u03a9); also 3-way 415 mm tall",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 1400,
+ "price_source": "https://us.kef.com/products/q-concerto-meta ($1,399.99 pair, via WebFetch)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-kef-q-concerto-meta.md"
+ ],
+ "evidence": [
+  "https://us.kef.com/products/q-concerto-meta"
+ ]
+}

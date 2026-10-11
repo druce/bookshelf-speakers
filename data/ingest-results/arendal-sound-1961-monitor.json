@@ -1,0 +1,22 @@
+{
+ "slug": "arendal-sound-1961-monitor",
+ "brand": "Arendal Sound",
+ "model": "1961 Monitor",
+ "brand_slug": "arendal-sound",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance 4 ohm: maker states 4-ohm nominal (tech tab)",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-arendal-sound-1961-monitor.md",
+  "raw/manufacturer/mfr-tech-arendal-sound-1961-monitor.md"
+ ],
+ "evidence": [
+  "https://arendalsound.com/product/1961-monitor/tech/",
+  "https://arendalsound.com/product/1961-monitor/"
+ ]
+}

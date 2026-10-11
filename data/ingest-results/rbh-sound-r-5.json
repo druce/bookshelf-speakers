@@ -1,0 +1,25 @@
+{
+ "slug": "rbh-sound-r-5",
+ "brand": "RBH Sound",
+ "model": "R-5",
+ "brand_slug": "rbh-sound",
+ "verdict": "discontinued",
+ "reason": "RBH Sound Impression Series page marks R-5 and R-5E \"Discontinued 02/2020\"; 5.25\" two-way 8 ohm bookshelf was in scope when sold",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://rbhsound.com/r5.php",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-rbh-sound-r-5.md",
+  "raw/manufacturer/mfr-rbh-sound-r-5e.md"
+ ],
+ "evidence": [
+  "https://rbhsound.com/r5.php",
+  "https://www.audioholics.com/bookshelf-speaker-reviews/rbh-r-5"
+ ],
+ "log_bullets": [
+  "RBH R-5: out of rotation, discontinued 02/2020 per rbhsound.com; no pages created"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "jbl-hdi-1600",
+ "brand": "JBL",
+ "model": "HDI-1600",
+ "brand_slug": "jbl",
+ "verdict": "out-of-scope",
+ "reason": "maker rates nominal impedance 4 ohm (JBL product page / spec sheet); 6.5in 2-way",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "unclear",
+ "price_usd_pair": null,
+ "price_source": "https://global.jbl.com/bookshelf-speakers/HDI-1600.html",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://global.jbl.com/bookshelf-speakers/HDI-1600.html",
+  "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw3347c935/pdfs/SC03177_NA_JBL%20HDI-1600%20Spec%20Sheet.pdf"
+ ]
+}

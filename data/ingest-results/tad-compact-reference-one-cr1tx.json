@@ -1,0 +1,20 @@
+{
+ "slug": "tad-compact-reference-one-cr1tx",
+ "brand": "TAD",
+ "model": "Compact Reference One CR1TX",
+ "brand_slug": "tad",
+ "verdict": "out-of-scope",
+ "reason": "Maker rates 4 ohm nominal; also 628 mm tall, 46 kg each (exceeds bookshelf size); price about CAD 125,890 and sold out",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://houseofstereo.com/en-ca/products/tad-labs-cr1tx-compact-reference-one",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-tad-compact-reference-one-cr1tx.md"
+ ],
+ "evidence": [
+  "https://houseofstereo.com/en-ca/products/tad-labs-cr1tx-compact-reference-one"
+ ]
+}

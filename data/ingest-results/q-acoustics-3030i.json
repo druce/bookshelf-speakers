@@ -1,0 +1,47 @@
+{
+ "slug": "q-acoustics-3030i",
+ "brand": "Q Acoustics",
+ "model": "3030i",
+ "brand_slug": "q-acoustics",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": "3000c series per What Hi-Fi? (3030c not confirmed)",
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 499.96,
+ "price_source": "https://www.qacoustics.com/collections/bookshelf-speakers/products/3030i-bookshelf-speaker-pair",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/q-acoustics-3030i.md",
+  "wiki/sources/napilopez-q-acoustics-3030i.md",
+  "wiki/sources/mfr-q-acoustics-3030i.md",
+  "wiki/sources/whathifi-q-acoustics-3030i.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-q-acoustics-3030i.md",
+  "raw/measurements/napilopez-q-acoustics-3030i.md",
+  "raw/reviews-critic/whathifi-q-acoustics-3030i.md",
+  "raw/assets/napilopez-q-acoustics-3030i-spinorama.png"
+ ],
+ "index_line": "- [[q-acoustics-3030i]] \u2014 6 \u03a9, 6.5\" ported, f3 ~72 Hz (graph), pref 5.0 (Tier B napilopez)",
+ "source_index_lines": [
+  "- [[napilopez-q-acoustics-3030i]] \u2014 quasi-anechoic spinorama, 2020-04-10 (Tier B)",
+  "- [[mfr-q-acoustics-3030i]] \u2014 Q Acoustics US product page (Tier C)",
+  "- [[whathifi-q-acoustics-3030i]] \u2014 What Hi-Fi? review, 2020 (Tier D)"
+ ],
+ "brand_notes": "Q Acoustics 3000i-series standmounts (3020i, 3030i) remain on the maker's US site at $349.96 / $499.96 per pair though What Hi-Fi? says 3000c replaced them (3020c launched). 5000 series (5010 $999, 5020 $1,199 pair) uses C3 curved-cone driver and sealed isolated tweeter; Erin's 5020 data show a treble-heavy response and 3.4 ohm minimum. All models rated 6 ohm with claimed minimums 3.3-4 ohm. Maker claims 88 dB for 3000i vs measured 85.6-86.1 dB (nrc-q-acoustics-3020i, asr-q-acoustics-3020i); 5020 claim 87.9 vs 86.7 measured (eac-q-acoustics-5020).",
+ "takeaways": [
+  "Only Tier B quasi-anechoic data; no impedance, distortion or Klippel",
+  "Pref 4.97/7.28 (digitised data)",
+  "Graph-read f3 ~72 Hz vs claimed 46 Hz (-6 dB)",
+  "Maker lists 'average impedance 6 \u03a9'; treated as rated 6 \u03a9",
+  "Still sold on maker site; What Hi-Fi? says replaced by 3000c; US third-party listings were used pairs"
+ ],
+ "conflicts": [
+  "Claimed 46 Hz -6 dB vs ~58 Hz graph-read f6"
+ ],
+ "log_bullets": [
+  "Created speakers/q-acoustics-3030i and sources napilopez-, mfr-, whathifi-q-acoustics-3030i",
+  "Tier B only; LW deviation, sensitivity, impedance left null; status current on maker site but superseded per What Hi-Fi?"
+ ]
+}

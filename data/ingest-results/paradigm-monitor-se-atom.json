@@ -1,0 +1,61 @@
+{
+ "slug": "paradigm-monitor-se-atom",
+ "brand": "Paradigm",
+ "model": "Monitor SE Atom",
+ "brand_slug": "paradigm",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 399.98,
+ "price_source": "https://www.paradigm.com/en/passive/monitor-se-atom",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/paradigm-monitor-se-atom.md",
+  "wiki/sources/mfr-paradigm-monitor-se-atom.md",
+  "wiki/sources/asr-paradigm-monitor-se-atom.md",
+  "wiki/sources/soundstage-paradigm-monitor-se-atom.md",
+  "wiki/sources/tonepub-paradigm-monitor-se-atom.md",
+  "wiki/sources/audioadvice-paradigm-monitor-se-atom.md",
+  "wiki/sources/users-paradigm-monitor-se-atom.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-paradigm-monitor-se-atom.md",
+  "raw/measurements/asr-paradigm-monitor-se-atom.md",
+  "raw/assets/asr-paradigm-monitor-se-atom-impedance.png",
+  "raw/assets/asr-paradigm-monitor-se-atom-thd.png",
+  "raw/reviews-critic/soundstage-paradigm-monitor-se-atom.md",
+  "raw/reviews-critic/tonepub-paradigm-monitor-se-atom.md",
+  "raw/reviews-critic/audioadvice-paradigm-monitor-se-atom.md",
+  "raw/reviews-user/users-paradigm-monitor-se-atom-2026-10-11.md",
+  "raw/reviews-user/asrthread-paradigm-monitor-se-atom-p2.md",
+  "raw/reviews-user/audioadvice-page-paradigm-monitor-se-atom.md"
+ ],
+ "index_line": "- [[paradigm-monitor-se-atom]] \u2014 8 \u03a9 (compatible), LW \u00b12.1 dB, f3 57 Hz, min Z 4.5 \u03a9, pref 4.1 (ASR)",
+ "source_index_lines": [
+  "- [[asr-paradigm-monitor-se-atom]] \u2014 ASR Klippel review, 2020-11-24 (Tier A)",
+  "- [[mfr-paradigm-monitor-se-atom]] \u2014 Paradigm spec page (Tier C)",
+  "- [[soundstage-paradigm-monitor-se-atom]] \u2014 SoundStage! Access review, 2018 (Tier D)",
+  "- [[tonepub-paradigm-monitor-se-atom]] \u2014 TONEAudio review (Tier D)",
+  "- [[audioadvice-paradigm-monitor-se-atom]] \u2014 Audio Advice SE series overview (retailer, Tier D)",
+  "- [[users-paradigm-monitor-se-atom]] \u2014 Audio Advice buyer reviews and ASR thread (Tier E)"
+ ],
+ "brand_notes": "Monitor SE Atom is the entry bookshelf in Paradigm's Monitor SE line (X-PAL dome, 5.5in PP woofer, rear port). Paradigm follows NRC-style directivity (good, parallel curves) but voices the treble hot per ASR (asr-paradigm-monitor-se-atom). Spec pages say 'compatible with 8 ohms' without a nominal rating; measured mins are well below. No QC complaints found.",
+ "takeaways": [
+  "Klippel: LW \u00b12.1 dB, f3 57 Hz, pref 4.1/6.5, directivity good but on-axis uneven with rising treble",
+  "Impedance min 4.5 \u03a9 (below IEC 6.4 \u03a9 floor, not under 4 \u03a9)",
+  "THD ~3.9% near 100 Hz at 96 dB (graph-read); no compression test",
+  "ASR could not recommend without EQ; SoundStage!/TONEAudio very positive",
+  "Price $399.98/pair at Paradigm; Audio Advice gloss white listed Unavailable"
+ ],
+ "conflicts": [
+  "Critics call balance natural vs ASR measured/heard bright treble",
+  "Claimed 86 dB sensitivity vs 84.6 computed",
+  "Pref score 4.13 vs forum member 3.68"
+ ],
+ "log_bullets": [
+  "Created speakers/paradigm-monitor-se-atom and 6 source pages (ASR Tier A, mfr, SoundStage!, TONEAudio, Audio Advice, users)",
+  "Conflict: critics' neutral balance vs ASR bright treble; sensitivity 84.6 vs 86 claimed"
+ ]
+}

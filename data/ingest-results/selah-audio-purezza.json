@@ -1,0 +1,21 @@
+{
+ "slug": "selah-audio-purezza",
+ "brand": "Selah Audio",
+ "model": "Purezza",
+ "brand_slug": "selah-audio",
+ "verdict": "out-of-scope",
+ "reason": "Maker spec sheet rates nominal impedance 5 \u03a9 (4.2 \u03a9 minimum), not 6 or 8 \u03a9. Also current availability not verifiable: selahaudio.com returned HTTP 522 during the check; last pricing is $2,895/pair finished or $1,495 kit from 2020 reviews.",
+ "successor": null,
+ "nominal_impedance_ohm": 5,
+ "status": "unclear",
+ "price_usd_pair": 2895,
+ "price_source": "https://www.erinsaudiocorner.com/loudspeakers/selah_audio_purezza/ (2020 review; maker site down)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-selah-audio-purezza.md"
+ ],
+ "evidence": [
+  "https://www.erinsaudiocorner.com/loudspeakers/selah_audio_purezza/",
+  "http://www.selahaudio.com/kits (search snippet: Purezza kit $1,495/pr)"
+ ]
+}

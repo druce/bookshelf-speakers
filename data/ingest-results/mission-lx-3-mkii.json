@@ -1,0 +1,20 @@
+{
+ "slug": "mission-lx-3-mkii",
+ "brand": "Mission",
+ "model": "LX-3 MKII",
+ "brand_slug": "mission",
+ "verdict": "out-of-scope",
+ "reason": "Not sold new in US via authorized retailer: maker domain missionspeakers.com is parked; found only UK (Richer Sounds), EU, ZA, HK retailers and a US affiliate review site (hometechnologyreview.com, $279, 403 on fetch, not an authorized retailer). 8 ohm nominal, 88 dB, 345 mm tall.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "unclear",
+ "price_usd_pair": 279,
+ "price_source": "https://hometechnologyreview.com/product/mission-lx-3-mkii-walnut-bookshelf-speaker-pair/ (unverified)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/retail-mission-lx-3-mkii.md"
+ ],
+ "evidence": [
+  "https://www.richersounds.com/mission-lx-3-mkii-white.html"
+ ]
+}

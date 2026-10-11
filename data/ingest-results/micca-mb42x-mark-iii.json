@@ -1,0 +1,21 @@
+{
+ "slug": "micca-mb42x-mark-iii",
+ "brand": "Micca",
+ "model": "MB42X Mark III",
+ "brand_slug": "micca",
+ "verdict": "out-of-scope",
+ "reason": "MB42X line rated 4-8 Ohms by maker; no Mark III listing found on maker store (only MB42X and MB42X-G2 at $119.99).",
+ "successor": "micca-mb42x-g2",
+ "nominal_impedance_ohm": null,
+ "status": "unclear",
+ "price_usd_pair": 119.99,
+ "price_source": "https://www.miccatron.com/shop/product/micca-mb42x-4-inch-bookshelf-speaker-pair/ (plain MB42X, not Mark III)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-micca-mb42x.md"
+ ],
+ "evidence": [
+  "https://www.miccatron.com/shop/product/micca-mb42x-4-inch-bookshelf-speaker-pair/",
+  "https://forums.audioholics.com/forums/threads/micca-mb42x-mark-iii-bookshelf-speaker-review.119033/"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "psb-alpha-p3",
+ "brand": "PSB",
+ "model": "Alpha P3",
+ "brand_slug": "psb",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 349,
+ "price_source": "https://www.worldwidestereo.com/products/psb-alpha-p3-bookshelf-speaker-pair-black (PSB direct lists $449/pair)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/psb-alpha-p3.md",
+  "wiki/sources/asr-psb-alpha-p3.md",
+  "wiki/sources/soundstage-psb-alpha-p3.md",
+  "wiki/sources/trustedreviews-psb-alpha-p3.md",
+  "wiki/sources/mfr-psb-alpha-p3.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/asr-psb-alpha-p3.md",
+  "raw/manufacturer/mfr-psb-alpha-p3.md",
+  "raw/reviews-critic/soundstage-psb-alpha-p3.md",
+  "raw/reviews-critic/trustedreviews-psb-alpha-p3.md",
+  "raw/assets/asr-psb-alpha-p3-impedance.png",
+  "raw/assets/asr-psb-alpha-p3-thd.png",
+  "raw/assets/asr-psb-alpha-p3-thd-relative.png"
+ ],
+ "index_line": "- [[psb-alpha-p3]] \u2014 8 \u03a9 (3.9 \u03a9 min), LW \u00b13.1 dB, f3 62 Hz, sens 80.3 dB, pref 3.1 (ASR)",
+ "source_index_lines": [
+  "- [[asr-psb-alpha-p3]] \u2014 ASR Klippel review, 2021-10-22 (Tier A)",
+  "- [[soundstage-psb-alpha-p3]] \u2014 SoundStage! review, 2019-02-01 (Tier D)",
+  "- [[trustedreviews-psb-alpha-p3]] \u2014 Trusted Reviews, 2019-09-19 (Tier D)",
+  "- [[mfr-psb-alpha-p3]] \u2014 PSB product page (Tier C)"
+ ],
+ "brand_notes": "PSB Alpha series (2019 relaunch) uses inverted drivers (tweeter below woofer), magnetic grilles, L4 acoustic crossovers; maker claimed sensitivities run 3-5 dB above Klippel values (mfr-psb-alpha-p3, asr-psb-alpha-p3). PSB direct prices ($449 P3/$699 P5) are above US dealer prices.",
+ "takeaways": [
+  "Tiny 4in ported two-way, 8 ohm rated but 3.9 ohm measured min (effectively-4ohm).",
+  "Klippel LW \u00b13.1 dB, f3 62 Hz, sens 80.3 dB vs 85 dB claimed.",
+  "ASR: port/woofer resonances, THD ~2.7% at 86 dB, >5% at 96 dB; not recommended.",
+  "Launch critics liked clean mids/highs but heard no bass below ~60 Hz."
+ ],
+ "conflicts": [
+  "Claimed 85 dB vs 80.3 dB computed",
+  "Launch critic praise vs ASR measurement criticism"
+ ],
+ "log_bullets": [
+  "Created speakers/psb-alpha-p3 and 4 source pages (ASR, SoundStage!, Trusted Reviews, mfr)",
+  "Impedance flag effectively-4ohm (3.9 ohm, graph-read)",
+  "Conflict: sensitivity claimed 85 dB vs 80.3 dB; no user reports found"
+ ]
+}

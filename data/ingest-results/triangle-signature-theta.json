@@ -1,0 +1,23 @@
+{
+ "slug": "triangle-signature-theta",
+ "brand": "Triangle",
+ "model": "Signature Theta",
+ "brand_slug": "triangle",
+ "verdict": "no-tier-ab",
+ "reason": "8 ohm, 6.5in, front port, but cabinet 465 mm high (just over the ~457 mm guideline; borderline) and no Tier A/B measurement found. Maker US page prices $1,450 PER UNIT on sale (regular $2,400 each), so pair about $2,900 (Audio Vision SF lists pair $2,900, was $4,800). Claimed 90 dB, min 3.4 ohm, xo 2.7 kHz, 11.5 kg.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 2900,
+ "price_source": "https://www.audiovisionsf.com/products/triangle-signature-theta-bookshelf-loudspeakers",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-triangle-signature-theta.md",
+  "raw/manufacturer/retailer-audiovisionsf-triangle-signature-theta.md"
+ ],
+ "evidence": [
+  "https://trianglehifi.us/products/enceinte-bibliotheque-hi-fi-signature-theta",
+  "https://www.audiovisionsf.com/products/triangle-signature-theta-bookshelf-loudspeakers"
+ ],
+ "note_to_coordinator": "hint price 1450 was per unit, not pair"
+}

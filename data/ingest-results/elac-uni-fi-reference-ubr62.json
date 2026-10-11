@@ -1,0 +1,59 @@
+{
+ "slug": "elac-uni-fi-reference-ubr62",
+ "brand": "Elac",
+ "model": "Uni-Fi Reference UBR62",
+ "brand_slug": "elac",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 1299,
+ "price_source": "https://www.worldwidestereo.com/products/elac-ubr62-6-5-inch-bookshelf-speakers-pair-oak-white",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/elac-uni-fi-reference-ubr62.md",
+  "wiki/sources/eac-elac-uni-fi-reference-ubr62.md",
+  "wiki/sources/mfr-elac-uni-fi-reference-ubr62.md",
+  "wiki/sources/soundandvision-elac-uni-fi-reference-ubr62.md",
+  "wiki/sources/hifireport-elac-uni-fi-reference-ubr62.md",
+  "wiki/sources/tntaudio-elac-uni-fi-reference-ubr62.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/eac-elac-uni-fi-reference-ubr62.md",
+  "raw/manufacturer/mfr-elac-uni-fi-reference-ubr62.md",
+  "raw/reviews-critic/soundandvision-elac-uni-fi-reference-ubr62.md",
+  "raw/reviews-critic/soundandvision-elac-uni-fi-reference-ubr62-p2.md",
+  "raw/reviews-critic/hifireport-elac-uni-fi-reference-ubr62.md",
+  "raw/reviews-critic/tntaudio-elac-uni-fi-reference-ubr62.md",
+  "raw/assets/eac-elac-uni-fi-reference-ubr62-impedance.png",
+  "raw/assets/eac-elac-uni-fi-reference-ubr62-thd86.png",
+  "raw/assets/eac-elac-uni-fi-reference-ubr62-thd96.png",
+  "raw/assets/eac-elac-uni-fi-reference-ubr62-compression.png"
+ ],
+ "index_line": "- [[elac-uni-fi-reference-ubr62]] \u2014 6 \u03a9 3-way coax, LW \u00b11.9 dB, f3 56 Hz, sens 83.0 dB, pref 5.4 (EAC)",
+ "source_index_lines": [
+  "- [[eac-elac-uni-fi-reference-ubr62]] \u2014 Erin's Audio Corner Klippel review, 2021-06-21 (Tier A)",
+  "- [[mfr-elac-uni-fi-reference-ubr62]] \u2014 retailer-reproduced Elac specs (Tier C)",
+  "- [[soundandvision-elac-uni-fi-reference-ubr62]] \u2014 Sound & Vision system review, 2022-03-23 (Tier D)",
+  "- [[hifireport-elac-uni-fi-reference-ubr62]] \u2014 HiFiReport review (Tier D)",
+  "- [[tntaudio-elac-uni-fi-reference-ubr62]] \u2014 TNT-Audio listening test, 2024-07 (Tier D)"
+ ],
+ "brand_notes": "Uni-Fi Reference (UBR62 bookshelf, UFR52 tower, UCR52 center) was Andrew Jones' last Elac series; 3-way concentric; ,299/pair at World Wide Stereo. Elac US site not scriptable. Uni-Fi 2.0 UB52 is discontinued (Audio Advisor, remaining stock) and Audio Advisor presents UBR62 as the step-up.",
+ "takeaways": [
+  "EAC Klippel: LW \u00b11.9 dB, f3 56 Hz (claimed 41), sens 83.0 dB (claimed 85), pref 5.4/7.7",
+  "Very wide even dispersion 143x144 deg",
+  "Min impedance about 4.2 \u03a9 (below-iec), EPDR about 1.8 \u03a9 in bass (graph-read)",
+  "THD graph-read about 2.1% at 86 dB, 5.6% at 96 dB near 230 Hz",
+  "Critics split: S&V and HiFiReport positive, TNT-Audio negative; no user reports found"
+ ],
+ "conflicts": [
+  "Sensitivity 83.0 measured vs 85 claimed",
+  "f3 56 Hz measured vs 41 Hz claimed",
+  "Critics disagree (TNT-Audio vs S&V/HiFiReport)"
+ ],
+ "log_bullets": [
+  "Created speakers/elac-uni-fi-reference-ubr62 and 5 source pages (eac, mfr, soundandvision, hifireport, tntaudio)",
+  "No stereophile/soundstage measurement found; single Tier A source"
+ ]
+}

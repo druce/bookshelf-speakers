@@ -1,0 +1,14 @@
+{
+ "slug": "bowers-wilkins-705-s3", "brand": "Bowers & Wilkins", "model": "705 S3", "brand_slug": "bowers-wilkins",
+ "verdict": "in-scope", "reason": null, "successor": null,
+ "nominal_impedance_ohm": 8, "status": "current", "price_usd_pair": 3800, "price_source": "https://www.bowerswilkins.com/en-us/product/loudspeakers/700-series/705-s3/300522.html",
+ "tier_ab_available": true,
+ "pages_created": ["wiki/speakers/bowers-wilkins-705-s3.md","wiki/sources/mfr-bowers-wilkins-705-s3.md","wiki/sources/stereophile-bowers-wilkins-705-s3.md","wiki/sources/stereophile-review-bowers-wilkins-705-s3.md","wiki/sources/whathifi-bowers-wilkins-705-s3.md","wiki/sources/trustedreviews-bowers-wilkins-705-s3.md"],
+ "raw_saved": ["raw/manufacturer/mfr-bowers-wilkins-705-s3.md","raw/manufacturer/stereophile-specs-bowers-wilkins-705-s3.md","raw/measurements/stereophile-bowers-wilkins-705-s3.md","raw/reviews-critic/stereophile-review-bowers-wilkins-705-s3.md","raw/reviews-critic/stereophile-review-p2-bowers-wilkins-705-s3.md","raw/reviews-critic/whathifi-bowers-wilkins-705-s3.md","raw/reviews-critic/trustedreviews-bowers-wilkins-705-s3.md","raw/assets/stereophile-bowers-wilkins-705-s3-impedance.jpg","raw/assets/stereophile-bowers-wilkins-705-s3-fr.jpg"],
+ "index_line": "- [[bowers-wilkins-705-s3]] — 8 Ω (EPDR min 1.9 Ω), 88.9 dB, ~+10 dB tweeter peak at 10 kHz (Stereophile, Tier B); $3,800",
+ "source_index_lines": ["- [[stereophile-bowers-wilkins-705-s3]] — Stereophile MLSSA measurements, 2023-06-20 (Tier B)","- [[stereophile-review-bowers-wilkins-705-s3]] — Stereophile review, Kalman Rubinson (Tier D)","- [[whathifi-bowers-wilkins-705-s3]] — What Hi-Fi? review, 2022-11-11 (Tier D)","- [[trustedreviews-bowers-wilkins-705-s3]] — Trusted Reviews, 2023-02-27 (Tier D)","- [[mfr-bowers-wilkins-705-s3]] — B&W US product page (Tier C)"],
+ "brand_notes": "705 S3 is the top 700-series standmount, tweeter-on-top carbon dome, $3,800 (launch $3,400). Stereophile measured a 10 kHz tweeter peak and low EPDR (1.9 Ω); critics generally praise clean, detailed sound but note coolness. B&W US lists all three S3 standmounts in stock; 606 S3 $1,200, 607 S3 $1,000 (min impedance 3.7 and 3.0 Ω per maker) - no Tier A/B measurements found for those.",
+ "takeaways": ["Only Tier B data: Stereophile MLSSA","Sensitivity 88.9 dB(B), min impedance ~3.9 Ω, EPDR min 1.9 Ω at 8.6 kHz: flagged effectively-4ohm","Tweeter rises ~10 dB to 10 kHz; shallow crossover ~3 kHz; vertical suckout","Critics: clean, detailed, cool; bass-light for large music","No user reviews gathered"],
+ "conflicts": ["Treble character: measured 10 dB peak vs What Hi-Fi? no bright edges","Min impedance graph-read 3.9 vs 3.7 claimed"],
+ "log_bullets": ["Created speakers/bowers-wilkins-705-s3 and 5 source pages","Impedance flagged effectively-4ohm (min below 4 Ω, EPDR 1.9 Ω)","No Tier A/B for 606 S3 and 607 S3"]
+}

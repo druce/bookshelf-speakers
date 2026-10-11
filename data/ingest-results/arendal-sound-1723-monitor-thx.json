@@ -1,0 +1,22 @@
+{
+ "slug": "arendal-sound-1723-monitor-thx",
+ "brand": "Arendal Sound",
+ "model": "1723 Monitor THX",
+ "brand_slug": "arendal-sound",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance 4 ohm: maker states 4-ohm nominal (tech tab); also 2x8in woofers, 26.7 kg",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-arendal-sound-1723-monitor-thx.md",
+  "raw/manufacturer/mfr-tech-arendal-sound-1723-monitor-thx.md"
+ ],
+ "evidence": [
+  "https://arendalsound.com/product/1723-monitor-thx/tech/",
+  "https://arendalsound.com/product/1723-monitor-thx/"
+ ]
+}

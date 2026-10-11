@@ -1,0 +1,19 @@
+{
+ "slug": "rauna-freja",
+ "brand": "Rauna",
+ "model": "Freja",
+ "brand_slug": "rauna",
+ "verdict": "out-of-scope",
+ "reason": "Vintage Swedish floorstander (805 mm tall, 33 kg), 7 ohm; no current new sale or price found.",
+ "successor": null,
+ "nominal_impedance_ohm": 7,
+ "status": "unclear",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.audiosciencereview.com/forum/index.php?threads/rauna-freja-vintage-2-way-loudspeaker-measurements.50093/",
+  "https://www.spinorama.org/speakers/Rauna%20Freja/Misc/index_misc-mab.html"
+ ]
+}

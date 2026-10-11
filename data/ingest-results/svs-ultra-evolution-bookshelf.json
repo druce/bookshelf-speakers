@@ -1,0 +1,57 @@
+{
+ "slug": "svs-ultra-evolution-bookshelf",
+ "brand": "SVS",
+ "model": "Ultra Evolution Bookshelf",
+ "brand_slug": "svs",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 1199.98,
+ "price_source": "https://svsound.com/products/ultra-evolution-bookshelf",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/svs-ultra-evolution-bookshelf.md",
+  "wiki/sources/mfr-svs-ultra-evolution-bookshelf.md",
+  "wiki/sources/stereophile-svs-ultra-evolution-bookshelf.md",
+  "wiki/sources/stereophile-review-svs-ultra-evolution-bookshelf.md",
+  "wiki/sources/audioholics-svs-ultra-evolution-bookshelf.md",
+  "wiki/sources/pragmaticaudio-svs-ultra-evolution-bookshelf.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-svs-ultra-evolution-bookshelf.md",
+  "raw/manufacturer/stereophile-spec-svs-ultra-evolution-bookshelf.md",
+  "raw/measurements/stereophile-svs-ultra-evolution-bookshelf.md",
+  "raw/assets/stereophile-svs-ultra-evolution-bookshelf-fig01.jpg",
+  "raw/assets/stereophile-svs-ultra-evolution-bookshelf-fig02.jpg",
+  "raw/assets/stereophile-svs-ultra-evolution-bookshelf-fig09.jpg",
+  "raw/reviews-critic/stereophile-review-svs-ultra-evolution-bookshelf.md",
+  "raw/reviews-critic/audioholics-svs-ultra-evolution-bookshelf.md",
+  "raw/reviews-critic/pragmaticaudio-svs-ultra-evolution-bookshelf.md"
+ ],
+ "index_line": "- [[svs-ultra-evolution-bookshelf]] \u2014 6 \u03a9 (min 3.7 \u03a9, effectively-4ohm), 87 dB, \u00b13 dB from 40 Hz, THD <0.5% @90 dB (Stereophile, Tier B), $1,200/pr",
+ "source_index_lines": [
+  "- [[stereophile-svs-ultra-evolution-bookshelf]] \u2014 Stereophile measurements (Temme), 2026-08-21 (Tier B)",
+  "- [[stereophile-review-svs-ultra-evolution-bookshelf]] \u2014 Stereophile review, Tom Fine, 2026-08-21 (Tier D)",
+  "- [[audioholics-svs-ultra-evolution-bookshelf]] \u2014 Audioholics review, Jacob Green, 2026-09-09 (Tier D, no measurements)",
+  "- [[pragmaticaudio-svs-ultra-evolution-bookshelf]] \u2014 Pragmatic Audio review, 2026-04-13 (Tier D)",
+  "- [[mfr-svs-ultra-evolution-bookshelf]] \u2014 SVS product page (Tier C)"
+ ],
+ "brand_notes": "See svs-prime-bookshelf notes. Ultra Evolution series: time-aligned sloped cabinets, diamond-coated tweeter; 5-year warranty; >500 dealers (Stereophile spec sidebar). Rated 6 ohm; measured min 3.7 ohm.",
+ "takeaways": [
+  "Stereophile (Tier B): sensitivity 87 dB matches claim; \u00b13 dB 40 Hz-26 kHz.",
+  "Min impedance 3.7 ohm vs 6 ohm rating: effectively-4ohm flag.",
+  "THD at 90 dB <0.5% above 100 Hz; directivity broad with 3-7 kHz lobing.",
+  "No spinorama/Klippel; LW deviation and pref score not available.",
+  "Critics praise bass weight; Stereophile notes limited room-filling bass at low levels without sub."
+ ],
+ "conflicts": [
+  "One reseller SKU lists 8 ohm vs maker/Stereophile 6 ohm",
+  "Treble described as brighter than LS50 Meta (Stereophile) vs smooth (Audioholics)"
+ ],
+ "log_bullets": [
+  "Created speakers/svs-ultra-evolution-bookshelf and 5 source pages",
+  "Impedance flagged effectively-4ohm (3.7 ohm vs 6 ohm rating)"
+ ]
+}

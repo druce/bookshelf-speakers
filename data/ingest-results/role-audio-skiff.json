@@ -1,0 +1,57 @@
+{
+ "slug": "role-audio-skiff",
+ "brand": "Role Audio",
+ "model": "Skiff",
+ "brand_slug": "role-audio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 495,
+ "price_source": "https://role-loudspeakers.com/prices (maker price list; satin black $495/pair, birch $545); ASR 2023 says still manufactured; main roleaudio.com site is a JS app and Amazon showed unavailable",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/role-audio-skiff.md",
+  "wiki/sources/asr-role-audio-skiff.md",
+  "wiki/sources/mfr-role-audio-skiff.md",
+  "wiki/sources/enjoythemusic-role-audio-skiff.md",
+  "wiki/sources/boundforsound-role-audio-skiff.md",
+  "wiki/sources/users-role-audio-skiff.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-role-audio-skiff.md",
+  "raw/measurements/asr-role-audio-skiff.md",
+  "raw/reviews-critic/enjoythemusic-role-audio-skiff.md",
+  "raw/reviews-critic/boundforsound-role-audio-skiff.md",
+  "raw/reviews-user/users-role-audio-skiff-2026-10-11.md",
+  "raw/assets/asr-role-audio-skiff-impedance.png",
+  "raw/assets/asr-role-audio-skiff-thd.png"
+ ],
+ "index_line": "- [[role-audio-skiff]] \u2014 8 \u03a9, 3.5\" single driver micro desktop, LW \u00b13.9 dB, f3 143 Hz, sens 80.6 dB, pref -0.5 (ASR)",
+ "source_index_lines": [
+  "- [[asr-role-audio-skiff]] \u2014 ASR Klippel review, 2023-09-18 (Tier A)",
+  "- [[boundforsound-role-audio-skiff]] \u2014 Bound for Sound review hosted by maker (Tier D)",
+  "- [[enjoythemusic-role-audio-skiff]] \u2014 Enjoy the Music, 2006 (Tier D)",
+  "- [[users-role-audio-skiff]] \u2014 ASR thread reactions, no owner reports (Tier E)",
+  "- [[mfr-role-audio-skiff]] \u2014 Role Audio Skiff maker page (Tier C)"
+ ],
+ "brand_notes": "Role Audio (Raleigh NC) sells direct; old Drupal pages at role-loudspeakers.com show full price list (Skiff $495, Sampan, Starship series), main site is a new React app. Skiff dates from the 2000s (mfr-role-audio-skiff, asr-role-audio-skiff). ASR sample had a crooked blank serial label (cosmetic).",
+ "takeaways": [
+  "Single 3.5\" full-range, sealed, 6x4x5 in desktop speaker, 8 \u03a9 nominal (min 6.5 \u03a9 claimed)",
+  "ASR Klippel: LW \u00b13.9 dB, f3 143 Hz, four strong resonances, sens 80.6 vs 88 claimed",
+  "Distortion set in before 86 dB SPL; tested at 80/83 dB instead",
+  "ASR pref -0.5 / 3.6 with sub; not recommended",
+  "Older critic reviews (Bound for Sound via maker, EtM 2006) praise midrange and imaging near-field"
+ ],
+ "conflicts": [
+  "Sensitivity 80.6 measured vs 88 claimed",
+  "Critics describe linear response vs ASR four resonances",
+  "Status only partly verified (maker price list live; Amazon unavailable)"
+ ],
+ "log_bullets": [
+  "Created speakers/role-audio-skiff plus 5 source pages (asr, mfr, enjoythemusic, boundforsound, users)",
+  "Conflict: sensitivity 80.6 vs 88 claimed; critics vs ASR on response",
+  "Desktop single-driver micro speaker kept in scope under desktop-monitor rule; status partly verified"
+ ]
+}

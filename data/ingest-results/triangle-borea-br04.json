@@ -1,0 +1,21 @@
+{
+ "slug": "triangle-borea-br04",
+ "brand": "Triangle",
+ "model": "Borea BR04",
+ "brand_slug": "triangle",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (8 ohm, 6in, front port, 425 mm class, sold at trianglehifi.us) but no Tier A/B measurement found; claimed min 4.6 ohm, 90 dB, 44-22k, xo 3.2 kHz. Only subjective reviews (What Hi-Fi, the-ear.net, ecoustics) and rough in-room measurement in the-ear.net. BR03 predecessor was NRC-measured (soundstageaccess), not BR04.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 649,
+ "price_source": "https://trianglehifi.us/products/borea-br04",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-triangle-borea-br04.md"
+ ],
+ "evidence": [
+  "https://trianglehifi.us/products/borea-br04",
+  "https://www.soundstageaccess.com/index.php/feature-articles/1066-making-the-french-connection-the-triangle-borea-br03-and-focal-chora-806-speakers-sounds-explained-through-measurements"
+ ]
+}

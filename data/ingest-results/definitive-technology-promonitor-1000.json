@@ -1,0 +1,22 @@
+{
+ "slug": "definitive-technology-promonitor-1000",
+ "brand": "Definitive Technology",
+ "model": "ProMonitor 1000",
+ "brand_slug": "definitive-technology",
+ "verdict": "discontinued",
+ "reason": "Maker US page shows Out of Stock with Notify-me (listed $249, 8 ohm nominal, 91 dB claimed 1W/1m, 5.25in woofer + passive radiator; 2007-era design); search reports Crutchfield says no longer available and ExtremeHiFi lists it discontinued; no new stock found at any retailer. Not explicitly announced as discontinued by maker, so status is a judgement call.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://www.definitivetechnology.com/en-us/product/bookshelf/promonitor-1000/112096.html",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-definitive-technology-promonitor-1000.md"
+ ],
+ "evidence": [
+  "https://www.definitivetechnology.com/en-us/product/bookshelf/promonitor-1000/112096.html",
+  "https://www.crutchfield.com/p_735PMON1KB/Definitive-Technology-ProMonitor-1000.html",
+  "https://www.extremehifi.com/product/definitive-technology-promonitor-1000-08rT"
+ ]
+}

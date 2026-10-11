@@ -1,0 +1,25 @@
+{
+ "slug": "goldenear-brx",
+ "brand": "GoldenEar",
+ "model": "BRX",
+ "brand_slug": "goldenear",
+ "verdict": "out-of-scope",
+ "reason": "Maker spec sheet (goldenear.com/?p=757) lists Nominal Impedance 4 ohm, sensitivity 88 dB 1W/1m @4 ohm; only 'compatible with 8 ohms' wording on retail pages. Measured min 3.3 ohm @205 Hz (ASR graph) / 3.24 ohm @194 Hz (Stereophile per search snippet). Still listed on goldenear.com bookshelf page (GoldenEar Studio/PML Sound). Has Tier A: ASR Klippel (pref 4.21 / 6.57 sub, LW +/-2.1, f3 79 Hz, THD 86 dB approx 1.4%, 96 dB approx 3.5% graph-read).",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 1598,
+ "price_source": "https://www.audiosciencereview.com/forum/index.php?threads/goldenear-brx-review-high-end-bookshelf-speaker.28371/ (launch/ASR price; current price unverified; Upscale Audio lists $749.99 each, ambiguous stock)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-goldenear-brx.md",
+  "raw/measurements/asr-goldenear-brx.md",
+  "raw/assets/asr-goldenear-brx-impedance.png",
+  "raw/assets/asr-goldenear-brx-thd.png"
+ ],
+ "evidence": [
+  "https://www.goldenear.com/?p=757",
+  "https://www.goldenear.com/bookshelf-speakers/brx-bookshelf-reference-x",
+  "https://upscaleaudio.com/products/goldenear-brx-bookshelf-reference-speaker-each"
+ ]
+}

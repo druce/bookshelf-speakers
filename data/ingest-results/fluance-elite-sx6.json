@@ -1,0 +1,22 @@
+{
+ "slug": "fluance-elite-sx6",
+ "brand": "Fluance",
+ "model": "Elite SX6",
+ "brand_slug": "fluance",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 8 \u03a9, 5\" woofer, 322 mm, $149.99/pair, 89\u00b13 dB claimed) but no Tier A/B measurement found",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 149.99,
+ "price_source": "https://www.fluance.com/sx6-high-definition-two-way-bookshelf-loudspeakers-sx6wh",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-fluance-elite-sx6.md"
+ ],
+ "evidence": [
+  "https://www.fluance.com/sx6-high-definition-two-way-bookshelf-loudspeakers-sx6wh",
+  "https://speakerdecision.com/review/Fluance-SX6",
+  "https://archimago.blogspot.com/2020/11/measurements-fluance-reference-xl8s.html"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "jamo-c93-ii",
+ "brand": "Jamo",
+ "model": "C93 II",
+ "brand_slug": "jamo",
+ "verdict": "discontinued",
+ "reason": "Not listed on jamo.com (current bookshelves are Concert Legacy 8 and Concert Element 50); product URL 404s; only clearance/third-party stock (Woot sold out $229.99, AV.com unavailable). Rated 6 ohm by listings, HiFi News measured min 3.4 ohm.",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://www.jamo.com/",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/eac-jamo-c93-ii.md"
+ ],
+ "evidence": [
+  "https://www.jamo.com/",
+  "https://www.av.com/Speakers/Jamo-C-93-II-Concert-Series-Bookshelf-Speakers-Pair-White/56Z3",
+  "https://www.audioentertainments.com/products/jamo-c93-ii-bookshelf-speakers-pair/"
+ ]
+}

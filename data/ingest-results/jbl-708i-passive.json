@@ -1,0 +1,22 @@
+{
+ "slug": "jbl-708i-passive",
+ "brand": "JBL",
+ "model": "708i passive",
+ "brand_slug": "jbl",
+ "verdict": "out-of-scope",
+ "reason": "nominal impedance not stated by maker (spec page and Audioholics preview say not rated); ASR review does not state it either. 8 in woofer, 438 mm tall, passive pro monitor, ~$1,599 each at RSPE",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": 3198,
+ "price_source": "https://jblpro.com/en-US/products/708i",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-jbl-708i-passive.md",
+  "raw/manufacturer/mfr-jbl-708i-passive-jblpro.md"
+ ],
+ "evidence": [
+  "https://jblpro.com/en-US/products/708i",
+  "https://www.rspeaudio.com/jbl-708i-8-master-reference-monitor"
+ ]
+}

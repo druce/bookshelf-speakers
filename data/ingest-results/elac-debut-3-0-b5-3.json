@@ -1,0 +1,22 @@
+{
+ "slug": "elac-debut-3-0-b5-3",
+ "brand": "Elac",
+ "model": "Debut 3.0 B5.3",
+ "brand_slug": "elac",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (6 ohm, 5.25in, 311 mm, current) but no Tier A/B measurement found (no Erin/ASR/Audioholics page; Erin lists DB63 and DF63 only)",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 399,
+ "price_source": "https://www.worldwidestereo.com/products/elac-db53-debut-3-0-5-25-inch-bookshelf-speakers-pair-black (also headphones.com, TMR $399)",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-elac-debut-3-0-b5-3.md"
+ ],
+ "evidence": [
+  "https://elac.com/db53",
+  "https://www.worldwidestereo.com/products/elac-db53-debut-3-0-5-25-inch-bookshelf-speakers-pair-black"
+ ],
+ "notes": "Mfr: 86.5 dB/2.83 V, 1900 Hz crossover, 6.05 kg, 311x172x267 mm, claimed 48 Hz-38 kHz (-6 dB)"
+}

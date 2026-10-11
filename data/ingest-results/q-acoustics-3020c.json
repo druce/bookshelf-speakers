@@ -1,0 +1,23 @@
+{
+ "slug": "q-acoustics-3020c",
+ "brand": "Q Acoustics",
+ "model": "3020c",
+ "brand_slug": "q-acoustics",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (6 ohm, 4.75in woofer, 279 mm, sold new) but no Tier A/B measurement found: no ASR/Erin/NRC/Audioholics/Stereophile data located; SoundStage Access review has no measurements.",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 639,
+ "price_source": "https://www.qacoustics.com/collections/bookshelf-speakers/products/3020c-bookshelf-speaker (sale $639, regular $839; Amazon US also $639 per price tracker; launch price $499 pair per What Hi-Fi?)",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-q-acoustics-3020c.md"
+ ],
+ "evidence": [
+  "https://www.qacoustics.com/collections/bookshelf-speakers/products/3020c-bookshelf-speaker",
+  "https://www.whathifi.com/reviews/q-acoustics-3020c",
+  "https://goodsound.soundstagenetwork.com/index.php/equipment-reviews/1355-q-acoustics-3020c-loudspeaker"
+ ],
+ "brand_notes": "3020c maker specs: 6 ohm nominal, 3.7 ohm min claimed, 87.0 dB 2.83 V, 60 Hz-30 kHz (-6 dB), crossover 2.6 kHz, 120 mm bass, 22 mm tweeter, 279x175x281 mm, 5.5 kg; replaces 3020i per Hi-Fi Choice (same cabinet, sealed tweeter, lower crossover). Price-per-pair interpretation of 3020c listing is inferred (pair price phrasing absent on page)."
+}

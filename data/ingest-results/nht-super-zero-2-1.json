@@ -1,0 +1,56 @@
+{
+ "slug": "nht-super-zero-2-1",
+ "brand": "NHT",
+ "model": "Super Zero 2.1",
+ "brand_slug": "nht",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 270,
+ "price_source": "https://www.nhthifi.com/api/products (maker store backend): $134.99 each x2 = $269.98",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/nht-super-zero-2-1.md",
+  "wiki/sources/asr-nht-super-zero-2-1.md",
+  "wiki/sources/audioholics-nht-super-zero-2-1.md",
+  "wiki/sources/mfr-nht-super-zero-2-1.md",
+  "wiki/sources/users-nht-super-zero-2-1.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-nht-super-zero-2-1.md",
+  "raw/measurements/asr-nht-super-zero-2-1.md",
+  "raw/reviews-critic/audioholics-nht-super-zero-2-1.md",
+  "raw/reviews-user/asr-thread-nht-super-zero-2-1-page2.md",
+  "raw/reviews-user/users-nht-super-zero-2-1-2026-10-11.md",
+  "raw/assets/asr-nht-super-zero-2-1-impedance.png",
+  "raw/assets/asr-nht-super-zero-2-1-relthd.png",
+  "raw/assets/asr-nht-super-zero-2-1-thd.png"
+ ],
+ "index_line": "- [[nht-super-zero-2-1]] \u2014 8 \u03a9 sealed mini-monitor, LW \u00b11.9 dB, f3 97 Hz (needs sub), 83.3 dB, min 4.2 \u03a9, pref 3.0 (ASR)",
+ "source_index_lines": [
+  "- [[asr-nht-super-zero-2-1]] \u2014 ASR Klippel review, 2020-12-21 (Tier A)",
+  "- [[audioholics-nht-super-zero-2-1]] \u2014 Audioholics Super Stereo system preview, 2014-05-07 (Tier D)",
+  "- [[mfr-nht-super-zero-2-1]] \u2014 NHT store data (Tier C)",
+  "- [[users-nht-super-zero-2-1]] \u2014 ASR forum comments (Tier E, anecdotal)"
+ ],
+ "brand_notes": "SuperZero 2.1 sold singly at $134.99 ea; maker markets it as needing a subwoofer (mfr-nht-super-zero-2-1, users-nht-super-zero-2-1). Old design updated with 2nd-order crossover.",
+ "takeaways": [
+  "Essentially no bass: f3 97 Hz, f6 82 Hz",
+  "Sensitivity 83.3 dB vs 87 dB claimed",
+  "Min impedance 4.2 \u03a9 on an 8 \u03a9 rating (below-iec, not below 4)",
+  "Major DI discontinuity, ER dip 3.8 dB",
+  "Only sensible with a subwoofer, ~$270/pair"
+ ],
+ "conflicts": [
+  "Sensitivity 83.3 vs 87 claimed",
+  "Claimed 85 Hz -3 dB vs measured f3 97 Hz",
+  "ASR judged without sub; maker requires one"
+ ],
+ "log_bullets": [
+  "Created speakers/nht-super-zero-2-1 and its asr/audioholics/mfr/users source pages",
+  "Impedance flag below-iec (4.2 \u03a9 on 8 \u03a9)",
+  "Conflict: sensitivity claim vs measured; f3 claim vs measured"
+ ]
+}

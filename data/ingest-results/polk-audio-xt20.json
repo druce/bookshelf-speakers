@@ -1,0 +1,52 @@
+{
+ "brand": "Polk Audio",
+ "brand_slug": "polk-audio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "tier_ab_available": true,
+ "slug": "polk-audio-xt20",
+ "model": "Monitor XT20",
+ "price_usd_pair": 279,
+ "price_source": "https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/monitor-xt20/300151.html (Polk US, in stock)",
+ "pages_created": [
+  "wiki/speakers/polk-audio-xt20.md",
+  "wiki/sources/eac-polk-audio-xt20.md",
+  "wiki/sources/mfr-polk-audio-xt20.md",
+  "wiki/sources/hifitrends-polk-audio-xt20.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-polk-audio-xt20.md",
+  "raw/measurements/eac-polk-audio-xt20.md",
+  "raw/reviews-critic/hifitrends-polk-audio-xt20.md",
+  "raw/assets/eac-polk-audio-xt20-impedance.png",
+  "raw/assets/eac-polk-audio-xt20-thd86.png",
+  "raw/assets/eac-polk-audio-xt20-thd96.png",
+  "raw/assets/eac-polk-audio-xt20-compression.png"
+ ],
+ "index_line": "- [[polk-audio-xt20]] \u2014 8 \u03a9 compatible (min ~4.0 \u03a9), LW \u00b11.8 dB, f3 62 Hz, pref 4.7 (EAC)",
+ "source_index_lines": [
+  "- [[eac-polk-audio-xt20]] \u2014 Erin's Audio Corner Klippel review, 2022-01-08 (Tier A)",
+  "- [[mfr-polk-audio-xt20]] \u2014 Polk product page and info sheet (Tier C)",
+  "- [[hifitrends-polk-audio-xt20]] \u2014 HiFi Trends review, 2022-04-07 (Tier D)"
+ ],
+ "brand_notes": "Polk US lists all bookshelf models current (Reserve R100/R200, Signature Elite ES15/ES20, T15, Monitor XT15/XT20). Nominal impedance is not stated for ES/XT/Reserve ('compatible with 4- and 8-ohm outputs'); only T-Series info sheet rates T15 at 8 ohm. Measured minima for ES20 3.6, XT15/XT20 about 4.0, T15 about 4.1 ohm: all effectively 4 ohm designs. Design traits: Terylene dome tweeters, Dynamic Balance cones, budget price, 5-year warranty, Vietnam manufacture (tnt-audio XT15).",
+ "takeaways": [
+  "LW \u00b11.8 dB, ERDI 1.0 dB, f3 62 Hz, sens 85.7 dB",
+  "THD 0.9% at 86 dB, 2.2% at 96 dB (graph-read); compression <=1.7 dB at 102 dB above 100 Hz, >3 dB near 65-70 Hz",
+  "Maker only says 4/8-ohm compatible; measured ~4.0 \u03a9 min",
+  "HiFi Trends 7/10: warm, balanced, soft dynamics",
+  "$279/pair; Pref 4.7/7.1"
+ ],
+ "conflicts": [
+  "Sensitivity 85.7 vs 87 claimed",
+  "f3 62 vs 38 Hz claimed"
+ ],
+ "log_bullets": [
+  "Created speakers/polk-audio-xt20, sources/eac-, mfr-, hifitrends-polk-audio-xt20",
+  "Impedance flag below-iec (4.0 \u03a9 graph-read); no user reports ingested",
+  "Conflict: sensitivity and bass vs claims"
+ ]
+}

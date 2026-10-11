@@ -1,0 +1,20 @@
+{
+ "slug": "emotiva-airmotiv-xb2",
+ "brand": "Emotiva",
+ "model": "Airmotiv XB2",
+ "brand_slug": "emotiva",
+ "verdict": "out-of-scope",
+ "reason": "Manufacturer rates it 4-ohm nominal",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "unclear",
+ "price_usd_pair": 399,
+ "price_source": "https://emotiva.com/products/airmotiv-xb2-bookshelf-loudspeakers (Sold Out / temporarily unavailable at fetch)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-emotiva-airmotiv-xb2.md"
+ ],
+ "evidence": [
+  "https://emotiva.com/products/airmotiv-xb2-bookshelf-loudspeakers"
+ ]
+}

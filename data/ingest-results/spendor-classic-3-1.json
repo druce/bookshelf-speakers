@@ -1,0 +1,53 @@
+{
+ "slug": "spendor-classic-3-1",
+ "brand": "Spendor",
+ "model": "Classic 3/1",
+ "brand_slug": "spendor",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 4999,
+ "price_source": "https://upscaleaudio.com/products/spendor-classic-3-1-bookshelf-loudspeakers-pair",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/spendor-classic-3-1.md",
+  "wiki/sources/mfr-spendor-classic-3-1.md",
+  "wiki/sources/hifinews-spendor-classic-3-1.md",
+  "wiki/sources/hifinews-review-spendor-classic-3-1.md",
+  "wiki/sources/hifichoice-spendor-classic-3-1.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-spendor-classic-lineup.md",
+  "raw/manufacturer/mfr-spendor-classic-3-1.md",
+  "raw/manufacturer/retail-upscale-spendor.md",
+  "raw/manufacturer/retail-upscale-spendor-classic-3-1.md",
+  "raw/measurements/hifinews-spendor-classic-3-1.md",
+  "raw/reviews-critic/hifinews-review-spendor-classic-3-1.md",
+  "raw/reviews-critic/hifinews-review-spendor-classic-3-1-p2.md",
+  "raw/reviews-critic/hifichoice-spendor-classic-3-1.md"
+ ],
+ "index_line": "- [[spendor-classic-3-1]] \u2014 8 \u03a9 (min 5.7 \u03a9, below-iec), ~84.9 dB measured vs 88 claimed, LF -6 dB 45 Hz, no spinorama (HFN lab, Tier B), $4,999/pr",
+ "source_index_lines": [
+  "- [[hifinews-spendor-classic-3-1]] \u2014 Hi-Fi News lab report, 2021-09-06 (Tier B)",
+  "- [[hifinews-review-spendor-classic-3-1]] \u2014 Hi-Fi News review, Ed Selley, 2021-09-06 (Tier D)",
+  "- [[hifichoice-spendor-classic-3-1]] \u2014 HiFi Choice group-test win, maker-quoted (Tier D)",
+  "- [[mfr-spendor-classic-3-1]] \u2014 Spendor data sheet 2023 (Tier C)"
+ ],
+ "brand_notes": "Spendor (UK, Hailsham). Classic range = 1970s BBC-inspired, thin-wall damped cabinets, EP77 polymer cones, 22 mm polyamide domes, made in UK; premium US pricing ($3-5k/pr) sold via dealers (Upscale Audio). Specs rate 8 ohm nominal with ~6 ohm minimums. See mfr-spendor-classic-3-1, hifinews-spendor-classic-3-1.",
+ "takeaways": [
+  "Only Tier-B data is the Hi-Fi News lab report; no spinorama.",
+  "Measured ~84.9 dB vs 88 dB claimed (about 3 dB shortfall).",
+  "Min impedance 5.7 ohm @175 Hz triggers below-iec for an 8 ohm rating.",
+  "LF -6 dB at 45 Hz with port tuned to 34 Hz; THD ~0.5% at 90 dB.",
+  "HFN Outstanding review; HiFi Choice group-test win (maker-quoted). $4,999/pair at Upscale Audio."
+ ],
+ "conflicts": [
+  "Sensitivity 88 dB claimed vs 84.9 dB measured (HFN)."
+ ],
+ "log_bullets": [
+  "Created speakers/spendor-classic-3-1 and sources mfr/hifinews lab/hifinews review/hifichoice",
+  "Conflict: sensitivity 88 claimed vs 84.9 measured; impedance flagged below-iec (5.7 ohm)"
+ ]
+}

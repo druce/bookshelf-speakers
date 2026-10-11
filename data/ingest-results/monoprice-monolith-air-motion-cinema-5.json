@@ -1,0 +1,22 @@
+{
+ "slug": "monoprice-monolith-air-motion-cinema-5",
+ "brand": "Monoprice",
+ "model": "Monolith Air Motion Cinema 5",
+ "brand_slug": "monoprice",
+ "verdict": "discontinued",
+ "reason": "Could not verify current sale: Monoprice site blocks scripted fetches (403/Cloudflare), no retailer listing found; only 2016-2017 launch/review material, HardForum thread titled '(DEAD)' deal, Groupon listing. Spec otherwise in scope (8 ohm, 87 dB, 5.25-inch, AMT, 11.2-inch tall, ~$200 each at launch per Audioholics). Treated as not verifiably current; revisit if Monoprice listing confirmed. Audioholics review (2017-05-15) saved; ungated 14 ms measurements, rig Tier-A/B per spinorama packet.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/audioholics-monoprice-monolith-air-motion-cinema-5.md"
+ ],
+ "evidence": [
+  "https://www.audioholics.com/bookshelf-speaker-reviews/monoprice-monolith",
+  "https://hardforum.com/threads/monoprice-air-motion-cinema-5-bookshelf-speaker-100-dead.1980916/",
+  "https://www.groupon.com/deals/gg-mp-monolith-by-monoprice-air-motion-cinema-5-bookshelf-speaker-each"
+ ]
+}

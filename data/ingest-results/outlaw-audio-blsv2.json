@@ -1,0 +1,22 @@
+{
+ "slug": "outlaw-audio-blsv2",
+ "brand": "Outlaw Audio",
+ "model": "BLSv2",
+ "brand_slug": "outlaw-audio",
+ "verdict": "discontinued",
+ "reason": "Outlaw's current speakers category lists only LCRv2 ($599.99), SVS and subs; the BLSv2 URL redirects to a category page without it. TMR Audio shows it no longer available. 2018 MSRP $699/pair.",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-outlaw-audio-blsv2.md (stub: redirect notice only)"
+ ],
+ "evidence": [
+  "https://outlawaudio.com/shop/speakers-subwoofers/31-bookshelfloudpseakers.html",
+  "https://tmraudio.com/speakers/bookshelf-speakers-monitors/outlaw-audio-blsv2-bookshelf-speakers-black-pair-bls-v2",
+  "https://www.audioholics.com/bookshelf-speaker-reviews/outlaw-blsv2/conclusion"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "slug": "buchardt-audio-s400-mkii",
+ "brand": "Buchardt Audio",
+ "model": "S400 MKII",
+ "brand_slug": "buchardt-audio",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance 4 ohm (Erin's Audio Corner/spinorama vendor spec, Speaker Decision, hifi-guide); maker product page /products/s400-mkii now returns 404 and the S400 MK3 (also 4 ohm) has replaced it",
+ "successor": "buchardt-audio-s400-mk3 (4 ohm, also out of scope)",
+ "nominal_impedance_ohm": 4,
+ "status": "discontinued",
+ "price_usd_pair": 2200,
+ "price_source": "https://speakerdecision.com/review/Buchardt-S400-MKII (stale MSRP; maker page 404)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-buchardt-audio-s400-mk3.md"
+ ],
+ "evidence": [
+  "https://www.erinsaudiocorner.com/loudspeakers/buchardt_s400_mkii/",
+  "https://speakerdecision.com/review/Buchardt-S400-MKII",
+  "https://buchardtaudio.com/products/s400-mkii (404)",
+  "https://buchardtaudio.com/products/s400-mk3",
+  "https://www.stereolifemagazine.com/news/item/1738-buchardt-audio-s400-mk3"
+ ]
+}

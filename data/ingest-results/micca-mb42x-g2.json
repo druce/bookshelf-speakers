@@ -1,0 +1,20 @@
+{
+ "slug": "micca-mb42x-g2",
+ "brand": "Micca",
+ "model": "MB42X-G2",
+ "brand_slug": "micca",
+ "verdict": "out-of-scope",
+ "reason": "Maker spec states Impedance 4-8 Ohms (no 6/8 ohm nominal); ASR spinorama lists 4 ohm. Sold at $119.99/pair on miccatron.com.",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": 119.99,
+ "price_source": "https://www.miccatron.com/shop/product/micca-mb42x-g2-4-inch-bookshelf-speaker-pair/",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-micca-mb42x-g2.md"
+ ],
+ "evidence": [
+  "https://www.miccatron.com/shop/product/micca-mb42x-g2-4-inch-bookshelf-speaker-pair/"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "slug": "cerwin-vega-la165",
+ "brand": "Cerwin Vega",
+ "model": "LA165",
+ "brand_slug": "cerwin-vega",
+ "verdict": "out-of-scope",
+ "reason": "Maker lists impedance as '4-8 Ohm' (no 6/8 nominal); Erin lists vendor spec 4 ohm. Also shown as sold out on maker site; 90 dB/1 W/1 m, 347 mm tall (height ok). Measured min impedance not ingested.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current (sold out on maker site)",
+ "price_usd_pair": 269.99,
+ "price_source": "https://cerwinvega.com/products/6-5-2-way-bookshelf-pair-speakers-la165",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-cerwin-vega-la165.md"
+ ],
+ "evidence": [
+  "https://cerwinvega.com/products/6-5-2-way-bookshelf-pair-speakers-la165",
+  "https://www.spinorama.org/speakers/Cerwin%20Vega%20LA165/ErinsAudioCorner/index_eac.html"
+ ]
+}

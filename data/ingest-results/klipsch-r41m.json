@@ -1,0 +1,22 @@
+{
+ "slug": "klipsch-r41m",
+ "brand": "Klipsch",
+ "model": "R41M",
+ "brand_slug": "klipsch",
+ "verdict": "discontinued",
+ "reason": "Klipsch's US bookshelf category page (saved raw/manufacturer/mfr-klipsch-bookshelf-category.md, 2026-10-11) lists only R-40M, R-50M, RP-500M II and RP-600M II; R-41M is not listed. Its legacy product page carries a 'Want the latest? Shop R-40M' banner. Spec sheet: 8 ohms compatible, 90 dB @2.83 V, 4 in woofer, 287 mm. Retail listings seen are remnant/third-party (Walmart $199, eBay). ASR Klippel data exists (pref 3.0) but model is superseded.",
+ "successor": "klipsch-r-40m",
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-klipsch-r41m.md",
+  "raw/manufacturer/mfr-klipsch-bookshelf-category.md"
+ ],
+ "evidence": [
+  "https://www.klipsch.com/bookshelf-speakers",
+  "https://www.klipsch.com/products/r-41m-bookshelf-speaker"
+ ]
+}

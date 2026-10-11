@@ -1,0 +1,23 @@
+{
+ "slug": "neat-acoustics-petite-classic",
+ "brand": "Neat Acoustics",
+ "model": "Petite Classic",
+ "brand_slug": "neat-acoustics",
+ "verdict": "no-tier-ab",
+ "reason": "In scope on maker specs (6 ohm nominal, 4 ohm min, 300x200x180 mm standmount, GBP 1,995; Basil Audio lists USD 2,999) but no Tier A/B measurement found for this model.",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 2999,
+ "price_source": "https://www.basilaudio.com/products/neat-petite-classic/ (search snippet; per pair not confirmed; maker GBP 1,995)",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-neat-acoustics-petite-classic.md"
+ ],
+ "evidence": [
+  "https://www.neatacoustics.com/products/neat-petite-classic-speakers",
+  "https://www.neatacoustics.com/pages/dealers",
+  "https://www.basilaudio.com/products/neat-petite-classic/"
+ ],
+ "brand_notes": "UK maker (hand built in north of England); US distributor Fidelis Distribution (Nashua NH) per maker dealer page; UK GBP pricing only on maker site; prior Stereophile review exists only for older Iota Alpha (4 ohm, ~83 dB measured) - not these models."
+}

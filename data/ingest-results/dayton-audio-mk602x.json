@@ -1,0 +1,22 @@
+{
+ "slug": "dayton-audio-mk602x",
+ "brand": "Dayton Audio",
+ "model": "MK602X",
+ "brand_slug": "dayton-audio",
+ "verdict": "out-of-scope",
+ "reason": "Rated 4 ohm nominal (Dayton spec reproduced by AVmall.ro: 4 ohm, 87 dB 1W/1m); Parts Express CLEARANCE, AVmall says discontinued.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "Parts Express 300-469 CLEARANCE, price not retrievable (Cloudflare)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-dayton-audio-mk602x-avmall.md"
+ ],
+ "evidence": [
+  "https://avmall.ro/produs/boxe-dayton-audio-mk602x/",
+  "https://daytonaudio.com/product/1766/mk602x-6-2-way-bookshelf-speaker-pair",
+  "https://www.parts-express.com/Dayton-Audio-MK602X-6-2-Way-Bookshelf-Speaker-Pair-300-469"
+ ]
+}

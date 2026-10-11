@@ -1,0 +1,53 @@
+{
+ "brand": "Polk Audio",
+ "brand_slug": "polk-audio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "tier_ab_available": true,
+ "slug": "polk-audio-signature-elite-es20",
+ "model": "Signature Elite ES20",
+ "price_usd_pair": 399,
+ "price_source": "https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/signature-elite-es20/300364.html (Polk US, in stock)",
+ "pages_created": [
+  "wiki/speakers/polk-audio-signature-elite-es20.md",
+  "wiki/sources/asr-polk-audio-signature-elite-es20.md",
+  "wiki/sources/mfr-polk-audio-signature-elite-es20.md",
+  "wiki/sources/users-polk-audio-signature-elite-es20.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-polk-audio-signature-elite-es20.md",
+  "raw/measurements/asr-polk-audio-signature-elite-es20.md",
+  "raw/assets/asr-polk-audio-signature-elite-es20-impedance.png",
+  "raw/assets/asr-polk-audio-signature-elite-es20-thd.png",
+  "raw/reviews-user/asrthread-polk-audio-es20-p1.md",
+  "raw/reviews-user/asrthread-polk-audio-es20-p2.md",
+  "raw/reviews-user/users-polk-audio-signature-elite-es20-2026-10-11.md"
+ ],
+ "index_line": "- [[polk-audio-signature-elite-es20]] \u2014 8 \u03a9 compatible (measured min 3.6 \u03a9), LW \u00b12.2 dB, f3 53 Hz, pref 4.5 (ASR)",
+ "source_index_lines": [
+  "- [[asr-polk-audio-signature-elite-es20]] \u2014 ASR Klippel review, 2022-05-10 (Tier A)",
+  "- [[mfr-polk-audio-signature-elite-es20]] \u2014 Polk product page and info sheet (Tier C)",
+  "- [[users-polk-audio-signature-elite-es20]] \u2014 ASR thread replies (Tier E, anecdotal)"
+ ],
+ "brand_notes": "Polk US lists all bookshelf models current (Reserve R100/R200, Signature Elite ES15/ES20, T15, Monitor XT15/XT20). Nominal impedance is not stated for ES/XT/Reserve ('compatible with 4- and 8-ohm outputs'); only T-Series info sheet rates T15 at 8 ohm. Measured minima for ES20 3.6, XT15/XT20 about 4.0, T15 about 4.1 ohm: all effectively 4 ohm designs. Design traits: Terylene dome tweeters, Dynamic Balance cones, budget price, 5-year warranty, Vietnam manufacture (tnt-audio XT15).",
+ "takeaways": [
+  "Polk gives only '4- and 8-ohm compatible'; measured min 3.6 \u03a9 so effectively-4ohm flag",
+  "LW \u00b12.2 dB, f3 53 Hz, wide 143\u00b0 horizontal beamwidth, but 600-1000 Hz port/cabinet resonances",
+  "THD ~0.7% at 86 dB above 100 Hz; clean",
+  "Only ASR (Tier A) data; no other professional review found",
+  "$399/pair on Polk US"
+ ],
+ "conflicts": [
+  "Sensitivity 87.2 computed vs 86 claimed (88 dB/1 W retailers)",
+  "ERDI major-discontinuity vs ASR 'smooth' horizontal beamwidth",
+  "Pref 4.49 vs forum-corrected 4.7"
+ ],
+ "log_bullets": [
+  "Created speakers/polk-audio-signature-elite-es20, sources/asr-, mfr-, users-polk-audio-signature-elite-es20",
+  "Impedance flag effectively-4ohm from ASR min 3.6 \u03a9 (graph-read); nominal recorded as 8 \u03a9 compatible per scope rule",
+  "Conflict: sensitivity/directivity wording noted in speaker page"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "slug": "bowers-wilkins-606-s3",
+ "brand": "Bowers & Wilkins",
+ "model": "606 S3",
+ "brand_slug": "bowers-wilkins",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (8 \u03a9 nominal, min 3.7 \u03a9 per maker, 6.5\" woofer, 344 mm cabinet, passive, $1200/pair, In Stock on B&W US) but no Tier A/B measurement found (searched Stereophile, SoundStage, Audioholics, ASR, Erin, Hi-Fi News).",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1200,
+ "price_source": "https://www.bowerswilkins.com/en-us/product/loudspeakers/600-series/606-s3/300660.html",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-bowers-wilkins-606-s3.md"
+ ],
+ "evidence": [
+  "https://www.bowerswilkins.com/en-us/product/loudspeakers/600-series/606-s3/300660.html",
+  "https://www.whathifi.com/advice/bowers-and-wilkins-607-s3-vs-606-s3-which-bandw-speakers-should-you-buy"
+ ]
+}

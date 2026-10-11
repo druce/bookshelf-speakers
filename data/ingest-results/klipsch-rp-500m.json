@@ -1,0 +1,24 @@
+{
+ "slug": "klipsch-rp-500m",
+ "brand": "Klipsch",
+ "model": "RP-500M",
+ "brand_slug": "klipsch",
+ "verdict": "discontinued",
+ "reason": "Klipsch's US bookshelf category page (saved raw/manufacturer/mfr-klipsch-bookshelf-category.md, 2026-10-11) lists only R-40M, R-50M, RP-500M II and RP-600M II; first-generation RP-500M is not listed; superseded by RP-500M II (2022). Legacy page still online; third-party listings (eBay $359.99, a Gear Patrol article citing $299-399 remnant pricing) do not establish current new stock. Erin's Audio Corner calls the gen-1 discontinued. EAC Klippel data exists (pref 4.4).",
+ "successor": "klipsch-rp-500m-ii",
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-klipsch-rp-500m.md",
+  "raw/manufacturer/mfr-klipsch-bookshelf-category.md"
+ ],
+ "evidence": [
+  "https://www.klipsch.com/bookshelf-speakers",
+  "https://www.klipsch.com/products/rp-500m-bookshelf-speaker",
+  "https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_500m_i/",
+  "https://www.gearpatrol.com/audio/klipsch-rp-500m-bookshelf-speaker-deal/"
+ ]
+}

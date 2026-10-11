@@ -1,0 +1,54 @@
+{
+ "brand": "Ascend Acoustics",
+ "brand_slug": "ascend-acoustics",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "tier_ab_available": true,
+ "slug": "ascend-acoustics-sierra-1-v2",
+ "model": "Sierra-1 V2",
+ "price_usd_pair": 998,
+ "price_source": "https://www.ascendacoustics.com/products/sierra-1-v2-pair",
+ "pages_created": [
+  "wiki/speakers/ascend-acoustics-sierra-1-v2.md",
+  "wiki/sources/eac-ascend-acoustics-sierra-1-v2.md",
+  "wiki/sources/asr-ascend-acoustics-sierra-1-v2.md",
+  "wiki/sources/mfr-ascend-acoustics-sierra-1-v2.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-ascend-acoustics-sierra-1-v2.md",
+  "raw/measurements/eac-ascend-acoustics-sierra-1-v2.md",
+  "raw/measurements/asr-ascend-acoustics-sierra-1-v2.md",
+  "raw/assets/eac-ascend-acoustics-sierra-1-v2-impedance.png",
+  "raw/assets/eac-ascend-acoustics-sierra-1-v2-thd86.png",
+  "raw/assets/eac-ascend-acoustics-sierra-1-v2-thd96.png",
+  "raw/assets/eac-ascend-acoustics-sierra-1-v2-compression.png",
+  "raw/assets/asr-ascend-acoustics-sierra-1-v2-impedance.png",
+  "raw/assets/asr-ascend-acoustics-sierra-1-v2-thd-pct.png"
+ ],
+ "index_line": "- [[ascend-acoustics-sierra-1-v2]] \u2014 8 \u03a9, min 7.0 \u03a9 (EPDR 3.5), LW \u00b11.6 dB, f3 52 Hz, sens 81.1 dB, pref 6.4 (EAC) / 5.8 (ASR)",
+ "source_index_lines": [
+  "- [[eac-ascend-acoustics-sierra-1-v2]] \u2014 Erin's Audio Corner Klippel review, 2023-11-24 (Tier A)",
+  "- [[asr-ascend-acoustics-sierra-1-v2]] \u2014 ASR Klippel review, 2024-03-29 (Tier A)",
+  "- [[mfr-ascend-acoustics-sierra-1-v2]] \u2014 Ascend product page/specs (Tier C)"
+ ],
+ "brand_notes": "Sierra-1 V2: bamboo laminated cabinet, 5.25 in woofer, SEAS Titan-based dome; maker previewed data to Erin; maker sample for Erin, member-loaned sample for ASR. Pairs matched to \u00b11.5 dB with serialized production-line plot.",
+ "takeaways": [
+  "Two Tier-A Klippel measurements agree: LW \u00b11.6/1.7 dB, f3 52 Hz, very smooth early reflections, ERDI small.",
+  "Sensitivity only 81 dB (maker anechoic claim 83, in-room 87); output limited: 96 dB near 0.7 dB compression, 102 dB reaches ~3 dB near 150 Hz.",
+  "Impedance min 7 \u03a9 (easy) but EPDR min 3.5 \u03a9 above 80 Hz.",
+  "Erin and Amir both praise in-room neutrality; Amir finds it better with light EQ.",
+  "No user reports or independent pro-magazine reviews found."
+ ],
+ "conflicts": [
+  "Pref score 6.38 (EAC) vs 5.80 (ASR)",
+  "Vertical beamwidth 103 vs 84 deg",
+  "Sensitivity 81.1/81.4 vs maker 83 anechoic"
+ ],
+ "log_bullets": [
+  "Created speakers/ascend-acoustics-sierra-1-v2, sources/eac-..., asr-..., mfr-ascend-acoustics-sierra-1-v2",
+  "Conflict: preference score 6.38 (EAC) vs 5.80 (ASR); sensitivity vs maker claim"
+ ]
+}

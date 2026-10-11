@@ -1,0 +1,20 @@
+{
+ "slug": "kef-q3-meta",
+ "brand": "KEF",
+ "model": "Q3 Meta",
+ "brand_slug": "kef",
+ "verdict": "out-of-scope",
+ "reason": "KEF rates nominal impedance 4 \u03a9 (min 3.2 \u03a9)",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 900,
+ "price_source": "https://us.kef.com/products/q3-meta ($899.99 pair, via WebFetch)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-kef-q3-meta.md"
+ ],
+ "evidence": [
+  "https://us.kef.com/products/q3-meta"
+ ]
+}

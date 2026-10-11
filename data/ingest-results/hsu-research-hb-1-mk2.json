@@ -1,0 +1,25 @@
+{
+ "slug": "hsu-research-hb-1-mk2",
+ "brand": "Hsu Research",
+ "model": "HB-1 MK2",
+ "brand_slug": "hsu-research",
+ "verdict": "discontinued",
+ "reason": "Hsu's current speaker collection lists only CCB-8 and MFL-6; the hsuresearch.com HB-1 product URL returns 404 and the model is absent from the all-products listing. No explicit discontinuation notice found, so status inferred from removal from the maker's store.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://hsuresearch.com/collections/speakers",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-hsu-research-hb-1-mk2.md",
+  "raw/measurements/asr-hsu-research-hb-1-mk2.md"
+ ],
+ "evidence": [
+  "https://hsuresearch.com/collections/speakers",
+  "https://hsuresearch.com/collections/all",
+  "https://hsuresearch.com/products/hb-1-speaker (404)",
+  "https://www.audiosciencereview.com/forum/index.php?threads/hsu-hb-1-mk2-review-horn-speaker.24445/"
+ ],
+ "notes": "Older sources: 6 \u03a9 (S&V earlier listing) / 8 \u03a9 recommended setting; S&V measured 4.4 \u03a9 min. ASR Klippel data exist (pref 3.9/6.4, LW +-2.2 dB, f3 72 Hz). Not ingested because not sold new."
+}

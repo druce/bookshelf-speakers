@@ -1,0 +1,49 @@
+{
+ "slug": "zu-audio-method",
+ "brand": "Zu Audio",
+ "model": "Method",
+ "brand_slug": "zu-audio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1438,
+ "price_source": "https://www.zuaudio.com/loudspeakers/p/mb1 (from 719 per speaker, pair = 2x; finishes +82-190 each)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/zu-audio-method.md",
+  "wiki/sources/eac-zu-audio-method.md",
+  "wiki/sources/positivefeedback-zu-audio-method.md",
+  "wiki/sources/mfr-zu-audio-method.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/eac-zu-audio-method.md",
+  "raw/reviews-critic/positivefeedback-zu-audio-method.md",
+  "raw/manufacturer/mfr-zu-audio-method.md"
+ ],
+ "index_line": "- [[zu-audio-method]] — 8 Ω, sens 90.1 dB, LW ±4.7 dB, f3 71 Hz, pref 0.3 (EAC)",
+ "source_index_lines": [
+  "- [[eac-zu-audio-method]] — Erin's Audio Corner Klippel data via spinorama.org, 2025-09-18 (Tier A)",
+  "- [[positivefeedback-zu-audio-method]] — Positive Feedback review, 2025-08-12 (Tier D)",
+  "- [[mfr-zu-audio-method]] — Zu Audio product page (Tier C)"
+ ],
+ "brand_notes": "Zu Audio (Utah; founder Sean Casey) is known for high-efficiency full-range-driver speakers; Method is its first coaxial 8\" standmount, front-ported, sold direct, priced per speaker, 600-hour factory burn-in claimed. Optional Method sub; Darko.Audio reviewed Feb 2026 (not ingested, 403).",
+ "takeaways": [
+  "Klippel (EAC via spinorama.org): LW ±4.7 dB, on-axis ±9.4 dB, major DI discontinuity, ER dip 5.1 dB, pref 0.25/3.05",
+  "Sensitivity 90.1 dB measured vs 94 dB claimed (~3.9 dB gap)",
+  "f3 71 Hz computed; spinorama.org reports -3 dB at 120.8 Hz (different reference)",
+  "Aim speakers at the listener (on-axis minus LW -1.7 dB)",
+  "Positive Feedback likes immediacy and imaging; no deep bass"
+ ],
+ "conflicts": [
+  "Sensitivity 94 claimed vs 90.1 measured",
+  "f3 71 Hz computed vs 120.8 Hz spinorama.org",
+  "Tier A coloration vs favourable subjective review"
+ ],
+ "log_bullets": [
+  "Created speakers/zu-audio-method and sources eac-, positivefeedback-, mfr- zu-audio-method",
+  "Erin's review page not found; measurement source is spinorama.org page of EAC data; no impedance/THD available",
+  "Darko.Audio review blocked (403), not ingested"
+ ]
+}

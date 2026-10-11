@@ -1,0 +1,24 @@
+{
+ "slug": "rbh-sound-r-515",
+ "brand": "RBH Sound",
+ "model": "R-515",
+ "brand_slug": "rbh-sound",
+ "verdict": "discontinued",
+ "reason": "RBH Sound page marks R-515 and R-515E \"Discontinued 10/2019\"; also an LCR (center-style) speaker, 6 ohm per hint, not a standmount",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://rbhsound.com/r5.php",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-rbh-sound-r-5.md"
+ ],
+ "evidence": [
+  "https://rbhsound.com/r5.php",
+  "https://www.audioholics.com/bookshelf-speaker-reviews/rbh-r-5/conclusion"
+ ],
+ "log_bullets": [
+  "RBH R-515: discontinued 10/2019 and LCR-form; no pages created"
+ ]
+}

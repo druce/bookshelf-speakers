@@ -1,0 +1,55 @@
+{
+ "slug": "q-acoustics-5020",
+ "brand": "Q Acoustics",
+ "model": "5020",
+ "brand_slug": "q-acoustics",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 1199,
+ "price_source": "https://www.qacoustics.com/collections/bookshelf-speakers/products/5020-bookshelf-speaker",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/q-acoustics-5020.md",
+  "wiki/sources/eac-q-acoustics-5020.md",
+  "wiki/sources/mfr-q-acoustics-5020.md",
+  "wiki/sources/tas-q-acoustics-5020.md",
+  "wiki/sources/trustedreviews-q-acoustics-5020.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-q-acoustics-5020.md",
+  "raw/measurements/eac-q-acoustics-5020.md",
+  "raw/reviews-critic/tas-q-acoustics-5020.md",
+  "raw/reviews-critic/trustedreviews-q-acoustics-5020.md",
+  "raw/assets/eac-q-acoustics-5020-impedance.png",
+  "raw/assets/eac-q-acoustics-5020-thd86.png",
+  "raw/assets/eac-q-acoustics-5020-thd96.png",
+  "raw/assets/eac-q-acoustics-5020-compression.png"
+ ],
+ "index_line": "- [[q-acoustics-5020]] \u2014 6 \u03a9, 5\" ported, LW \u00b13.3 dB, f3 103 Hz, min 3.4 \u03a9 / EPDR 1.7 \u03a9, pref 3.6 (Erin)",
+ "source_index_lines": [
+  "- [[eac-q-acoustics-5020]] \u2014 Erin's Audio Corner Klippel review, 2023-06-02 (Tier A)",
+  "- [[mfr-q-acoustics-5020]] \u2014 Q Acoustics US product page (Tier C)",
+  "- [[tas-q-acoustics-5020]] \u2014 The Absolute Sound review, 2024-11-05 (Tier D)",
+  "- [[trustedreviews-q-acoustics-5020]] \u2014 Trusted Reviews, 2023-05-04 (Tier D)"
+ ],
+ "brand_notes": "Q Acoustics 3000i-series standmounts (3020i, 3030i) remain on the maker's US site at $349.96 / $499.96 per pair though What Hi-Fi? says 3000c replaced them (3020c launched). 5000 series (5010 $999, 5020 $1,199 pair) uses C3 curved-cone driver and sealed isolated tweeter; Erin's 5020 data show a treble-heavy response and 3.4 ohm minimum. All models rated 6 ohm with claimed minimums 3.3-4 ohm. Maker claims 88 dB for 3000i vs measured 85.6-86.1 dB (nrc-q-acoustics-3020i, asr-q-acoustics-3020i); 5020 claim 87.9 vs 86.7 measured (eac-q-acoustics-5020).",
+ "takeaways": [
+  "Klippel LW \u00b13.3 dB, f3 103 Hz, treble heavy per Erin",
+  "Min impedance 3.4 \u03a9, EPDR 1.7 \u03a9: demanding, flagged effectively-4ohm",
+  "THD ~0.9% at 86 dB, ~3.2% at 96 dB near 100-140 Hz (graph-read); little compression to 102 dB above 80 Hz",
+  "US maker price $1,199 vs TAS $899 in 2024",
+  "Listening critics praise balance and detail, conflicting with measured colouration"
+ ],
+ "conflicts": [
+  "TAS 'flat' / Trusted 'warm' vs Erin 'treble heavy' LW \u00b13.3 dB",
+  "Claimed 53 Hz -6 dB vs computed f6 74 Hz",
+  "Claimed 87.9 dB vs 86.7 dB"
+ ],
+ "log_bullets": [
+  "Created speakers/q-acoustics-5020 and sources eac-, mfr-, tas-, trustedreviews-q-acoustics-5020",
+  "Conflict: listening reviews vs Klippel colouration; impedance flag effectively-4ohm"
+ ]
+}

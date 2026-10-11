@@ -1,0 +1,61 @@
+{
+ "slug": "bowers-wilkins-805-d4",
+ "brand": "Bowers & Wilkins",
+ "model": "805 D4",
+ "brand_slug": "bowers-wilkins",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 10000,
+ "price_source": "https://www.worldwidestereo.com/products/bowers-wilkins-805-d4-2-way-bookshelf-speaker-pair-gloss-black (available, $10,000 pair); B&W US $10,000 shows stock-notification form",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/bowers-wilkins-805-d4.md",
+  "wiki/sources/mfr-bowers-wilkins-805-d4.md",
+  "wiki/sources/soundstage-bowers-wilkins-805-d4.md",
+  "wiki/sources/hifinews-bowers-wilkins-805-d4.md",
+  "wiki/sources/whathifi-bowers-wilkins-805-d4.md",
+  "wiki/sources/soundstageultra-bowers-wilkins-805-d4.md",
+  "wiki/sources/users-bowers-wilkins-805-d4.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-bowers-wilkins-805-d4.md",
+  "raw/measurements/soundstage-bowers-wilkins-805-d4.md",
+  "raw/measurements/hifinews-bowers-wilkins-805-d4.md",
+  "raw/reviews-critic/whathifi-bowers-wilkins-805-d4.md",
+  "raw/reviews-critic/soundstageultra-bowers-wilkins-805-d4.md",
+  "raw/reviews-user/users-bowers-wilkins-805-d4-2026-10-11.md",
+  "raw/assets/soundstage-bowers-wilkins-805-d4-impedance.png",
+  "raw/assets/soundstage-bowers-wilkins-805-d4-thd.png",
+  "raw/assets/soundstage-bowers-wilkins-805-d4-lw.png",
+  "raw/assets/soundstage-bowers-wilkins-805-d4-fr.png"
+ ],
+ "index_line": "- [[bowers-wilkins-805-d4]] — 8 Ω (min ~4.3-4.65), sens 84.4 (NRC), f6 39 Hz, treble-rising; no spinorama (NRC + HFN)",
+ "source_index_lines": [
+  "- [[mfr-bowers-wilkins-805-d4]] — B&W US product page (Tier C)",
+  "- [[soundstage-bowers-wilkins-805-d4]] — NRC anechoic measurements, 2021-10-15 (Tier A)",
+  "- [[hifinews-bowers-wilkins-805-d4]] — Hi-Fi News lab report, 2022-02 (Tier B)",
+  "- [[whathifi-bowers-wilkins-805-d4]] — What Hi-Fi? review, 2022-04-13 (Tier D)",
+  "- [[soundstageultra-bowers-wilkins-805-d4]] — SoundStage! Ultra review, Hans Wetzel (Tier D)",
+  "- [[users-bowers-wilkins-805-d4]] — forum/Reddit reports, 3 anecdotal (Tier E)"
+ ],
+ "brand_notes": "800 Series Diamond standmount; reverse-wrap cabinet, front Flowport, 440 mm tall, 15.55 kg. Price $10,000 (was $8,000 at 2021 review, $9,500 in 2024). Claimed 88 dB sens measures 84.4 (NRC) / 86.2 mean (HFN). Stock inconsistent: B&W US notification form, WWS available, Audio Advice sold out (mfr-bowers-wilkins-805-d4). Owner/demo reports of treble fatigue (users-bowers-wilkins-805-d4).",
+ "takeaways": [
+  "NRC (Tier A): sens 84.4 dB, impedance min ~4.3 ohm graph-read; HFN (Tier B): 4.65 ohm, f6 39 Hz, THD 0.1-0.45% @90 dB",
+  "Listening window rises toward 9-10 kHz; HFN axial error ±4.4 dB",
+  "Critics: top-tier clarity/imaging; treble can fatigue; lifeless at low volume",
+  "Status current but B&W US shows no stock; World Wide Stereo lists available",
+  "No spinorama or EPDR value for this model"
+ ],
+ "conflicts": [
+  "Sensitivity 84.4 (NRC) vs 86.2 (HFN mean) vs 88 claimed - averaging band differs",
+  "Stock status differs between B&W US and retailers"
+ ],
+ "log_bullets": [
+  "Created speakers/bowers-wilkins-805-d4 and 6 source pages (NRC Tier A, HFN Tier B, 2 critic, 1 user, mfr)",
+  "NRC impedance/THD graph-read from images in raw/assets",
+  "Conflict: 88 dB claim vs measured 84-86; price/stock inconsistent"
+ ]
+}

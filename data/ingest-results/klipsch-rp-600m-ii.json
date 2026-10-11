@@ -1,0 +1,62 @@
+{
+ "slug": "klipsch-rp-600m-ii",
+ "brand": "Klipsch",
+ "model": "RP-600M II",
+ "brand_slug": "klipsch",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 700,
+ "price_source": "https://www.audioadvisor.com/prnt-klrp600mii-wal-pr ($699.99/pair; Upscale Audio lists $649)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/klipsch-rp-600m-ii.md",
+  "wiki/sources/eac-klipsch-rp-600m-ii.md",
+  "wiki/sources/stereophile-klipsch-rp-600m-ii.md",
+  "wiki/sources/stereonet-klipsch-rp-600m-ii.md",
+  "wiki/sources/hifitrends-klipsch-rp-600m-ii.md",
+  "wiki/sources/users-klipsch-rp-600m-ii.md",
+  "wiki/sources/mfr-klipsch-rp-600m-ii.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-klipsch-rp-600m-ii.md",
+  "raw/manufacturer/mfr-klipsch-rp-600m-ii-specsheet.md",
+  "raw/measurements/eac-klipsch-rp-600m-ii.md",
+  "raw/reviews-critic/stereophile-klipsch-rp-600m-ii.md",
+  "raw/reviews-critic/stereonet-klipsch-rp-600m-ii.md",
+  "raw/reviews-critic/hifitrends-klipsch-rp-600m-ii.md",
+  "raw/reviews-user/users-klipsch-rp-600m-ii-2026-10-11.md",
+  "raw/assets/eac-klipsch-rp-600m-ii-impedance.png",
+  "raw/assets/eac-klipsch-rp-600m-ii-thd86.png",
+  "raw/assets/eac-klipsch-rp-600m-ii-thd96.png",
+  "raw/assets/eac-klipsch-rp-600m-ii-compression.png"
+ ],
+ "index_line": "- [[klipsch-rp-600m-ii]] — 8 Ω compatible (3.5 Ω min), LW ±1.9 dB, f3 68 Hz, 85.4 dB measured vs 94.5 claimed, pref 5.6 (EAC)",
+ "source_index_lines": [
+  "- [[eac-klipsch-rp-600m-ii]] — Erin's Audio Corner Klippel review, 2022-05-22 (Tier A)",
+  "- [[stereophile-klipsch-rp-600m-ii]] — Stereophile follow-up listening review, 2023-08 (Tier D)",
+  "- [[stereonet-klipsch-rp-600m-ii]] — StereoNET listening review, 2022 (Tier D)",
+  "- [[hifitrends-klipsch-rp-600m-ii]] — HiFi Trends review, 2022-07-08 (Tier D)",
+  "- [[users-klipsch-rp-600m-ii]] — thin user/retailer clip (Tier E, anecdotal)",
+  "- [[mfr-klipsch-rp-600m-ii]] — Klipsch product page and spec sheet (Tier C)"
+ ],
+ "brand_notes": "RP-600M II: Reference Premiere line, horn-loaded titanium tweeter, claimed 94.5 dB half-space but measured ~85.4 dB (eac-klipsch-rp-600m-ii); labelled '8 Ω compatible' yet 3.5 Ω min (effectively 4 Ω). Critics call Klipsch lively/bright, needs amp matching (hifitrends, stereonet).",
+ "takeaways": [
+  "Klippel: LW ±1.9 dB, f3 68 Hz, hor 94 deg, treble lift from ~8 kHz; EAC suggests 20 deg toe-out or grille.",
+  "Measured sensitivity 85.4 dB vs claimed 94.5 dB (half-space).",
+  "Min impedance 3.5 Ω, EPDR 1.8 Ω: effectively-4ohm flag despite 8 Ω compatible label.",
+  "THD ~0.7% at 86 dB, ~2.0% at 96 dB (graph-read); compression <=1 dB at 102 dB.",
+  "Critics: lively, dynamic, easy to drive; bright, not neutral. User data anecdotal."
+ ],
+ "conflicts": [
+  "Sensitivity claimed 94.5 dB vs measured 85.4 dB",
+  "Impedance 8 Ω compatible vs 3.5 Ω min",
+  "Claimed 44 Hz -3 dB vs measured f3 68 Hz"
+ ],
+ "log_bullets": [
+  "Created speakers/klipsch-rp-600m-ii and 6 source pages (EAC Tier A, Stereophile, StereoNET, HiFi Trends, users, mfr).",
+  "Conflict: sensitivity 94.5 claimed vs 85.4 measured; impedance flag effectively-4ohm."
+ ]
+}

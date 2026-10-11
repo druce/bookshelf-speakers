@@ -1,0 +1,55 @@
+{
+ "slug": "fluance-hfs-signature",
+ "brand": "Fluance",
+ "model": "HFS Signature",
+ "brand_slug": "fluance",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 199.99,
+ "price_source": "https://www.fluance.com/signature-series-hifi-two-way-bookshelf-surround-sound-speakers",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/fluance-hfs-signature.md",
+  "wiki/sources/asr-fluance-hfs-signature.md",
+  "wiki/sources/hometheaterhifi-fluance-hfs-signature.md",
+  "wiki/sources/users-fluance-hfs-signature.md",
+  "wiki/sources/mfr-fluance-hfs-signature.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-fluance-hfs-signature.md",
+  "raw/measurements/asr-fluance-hfs-signature.md",
+  "raw/assets/asr-fluance-hfs-signature-impedance.png",
+  "raw/assets/asr-fluance-hfs-signature-thd.png",
+  "raw/reviews-critic/hometheaterhifi-fluance-hfs-signature.md",
+  "raw/reviews-user/users-fluance-hfs-signature-2026-10-11.md"
+ ],
+ "index_line": "- [[fluance-hfs-signature]] \u2014 8 \u03a9 compatible, min ~3.7 \u03a9 (effectively 4 \u03a9), LW \u00b14.5 dB, f3 74 Hz, pref 2.9 (ASR)",
+ "source_index_lines": [
+  "- [[asr-fluance-hfs-signature]] \u2014 ASR Klippel review, 2020-09-29 (Tier A)",
+  "- [[hometheaterhifi-fluance-hfs-signature]] \u2014 HomeTheaterHiFi listening review (Tier D)",
+  "- [[users-fluance-hfs-signature]] \u2014 user/forum reports, 4 anecdotal (Tier E)",
+  "- [[mfr-fluance-hfs-signature]] \u2014 Fluance product page (Tier C)"
+ ],
+ "brand_notes": "Canadian online-direct budget brand; passive lines Elite/Reference/Signature all $150-200 pair, rated '8 ohm compatible', lifetime warranty on passives. HFS measured poorly (asr-fluance-hfs-signature) and has min impedance below 4 \u03a9. Stock gaps (Notify Me) on maker site.",
+ "takeaways": [
+  "ASR Klippel: LW \u00b14.5 dB, f3 74 Hz, pref 2.9 / 5.5 with sub; not recommended",
+  "Impedance graph-read min ~3.7 \u03a9 at ~140 Hz -> effectively-4ohm despite 8 \u03a9 compatible",
+  "THD at 96 dB approx 5% near 100-150 Hz (graph-read)",
+  "ER dip 4.1 dB at 1.5 kHz above 3 dB flag",
+  "HomeTheaterHiFi (sponsored) positive; user reports 4, mixed",
+  "Maker lists $199.99 with Notify Me; stock unverified"
+ ],
+ "conflicts": [
+  "ASR vs HomeTheaterHiFi opinions",
+  "pref 2.9 vs thread 3.4",
+  "8 \u03a9 compatible vs 3.7 \u03a9 min"
+ ],
+ "log_bullets": [
+  "Created speakers/fluance-hfs-signature, sources/asr-fluance-hfs-signature, hometheaterhifi-fluance-hfs-signature, users-fluance-hfs-signature, mfr-fluance-hfs-signature",
+  "Flag: effectively-4ohm (min ~3.7 \u03a9 graph-read); thd_96 ~5% graph-read",
+  "Conflict: critic split (ASR negative vs HTH positive)"
+ ]
+}

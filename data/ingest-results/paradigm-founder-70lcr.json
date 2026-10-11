@@ -1,0 +1,21 @@
+{
+ "slug": "paradigm-founder-70lcr",
+ "brand": "Paradigm",
+ "model": "Founder 70LCR",
+ "brand_slug": "paradigm",
+ "verdict": "out-of-scope",
+ "reason": "Horizontal LCR/centre cabinet (8 x 18.9 x 12.3 in, 3-way, 4 drivers, 30 lb); not a bookshelf/standmount design; Paradigm page does not address vertical or stand use",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 3599.98,
+ "price_source": "https://www.paradigm.com/en/passive/founder-70lcr ($1,799.99 each)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-paradigm-founder-70lcr.md"
+ ],
+ "evidence": [
+  "https://www.paradigm.com/en/passive/founder-70lcr",
+  "https://www.audioholics.com/tower-speaker-reviews/paradigm-founder-100f-70lcr/conclusion (403 to scripted fetch)"
+ ]
+}

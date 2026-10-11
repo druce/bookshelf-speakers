@@ -1,0 +1,59 @@
+{
+ "slug": "totem-acoustic-signature-one",
+ "brand": "Totem Acoustic",
+ "model": "Signature One",
+ "brand_slug": "totem-acoustic",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 3800,
+ "price_source": "https://totemacoustic.com/product/signature-one/",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/totem-acoustic-signature-one.md",
+  "wiki/sources/nrc-totem-acoustic-signature-one.md",
+  "wiki/sources/stereophile-totem-acoustic-signature-one.md",
+  "wiki/sources/stereophile-review-totem-acoustic-signature-one.md",
+  "wiki/sources/soundstage-totem-acoustic-signature-one.md",
+  "wiki/sources/mfr-totem-acoustic-signature-one.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-totem-acoustic-signature-one.md",
+  "raw/measurements/nrc-totem-acoustic-signature-one.md",
+  "raw/measurements/stereophile-totem-acoustic-signature-one.md",
+  "raw/reviews-critic/stereophile-review-totem-acoustic-signature-one.md",
+  "raw/reviews-critic/soundstage-totem-acoustic-signature-one.md",
+  "raw/assets/nrc-totem-acoustic-signature-one-impedance.gif",
+  "raw/assets/nrc-totem-acoustic-signature-one-thd.gif",
+  "raw/assets/nrc-totem-acoustic-signature-one-lw.gif",
+  "raw/assets/nrc-totem-acoustic-signature-one-phase.gif",
+  "raw/assets/stereophile-totem-acoustic-signature-one-impedance.jpg"
+ ],
+ "index_line": "- [[totem-acoustic-signature-one]] \u2014 8 \u03a9, sens 83.0 dB (claimed 87.5), min Z 7.7 \u03a9, no spinorama; panel/port resonances 490-700 Hz (NRC, Stereophile)",
+ "source_index_lines": [
+  "- [[nrc-totem-acoustic-signature-one]] \u2014 SoundStage!/NRC anechoic measurements, 2018-04-01 (Tier A)",
+  "- [[stereophile-totem-acoustic-signature-one]] \u2014 Stereophile measurements by J. Atkinson, 2017-12-28 (Tier B)",
+  "- [[stereophile-review-totem-acoustic-signature-one]] \u2014 Stereophile review, Herb Reichert, 2017-12-28 (Tier D)",
+  "- [[soundstage-totem-acoustic-signature-one]] \u2014 SoundStage! review, Jason Thorpe, 2018-04-01 (Tier D)",
+  "- [[mfr-totem-acoustic-signature-one]] \u2014 Totem spec page (Tier C)"
+ ],
+ "brand_notes": "Totem (Montreal) Signature One replaced the Model 1 Signature in 2017; 6.5 in woofer, 1 in Al dome, rear port, 8 \u03a9 (earlier Model 1 was 4 \u03a9). Hand-built crossovers, long break-in recommended (150 h per manual). Measured sensitivity is about 4 dB below claim (nrc/stereophile). Rainmaker is in Totem's Legacy list; Loon Monitor $1,300 has no Tier A/B data.",
+ "takeaways": [
+  "Measured sensitivity 83.0 dB (NRC) / 83.5 dB (Stereophile) vs 87.5 dB claimed",
+  "Easy impedance: 7.4-7.7 \u03a9 min near 200 Hz, no flag",
+  "Cabinet resonances at 490/600 Hz and port-pipe modes to 700 Hz (Stereophile); matches Reichert's 500-600 Hz complaint",
+  "Wide even horizontal dispersion to 6 kHz; vertical suckout above tweeter axis",
+  "No spinorama, f3, LW deviation or preference score; f3 left null"
+ ],
+ "conflicts": [
+  "Sensitivity 83.0/83.5 measured vs 87.5 claimed",
+  "Crossover 2.5 kHz (maker) vs 2.7 kHz (Stereophile text) vs 3.5 kHz measured",
+  "Bass: claimed 45 Hz vs NRC LW falling through -3 dB near 85 Hz (graph-read)"
+ ],
+ "log_bullets": [
+  "Created speakers/totem-acoustic-signature-one, sources/nrc-, stereophile- (measurements + review), soundstage-, mfr-totem-acoustic-signature-one",
+  "Conflict: sensitivity ~4 dB below claim; bass extension not confirmed"
+ ]
+}

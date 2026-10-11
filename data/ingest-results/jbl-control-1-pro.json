@@ -1,0 +1,20 @@
+{
+ "slug": "jbl-control-1-pro",
+ "brand": "JBL",
+ "model": "Control 1 Pro",
+ "brand_slug": "jbl",
+ "verdict": "out-of-scope",
+ "reason": "maker rates nominal impedance 4 ohm",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 206,
+ "price_source": "https://jblpro.com/de/products/control-1-pro-pair",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-jbl-control-1-pro.md"
+ ],
+ "evidence": [
+  "https://jblpro.com/de/products/control-1-pro-pair"
+ ]
+}

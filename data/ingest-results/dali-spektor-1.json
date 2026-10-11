@@ -1,0 +1,26 @@
+{
+ "slug": "dali-spektor-1",
+ "brand": "Dali",
+ "model": "Spektor 1",
+ "brand_slug": "dali",
+ "verdict": "discontinued",
+ "reason": "Maker's US site files the Spektor series under PRODUCTS > DISCONTINUED (nav breadcrumb on en-us/products/spektor/); Audio Advisor Spektor 1 product URLs now 404 (only Spektor 2 listed); remaining US listings are clearance remnants ($350 MSRP, $199 at a third-party). Spec page itself still live: 6 ohm, 83 dB, 59 Hz-26 kHz claimed.",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "discontinued",
+ "price_usd_pair": 350,
+ "price_source": "https://hometechnologyreview.com/product/dali-spektor-1-black-ash-bookshelf-speakers-pair/ (search snippet: $199 clearance vs $350 original; not verified)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-dali-spektor-1.md",
+  "raw/manufacturer/mfr-dali-spektor-1-us.md",
+  "raw/manufacturer/mfr-dali-spektor-series-us.md"
+ ],
+ "evidence": [
+  "https://www.dali-speakers.com/en-us/products/spektor/",
+  "https://www.dali-speakers.com/en-us/products/spektor/spektor-1/",
+  "https://www.audioadvisor.com/products/dali-spektor-1-bookshelf-speakers-walnut-pair (404)",
+  "https://www.audiosciencereview.com/forum/index.php?threads/dali-spektor-1-review-bookshelf-speaker.25063/"
+ ],
+ "brand_notes": "Spektor series discontinued; Sonik (replacing Oberon) is the current entry line. Spektor 1 ASR: LW +/-2.3 dB, f3 75 Hz, pref 4.0 (computed packet), kept for reference only."
+}

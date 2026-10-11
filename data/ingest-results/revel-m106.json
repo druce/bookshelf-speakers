@@ -1,0 +1,66 @@
+{
+ "brand": "Revel",
+ "brand_slug": "revel",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "tier_ab_available": true,
+ "slug": "revel-m106",
+ "model": "M106",
+ "price_usd_pair": 2200,
+ "price_source": "https://www.audioadvice.com/home-audio/speakers/bookshelf-speakers/revel-m106-bookshelf-loudspeaker ($1,100 each, via search result; page not capturable)",
+ "pages_created": [
+  "wiki/speakers/revel-m106.md",
+  "wiki/sources/asr-revel-m106.md",
+  "wiki/sources/soundstage-nrc-revel-m106.md",
+  "wiki/sources/stereophile-revel-m106.md",
+  "wiki/sources/soundstage-revel-m106.md",
+  "wiki/sources/mfr-revel-m106.md",
+  "wiki/sources/users-revel-m106.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/asr-revel-m106.md",
+  "raw/measurements/soundstage-nrc-revel-m106.md",
+  "raw/measurements/stereophile-revel-m106.md",
+  "raw/reviews-critic/stereophile-revel-m106.md",
+  "raw/reviews-critic/soundstage-revel-m106.md",
+  "raw/reviews-critic/hometheaterhifi-revel-m106.md (saved, not ingested)",
+  "raw/manufacturer/mfr-revel-m106.md",
+  "raw/reviews-user/users-revel-m106-2026-10-11.md",
+  "raw/reviews-user/asr-thread-revel-m106.md",
+  "raw/assets/asr-revel-m106-impedance.png",
+  "raw/assets/asr-revel-m106-thd-rel.png",
+  "raw/assets/asr-revel-m106-thd-abs.png",
+  "raw/assets/soundstage-nrc-revel-m106-impedance.gif",
+  "raw/assets/soundstage-nrc-revel-m106-thd.gif",
+  "raw/assets/soundstage-nrc-revel-m106-lw.gif"
+ ],
+ "index_line": "- [[revel-m106]] — 8 Ω (4.6 Ω min), LW ±1.7 dB, f3 59 Hz, pref 5.6 (ASR, NRC, Stereophile)",
+ "source_index_lines": [
+  "- [[asr-revel-m106]] — ASR Klippel review, 2020-06-26 (Tier A)",
+  "- [[soundstage-nrc-revel-m106]] — NRC anechoic measurements, 2015-04-01 (Tier A)",
+  "- [[stereophile-revel-m106]] — Stereophile review and MLSSA measurements, 2014-08-27 (Tier B)",
+  "- [[soundstage-revel-m106]] — SoundStage! review, 2015-04-01 (Tier D)",
+  "- [[mfr-revel-m106]] — Revel product page and specs (Tier C)",
+  "- [[users-revel-m106]] — ASR thread, 2 owner mentions (Tier E)"
+ ],
+ "brand_notes": "Performa3 M106 (6.5\", 8 Ω nominal) current on Revel US; ~$1,100 each at Audio Advice. Three measurement rigs agree: sensitivity 85.4-86.4 dB vs 87 claimed; min impedance 4.3-4.6 Ω. Stereophile notes a vertical crossover suckout (tall stands). Sources: asr-revel-m106, soundstage-nrc-revel-m106, stereophile-revel-m106.",
+ "takeaways": [
+  "Three rigs (ASR Klippel, NRC anechoic, Stereophile MLSSA) agree: flat, clean; LW ±1.7 dB, f3 59 Hz.",
+  "Sensitivity 85.4-86.4 dB measured vs 87 dB claimed.",
+  "Impedance min ~4.3-4.6 Ω: below-iec but above 4 Ω.",
+  "Distortion near zero above 1 kHz; ~2.5% at 100 Hz at 86 dB.",
+  "Stereophile flags a vertical suckout at crossover: use tall stands."
+ ],
+ "conflicts": [
+  "Sensitivity 85.4/85.6/86.4 vs 87 claimed",
+  "Min impedance 4.6 (ASR) vs ~4.3 (NRC), graph-read",
+  "Beamwidth computed 132 vs ASR text ~100"
+ ],
+ "log_bullets": [
+  "Created speakers/revel-m106 and sources asr, soundstage-nrc, stereophile, soundstage, mfr, users",
+  "Conflicts: sensitivity spread 1.0 dB below 87 claim; impedance 4.3-4.6 Ω"
+ ]
+}

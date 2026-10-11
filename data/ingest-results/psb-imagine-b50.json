@@ -1,0 +1,64 @@
+{
+ "slug": "psb-imagine-b50",
+ "brand": "PSB",
+ "model": "Imagine B50",
+ "brand_slug": "psb",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 999,
+ "price_source": "https://www.audioadvisor.com/products/psb-imagine-b50-bookshelf-speakers-satin (regular price $999 pair); PSB site shows C$1,199, stock 'Only 9 left'",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/psb-imagine-b50.md",
+  "wiki/sources/eac-psb-imagine-b50.md",
+  "wiki/sources/soundstage-nrc-psb-imagine-b50.md",
+  "wiki/sources/soundstage-psb-imagine-b50.md",
+  "wiki/sources/witchdoctor-psb-imagine-b50.md",
+  "wiki/sources/mfr-psb-imagine-b50.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/eac-psb-imagine-b50.md",
+  "raw/measurements/soundstage-nrc-psb-imagine-b50.md",
+  "raw/reviews-critic/soundstage-psb-imagine-b50.md",
+  "raw/reviews-critic/witchdoctor-psb-imagine-b50.md",
+  "raw/manufacturer/mfr-psb-imagine-b50.md",
+  "raw/manufacturer/retailer-audioadvisor-psb-imagine-b50.md",
+  "raw/assets/eac-psb-imagine-b50-impedance.png",
+  "raw/assets/eac-psb-imagine-b50-thd86.png",
+  "raw/assets/eac-psb-imagine-b50-thd96.png",
+  "raw/assets/eac-psb-imagine-b50-compression.png",
+  "raw/assets/nrc-psb-imagine-b50-impedance.png",
+  "raw/assets/nrc-psb-imagine-b50-lw.png",
+  "raw/assets/nrc-psb-imagine-b50-thd90.png",
+  "raw/assets/nrc-psb-imagine-b50-fr.png"
+ ],
+ "index_line": "- [[psb-imagine-b50]] — 8 Ω (min 4.1 Ω), LW ±2.2 dB, f3 64 Hz, 83.9 dB, pref 4.6 (Erin, NRC)",
+ "source_index_lines": [
+  "- [[eac-psb-imagine-b50]] — Erin's Audio Corner Klippel review, 2024-03-30 (Tier A)",
+  "- [[soundstage-nrc-psb-imagine-b50]] — NRC anechoic measurements, 2024-04-01 (Tier A)",
+  "- [[soundstage-psb-imagine-b50]] — SoundStage! review, Dennis Burger (Tier D)",
+  "- [[witchdoctor-psb-imagine-b50]] — Witchdoctor NZ review, 2025-08-20 (Tier D)",
+  "- [[mfr-psb-imagine-b50]] — PSB spec page and Audio Advisor price (Tier C)"
+ ],
+ "brand_notes": "Imagine series sits between Alpha and Synchrony; Synchrony-derived titanium tweeter, carbon-fibre woofers, 8 ohm nominal but ~4.1 ohm minimum (eac-psb-imagine-b50, soundstage-nrc-psb-imagine-b50). Launch price ~$699 pair (2024) now $999 at Audio Advisor; PSB site is Canada-geolocated (CAD). PSB designs with NRC anechoic chamber.",
+ "takeaways": [
+  "Klippel: LW ±2.2 dB, f3 64 Hz, sensitivity 83.9 dB (claimed 85), major DI discontinuity near 4 kHz",
+  "Both Erin and NRC measure ~4.1 ohm min, so '8 ohm' is below-iec; EPDR min 2.1 ohm",
+  "THD ~0.9% @86 dB, ~3.1% @96 dB; compression within ~1.1 dB at 102 dB above 100 Hz",
+  "Critics (SoundStage, Witchdoctor) very positive; Erin less so (wavy midrange)",
+  "US price risen from ~$700 to $999; no user reviews found"
+ ],
+ "conflicts": [
+  "Sensitivity claimed 85 dB vs measured 83.8-83.9",
+  "f3 64 Hz (Erin) vs ~70-75 Hz LW (NRC, graph-read)",
+  "Price $700 (2024) vs $999 now"
+ ],
+ "log_bullets": [
+  "Created speakers/psb-imagine-b50 and 5 source pages (EAC, NRC, SoundStage review, Witchdoctor, mfr)",
+  "Conflicts: sensitivity vs claim; f3 between rigs; price increase",
+  "No user reviews found"
+ ]
+}

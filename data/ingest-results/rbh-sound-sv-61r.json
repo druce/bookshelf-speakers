@@ -1,0 +1,24 @@
+{
+ "slug": "rbh-sound-sv-61r",
+ "brand": "RBH Sound",
+ "model": "SV-61R",
+ "brand_slug": "rbh-sound",
+ "verdict": "discontinued",
+ "reason": "RBH Sound page marks SV-61R \"Discontinued 08/2021\" (WebFetch of rbhsound.com/sv61r.php; static raw capture lacks the banner). Possible related current model 61-SF/R unverified.",
+ "successor": "possibly 61-SF/R (unverified)",
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": 1899.95,
+ "price_source": "https://www.audioholics.com/bookshelf-speaker-reviews/sv-61r (2017 MSRP)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-rbh-sound-sv-61r.md"
+ ],
+ "evidence": [
+  "https://rbhsound.com/sv61r.php",
+  "https://www.audioholics.com/bookshelf-speaker-reviews/sv-61r"
+ ],
+ "log_bullets": [
+  "RBH SV-61R: discontinued 08/2021 per rbhsound.com; no pages created"
+ ]
+}

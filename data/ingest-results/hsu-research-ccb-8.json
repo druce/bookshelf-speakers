@@ -1,0 +1,59 @@
+{
+ "slug": "hsu-research-ccb-8",
+ "brand": "Hsu Research",
+ "model": "CCB-8",
+ "brand_slug": "hsu-research",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 778,
+ "price_source": "https://hsuresearch.com/products/ccb-8-speaker ($389 each, maker-direct)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/hsu-research-ccb-8.md",
+  "wiki/sources/mfr-hsu-research-ccb-8.md",
+  "wiki/sources/asr-hsu-research-ccb-8.md",
+  "wiki/sources/audioholics-hsu-research-ccb-8.md",
+  "wiki/sources/avnirvana-hsu-research-ccb-8.md",
+  "wiki/sources/users-hsu-research-ccb-8.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-hsu-research-ccb-8.md",
+  "raw/measurements/asr-hsu-research-ccb-8.md",
+  "raw/measurements/audioholics-hsu-research-ccb-8.md",
+  "raw/reviews-critic/avnirvana-hsu-research-ccb-8.md",
+  "raw/reviews-user/users-hsu-research-ccb-8-2026-10-11.md",
+  "raw/reviews-user/asr-thread-hsu-research-ccb-8.md",
+  "raw/assets/asr-hsu-research-ccb-8-impedance.png",
+  "raw/assets/asr-hsu-research-ccb-8-thd.png",
+  "raw/assets/asr-hsu-research-ccb-8-thd101.png"
+ ],
+ "index_line": "- [[hsu-research-ccb-8]] \u2014 8 \u03a9 (min 3.8 \u03a9), 88.8 dB, LW \u00b15.2 dB, f3 59 Hz, pref 1.6 (ASR)",
+ "source_index_lines": [
+  "- [[mfr-hsu-research-ccb-8]] \u2014 Hsu product page, $389 each (Tier C)",
+  "- [[asr-hsu-research-ccb-8]] \u2014 ASR Klippel review, 2025-12-17 (Tier A)",
+  "- [[audioholics-hsu-research-ccb-8]] \u2014 Audioholics review with gated measurements, 2017-08-07 (Tier A, gated)",
+  "- [[avnirvana-hsu-research-ccb-8]] \u2014 AV Nirvana listening review, 2017-07-27 (Tier D)",
+  "- [[users-hsu-research-ccb-8]] \u2014 maker-store and forum user reports (Tier E, anecdotal)"
+ ],
+ "brand_notes": "Hsu Research: factory-direct US maker (best known for subwoofers) selling CCB-8 ($389 ea) and MFL-6 ($279 ea) as current speakers; HB-1 MK2 no longer on store. Designs use Don Keele constant-directivity horns, but ASR Klippel results (asr-hsu-research-ccb-8, asr-hsu-research-mfl-6) show rough response and non-constant directivity; both measure about 4 ohm minimum. Maker spec sensitivity is quoted in half-space (+6 dB vs full-space). Maker store shows 7-year warranty claim (per Widescreen Review quote) and 30-day return.",
+ "takeaways": [
+  "Very efficient (88.8 dB) coaxial horn speaker with good bass reach (f3 59 Hz) for the price",
+  "Messy on-axis response: LW \u00b15.2 dB, deep 1.7 kHz notch, ER dip 4.8 dB; ASR does not recommend",
+  "Impedance min 3.8 \u03a9 (ASR) so effectively 4 \u03a9 despite 8 \u03a9 setting; Audioholics measured 5 \u03a9",
+  "Audioholics and AV Nirvana liked detail and imaging; recommend listening 15-25 degrees off axis",
+  "Distortion clean at 86 dB, rises sharply at 96 dB; audible at 101 dB (ASR)"
+ ],
+ "conflicts": [
+  "Min impedance 3.8 \u03a9 (ASR) vs 5 \u03a9 (Audioholics)",
+  "Nominal impedance 8 \u03a9 setting (maker page) vs 6 \u03a9 (Audioholics says Hsu quotes)",
+  "Audioholics \u00b13 dB gated on-axis vs ASR \u00b15.2 dB LW with 1.7 kHz notch"
+ ],
+ "log_bullets": [
+  "Created speakers/hsu-research-ccb-8 and sources mfr-, asr-, audioholics-, avnirvana-, users-hsu-research-ccb-8",
+  "Conflict: min impedance 3.8 \u03a9 (ASR) vs 5 \u03a9 (Audioholics); flag effectively-4ohm follows ASR",
+  "Maker claims constant directivity; neither source reproduces it"
+ ]
+}

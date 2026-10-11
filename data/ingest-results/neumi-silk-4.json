@@ -1,0 +1,56 @@
+{
+ "slug": "neumi-silk-4",
+ "brand": "Neumi",
+ "model": "Silk 4",
+ "brand_slug": "neumi",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 190,
+ "price_source": "https://www.neumitech.com/neumi-silk-4-bookshelf-speakers/ ($189.99, assumed per pair); Amazon pair $199.99",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/neumi-silk-4.md",
+  "wiki/sources/eac-neumi-silk-4.md",
+  "wiki/sources/mfr-neumi-silk-4.md",
+  "wiki/sources/hifireport-neumi-silk-4.md",
+  "wiki/sources/users-neumi-silk-4.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-neumi-silk-4.md",
+  "raw/manufacturer/mfr-amazon-neumi-silk-4.md",
+  "raw/measurements/eac-neumi-silk-4.md",
+  "raw/reviews-critic/hifireport-neumi-silk-4.md",
+  "raw/reviews-user/users-neumi-silk-4-2026-10-11.md",
+  "raw/assets/eac-neumi-silk-4-impedance.png",
+  "raw/assets/eac-neumi-silk-4-thd86.png",
+  "raw/assets/eac-neumi-silk-4-thd96.png",
+  "raw/assets/eac-neumi-silk-4-compression.png"
+ ],
+ "index_line": "- [[neumi-silk-4]] \u2014 8 \u03a9 rated (5.7 \u03a9 min), LW \u00b12.4 dB, f3 73 Hz, 82.2 dB, pref 4.4 (EAC)",
+ "source_index_lines": [
+  "- [[eac-neumi-silk-4]] \u2014 EAC Klippel review, 2023 (Tier A)",
+  "- [[mfr-neumi-silk-4]] \u2014 Neumi/Amazon specs (Tier C)",
+  "- [[hifireport-neumi-silk-4]] \u2014 HiFiReport subjective review (Tier D)",
+  "- [[users-neumi-silk-4]] \u2014 Amazon theme tallies, 23 ratings (Tier E)"
+ ],
+ "brand_notes": "See neumi-bs5 notes. Silk 4: rear-ported 4in, rated 8 ohm but measures 5.7 ohm min and 2.9 ohm EPDR; maker page $189.99, Amazon $199.99; Erin loaned sample (eac-neumi-silk-4).",
+ "takeaways": [
+  "Klippel LW \u00b12.4 dB (good), f3 73 Hz (Erin text F3 83 Hz), sensitivity 82.2 dB vs 85 claim",
+  "Rated 8 \u03a9 but 5.7 \u03a9 min (below-iec) and EPDR 2.9 \u03a9",
+  "THD ~1.5% at 86 dB, ~3.7% at 96 dB near 115 Hz (graph-read); low compression at 96 dB",
+  "Resonances near 600 Hz and 1 kHz (port); pref 4.4 / 7.1",
+  "HiFiReport positive; Amazon only 23 ratings (anecdotal)"
+ ],
+ "conflicts": [
+  "f3 73 (computed) vs 83 (Erin text)",
+  "THD at 96 dB graph-read 3.7% vs Erin's text 'below 3% until 60 Hz'",
+  "Rated 8 \u03a9 vs measured 5.7 \u03a9 min / 2.9 \u03a9 EPDR"
+ ],
+ "log_bullets": [
+  "Created speakers/neumi-silk-4, sources/eac-neumi-silk-4, mfr-neumi-silk-4, hifireport-neumi-silk-4, users-neumi-silk-4",
+  "Conflict: 8 \u03a9 rating vs 5.7 \u03a9 measured min; sensitivity 2.8 dB below claim"
+ ]
+}

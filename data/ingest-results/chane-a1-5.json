@@ -1,0 +1,21 @@
+{
+ "slug": "chane-a1-5",
+ "brand": "Chane",
+ "model": "A1.5",
+ "brand_slug": "chane",
+ "verdict": "discontinued",
+ "reason": "No current US seller or maker page found: Drop (its former channel) no longer sells audio (drop.com now a Corsair collab hub), chane.com/chanemusic.com not resolvable to a speaker store, searches return only 2019-2021 Drop pages. Maker nominal impedance not found (A1.4 sibling is 8 ohm; ASR says impedance 'mostly high'). ASR price $329/pair in 2021.",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "discontinued",
+ "price_usd_pair": 329,
+ "price_source": "https://www.audiosciencereview.com/forum/index.php?threads/chane-a1-5-review-bookshelf-speaker.26078/ (2021 price, stale)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/asr-chane-a1-5.md"
+ ],
+ "evidence": [
+  "https://www.audiosciencereview.com/forum/index.php?threads/chane-a1-5-review-bookshelf-speaker.26078/",
+  "https://drop.com/buy/chane-a1-5-speakers"
+ ]
+}

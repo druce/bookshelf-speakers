@@ -1,0 +1,19 @@
+{
+ "slug": "jbl-4309",
+ "brand": "JBL",
+ "model": "4309",
+ "brand_slug": "jbl",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance 4 ohm per JBL spec sheet and Audio Advice; also sold out at Audio Advice ($2,000/pair).",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 2000,
+ "price_source": "https://www.audioadvice.com/jbl-synthesis-4309-6-5-inch-bookshelf-speakers-pair",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.audioadvice.com/jbl-synthesis-4309-6-5-inch-bookshelf-speakers-pair",
+  "https://www.stereonet.com/news/jbl-introduces-4309-studio-monitor-bookshelf-speakers"
+ ]
+}

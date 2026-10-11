@@ -1,0 +1,24 @@
+{
+ "slug": "mcintosh-xr50",
+ "brand": "McIntosh",
+ "model": "XR50",
+ "brand_slug": "mcintosh",
+ "verdict": "discontinued",
+ "reason": "McIntosh current speaker lineup page no longer lists XR50 (only under Retired Products); Sky by Gramophone and Paragon list it discontinued; ListenUp shows $2,000 each, out of stock. 8 ohm nominal, 6\" woofer, 17\" tall, so otherwise in scope.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": 4000,
+ "price_source": "https://listenup.com/products/xr50-ported-3-way-bookshelf-loudspeaker-each (USD 2,000 each, out of stock)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-mcintosh-xr50.md",
+  "raw/manufacturer/retail-listenup-mcintosh-xr50.md",
+  "raw/manufacturer/retail-theaudio-mcintosh-xr50.md"
+ ],
+ "evidence": [
+  "https://www.mcintoshlabs.com/products/speakers/xr50",
+  "https://listenup.com/products/xr50-ported-3-way-bookshelf-loudspeaker-each",
+  "https://skybygramophone.com/collections/mcintosh-loudspeakers/products/mcintosh-xr50-3-way-bookshelf-speaker"
+ ]
+}

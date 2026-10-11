@@ -1,0 +1,19 @@
+{
+ "slug": "gallo-acoustics-nucleus-micro",
+ "brand": "Gallo Acoustics",
+ "model": "Nucleus Micro",
+ "brand_slug": "gallo-acoustics",
+ "verdict": "discontinued",
+ "reason": "~2000 4-inch metal-sphere satellite (3-inch driver); Archimago 2021 said still around US$200 each, but maker page unreachable and successor Micro SE is rated 4 ohm (Rapallo AV listing). Not confirmed sold new in US; sphere satellite form factor.",
+ "successor": "Gallo Micro SE (4 ohm)",
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://archimago.blogspot.com/2021/05/review-measurements-anthony-gallo.html",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://archimago.blogspot.com/2021/05/review-measurements-anthony-gallo.html",
+  "https://www.stoneaudio.co.uk/products/gallo-acoustics-micro-se-single-droplet"
+ ]
+}

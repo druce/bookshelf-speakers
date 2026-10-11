@@ -1,0 +1,68 @@
+{
+ "slug": "triangle-borea-br03",
+ "brand": "Triangle",
+ "model": "Borea BR03",
+ "brand_slug": "triangle",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 599,
+ "price_source": "https://trianglehifi.us/products/enceinte-bibliotheque-hi-fi-borea-br03-paire",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/triangle-borea-br03.md",
+  "wiki/sources/eac-triangle-borea-br03.md",
+  "wiki/sources/asr-triangle-borea-br03.md",
+  "wiki/sources/whathifi-triangle-borea-br03.md",
+  "wiki/sources/toolsandtoys-triangle-borea-br03.md",
+  "wiki/sources/users-triangle-borea-br03.md",
+  "wiki/sources/mfr-triangle-borea-br03.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-triangle-borea-br03.md",
+  "raw/measurements/eac-triangle-borea-br03.md",
+  "raw/measurements/asr-triangle-borea-br03.md",
+  "raw/measurements/soundstage-triangle-borea-br03-nrc.md (stub only, page body not captured)",
+  "raw/reviews-critic/whathifi-triangle-borea-br03.md",
+  "raw/reviews-critic/toolsandtoys-triangle-borea-br03.md",
+  "raw/reviews-user/users-triangle-borea-br03-2026-10-11.md",
+  "raw/reviews-user/asr-thread-triangle-borea-br03-p2.md",
+  "raw/reviews-user/reddit-search-triangle-borea-br03.md (stub, blocked)",
+  "raw/assets/asr-triangle-borea-br03-impedance.png",
+  "raw/assets/asr-triangle-borea-br03-thd.png",
+  "raw/assets/eac-triangle-borea-br03-impedance.png",
+  "raw/assets/eac-triangle-borea-br03-thd86.png",
+  "raw/assets/eac-triangle-borea-br03-thd96.png",
+  "raw/assets/eac-triangle-borea-br03-compression.png"
+ ],
+ "index_line": "- [[triangle-borea-br03]] \u2014 8 \u03a9 (min 4.2, EPDR 2.2), LW \u00b12.3 dB, f3 57 Hz, sens 87.0 dB (claimed 90), pref 4.0 (EAC)",
+ "source_index_lines": [
+  "- [[eac-triangle-borea-br03]] \u2014 Erin's Audio Corner Klippel review, 2023-08-25 (Tier A)",
+  "- [[asr-triangle-borea-br03]] \u2014 ASR Klippel review, 2020-03-25 (Tier A)",
+  "- [[whathifi-triangle-borea-br03]] \u2014 What Hi-Fi? review, 5 stars sound (Tier D)",
+  "- [[toolsandtoys-triangle-borea-br03]] \u2014 Tools and Toys short review, 2021-12 (Tier D)",
+  "- [[users-triangle-borea-br03]] \u2014 owner reports, ASR thread and maker site (Tier E)",
+  "- [[mfr-triangle-borea-br03]] \u2014 Triangle US spec page (Tier C)"
+ ],
+ "brand_notes": "Triangle (France) Borea line; BR03 is the larger Borea standmount (16 cm), front-ported, 25 mm EFS silk dome with diffuser; claims 90 dB, measures about 87 dB; 4.2 \u03a9 minimum. Heavy YouTube/reviewer promotion noted by ASR members. BR02 (13 cm, $469) has only maker data (3.6 \u03a9 min, 89 dB claimed).",
+ "takeaways": [
+  "LW \u00b12.3 dB (EAC) / \u00b12.1 dB (ASR), f3 57 Hz; port and crossover resonances 500 Hz-4 kHz",
+  "Sensitivity 87.0-87.5 dB vs 90 dB claimed",
+  "Min impedance 4.2 \u03a9, EPDR 2.2 \u03a9: below-iec flag",
+  "EAC: high distortion (about 2.2% at 86 dB, about 8% at 96 dB, graph-read); compression under 3 dB through 102 dB",
+  "Pro reviewer (What Hi-Fi?) enthusiastic; ASR and Erin unimpressed"
+ ],
+ "conflicts": [
+  "Sensitivity 87.0-87.5 measured vs 90 claimed",
+  "THD EAC vs ASR differ (graph-read)",
+  "Pro praise of treble vs measurement-based criticism",
+  "Price: $599 maker vs $399-559 elsewhere (unverified)"
+ ],
+ "log_bullets": [
+  "Created speakers/triangle-borea-br03, sources/eac-, asr-, whathifi-, toolsandtoys-, users-, mfr-triangle-borea-br03",
+  "Conflict: sensitivity 3 dB under claim; THD differs between EAC and ASR",
+  "Flag: impedance_flag below-iec (4.2 \u03a9)"
+ ]
+}

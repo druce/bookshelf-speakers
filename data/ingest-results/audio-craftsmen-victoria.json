@@ -1,0 +1,55 @@
+{
+ "slug": "audio-craftsmen-victoria",
+ "brand": "Audio Craftsmen",
+ "model": "Victoria",
+ "brand_slug": "audio-craftsmen",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 3990,
+ "price_source": "https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria (maker-direct; page shows \"Out of stock\")",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/audio-craftsmen-victoria.md",
+  "wiki/sources/mfr-audio-craftsmen-victoria.md",
+  "wiki/sources/eac-audio-craftsmen-victoria.md",
+  "wiki/sources/stevehuff-audio-craftsmen-victoria.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-audio-craftsmen-victoria.md",
+  "raw/measurements/eac-audio-craftsmen-victoria.md",
+  "raw/reviews-critic/stevehuff-audio-craftsmen-victoria.md",
+  "raw/reviews-critic/stereophile-news-audio-craftsmen-victoria.md",
+  "raw/assets/eac-audio-craftsmen-victoria-impedance.png",
+  "raw/assets/eac-audio-craftsmen-victoria-thd86.png",
+  "raw/assets/eac-audio-craftsmen-victoria-thd96.png",
+  "raw/assets/eac-audio-craftsmen-victoria-compression.png"
+ ],
+ "index_line": "- [[audio-craftsmen-victoria]] — 8 Ω ported standmount, LW ±2.5 dB, f3 63 Hz, 83.4 dB, pref 4.9 (EAC)",
+ "source_index_lines": [
+  "- [[mfr-audio-craftsmen-victoria]] — Pahmer Audio product page/spec sheet (Tier C)",
+  "- [[eac-audio-craftsmen-victoria]] — Erin's Audio Corner Klippel review, 2025 (Tier A)",
+  "- [[stevehuff-audio-craftsmen-victoria]] — Steve Huff review, 2025-01-05 (Tier D)"
+ ],
+ "brand_notes": "Toronto-based direct-sale brand (Pahmer Audio, Thom Pahmer), debuted AXPONA 2023; SEAS drivers, double-walled \"split and angled\" cabinets; Victoria price fell from $5,999 (AXPONA 2023) to $3,990. Lineup also Laval ($1,590), Second Prodigy ($2,990). Victoria shown out of stock on maker page.",
+ "takeaways": [
+  "Klippel: LW ±2.5 dB, 200-800 Hz dip, f3 63 Hz, 83.4 dB vs 88 claimed, pref 4.87/7.34",
+  "Impedance easy: 7.3 Ω min, EPDR 4.4 Ω",
+  "THD ~1.8% @86 dB and ~2.2% @96 dB near 100 Hz (graph-read); compression ≤1.3 dB at 102 dB",
+  "Critics split: Steve Huff glowing, Erin finds thin mids and weak bass",
+  "Availability unclear: maker page says out of stock, not in all-products list; no user reports found"
+ ],
+ "conflicts": [
+  "Sensitivity 83.4 vs 88 claimed",
+  "f3 63 Hz vs 42 Hz claimed",
+  "Critics split on tonality",
+  "Status/stock unclear"
+ ],
+ "log_bullets": [
+  "Created speakers/audio-craftsmen-victoria and sources mfr-, eac-, stevehuff- audio-craftsmen-victoria",
+  "Tier A EAC Klippel; graphs read for impedance/THD/compression",
+  "Conflicts: sensitivity 83.4 vs 88 claimed; f3 63 vs 42 claimed; maker page out of stock"
+ ]
+}

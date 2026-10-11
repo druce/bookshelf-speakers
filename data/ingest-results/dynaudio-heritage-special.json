@@ -1,0 +1,23 @@
+{
+ "slug": "dynaudio-heritage-special",
+ "brand": "Dynaudio",
+ "model": "Heritage Special",
+ "brand_slug": "dynaudio",
+ "verdict": "out-of-scope",
+ "reason": "Rated 4 ohm nominal (Dynaudio current spec per search; Erin's spinorama metadata spec_impedance 4). Also limited edition of 2,500 pairs priced ~$7,000/pair, status unclear.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "unclear",
+ "price_usd_pair": 7000,
+ "price_source": "https://www.erinsaudiocorner.com/loudspeakers/dynaudio_heritage_special/",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-dynaudio-heritage-special.md"
+ ],
+ "evidence": [
+  "https://dynaudio.com/home-audio/heritage-collection/heritage-special",
+  "https://www.erinsaudiocorner.com/loudspeakers/dynaudio_heritage_special/",
+  "https://hifiplus.com/articles/dynaudio-heritage-special-stand-mount-loudspeaker/3/"
+ ],
+ "notes": "raw/manufacturer/mfr-dynaudio-heritage-special.md is empty (JS-rendered page, 1 char); 4 ohm is from search-result spec summaries, not a saved page. Erin Klippel data exists in raw/spinorama if the human wants a 4-ohm exception."
+}

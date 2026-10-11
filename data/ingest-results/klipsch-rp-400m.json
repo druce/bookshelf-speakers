@@ -1,0 +1,23 @@
+{
+ "slug": "klipsch-rp-400m",
+ "brand": "Klipsch",
+ "model": "RP-400M",
+ "brand_slug": "klipsch",
+ "verdict": "discontinued",
+ "reason": "Klipsch's US bookshelf category page (saved raw/manufacturer/mfr-klipsch-bookshelf-category.md, 2026-10-11) lists only R-40M, R-50M, RP-500M II and RP-600M II; RP-400M is not listed; klipsch.com page says 'Want the latest Reference Premiere Bookshelf speakers?'; klipsch.com only sells it as certified factory-refurbished; Amazon shows ebony pair unavailable (search result 2026-10-11). Spec sheet: 8 ohm compatible, 93 dB @2.83 V claimed, 4 in woofer, 298 mm. No direct successor (RP-500M II / RP-600M II are larger).",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": null,
+ "raw_saved": [
+  "raw/manufacturer/mfr-klipsch-rp-400m.md",
+  "raw/manufacturer/mfr-klipsch-bookshelf-category.md"
+ ],
+ "evidence": [
+  "https://www.klipsch.com/bookshelf-speakers",
+  "https://www.klipsch.com/products/rp-400m-bookshelf-speaker",
+  "https://www.klipsch.com/products/rp-400m-bookshelf-speaker-refurbished"
+ ]
+}

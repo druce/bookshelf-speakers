@@ -1,0 +1,21 @@
+{
+ "slug": "march-audio-sointuva",
+ "brand": "March Audio",
+ "model": "Sointuva",
+ "brand_slug": "march-audio",
+ "verdict": "discontinued",
+ "reason": "The measured version (EAC Mar 2022, passive-radiator Purifi PTT woofer, 'Sointuva WG') is no longer listed; March Audio's site sells only the Sointuva AWG, described as an update to the WG. Sold built-to-order at ~US$3,995/pair in 2022.",
+ "successor": "march-audio-sointuva-awg",
+ "nominal_impedance_ohm": null,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/ (AWG: US$5,190.91/pair, 6 ohm nominal)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/eac-march-audio-sointuva.md"
+ ],
+ "evidence": [
+  "https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/",
+  "https://www.erinsaudiocorner.com/loudspeakers/march_audio_sointuva/"
+ ]
+}

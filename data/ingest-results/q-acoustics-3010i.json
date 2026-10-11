@@ -1,0 +1,23 @@
+{
+ "slug": "q-acoustics-3010i",
+ "brand": "Q Acoustics",
+ "model": "3010i",
+ "brand_slug": "q-acoustics",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (6 Ω, 4\" woofer, ~254 mm tall) but no Tier A/B measurement of this exact model found. 6 Ω nominal, 4 Ω min, 86 dB, 253 mm. Sound & Vision 3000i page has specs only (no measurements); no ASR/Erin/Audioholics/NRC data found.",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 379,
+ "price_source": "https://www.qacoustics.com/collections/bookshelf-speakers/products/3010i-compact-bookshelf-speaker-pair ($379 pair; page shows 'Reserve Now', so availability unclear)",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-q-acoustics-3010i.md",
+  "raw/measurements/soundandvision-q-acoustics-3010i.md"
+ ],
+ "evidence": [
+  "https://www.qacoustics.com/collections/bookshelf-speakers",
+  "https://www.soundandvision.com/content/q-acoustics-3000i-series-speaker-system-review-specs",
+  "https://www.whathifi.com/q-acoustics/3010i/review"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "jbl-4349",
+ "brand": "JBL",
+ "model": "4349",
+ "brand_slug": "jbl",
+ "verdict": "out-of-scope",
+ "reason": "12-inch woofer, 737 mm (29 in) tall: not bookshelf/standmount by scope rules (8 ohm, current ~$7,500/pair)",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 7500,
+ "price_source": "https://mm.jbl.com/bookshelf/4349.html",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-jbl-4349.md"
+ ],
+ "evidence": [
+  "https://mm.jbl.com/bookshelf/4349.html"
+ ]
+}

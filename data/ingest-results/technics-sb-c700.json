@@ -1,0 +1,21 @@
+{
+ "slug": "technics-sb-c700",
+ "brand": "Technics",
+ "model": "SB-C700",
+ "brand_slug": "technics",
+ "verdict": "out-of-scope",
+ "reason": "Rated 4 ohm nominal (Stereophile spec sheet, Panasonic NA guide, Technics UK); Technics UK lists it under discontinued products. Stereophile classed it as a 6 ohm-type load (min 3.5 ohm @ 215 Hz).",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "discontinued",
+ "price_usd_pair": 1699,
+ "price_source": "https://www.stereophile.com/content/technics-premium-class-sb-c700-loudspeaker-specifications (2015 list price)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-technics-sb-c700-spec.md"
+ ],
+ "evidence": [
+  "https://www.stereophile.com/content/technics-premium-class-sb-c700-loudspeaker-specifications",
+  "https://www.technics.com/uk/support/discontinued-products/premium-class/sb-c700.html"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "pylon-jasper-monitor-18",
+ "brand": "Pylon Jasper",
+ "model": "Monitor 18",
+ "brand_slug": "pylon-jasper",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance 4 Ω (hifiverse spec listing and Audiophile Heaven review; Erin spec_impedance 4); Pylon's own page not retrievable",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "No US price found; ~€3,100-4,000 EU; CAD 14,220 at House of Stereo (sold out)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-pylon-jasper-monitor-18.md"
+ ],
+ "evidence": [
+  "https://www.hifiverse.io/components/loudspeakers/bookshelf/jasper-monitor-18",
+  "https://www.audiophile-heaven.com/?p=39807",
+  "https://www.erinsaudiocorner.com/loudspeakers/pylon_jasper_18/"
+ ]
+}

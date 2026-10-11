@@ -1,0 +1,19 @@
+{
+ "slug": "jbl-4319",
+ "brand": "JBL",
+ "model": "4319",
+ "brand_slug": "jbl",
+ "verdict": "out-of-scope",
+ "reason": "12-inch 3-way studio monitor, 597 mm tall (exceeds woofer <=8in / ~457 mm limit); 6 ohm; sold singly / discontinued listings",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "discontinued-or-unclear",
+ "price_usd_pair": null,
+ "price_source": "https://www.manualslib.com/manual/729040/Jbl-4319.html",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.manualslib.com/manual/729040/Jbl-4319.html",
+  "https://support.jbl.com/ph/en/speakers/stereo-surround-speakers/speakers-bookshelf/4319-.html"
+ ]
+}

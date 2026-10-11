@@ -1,0 +1,19 @@
+{
+ "slug": "lyx-spa8pas",
+ "brand": "LYX",
+ "model": "SPA8PAS",
+ "brand_slug": "lyx",
+ "verdict": "out-of-scope",
+ "reason": "Passive 8-inch PA/DJ speaker, not a hi-fi bookshelf; nominal impedance not stated in any accessible source (Home Depot page returned 403, lyxpro.com page 404); measurement is a hobbyist REW dump in an ASR 'worst measuring' thread (no computed metrics).",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://homedepot.com/p/LYXPRO-8-in-Passive-DJ-PA-Speaker-System-W-XLR-1-4-and-Speakon-Connections-Daisy-Chain-Compatible-LYXSPA8-PAS/329688368",
+  "https://www.audiosciencereview.com/forum/index.php?threads/worst-measuring-loudspeaker.11394/page-8#post-945725"
+ ]
+}

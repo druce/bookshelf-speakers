@@ -1,0 +1,49 @@
+{
+ "slug": "amphion-argon1",
+ "brand": "Amphion",
+ "model": "Argon1",
+ "brand_slug": "amphion",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1919,
+ "price_source": "https://amphionspeakers.com/products/amphion-argon1",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/amphion-argon1.md",
+  "wiki/sources/napilopez-amphion-argon1.md",
+  "wiki/sources/audiophilia-amphion-argon1.md",
+  "wiki/sources/hifireport-amphion-argon1.md",
+  "wiki/sources/mfr-amphion-argon1.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/napilopez-amphion-argon1.md",
+  "raw/reviews-critic/audiophilia-amphion-argon1.md",
+  "raw/reviews-critic/hifireport-amphion-argon1.md",
+  "raw/manufacturer/mfr-amphion-argon1.md"
+ ],
+ "index_line": "- [[amphion-argon1]] \u2014 8 \u03a9, Tier-B hobbyist spin only, pref 4.8 (7.0 w/ sub), $1,919",
+ "source_index_lines": [
+  "- [[napilopez-amphion-argon1]] \u2014 napilopez quasi-anechoic spinorama (ASR forum), 2020-03-03 (Tier B)",
+  "- [[audiophilia-amphion-argon1]] \u2014 Audiophilia review, 2021 (Tier D)",
+  "- [[hifireport-amphion-argon1]] \u2014 HiFiReport review (Tier D)",
+  "- [[mfr-amphion-argon1]] \u2014 Amphion US store specs (Tier C)"
+ ],
+ "brand_notes": "Amphion (Finland), handmade; low crossovers (1.6 kHz), waveguide tweeters; Argon1 is 8 \u03a9, 86 dB claimed; US price spread $1,919 (Amphion US) to $2,498 (retail) (mfr-amphion-argon1).",
+ "takeaways": [
+  "Only Tier-B hobbyist spin (gated 6.5 ms); no raw export, so no computed metrics",
+  "Pref 4.79 / 7.01 via spinorama.org",
+  "Rising on-axis treble, 400-900 Hz messiness, nice horizontal directivity",
+  "No impedance, distortion or sensitivity measurements found; no Stereophile/SoundStage measurements",
+  "Critics positive; price high for class"
+ ],
+ "conflicts": [
+  "US price $1,919 vs $2,498 vs $1,400 (2021)"
+ ],
+ "log_bullets": [
+  "Created speakers/amphion-argon1 and sources napilopez/audiophilia/hifireport/mfr",
+  "Gap: no impedance/THD/sensitivity measured; spinorama-derived fields null"
+ ]
+}

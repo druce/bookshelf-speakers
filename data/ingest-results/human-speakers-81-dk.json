@@ -1,0 +1,52 @@
+{
+ "slug": "human-speakers-81-dk",
+ "brand": "Human Speakers",
+ "model": "81 dk",
+ "brand_slug": "human-speakers",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 1397,
+ "price_source": "https://www.humanspeakers.com/human/81dk.htm ($1397/pair, maker-direct)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/human-speakers-81-dk.md",
+  "wiki/sources/mfr-human-speakers-81-dk.md",
+  "wiki/sources/asr-human-speakers-81-dk.md",
+  "wiki/sources/users-human-speakers-81-dk.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-human-speakers-81-dk.md",
+  "raw/manufacturer/mfr-human-speakers-specs.md",
+  "raw/measurements/asr-human-speakers-81-dk.md",
+  "raw/reviews-user/users-human-speakers-81-dk-2026-10-11.md",
+  "raw/reviews-user/asr-thread-human-speakers-81-dk.md",
+  "raw/assets/asr-human-speakers-81-dk-impedance.png",
+  "raw/assets/asr-human-speakers-81-dk-thd.png"
+ ],
+ "index_line": "- [[human-speakers-81-dk]] \u2014 6 \u03a9 (min 4.2 \u03a9), 85.4 dB, LW \u00b14.5 dB, f3 52 Hz, pref 2.0 (ASR)",
+ "source_index_lines": [
+  "- [[mfr-human-speakers-81-dk]] \u2014 HUMAN Speakers 81 DK and specs pages, $1,397/pair (Tier C)",
+  "- [[asr-human-speakers-81-dk]] \u2014 ASR Klippel review, 2024-01-04 (Tier A)",
+  "- [[users-human-speakers-81-dk]] \u2014 no owner reports found (Tier E)"
+ ],
+ "brand_notes": "HUMAN Speakers: one-person New Hampshire builder (Huw Powell) making own drivers, EPI-style bookshelves; all systems nominally 6 ohm per specs page (mfr-human-speakers-81-dk). ASR found crossover and driver-resonance problems in the 81 dk. 81 DK is 18.5 in tall, marginally above the ~18 in guideline; included with a note.",
+ "takeaways": [
+  "Hand-built 8-inch two-way, $1,397/pair, nominal 6 \u03a9",
+  "ASR: LW \u00b14.5 dB, peak/dip/resonance at crossover, weak tweeter above 5 kHz; not recommended",
+  "Measured sensitivity 85.4 dB vs maker 89 dB/1 W (about 90.3 dB at 2.83 V, 6 \u03a9): 4.9 dB gap",
+  "Min impedance 4.2 \u03a9 at 113 Hz (below IEC floor for 6 \u03a9)",
+  "High distortion at 96 dB; very wide dispersion (148 deg horizontal); no critic or owner reviews found"
+ ],
+ "conflicts": [
+  "Sensitivity 85.4 measured vs about 90.3 claimed",
+  "Price $1,270 (ASR) vs $1,397 (maker)"
+ ],
+ "log_bullets": [
+  "Created speakers/human-speakers-81-dk and sources mfr-, asr-, users-human-speakers-81-dk",
+  "Conflict: measured 85.4 dB vs claimed about 90.3 dB sensitivity",
+  "Height 470 mm marginally above guideline; included with note"
+ ]
+}

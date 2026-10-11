@@ -1,0 +1,19 @@
+{
+ "brand": "JBL",
+ "brand_slug": "jbl",
+ "slug": "jbl-stage-a120",
+ "model": "Stage A120",
+ "verdict": "discontinued",
+ "reason": "Stage A series replaced by Stage 2 series (2024); retailers list as discontinued / no longer available",
+ "successor": "No official successor named; Stage 2 line (e.g. 250B) is the current range",
+ "nominal_impedance_ohm": 6,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "retailer pages list as discontinued",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.proacousticsusa.com/jbl-stage-a120-4-5-2-way-bookshelf-loudspeaker-black-pair.html",
+  "https://support.jbl.com/th/en/speakers/stereo-surround-speakers/speakers-bookshelf/STAGE+A120.html"
+ ]
+}

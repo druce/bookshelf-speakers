@@ -1,0 +1,47 @@
+{
+ "slug": "elac-debut-3-0-b6-3",
+ "brand": "Elac",
+ "model": "Debut 3.0 B6.3",
+ "brand_slug": "elac",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 499,
+ "price_source": "https://www.worldwidestereo.com/products/elac-db63-debut-3-0-6-5-inch-bookshelf-speakers-pair-black",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/elac-debut-3-0-b6-3.md",
+  "wiki/sources/eac-elac-debut-3-0-b6-3.md",
+  "wiki/sources/mfr-elac-debut-3-0-b6-3.md",
+  "wiki/sources/users-elac-debut-3-0-b6-3.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-elac-debut-3-0-b6-3.md",
+  "raw/measurements/eac-elac-debut-3-0-b6-3.md",
+  "raw/reviews-user/users-elac-debut-3-0-b6-3-2026-10-11.md"
+ ],
+ "index_line": "- [[elac-debut-3-0-b6-3]] — 6 Ω, min Z 4.4 Ω (below-iec), THD ~0.6% @86 dB (EAC)",
+ "source_index_lines": [
+  "- [[eac-elac-debut-3-0-b6-3]] — Erin's Audio Corner Klippel data, 2024-10-14 (Tier A)",
+  "- [[mfr-elac-debut-3-0-b6-3]] — ELAC product page (Tier C)",
+  "- [[users-elac-debut-3-0-b6-3]] — 1 owner report (Tier E, anecdotal)"
+ ],
+ "brand_notes": "Debut 3.0 uses aluminium dome tweeter and new aramid woofer; DB63 min impedance 4.4 ohm vs 6 ohm nominal (eac-elac-debut-3-0-b6-3).",
+ "takeaways": [
+  "Erin Klippel: min Z 4.4 ohm, EPDR 2.2 ohm: below-iec flag",
+  "Low distortion for class: ~0.6% @86 dB, ~1.9% @96 dB (graph-read)",
+  "Mild compression, 102 dB: -1.2 dB near 150-200 Hz",
+  "No spinorama export in repo: f3/sensitivity graph-read only, LW and pref null",
+  "No professional written reviews found"
+ ],
+ "conflicts": [
+  "Sensitivity ~85.5 graph-read vs 87 claimed (minor)",
+  "Min impedance 4.4 vs 6 nominal"
+ ],
+ "log_bullets": [
+  "Created speakers/elac-debut-3-0-b6-3, sources/eac-, mfr-, users- elac-debut-3-0-b6-3",
+  "Flag below-iec (4.4 ohm min); spinorama metrics unavailable"
+ ]
+}

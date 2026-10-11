@@ -1,0 +1,22 @@
+{
+ "slug": "polk-audio-signature-elite-es15",
+ "brand": "Polk Audio",
+ "model": "Signature Elite ES15",
+ "brand_slug": "polk-audio",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (Polk: 'compatible with 8 ohm outputs', no 4 ohm rating, 5.25in, 305 mm tall, $299/pair, current on polkaudio.com) but no Tier A/B measurement found (searched EAC, Audioholics, ASR; only specs and secondary summaries). Retailer specs conflict (sensitivity 85 vs 88 dB, FR 44 vs 48 Hz).",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 299,
+ "price_source": "https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/signature-elite-es15/300363.html",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-polk-audio-signature-elite-es15.md"
+ ],
+ "evidence": [
+  "https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/signature-elite-es15/300363.html",
+  "https://speakerdecision.com/review/Polk-Audio-Signature-Elite-ES15"
+ ],
+ "notes": "Maker: 44 Hz-40 kHz, 85 dB (2.83 V), 2.3 kHz crossover, 12x7.5x10.2 in, 5.9 kg each. Extreme Hi-Fi claims ~83.4 dB measured (method unstated)."
+}

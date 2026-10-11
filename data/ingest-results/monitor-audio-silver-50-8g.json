@@ -1,0 +1,22 @@
+{
+ "slug": "monitor-audio-silver-50-8g",
+ "brand": "Monitor Audio",
+ "model": "Silver 50 8G",
+ "brand_slug": "monitor-audio",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 8 ohm nominal, 2-way 6-inch, 335 mm tall, current, $1250 pair at maker US page) but no Tier A/B measurement found (8G launched 2026). Maker claims min impedance 3.8 ohm @240 Hz, sensitivity 86.5 dB, port 52 Hz, crossover 2.6 kHz, 8.2 kg, 335x185x332 mm, in-room FR 43 Hz-35 kHz -6 dB. Note AV Forums lists $1050 pair; Upscale $1250.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1250,
+ "price_source": "https://www.monitoraudio.com/en/us/product-ranges/silver-series-8g/silver-50-8g/",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-monitor-audio-silver-50-8g.md (JS shell only; specs via WebFetch)"
+ ],
+ "evidence": [
+  "https://www.monitoraudio.com/en/us/product-ranges/silver-series-8g/silver-50-8g/",
+  "https://upscaleaudio.com/products/monitor-audio-silver-50-8g-bookshelf-loudspeaker-pair",
+  "https://www.avforums.com/posts/33572918/"
+ ]
+}

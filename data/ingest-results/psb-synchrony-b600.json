@@ -1,0 +1,63 @@
+{
+ "slug": "psb-synchrony-b600",
+ "brand": "PSB",
+ "model": "Synchrony B600",
+ "brand_slug": "psb",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 3799,
+ "price_source": "https://www.audioadvisor.com/products/psb-synchrony-b600-premium-bookshelf-speaker-satin-walnut-each ($1,899.50 each x2); PSB site C$4,699; older USD $2,499 (2021), $2,799 (2022)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/psb-synchrony-b600.md",
+  "wiki/sources/soundstage-nrc-psb-synchrony-b600.md",
+  "wiki/sources/audioholics-psb-synchrony-b600.md",
+  "wiki/sources/soundstage-psb-synchrony-b600.md",
+  "wiki/sources/audiophilia-psb-synchrony-b600.md",
+  "wiki/sources/mfr-psb-synchrony-b600.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/soundstage-nrc-psb-synchrony-b600.md",
+  "raw/measurements/audioholics-psb-synchrony-b600.md",
+  "raw/reviews-critic/soundstage-psb-synchrony-b600.md",
+  "raw/reviews-critic/audiophilia-psb-synchrony-b600.md",
+  "raw/manufacturer/mfr-psb-synchrony-b600.md",
+  "raw/manufacturer/retailer-audioadvisor-psb-synchrony-b600.md",
+  "raw/assets/nrc-psb-synchrony-b600-impedance.png",
+  "raw/assets/nrc-psb-synchrony-b600-lw.png",
+  "raw/assets/nrc-psb-synchrony-b600-thd90.png",
+  "raw/assets/nrc-psb-synchrony-b600-fr.png",
+  "raw/assets/audioholics-psb-synchrony-b600-impedance.png",
+  "raw/assets/audioholics-psb-synchrony-b600-spinorama.png",
+  "raw/assets/audioholics-psb-synchrony-b600-bass.png"
+ ],
+ "index_line": "- [[psb-synchrony-b600]] — 6 Ω (min ~3.3 Ω), 85.7 dB, strong bass for size, no Klippel data (NRC, Audioholics)",
+ "source_index_lines": [
+  "- [[soundstage-nrc-psb-synchrony-b600]] — NRC anechoic measurements, 2021-11-15 (Tier A)",
+  "- [[audioholics-psb-synchrony-b600]] — Audioholics gated measurements and review, 2023-05-01 (Tier A)",
+  "- [[soundstage-psb-synchrony-b600]] — SoundStage! review, Diego Estan (Tier D)",
+  "- [[audiophilia-psb-synchrony-b600]] — Audiophilia review, 2022-11-11 (Tier D)",
+  "- [[mfr-psb-synchrony-b600]] — PSB spec page and Audio Advisor price (Tier C)"
+ ],
+ "brand_notes": "Synchrony is PSB's flagship line; B600 is its standmount (tweeter below woofer, aluminium baffle, IsoAcoustics feet). Rated 6 ohm/4 ohm min; measured ~3.3-4 ohm. US pair price rose from $2,499 (2021) to ~$3,799 (Audio Advisor).",
+ "takeaways": [
+  "No Klippel spinorama; NRC (anechoic) and Audioholics (gated) exist",
+  "Sensitivity 85.7 dB (NRC) vs 87.2 dB (Audioholics); claimed 86",
+  "Impedance min ~3.3 ohm (NRC, graph-read) vs ~4 (Audioholics): effectively-4ohm flag",
+  "Critics uniformly positive; bass depth far exceeds size; Audioholics 4.5/5",
+  "US price uncertain: $3,799 inferred from per-each retailer listing"
+ ],
+ "conflicts": [
+  "Sensitivity 85.7 vs 87.2 dB",
+  "Min impedance 3.3 vs ~4 ohm",
+  "Price $2,499/2,799 at review vs $3,799 now"
+ ],
+ "log_bullets": [
+  "Created speakers/psb-synchrony-b600 and 5 source pages",
+  "Conflicts: sensitivity and min impedance between NRC and Audioholics; large price rise",
+  "No Klippel data so LW dev, f3, pref null; no user reviews found"
+ ]
+}

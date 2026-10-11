@@ -1,0 +1,20 @@
+{
+ "slug": "moondrop-m4p",
+ "brand": "Moondrop",
+ "model": "M4P",
+ "verdict": "out-of-scope",
+ "reason": "Maker rates nominal impedance 4 ohm (Moondrop product page); EAC measured ~3.7 ohm, EPDR 1.7 ohm. Dual 4in MTM desktop monitor, 380 mm tall.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://moondroplab.com/en/products/m4p-mtm (launch US$399.99 each per Moondrop; resellers vary)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-moondrop-m4p.md"
+ ],
+ "evidence": [
+  "https://moondroplab.com/en/products/m4p-mtm",
+  "https://www.erinsaudiocorner.com/loudspeakers/moondrop_mrp/"
+ ]
+}

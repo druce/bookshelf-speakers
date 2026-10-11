@@ -1,0 +1,20 @@
+{
+ "brand": "AsciLab",
+ "brand_slug": "ascilab",
+ "verdict": "out-of-scope",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "tier_ab_available": true,
+ "slug": "ascilab-f6bs",
+ "model": "F6Bs",
+ "reason": "Nominal impedance 4 ohm (min 3.7 ohm @ 190 Hz), 83 dB per Audiophonics listing; EUR 799 each-listing, EU only, no US retailer found",
+ "price_source": "https://www.audiophonics.fr/en/passive-speakers-and-subwoofer/ascilab-f6bs-white-black-grill-p-21605.html",
+ "raw_saved": [
+  "raw/manufacturer/retailer-ascilab-f6bs.md"
+ ],
+ "evidence": [
+  "https://www.audiophonics.fr/en/passive-speakers-and-subwoofer/ascilab-f6bs-white-black-grill-p-21605.html"
+ ]
+}

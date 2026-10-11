@@ -1,0 +1,53 @@
+{
+ "brand": "JBL",
+ "brand_slug": "jbl",
+ "slug": "jbl-stage-250b",
+ "model": "Stage 250B",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 440,
+ "price_source": "https://www.sweetwater.com/store/detail/250BWht ($439.95 pair, via search results; also Abt, World Wide Stereo)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/jbl-stage-250b.md",
+  "wiki/sources/eac-jbl-stage-250b.md",
+  "wiki/sources/mfr-jbl-stage-250b.md",
+  "wiki/sources/phileweb-jbl-stage-250b.md",
+  "wiki/sources/users-jbl-stage-250b.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/eac-jbl-stage-250b.md",
+  "raw/manufacturer/mfr-jbl-stage-250b.md",
+  "raw/reviews-critic/phileweb-jbl-stage-250b.md",
+  "raw/reviews-user/users-jbl-stage-250b-2026-10-11.md",
+  "raw/assets/eac-jbl-stage-250b-impedance.png",
+  "raw/assets/eac-jbl-stage-250b-thd.png",
+  "raw/assets/eac-jbl-stage-250b-compression.png"
+ ],
+ "index_line": "- [[jbl-stage-250b]] \u2014 6 \u03a9 (min 3.3 \u03a9, effectively 4 \u03a9), LW \u00b12.3 dB, f3 63 Hz, pref 4.1 (EAC)",
+ "source_index_lines": [
+  "- [[eac-jbl-stage-250b]] \u2014 Erin's Audio Corner Klippel review, 2024-09-16 (Tier A)",
+  "- [[mfr-jbl-stage-250b]] \u2014 JBL spec sheet, 2023-12-14 (Tier C)",
+  "- [[phileweb-jbl-stage-250b]] \u2014 Phile-web sponsored listening review, 2024-09-18 (Tier D)",
+  "- [[users-jbl-stage-250b]] \u2014 5 retailer/aggregator user reports (Tier E, anecdotal)"
+ ],
+ "brand_notes": "Stage 2 series (2024) replaced Stage A series; 250B is largest Stage 2 standmount, ~$440/pair. JBL support/store pages block scripted access. Stage 250B: rated 6 ohm but measures 3.3 ohm min (eac-jbl-stage-250b). L100 Classic MKII and L52 Classic are 4 ohm (out of scope); Stage A120/A130 discontinued.",
+ "takeaways": [
+  "Rated 6 ohm but EAC measures 3.3 ohm min and 1.6 ohm EPDR: flagged effectively-4ohm.",
+  "LW \u00b12.3 dB, f3 63 Hz, pref 4.06 / 6.60 with sub; ER dip 3.7 dB.",
+  "Erin found linearity disappointing and recommends EQ.",
+  "Only one sponsored critic review and 5 anecdotal user reports found."
+ ],
+ "conflicts": [
+  "Rated 6 ohm vs measured 3.3 ohm minimum",
+  "Claimed -6 dB at 50 Hz vs measured f6 57 Hz"
+ ],
+ "log_bullets": [
+  "Created speakers/jbl-stage-250b, sources/eac-, mfr-, phileweb-, users-jbl-stage-250b",
+  "Conflict: rated 6 ohm vs 3.3 ohm measured min; impedance_flag effectively-4ohm",
+  "Verdicts: L100 Classic MKII and L52 Classic out-of-scope (4 ohm); Stage A120 and A130 discontinued"
+ ]
+}

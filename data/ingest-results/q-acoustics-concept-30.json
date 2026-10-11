@@ -1,0 +1,23 @@
+{
+ "slug": "q-acoustics-concept-30",
+ "brand": "Q Acoustics",
+ "model": "Concept 30",
+ "brand_slug": "q-acoustics",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 6 ohm nominal per maker, 5 in woofer, 284 mm tall, 1799 USD/pair at maker store, in stock) but no Tier A/B measurement found; 7Review (Noel Keywood, 2022) has measurement comments but no stated method or numeric data.",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 1799,
+ "price_source": "https://www.qacoustics.com/collections/bookshelf-speakers/products/concept-30",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-q-acoustics-concept-30.md"
+ ],
+ "evidence": [
+  "https://www.qacoustics.com/collections/bookshelf-speakers/products/concept-30",
+  "https://7review.com/q-acoustics-concept-30-review/",
+  "https://www.ecoustics.com/reviews/q-acoustics-concept-30/"
+ ],
+ "notes": "Maker spec: 125 mm woofer, 25 mm tweeter, 54 Hz-30 kHz (-6 dB), 6 ohm nominal, 3.9 ohm min, 87 dB 2.83 V, crossover 2.4 kHz, 284x180x319 mm, 7.9 kg, rear port tuned 50 Hz (7Review)."
+}

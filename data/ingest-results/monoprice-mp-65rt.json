@@ -1,0 +1,21 @@
+{
+ "slug": "monoprice-mp-65rt",
+ "brand": "Monoprice",
+ "model": "MP-65RT",
+ "verdict": "discontinued",
+ "reason": "6 ohm, 6.5in, ribbon tweeter, ~$50/pair launch. Zoro lists the pair as discontinued; Amazon shows currently unavailable; Monoprice site blocked scripted access. Only the different MP-T65RT tower ($190.99, out of stock) remains listed.",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://www.zoro.com/monoprice-mp-65rt-65in-and-ribbon-tweeter-2-way-bookshelf-speakers-pair-blk-24739/i/G1703557/",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/audioholics-monoprice-mp-65rt.md"
+ ],
+ "evidence": [
+  "https://www.audioholics.com/bookshelf-speaker-reviews/mp-65rt",
+  "https://www.zoro.com/monoprice-mp-65rt-65in-and-ribbon-tweeter-2-way-bookshelf-speakers-pair-blk-24739/i/G1703557/",
+  "https://www.amazon.com/Monoprice-Ribbon-Tweeter-Bookshelf-Speakers/dp/B077Y59W8R"
+ ]
+}

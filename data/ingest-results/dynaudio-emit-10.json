@@ -1,0 +1,23 @@
+{
+ "slug": "dynaudio-emit-10",
+ "brand": "Dynaudio",
+ "model": "Emit 10",
+ "brand_slug": "dynaudio",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 6 ohm rated, 14 cm woofer, 290 mm tall, status Current at dynaudio.com; list $799/pair, Dedicated Audio promo $599; Audio Advisor demo ~$566, new listed out of stock at some dealers) but no Tier A/B measurement of the current Emit 10 found. Spinorama.org/ASR Klippel and SoundStage NRC data are for the older Emit M10 (different tweeter/crossover), not this model. HomeTheaterHifi only spot-THD.",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 799,
+ "price_source": "https://dynaudio.com/home-audio/emit/emit-10",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-dynaudio-emit-10.md"
+ ],
+ "evidence": [
+  "https://dynaudio.com/home-audio/emit/emit-10",
+  "https://www.dedicatedaudio.com/products/dynaudio-emit-10-bookshelf-loudspeakers-black-pair-promotion",
+  "https://www.audioadvisor.com/products/dynaudio-emit-10-bookshelf-speakers-black-pair",
+  "https://www.soundstagenetwork.com/index.php?option=com_content&view=article&id=1654:nrc-measurements-dynaudio-emit-m10-loudspeakers&catid=77&Itemid=153"
+ ]
+}

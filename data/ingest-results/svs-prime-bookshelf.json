@@ -1,0 +1,58 @@
+{
+ "slug": "svs-prime-bookshelf",
+ "brand": "SVS",
+ "model": "Prime Bookshelf",
+ "brand_slug": "svs",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 699,
+ "price_source": "https://www.worldwidestereo.com/products/svs-prime-bookshelf-speakers-pair-premium-black-ash",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/svs-prime-bookshelf.md",
+  "wiki/sources/eac-svs-prime-bookshelf.md",
+  "wiki/sources/mfr-svs-prime-bookshelf.md",
+  "wiki/sources/pooraudiophile-svs-prime-bookshelf.md",
+  "wiki/sources/soundstageaccess-svs-prime-bookshelf.md",
+  "wiki/sources/users-svs-prime-bookshelf.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-svs-prime-bookshelf.md",
+  "raw/manufacturer/retail-wws-svs-prime-bookshelf.md",
+  "raw/measurements/eac-svs-prime-bookshelf.md",
+  "raw/assets/eac-svs-prime-bookshelf-impedance.png",
+  "raw/assets/eac-svs-prime-bookshelf-thd86.png",
+  "raw/assets/eac-svs-prime-bookshelf-thd96.png",
+  "raw/assets/eac-svs-prime-bookshelf-compression.png",
+  "raw/reviews-critic/pooraudiophile-svs-prime-bookshelf.md",
+  "raw/reviews-critic/soundstageaccess-svs-prime-bookshelf.md",
+  "raw/reviews-user/users-svs-prime-bookshelf-2026-10-11.md"
+ ],
+ "index_line": "- [[svs-prime-bookshelf]] \u2014 8 \u03a9 (min 3.9 \u03a9, effectively-4ohm), LW \u00b12.3 dB, f3 70 Hz, pref 5.2 (EAC), $699/pr",
+ "source_index_lines": [
+  "- [[eac-svs-prime-bookshelf]] \u2014 Erin's Audio Corner Klippel review, 2022-11-16 (Tier A)",
+  "- [[mfr-svs-prime-bookshelf]] \u2014 SVS product page (Tier C)",
+  "- [[pooraudiophile-svs-prime-bookshelf]] \u2014 Poor Audiophile blog review, 2015 (Tier D)",
+  "- [[soundstageaccess-svs-prime-bookshelf]] \u2014 SoundStage! Access system review, 2018 (Tier D)",
+  "- [[users-svs-prime-bookshelf]] \u2014 maker-hosted customer review aggregate (Tier E, weak)"
+ ],
+ "brand_notes": "SVS (Youngstown OH; subwoofer heritage; direct-to-consumer plus dealers; manufactured in China, 5-yr warranty). Prime Bookshelf: 8 ohm label but measured 3.9 ohm min / EPDR 2.2; maker 48 Hz claim vs 70 Hz measured f3 (eac-svs-prime-bookshelf). Ultra Evolution Bookshelf also rated 6 ohm with 3.7 ohm min (stereophile-svs-ultra-evolution-bookshelf).",
+ "takeaways": [
+  "EAC Klippel: LW \u00b12.3 dB, f3 70 Hz vs 48 Hz claim, wide directivity (144/115 deg).",
+  "Min impedance 3.9 ohm, EPDR 2.2 ohm: effectively-4ohm despite 8 ohm label.",
+  "THD ~0.7% @86 dB, ~1.3% @96 dB (graph-read); \u22641.7 dB compression at 102 dB.",
+  "Erin found midrange forward and highs bright on-axis; EQ -3 dB at 1-2 kHz or aim out.",
+  "$699/pair in stock at World Wide Stereo; no independent user reports retrievable."
+ ],
+ "conflicts": [
+  "Claimed 48 Hz (\u00b13 dB) vs measured f3 70 Hz",
+  "8 ohm nominal vs 3.9 ohm measured minimum"
+ ],
+ "log_bullets": [
+  "Created speakers/svs-prime-bookshelf, sources eac/mfr/pooraudiophile/soundstageaccess/users",
+  "Conflicts: bass extension claim vs f3; impedance flagged effectively-4ohm (3.9 ohm)"
+ ]
+}

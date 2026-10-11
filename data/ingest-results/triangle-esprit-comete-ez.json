@@ -1,0 +1,21 @@
+{
+ "slug": "triangle-esprit-comete-ez",
+ "brand": "Triangle",
+ "model": "Esprit Comete Ez",
+ "brand_slug": "triangle",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (8 ohm, 400 mm high, 6.5in) but no Tier A/B measurement of the Ez found (Stereophile measured older Comete Ex; NRC measured the separate 40th Anniversary Comete). Claimed 89 dB, min 4.2 ohm, xo 3.5 kHz, 9.3 kg.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1399,
+ "price_source": "https://trianglehifi.us/products/enceinte-bibliotheque-esprit-ez-comete",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-triangle-esprit-comete-ez.md"
+ ],
+ "evidence": [
+  "https://trianglehifi.us/products/enceinte-bibliotheque-esprit-ez-comete",
+  "https://www.whathifi.com/reviews/triangle-esprit-comete-ez"
+ ]
+}

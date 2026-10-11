@@ -1,0 +1,18 @@
+{
+ "slug": "kef-reference-1-meta",
+ "brand": "KEF",
+ "model": "Reference 1 Meta",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance 4 ohm (min 3.2 ohm) per retailer/spec listings (KEF US page 404 on guessed URL); also 3-way and ~10k USD",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 10000,
+ "price_source": "https://www.worldwidestereo.com/products/kef-reference-1-meta-bookshelf-speaker-pair-high-gloss-white-blue",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.worldwidestereo.com/products/kef-reference-1-meta-bookshelf-speaker-pair-high-gloss-white-blue",
+  "https://www.homepro.co.th/p/888108800125"
+ ]
+}

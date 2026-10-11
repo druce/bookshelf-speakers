@@ -1,0 +1,21 @@
+{
+ "slug": "mag-theatron-s6",
+ "brand": "MAG Theatron",
+ "model": "S6",
+ "brand_slug": "mag-theatron",
+ "verdict": "out-of-scope",
+ "reason": "Wall/on-wall/in-wall home-theatre surround speaker (6-inch woofer, phoenix terminals), not a bookshelf; MAG datasheet offers 4/8/16 ohm versions and the ASR sample was 4 ohm with low impedance; no US retail listing found (ASR price US$944 each, drop-shipped).",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "unclear",
+ "price_usd_pair": 1888,
+ "price_source": "ASR review: US$944 each (doubled); no retailer listing found",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/asr-mag-theatron-s6.md"
+ ],
+ "evidence": [
+  "https://www.stassen.nl/images/S6-datasheet.pdf",
+  "https://www.audiosciencereview.com/forum/index.php?threads/mag-theatron-s6-surround-speaker-review.64391/"
+ ]
+}

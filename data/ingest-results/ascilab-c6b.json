@@ -1,0 +1,19 @@
+{
+ "brand": "AsciLab",
+ "brand_slug": "ascilab",
+ "verdict": "out-of-scope",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "tier_ab_available": true,
+ "slug": "ascilab-c6b",
+ "model": "C6B",
+ "reason": "Nominal impedance 4 ohm (min 2.6 ohm @ 200 Hz) per Audiophonics listings; EU/UK sales only, no US retailer found",
+ "price_source": "https://www.audiophonics.fr/en/passive-speakers-and-subwoofer/ascilab-c6b-white-p-20912.html",
+ "raw_saved": [],
+ "evidence": [
+  "https://www.audiophonics.fr/en/passive-speakers-and-subwoofer/ascilab-c6b-white-p-20912.html",
+  "https://the-ear.net/?p=21972"
+ ]
+}

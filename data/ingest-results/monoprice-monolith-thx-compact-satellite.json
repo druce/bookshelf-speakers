@@ -1,0 +1,21 @@
+{
+ "slug": "monoprice-monolith-thx-compact-satellite",
+ "brand": "Monoprice",
+ "model": "Monolith THX Compact Satellite",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance 4 ohm (Audioholics spec list for the THX Certified Compact Satellite; also ecoustics); also a 4.5in on-wall/compact satellite rather than a bookshelf. Monoprice page (p_id=41288) listed out of stock.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 250,
+ "price_source": "https://www.audioholics.com/soundbar-and-satellite-speaker-reviews/monolith-thx-satellite-2022 (MSRP $250/pair)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-monoprice-monolith-thx-compact-satellite.md"
+ ],
+ "evidence": [
+  "https://www.audioholics.com/soundbar-and-satellite-speaker-reviews/monolith-thx-satellite-2022",
+  "https://www.monoprice.com/product?p_id=41288",
+  "https://www.erinsaudiocorner.com/loudspeakers/monoprice_comp_thx_sat/"
+ ]
+}

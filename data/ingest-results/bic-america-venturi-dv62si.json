@@ -1,0 +1,14 @@
+{
+ "slug": "bic-america-venturi-dv62si", "brand": "BIC America", "model": "Venturi DV62si", "brand_slug": "bic-america",
+ "verdict": "in-scope", "reason": null, "successor": null,
+ "nominal_impedance_ohm": 8, "status": "current", "price_usd_pair": 199, "price_source": "https://www.newegg.com/bic-america-dv-62sib/p/N82E16882007003 (BeachAudio marketplace); BIC MSRP $275 at https://www.bicamerica.com/products/dv62si",
+ "tier_ab_available": true,
+ "pages_created": ["wiki/speakers/bic-america-venturi-dv62si.md","wiki/sources/asr-bic-america-venturi-dv62si.md","wiki/sources/mfr-bic-america-venturi-dv62si.md","wiki/sources/users-bic-america-venturi-dv62si.md"],
+ "raw_saved": ["raw/measurements/asr-bic-america-venturi-dv62si.md","raw/manufacturer/mfr-bic-america-venturi-dv62si.md","raw/reviews-user/users-bic-america-venturi-dv62si-2026-10-11.md","raw/assets/asr-bic-america-venturi-dv62si-impedance.png","raw/assets/asr-bic-america-venturi-dv62si-thd.png"],
+ "index_line": "- [[bic-america-venturi-dv62si]] — 8 Ω, LW ±3.5 dB, f3 80 Hz, pref 2.4 (ASR); ~$199/pair",
+ "source_index_lines": ["- [[asr-bic-america-venturi-dv62si]] — ASR Klippel review, 2020-07-25 (Tier A)","- [[mfr-bic-america-venturi-dv62si]] — BIC America product page specs (Tier C)","- [[users-bic-america-venturi-dv62si]] — ASR thread, eBay, Newegg comments (Tier E, anecdotal)"],
+ "brand_notes": "Budget US brand; DV62si MSRP $275, street ~$160-230; 7-year parts warranty; some retailers mislabel it as powered. ASR criticised directivity and treble (asr-bic-america-venturi-dv62si); tweeter-rattle QC reports secondhand.",
+ "takeaways": ["Poor Klippel result: LW ±3.5 dB, hot highs, pref 2.4","f3 80 Hz vs claimed 43 Hz; sensitivity 87.0 vs claimed 90 dB","Graph-read min impedance ~5.8 Ω at 10 kHz (ASR annotation says 7 Ω): flagged below-iec","No professional reviews found","Cheap (~$199), plays loud for the price"],
+ "conflicts": ["Sensitivity 87.0 measured vs 90 claimed","f3 80 Hz vs 43 Hz claimed","Min impedance annotation 7 Ω vs graph read 5.8 Ω","Retailer prices $160-$347"],
+ "log_bullets": ["Created speakers/bic-america-venturi-dv62si and 3 source pages","Conflict: claimed vs measured sensitivity/bass; min impedance read ambiguity (flag below-iec set from graph)"]
+}

@@ -1,0 +1,22 @@
+{
+ "brand": "JBL",
+ "brand_slug": "jbl",
+ "slug": "jbl-l100-classic-mkii",
+ "model": "L100 Classic MKII",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance 4 ohm per JBL; also 12\" woofer, 643 mm tall cabinet (exceeds bookshelf limits)",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 4800,
+ "price_source": "https://www.hifiverse.io/components/loudspeakers/bookshelf/l100-classic-mkii (about $2,400 each)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-jbl-l100-classic-mkii.md"
+ ],
+ "evidence": [
+  "https://support.jbl.com/th/en/jblpremium/jblpremium-speakers/jblpremium-speakers-bookshelf/L100-MK2.html",
+  "https://www.hifiverse.io/components/loudspeakers/bookshelf/l100-classic-mkii",
+  "https://hifinews.com/content/jbl-l100-classic-loudspeaker-lab-report"
+ ]
+}

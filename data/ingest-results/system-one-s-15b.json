@@ -1,0 +1,22 @@
+{
+ "slug": "system-one-s-15b",
+ "brand": "System One",
+ "model": "S-15B",
+ "brand_slug": "system-one",
+ "verdict": "out-of-scope",
+ "reason": "Swedish budget brand (about USD 136/pair MSRP in SEK); closest maker/retail listing (SB-15B, Autogarsas.lt) rates it 4 ohm; no US listing or US-available product page found. Spinorama dataset spec_impedance is 4.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "unclear",
+ "price_usd_pair": null,
+ "price_source": "https://www.audiosciencereview.com/forum/index.php?threads/system-one-s15b-spinorama-measurements-cta-2034.58759/",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/asr-thread-system-one-s-15b.md",
+  "raw/manufacturer/retail-autogarsas-system-one-sb-15b.md"
+ ],
+ "evidence": [
+  "https://www.audiosciencereview.com/forum/index.php?threads/system-one-s15b-spinorama-measurements-cta-2034.58759/",
+  "https://www.autogarsas.lt/en/products/system-one-sb-15b-lentynines-garso-koloneles"
+ ]
+}

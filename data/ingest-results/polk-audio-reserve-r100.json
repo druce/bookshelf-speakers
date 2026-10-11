@@ -1,0 +1,54 @@
+{
+ "slug": "polk-audio-reserve-r100",
+ "brand": "Polk Audio",
+ "model": "Reserve R100",
+ "brand_slug": "polk-audio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 559,
+ "price_source": "https://sfcc-prod-polk.soundunited.com/en-us/product/home-speakers/bookshelf/reserve-r100/300028.html",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/polk-audio-reserve-r100.md",
+  "wiki/sources/eac-polk-audio-reserve-r100.md",
+  "wiki/sources/mfr-polk-audio-reserve-r100.md",
+  "wiki/sources/darksidevinyl-polk-audio-reserve-r100.md",
+  "wiki/sources/users-polk-audio-reserve-r100.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/eac-polk-audio-reserve-r100.md",
+  "raw/manufacturer/mfr-polk-audio-reserve-r100.md",
+  "raw/reviews-critic/darksidevinyl-polk-audio-reserve-r100.md",
+  "raw/reviews-user/users-polk-audio-reserve-r100-2026-10-11.md",
+  "raw/assets/eac-polk-audio-reserve-r100-impedance.png",
+  "raw/assets/eac-polk-audio-reserve-r100-thd86.png",
+  "raw/assets/eac-polk-audio-reserve-r100-thd96.png",
+  "raw/assets/eac-polk-audio-reserve-r100-compression.png"
+ ],
+ "index_line": "- [[polk-audio-reserve-r100]] \u2014 8 \u03a9-compatible (min 3.6 \u03a9), LW \u00b11.0 dB, f3 67 Hz, pref 5.5 (EAC)",
+ "source_index_lines": [
+  "- [[eac-polk-audio-reserve-r100]] \u2014 Erin's Audio Corner Klippel review, 2021-12-09 (Tier A)",
+  "- [[mfr-polk-audio-reserve-r100]] \u2014 Polk product page and specs (Tier C)",
+  "- [[darksidevinyl-polk-audio-reserve-r100]] \u2014 Darkside Vinyl review, undated (Tier D)",
+  "- [[users-polk-audio-reserve-r100]] \u2014 user reports clip, 5 thin reports (Tier E)"
+ ],
+ "brand_notes": "Reserve series sits below Legend; Pinnacle ring radiator + Turbine Cone drivers + X-Port. Polk rates 8/6/4 \u03a9 amp compatibility with explicit minimum (3.6 \u03a9 R100, 3.8 \u03a9 R200) and no nominal. Polk US page shows reserve prices discounted from list ($559 vs $699 R100). Sources: mfr-polk-audio-reserve-r100, mfr-polk-audio-reserve-r200. Signature Elite ES15 ($299, 8 \u03a9 compatible) has no Tier A/B data.",
+ "takeaways": [
+  "Klippel LW \u00b11.0 dB (excellent) but f3 67 Hz vs claimed 58 Hz",
+  "Measured min 3.6 \u03a9 @ ~250 Hz: flagged effectively-4ohm; Polk gives no nominal",
+  "THD ~8% at 96 dB near 110 Hz (graph-read), heavy LF compression at 102 dB",
+  "Ring tweeter beams above 5 kHz; Erin found treble prominent at high volume",
+  "Critic/user coverage very thin"
+ ],
+ "conflicts": [
+  "Claimed -3 dB 58 Hz vs measured f3 67 Hz",
+  "Nominal impedance not rated by maker; forum owner calls it 4 ohm"
+ ],
+ "log_bullets": [
+  "Created speakers/polk-audio-reserve-r100 and sources eac, mfr, darksidevinyl, users",
+  "Impedance flag effectively-4ohm (3.6 \u03a9); nominal entered as 8 under 8-ohm-compatible rule"
+ ]
+}

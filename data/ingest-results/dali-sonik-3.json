@@ -1,0 +1,23 @@
+{
+ "slug": "dali-sonik-3",
+ "brand": "Dali",
+ "model": "Sonik 3",
+ "brand_slug": "dali",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 6 ohm per maker, 7in woofer, 350 mm tall, sold new in US at ~$1,200/pair, launched 2026) but no Tier A/B measurement found (no ASR, Erin, Audioholics, Stereophile, SoundStage, Hi-Fi News for Sonik 3; Hi-Fi News lab report exists only for Sonik 9). Only informal nearfield measurements in The Ear review (not Tier B).",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 1200,
+ "price_source": "https://www.audioadvisor.com/products/dali-sonik-3-bookshelf-speakers-white-pair (backorder ~21 days); US launch/pricing via audioholics/darko Sonik announcements",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-dali-sonik-3.md"
+ ],
+ "evidence": [
+  "https://www.dali-speakers.com/en-us/products/sonik/sonik-3/",
+  "https://www.audioadvisor.com/products/dali-sonik-3-bookshelf-speakers-white-pair",
+  "https://the-ear.net/review-hardware/dali-sonik-3-small-speakers-play-loud/"
+ ],
+ "brand_notes": "Maker specs (mfr-dali-sonik-3 + retailer): 6 ohm, 87 dB 2.83V/1m claimed, 47 Hz-26 kHz +/-3 dB claimed, 7in Clarity Cone woofer, 29 mm soft dome, 2.3 kHz crossover, 350x200x306 mm, 6.5 kg each, port tuned 46 Hz. Sonik series replaces Oberon (launched Feb 2026; shipping N. America Apr 2026). Sonik 1 $900/pr, Sonik 3 $1,200/pr. Spektor line is moved to maker's Discontinued section."
+}

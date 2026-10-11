@@ -1,0 +1,20 @@
+{
+ "slug": "lixingpai-hifi-x5",
+ "brand": "理性派HiFi",
+ "model": "X5",
+ "brand_slug": "lixingpai-hifi",
+ "verdict": "out-of-scope",
+ "reason": "Per ASR, not sold outside China (no US channel); maker nominal impedance not found (ASR says only 'higher than typical 4 ohm'); desktop/near-field-oriented. Chinese-market only.",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "unclear",
+ "price_usd_pair": null,
+ "price_source": "ASR review: CNY 2280 (~USD 327) per pair in China",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/asr-lixingpai-hifi-x5.md"
+ ],
+ "evidence": [
+  "https://www.audiosciencereview.com/forum/index.php?threads/%E7%90%86%E6%80%A7%E6%B4%BEhifi-x5-speaker-review.42528/"
+ ]
+}

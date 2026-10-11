@@ -1,0 +1,65 @@
+{
+ "slug": "dynaudio-emit-20",
+ "brand": "Dynaudio",
+ "model": "Emit 20",
+ "brand_slug": "dynaudio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 1049,
+ "price_source": "https://www.audioadvisor.com/products/dynaudio-emit-20-bookshelf-speakers-walnut-pair",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/dynaudio-emit-20.md",
+  "wiki/sources/eac-dynaudio-emit-20.md",
+  "wiki/sources/mfr-dynaudio-emit-20.md",
+  "wiki/sources/whathifi-dynaudio-emit-20.md",
+  "wiki/sources/hifireport-dynaudio-emit-20.md",
+  "wiki/sources/audiograde-dynaudio-emit-20.md",
+  "wiki/sources/users-dynaudio-emit-20-2026-10-11.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-dynaudio-emit-20.md",
+  "raw/manufacturer/retail-audioadvisor-dynaudio-emit-20.md",
+  "raw/manufacturer/retail-wws-dynaudio-emit-20.md",
+  "raw/measurements/eac-dynaudio-emit-20.md",
+  "raw/reviews-critic/whathifi-dynaudio-emit-20.md",
+  "raw/reviews-critic/hifireport-dynaudio-emit-20.md",
+  "raw/reviews-critic/audiograde-dynaudio-emit-20.md",
+  "raw/reviews-user/avforums-dynaudio-emit-20.md",
+  "raw/reviews-user/users-dynaudio-emit-20-2026-10-11.md",
+  "raw/assets/eac-dynaudio-emit-20-impedance.png",
+  "raw/assets/eac-dynaudio-emit-20-thd86.png",
+  "raw/assets/eac-dynaudio-emit-20-thd96.png",
+  "raw/assets/eac-dynaudio-emit-20-compression.png"
+ ],
+ "index_line": "- [[dynaudio-emit-20]] \u2014 6 \u03a9 (min 5.5 \u03a9), sens 83.2 dB, LW \u00b12.6 dB, f3 52 Hz, pref 4.2 (EAC)",
+ "source_index_lines": [
+  "- [[eac-dynaudio-emit-20]] \u2014 Erin Klippel review, 2023-11-12 (Tier A)",
+  "- [[mfr-dynaudio-emit-20]] \u2014 Dynaudio spec page and Audio Advisor price (Tier C)",
+  "- [[whathifi-dynaudio-emit-20]] \u2014 What Hi-Fi? review, 2021-09-22 (Tier D)",
+  "- [[hifireport-dynaudio-emit-20]] \u2014 HiFiReport review (Tier D)",
+  "- [[audiograde-dynaudio-emit-20]] \u2014 Audiograde review, 2022-06-17 (Tier D)",
+  "- [[users-dynaudio-emit-20-2026-10-11]] \u2014 one AV Forums owner report (Tier E, anecdotal)"
+ ],
+ "brand_notes": "Emit series (2021+) is Dynaudio entry range: Emit 10 (14 cm, 6 \u03a9, $799), Emit 20 (18 cm MSP, 6 \u03a9, $1,049), shared 28 mm Cerotar tweeter with Hexis; 1st-order tweeter/2nd-order woofer crossover. Sensitivity claimed 86 dB for Emit 10 and 20. Emit 10 has no Tier A/B data for the current model (only older Emit M10). (mfr-dynaudio-emit-20, eac-dynaudio-emit-20)",
+ "takeaways": [
+  "Sensitivity computed 83.2 dB vs 86 dB claimed (2.8 dB shortfall).",
+  "LW \u00b12.6 dB, f3 52 Hz, wide directivity; woofer resonance near 700 Hz muffles mids (Erin).",
+  "Min impedance 5.5 \u03a9 (no flag for 6 \u03a9); EPDR 2.9 \u03a9.",
+  "THD ~0.8% at 86 dB, ~2.4% at 96 dB (graph-read); compression mild except 700 Hz resonance (-2.2 dB at 102 dB).",
+  "Critics positive (WHF Sound 4, Audiograde Best Value); only 1 user report, anecdotal."
+ ],
+ "conflicts": [
+  "Sensitivity 86 dB claimed vs 83.2 dB computed",
+  "Aim: Erin prefers off-axis; What Hi-Fi? found toe-in helped",
+  "Erin page date 2023-11-12 vs dataset 2023-11-22"
+ ],
+ "log_bullets": [
+  "Created speakers/dynaudio-emit-20 plus sources eac-, mfr-, whathifi-, hifireport-, audiograde-, users- for Emit 20",
+  "Conflict: sensitivity 2.8 dB under claim; 700 Hz woofer resonance noted",
+  "Price $1,049 list confirmed in stock at Audio Advisor; $787 WWS not verified"
+ ]
+}

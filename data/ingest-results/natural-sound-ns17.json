@@ -1,0 +1,25 @@
+{
+ "slug": "natural-sound-ns17",
+ "brand": "Natural Sound",
+ "model": "NS17",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance not stated by maker/distributor (Aoshida and HiFiGo listings give no spec text; ASR says only 'above 5 ohm' measured). Only a critic review (Soundnews, Tier D) says 6 ohm, which does not meet the Tier A/B rule. Also sold only via Chinese distributors (Aoshida Audio, $2,299.99 listed, apparently per pair incl. shipping per Soundnews), no authorized US retailer found. Revisit if maker spec appears: ASR Klippel data exists (LW +/-1.9 dB, f3 54 Hz, pref 4.87/6.75; ASR min impedance >5 ohm graph), 370x230x295 mm, 6.5in, 12 kg.",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": 2299,
+ "price_source": "https://aoshida-audio.com/products/natural-sound-ns17",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-natural-sound-ns17.md",
+  "raw/manufacturer/mfr-natural-sound-ns17-hifigo.md",
+  "raw/measurements/asr-natural-sound-ns17.md",
+  "raw/reviews-critic/soundnews-natural-sound-ns17.md",
+  "raw/reviews-user/asrthread-natural-sound-ns17-p2.md"
+ ],
+ "evidence": [
+  "https://aoshida-audio.com/products/natural-sound-ns17",
+  "https://soundnews.net/speakers/passive-speakers/natural-sound-ns17-loudspeaker-review-the-best-kept-secret/",
+  "https://www.audiosciencereview.com/forum/index.php?threads/natural-sound-ns17-review-speaker.25251/"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "wharfedale-diamond-12-1i",
+ "brand": "Wharfedale",
+ "model": "Diamond 12.1i",
+ "brand_slug": "wharfedale",
+ "verdict": "no-tier-ab",
+ "reason": "8 ohm compatible, min 4 ohm claimed. Tier-A data (ASR/EAC) is for predecessor Diamond 12.1 only, not the 12.1i; no measurements of the 12.1i found.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 499,
+ "price_source": "https://www.wharfedaleusa.com/collections/bookshelf-speakers/products/diamond-12-1i-bookshelf-speakers-pair-1",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-wharfedale-diamond-12-1i.md"
+ ],
+ "evidence": [
+  "https://www.wharfedaleusa.com/collections/bookshelf-speakers/products/diamond-12-1i-bookshelf-speakers-pair-1"
+ ]
+}

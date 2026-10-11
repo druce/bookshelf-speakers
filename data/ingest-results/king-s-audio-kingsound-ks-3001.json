@@ -1,0 +1,18 @@
+{
+ "slug": "king-s-audio-kingsound-ks-3001",
+ "brand": "King's Audio",
+ "model": "KingSound KS 3001",
+ "verdict": "out-of-scope",
+ "reason": "KingSound is a Hong Kong full-range electrostatic panel speaker maker (KS-3000 ~1.8 m tall); not a bookshelf, no 6/8 ohm monitor; model KS 3001 not found as a product",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "unclear",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://stereophile.com/content/kingsound-excels",
+  "https://stereophile.com/content/all-hail-kingsound"
+ ]
+}

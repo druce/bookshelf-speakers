@@ -1,0 +1,20 @@
+{
+ "slug": "theory-audio-sb25",
+ "brand": "Theory Audio",
+ "model": "SB25",
+ "brand_slug": "theory-audio",
+ "verdict": "out-of-scope",
+ "reason": "Rated 4 ohm nominal; on-wall/surface-mount 21.5 in tall dual-5in line-array unit (not a standmount) for use with Theory's controller/amp",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 2780,
+ "price_source": "https://www.worldwidestereo.com/products/theory-audio-design-sb25-high-output-surface-mount-loudspeaker-each ($1,390 each)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-theory-audio-sb25.md"
+ ],
+ "evidence": [
+  "https://www.worldwidestereo.com/products/theory-audio-design-sb25-high-output-surface-mount-loudspeaker-each"
+ ]
+}

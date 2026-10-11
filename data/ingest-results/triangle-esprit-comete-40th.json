@@ -1,0 +1,50 @@
+{
+ "slug": "triangle-esprit-comete-40th",
+ "brand": "Triangle",
+ "model": "Esprit Comete 40th",
+ "brand_slug": "triangle",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1900,
+ "price_source": "https://trianglehifi.us/products/enceinte-bibliotheque-hi-fi-anniversaire-40th-comete-paire (sale; regular $2,750)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/triangle-esprit-comete-40th.md",
+  "wiki/sources/soundstage-nrc-triangle-esprit-comete-40th.md",
+  "wiki/sources/soundstage-triangle-esprit-comete-40th.md",
+  "wiki/sources/mfr-triangle-esprit-comete-40th.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-triangle-esprit-comete-40th.md",
+  "raw/measurements/soundstage-nrc-triangle-esprit-comete-40th.md",
+  "raw/reviews-critic/soundstage-triangle-esprit-comete-40th.md",
+  "raw/assets/soundstage-nrc-triangle-esprit-comete-40th-*.png (7)"
+ ],
+ "index_line": "- [[triangle-esprit-comete-40th]] \u2014 8 \u03a9 rated, min ~3.6 \u03a9, 88.0 dB, LW ~\u00b13.3 dB, f3 ~72 Hz (SoundStage/NRC, graph-read)",
+ "source_index_lines": [
+  "- [[soundstage-nrc-triangle-esprit-comete-40th]] \u2014 SoundStage/NRC anechoic measurements, 2021-09-15 (Tier A)",
+  "- [[soundstage-triangle-esprit-comete-40th]] \u2014 SoundStage! review by Diego Estan, 2021-09-15 (Tier D)",
+  "- [[mfr-triangle-esprit-comete-40th]] \u2014 Triangle US product page (Tier C)"
+ ],
+ "brand_notes": "Triangle (France). Borea range made in China; 40th Anniversary models made in France (soundstage-triangle-esprit-comete-40th). Triangle US sells direct at trianglehifi.us with deep sale discounts (Comete 40th $1,900 vs $2,750; Theta $1,450/unit vs $2,400). Horn-loaded tweeters, cellulose paper cones; claims 90 dB sensitivity but NRC measured 88.0 dB for Comete 40th and ~3.6 \u03a9 min vs 4.2 claimed. Maker says speakers 'never fall below 3 \u03a9'. Theta claims 3.4 \u03a9 min. Borea BR03 had bright treble per SoundStage. Shipping damage to cabinets reported in one Ez review on maker page (anecdote).",
+ "takeaways": [
+  "NRC anechoic: 88.0 dB sensitivity (claimed 90), LW about \u00b13.3 dB with dip near 4 kHz (graph-read)",
+  "Bass drops steeply below ~90 Hz anechoic; f3 ~72 Hz graph-read vs 49 Hz claimed; in-room -3 dB 38 Hz per reviewer",
+  "Impedance min ~3.6 \u03a9 at ~200 Hz (graph-read) so flagged effectively-4ohm; claimed 4.2 \u03a9",
+  "Estan: rich smooth mids, neutral treble, light bass",
+  "Other four Triangle packets have no Tier A/B data"
+ ],
+ "conflicts": [
+  "Sensitivity 88.0 measured vs 90 claimed",
+  "Min impedance ~3.6 vs 4.2 claimed",
+  "Crossover 3.8 kHz (review) vs garbled maker text"
+ ],
+ "log_bullets": [
+  "Created speakers/triangle-esprit-comete-40th, sources/soundstage-nrc-..., soundstage-..., mfr-triangle-esprit-comete-40th",
+  "Conflict: sensitivity 88.0 vs 90 claimed; min impedance ~3.6 vs 4.2 claimed",
+  "Triangle BR04, Comete Ez, Solstice 3, Signature Theta: no-tier-ab (mfr raw saved only)"
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "slug": "cambridge-audio-aeromax-2", "brand": "Cambridge Audio", "model": "Aeromax 2", "brand_slug": "cambridge-audio",
+ "verdict": "discontinued", "reason": "Not listed on Cambridge Audio's US speakers page (fetched 2026-10-11: shows EVO, L/R, Minx, in-ceiling, outdoor; Aeromax absent); B&H listing reported 'No Longer Available' / discontinued in search result (B&H page itself returned 403), Technology Factory lists it under Discontinued. Impedance not verified.", "successor": null,
+ "nominal_impedance_ohm": null, "status": "discontinued", "price_usd_pair": null, "price_source": "https://www.bhphotovideo.com/c/product/1422359-REG/cambridge_audio_c10728_aeromax_2_bookshelf_speakers.html",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": ["https://www.cambridgeaudio.com/usa/en/products/speakers","https://www.bhphotovideo.com/c/product/1422359-REG/cambridge_audio_c10728_aeromax_2_bookshelf_speakers.html","https://www.technologyfactory.eu/index.php/en/cambridge-audio/discontinued/cambridge-audio-aeromax-2/a-15756-10001389"]
+}

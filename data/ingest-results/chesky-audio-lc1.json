@@ -1,0 +1,60 @@
+{
+ "slug": "chesky-audio-lc1",
+ "brand": "Chesky Audio",
+ "model": "LC1",
+ "brand_slug": "chesky-audio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 996,
+ "price_source": "https://cheskyaudio.com/products/lc1",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/chesky-audio-lc1.md",
+  "wiki/sources/eac-chesky-audio-lc1.md",
+  "wiki/sources/mfr-chesky-audio-lc1.md",
+  "wiki/sources/futureaudiophile-chesky-audio-lc1.md",
+  "wiki/sources/enjoythemusic-chesky-audio-lc1.md",
+  "wiki/sources/users-chesky-audio-lc1.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/eac-chesky-audio-lc1.md",
+  "raw/manufacturer/mfr-chesky-audio-lc1.md",
+  "raw/reviews-critic/futureaudiophile-chesky-audio-lc1.md",
+  "raw/reviews-critic/enjoythemusic-chesky-audio-lc1.md",
+  "raw/reviews-user/users-chesky-audio-lc1-2026-10-11.md",
+  "raw/assets/eac-chesky-audio-lc1-impedance.png",
+  "raw/assets/eac-chesky-audio-lc1-thd86.png",
+  "raw/assets/eac-chesky-audio-lc1-thd96.png",
+  "raw/assets/eac-chesky-audio-lc1-compression.png"
+ ],
+ "index_line": "- [[chesky-audio-lc1]] \u2014 8 \u03a9, 3D-printed, LW \u00b12.7 dB, f3 70 Hz, 81 dB sens., pref 3.2 (EAC)",
+ "source_index_lines": [
+  "- [[eac-chesky-audio-lc1]] \u2014 Erin's Audio Corner Klippel review, 2025-07-08 (Tier A)",
+  "- [[mfr-chesky-audio-lc1]] \u2014 Chesky LC1 product page (Tier C)",
+  "- [[futureaudiophile-chesky-audio-lc1]] \u2014 Future Audiophile review (Tier D)",
+  "- [[enjoythemusic-chesky-audio-lc1]] \u2014 Enjoy the Music review, 2025-07 (Tier D)",
+  "- [[users-chesky-audio-lc1]] \u2014 user report search; none independent (Tier E)"
+ ],
+ "brand_notes": "Young direct-sale brand (founder Lucca Chesky, son of David Chesky); 3D-printed cabinets, hand-built to order, 1-year warranty, 4-6 week quoted lead time; LC1 $498 each, LC2 is the larger sibling. Erin measured L/R sample mismatch (eac-chesky-audio-lc1).",
+ "takeaways": [
+  "Erin Klippel: LW \u00b12.7 dB with 300-700 Hz dip, f3 70 Hz, major DI discontinuity, pref 3.2/5.9.",
+  "Measured sensitivity 81.2 dB vs 84 dB claimed (86 dB quoted elsewhere).",
+  "Easy load: min 8.4 \u03a9, EPDR 5.4 \u03a9.",
+  "THD ~1.3% at 86 dB, ~3.5% at 96 dB (graph-read); max SPL ~95 dB.",
+  "Critics (FA, ETM) very positive; Erin negative; sample mismatch noted.",
+  "No independent user reports found."
+ ],
+ "conflicts": [
+  "Bass extension: ETM/FA praise vs Erin f3 70 Hz",
+  "Sensitivity 81.2 measured vs 84/86 claimed",
+  "Pair-to-pair sample mismatch in Erin's samples"
+ ],
+ "log_bullets": [
+  "Created speakers/chesky-audio-lc1, sources/eac-, mfr-, futureaudiophile-, enjoythemusic-, users-chesky-audio-lc1",
+  "Conflict: measured bass/tonal balance vs enthusiastic reviews; sensitivity 81.2 vs 84 claimed",
+  "No independent user reports found (Reddit blocked)"
+ ]
+}

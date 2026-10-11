@@ -1,0 +1,22 @@
+{
+ "slug": "micca-rb42",
+ "brand": "Micca",
+ "model": "RB42",
+ "brand_slug": "micca",
+ "verdict": "out-of-scope",
+ "reason": "Maker spec states Impedance 4-8 Ohms (amazon-style listings say 8 ohm nominal, but maker page does not); $199.99/pair on miccatron.com.",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": 199.99,
+ "price_source": "https://www.miccatron.com/shop/product/micca-rb42-4-inch-bookshelf-speaker-pair/",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-micca-rb42.md",
+  "raw/manufacturer/mfr-micca-rb42-main.md"
+ ],
+ "evidence": [
+  "https://www.miccatron.com/micca-rb42-reference-bookshelf-speakers/",
+  "https://www.miccatron.com/shop/product/micca-rb42-4-inch-bookshelf-speaker-pair/"
+ ]
+}

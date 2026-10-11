@@ -1,0 +1,21 @@
+{
+ "slug": "elac-concentro-s503-2",
+ "brand": "Elac",
+ "model": "Concentro S503.2",
+ "brand_slug": "elac",
+ "verdict": "out-of-scope",
+ "reason": "Manufacturer factsheet states nominal impedance 4 ohm (suitable amplifiers 4-8 ohm; minimum 4.8 ohm at 120 Hz); also a 3-way design",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://elac.com/cbs503-2 (no price shown; unverified hint 7398 TMR)",
+ "tier_ab_available": null,
+ "raw_saved": [
+  "raw/manufacturer/mfr-elac-concentro-s503-2.md"
+ ],
+ "evidence": [
+  "https://elac.com/cbs503-2",
+  "https://elac.com/download/cbs503-2/concentro-s-503-factsheet-de_1.0.0.pdf"
+ ]
+}

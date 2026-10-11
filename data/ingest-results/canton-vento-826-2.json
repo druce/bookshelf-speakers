@@ -1,0 +1,19 @@
+{
+ "slug": "canton-vento-826-2",
+ "brand": "Canton",
+ "model": "Vento 826.2",
+ "brand_slug": "canton",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance 4 ohm per German retailer spec listing (maker page not retrievable: canton.de URLs 404, retailer 403); ASR spinorama lists spec 4 ohm. No source gives 6/8 ohm.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "unclear",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.guenstiger.de/Produkt/Canton/Vento_826_2.html",
+  "https://www.audiosciencereview.com/forum/index.php?threads/canton-vento-826-2-speaker-review.40475/"
+ ]
+}

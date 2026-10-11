@@ -1,0 +1,57 @@
+{
+ "slug": "neumi-bs5",
+ "brand": "Neumi",
+ "model": "BS5",
+ "brand_slug": "neumi",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.amazon.com/BS5-Passive-Bookshelf-Speakers-Tweeter/dp/B07YZDS9LF (first-party 'Currently unavailable'; Renewed pair $119.99; third-party new ~$240-265 unverified)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/neumi-bs5.md",
+  "wiki/sources/eac-neumi-bs5.md",
+  "wiki/sources/eac-neumi-bs5-v1.md",
+  "wiki/sources/mfr-neumi-bs5.md",
+  "wiki/sources/users-neumi-bs5.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-neumi-bs5.md",
+  "raw/measurements/eac-neumi-bs5.md",
+  "raw/measurements/eac-neumi-bs5-v1.md",
+  "raw/reviews-user/asrthread-neumi-bs5.md",
+  "raw/reviews-user/users-neumi-bs5-2026-10-11.md",
+  "raw/assets/eac-neumi-bs5-impedance.png",
+  "raw/assets/eac-neumi-bs5-thd86.png",
+  "raw/assets/eac-neumi-bs5-thd96.png",
+  "raw/assets/eac-neumi-bs5-compression.png"
+ ],
+ "index_line": "- [[neumi-bs5]] \u2014 6 \u03a9, LW \u00b13.5 dB, f3 68 Hz, 82.5 dB, pref 3.6 (EAC); price uncertain, Amazon unavailable",
+ "source_index_lines": [
+  "- [[eac-neumi-bs5]] \u2014 EAC Klippel NFS retest, 2021-12-12 (Tier A)",
+  "- [[eac-neumi-bs5-v1]] \u2014 EAC original review with max-SPL test, 2020-06-20 (Tier A)",
+  "- [[mfr-neumi-bs5]] \u2014 Neumi/Amazon specs and status (Tier C)",
+  "- [[users-neumi-bs5]] \u2014 Amazon theme tallies, ASR thread (Tier E)"
+ ],
+ "brand_notes": "Neumi (Neumitech): Amazon-centric budget brand; BS5 (6 ohm, 5in, front ports, ~$90-140 historically) and Silk 4 (rated 8 ohm, 4in, ~$190-200). Both measured by Erin with port-related midrange resonances, low sensitivity (82.2-82.5 dB vs 85-86 claimed) and impedance minima below IEC floor. Maker site links purchases to Amazon; BS5 first-party Amazon listing unavailable 2026-10-11. Sources: eac-neumi-bs5, eac-neumi-silk-4, mfr-neumi-bs5.",
+ "takeaways": [
+  "Klippel LW deviation \u00b13.5 dB, f3 68 Hz, sensitivity 82.5 dB (claim 86 dB/1W at 6 ohm = ~87.3 dB at 2.83 V): ~4.8 dB below claim",
+  "Front-port radiation causes nulls near 800 Hz and 1.6 kHz; stuffing ports improves LW to \u00b12.3 dB and pref 4.6 but f3 90 Hz",
+  "Min impedance ~4.1 \u03a9 (graph-read), below-iec; THD ~2.1% at 86 dB, ~3.2% at 96 dB (graph-read)",
+  "Max SPL ~93 dB @1 m with 80 Hz HPF, ~82 dB full range (EAC 2020 multitone)",
+  "Amazon tallies very positive on value; no outside critic reviews; availability/price uncertain (price left null)"
+ ],
+ "conflicts": [
+  "Sensitivity 82.5 (NFS) vs 84.2 (2020) vs claim 87.3 at 2.83 V",
+  "Min impedance 4.1 (2021 graph) vs 4.6 (2020 text)",
+  "Price/status: Amazon unavailable vs maker listing"
+ ],
+ "log_bullets": [
+  "Created speakers/neumi-bs5, sources/eac-neumi-bs5, eac-neumi-bs5-v1, mfr-neumi-bs5, users-neumi-bs5",
+  "Conflict: sensitivity ~4.8 dB below claim; min impedance 4.1 \u03a9 flagged below-iec",
+  "Price null: Amazon first-party unavailable, only renewed/third-party listings"
+ ]
+}

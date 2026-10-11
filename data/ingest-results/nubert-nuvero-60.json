@@ -1,0 +1,21 @@
+{
+ "slug": "nubert-nuvero-60",
+ "brand": "Nubert",
+ "model": "NuVero 60",
+ "brand_slug": "nubert",
+ "verdict": "out-of-scope",
+ "reason": "4 \u03a9 nominal (AreaDVD, Rehifi listing); 3-way floorstanding-style cabinet ~470 mm tall (>457 mm); sold direct from Germany (EUR 825), no US listing found; new nuVero generation announced 2025.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "unclear",
+ "price_usd_pair": null,
+ "price_source": "https://nubert.de/en/nuvero-60/a039912 (EUR 825, Germany)",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://nubert.de/en/nuvero-60/a039912",
+  "https://www.rehifi.se/product/nubert-nuvero-60",
+  "https://www.areadvd.de/news/nubert-enthuellt-die-naechste-generation-der-nuvero-serie/",
+  "https://www.spinorama.org/speakers/Nubert%20NuVero%2060/ASR/index_asr.html"
+ ]
+}

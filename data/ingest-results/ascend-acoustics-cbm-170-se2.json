@@ -1,0 +1,47 @@
+{
+ "brand": "Ascend Acoustics",
+ "brand_slug": "ascend-acoustics",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "tier_ab_available": true,
+ "slug": "ascend-acoustics-cbm-170-se2",
+ "model": "CBM-170 SE2",
+ "price_usd_pair": 468,
+ "price_source": "https://www.ascendacoustics.com/products/cbm-170se2-bookshelf-monitor-pair",
+ "pages_created": [
+  "wiki/speakers/ascend-acoustics-cbm-170-se2.md",
+  "wiki/sources/asr-ascend-acoustics-cbm-170-se2.md",
+  "wiki/sources/mfr-ascend-acoustics-cbm-170-se2.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-ascend-acoustics-cbm-170-se2.md",
+  "raw/measurements/asr-ascend-acoustics-cbm-170-se2.md",
+  "raw/assets/asr-ascend-acoustics-cbm-170-se2-impedance.png",
+  "raw/assets/asr-ascend-acoustics-cbm-170-se2-thd-pct.png",
+  "raw/assets/asr-ascend-acoustics-cbm-170-se2-thd.png"
+ ],
+ "index_line": "- [[ascend-acoustics-cbm-170-se2]] \u2014 8 \u03a9 rated but 3.4 \u03a9 min (effectively-4ohm), LW \u00b11.8 dB, f3 62 Hz, pref 5.7 (ASR)",
+ "source_index_lines": [
+  "- [[asr-ascend-acoustics-cbm-170-se2]] \u2014 ASR Klippel review, 2026-08-05 (Tier A)",
+  "- [[mfr-ascend-acoustics-cbm-170-se2]] \u2014 Ascend product page/specs (Tier C)"
+ ],
+ "brand_notes": "US maker (Orange County, CA), sells direct, hand assembled, 30-day guarantee, 7-yr warranty on Sierra line. Bought a Klippel NFS in 2021 and now tunes designs 'NFS optimized' (V2 generation: CBM-170SE2, Sierra-1 V2, Sierra-LX, Sierra-2EX V2, Luna V2). Earlier Ascend speaker measured poorly at ASR (Amir, per asr-ascend-acoustics-sierra-1-v2). Maker publishes Klippel data; in-room sensitivity claims run 4-6 dB above anechoic measurements. Original Sierra-2 and Luna Mini-Monitor are discontinued (replaced by 2EX V2 and Luna V2).",
+ "takeaways": [
+  "ASR Klippel: LW \u00b11.8 dB, f3 62 Hz, sensitivity 86.5 dB, very wide horizontal dispersion (144 deg).",
+  "Impedance minimum 3.4 \u03a9 near 218 Hz despite 8 \u03a9 rating: flagged effectively-4ohm.",
+  "THD graph-read about 1.0 % at 86 dB and about 2 % at 96 dB above 100 Hz.",
+  "Amir strongly recommends it; $468/pair.",
+  "No user reports or other critic reviews found."
+ ],
+ "conflicts": [
+  "Impedance 8 \u03a9 rated vs ~3.4 \u03a9 measured",
+  "Maker 91 dB in-room / 87 dB anechoic vs 86.5 dB computed"
+ ],
+ "log_bullets": [
+  "Created speakers/ascend-acoustics-cbm-170-se2, sources/asr-ascend-acoustics-cbm-170-se2, sources/mfr-ascend-acoustics-cbm-170-se2",
+  "Flag: effectively-4ohm (3.4 \u03a9 min vs 8 \u03a9 rating)"
+ ]
+}

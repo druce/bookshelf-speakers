@@ -1,0 +1,61 @@
+{
+ "slug": "q-acoustics-3020i",
+ "brand": "Q Acoustics",
+ "model": "3020i",
+ "brand_slug": "q-acoustics",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": "q-acoustics-3020c (still listed alongside on maker site)",
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 349.96,
+ "price_source": "https://www.qacoustics.com/collections/bookshelf-speakers/products/3020i-bookshelf-speaker-pair",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/q-acoustics-3020i.md",
+  "wiki/sources/asr-q-acoustics-3020i.md",
+  "wiki/sources/nrc-q-acoustics-3020i.md",
+  "wiki/sources/mfr-q-acoustics-3020i.md",
+  "wiki/sources/whathifi-q-acoustics-3020i.md",
+  "wiki/sources/soundstage-q-acoustics-3020i.md",
+  "wiki/sources/users-q-acoustics-3020i.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-q-acoustics-3020i.md",
+  "raw/measurements/asr-q-acoustics-3020i.md",
+  "raw/measurements/nrc-q-acoustics-3020i.md",
+  "raw/reviews-critic/whathifi-q-acoustics-3020i.md",
+  "raw/reviews-critic/soundstage-q-acoustics-3020i.md",
+  "raw/reviews-user/users-q-acoustics-3020i-2026-10-11.md",
+  "raw/assets/asr-q-acoustics-3020i-impedance.png",
+  "raw/assets/asr-q-acoustics-3020i-thd.png",
+  "raw/assets/nrc-q-acoustics-3020i-impedance.png",
+  "raw/assets/nrc-q-acoustics-3020i-lw.png",
+  "raw/assets/nrc-q-acoustics-3020i-thd.png"
+ ],
+ "index_line": "- [[q-acoustics-3020i]] \u2014 6 \u03a9, 5\" ported, LW \u00b12.0 dB, f3 77 Hz, min 3.9 \u03a9 (effectively-4ohm), pref 3.9 (ASR)",
+ "source_index_lines": [
+  "- [[asr-q-acoustics-3020i]] \u2014 ASR Klippel review, 2020-07-06 (Tier A)",
+  "- [[nrc-q-acoustics-3020i]] \u2014 SoundStage!/NRC anechoic measurements, 2019-06-15 (Tier A)",
+  "- [[mfr-q-acoustics-3020i]] \u2014 Q Acoustics US product page (Tier C)",
+  "- [[whathifi-q-acoustics-3020i]] \u2014 What Hi-Fi? review, 2021 (Tier D)",
+  "- [[soundstage-q-acoustics-3020i]] \u2014 SoundStage! Hi-Fi review, 2019 (Tier D)",
+  "- [[users-q-acoustics-3020i]] \u2014 ASR thread replies, anecdotal (Tier E)"
+ ],
+ "brand_notes": "Q Acoustics 3000i-series standmounts (3020i, 3030i) remain on the maker's US site at $349.96 / $499.96 per pair though What Hi-Fi? says 3000c replaced them (3020c launched). 5000 series (5010 $999, 5020 $1,199 pair) uses C3 curved-cone driver and sealed isolated tweeter; Erin's 5020 data show a treble-heavy response and 3.4 ohm minimum. All models rated 6 ohm with claimed minimums 3.3-4 ohm. Maker claims 88 dB for 3000i vs measured 85.6-86.1 dB (nrc-q-acoustics-3020i, asr-q-acoustics-3020i); 5020 claim 87.9 vs 86.7 measured (eac-q-acoustics-5020).",
+ "takeaways": [
+  "Klippel LW \u00b12.0 dB (good) but 3.5 dB ER dip, bright top end, f3 77 Hz",
+  "Min impedance 3.9 \u03a9 (ASR) / ~3.5 \u03a9 (NRC, graph) vs 6 \u03a9 rating: flagged effectively-4ohm",
+  "Sensitivity 86.1/85.6 dB vs claimed 88 dB",
+  "Woofer THD ~3.3% at 96 dB near 100 Hz, much worse below 60 Hz",
+  "Critics warm and good value; ASR bright, not recommended without EQ"
+ ],
+ "conflicts": [
+  "Sensitivity claimed 88 vs 86.1/85.6 measured",
+  "Warm (What Hi-Fi?) vs bright (ASR) tonal description"
+ ],
+ "log_bullets": [
+  "Created speakers/q-acoustics-3020i and sources asr-, nrc-, mfr-, whathifi-, soundstage-, users-q-acoustics-3020i",
+  "Conflict: claimed 88 dB vs 86.1 (ASR) / 85.6 (NRC); impedance flag effectively-4ohm"
+ ]
+}

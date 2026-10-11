@@ -1,0 +1,21 @@
+{
+ "slug": "verdant-audio-bambusa-mg-1",
+ "brand": "Verdant Audio",
+ "model": "Bambusa MG 1",
+ "brand_slug": "verdant-audio",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance not stated by maker in any source found, and no current maker or US retailer listing found (verdantaudio.com is an NJ dealer whose Verdant Audio speakers collection shows 0 products; only 2019-2021 reviews and closed used listings). ASR measured it but cites no rating.",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "unclear",
+ "price_usd_pair": null,
+ "price_source": "https://verdantaudio.com/collections/verdant-audio-speakers",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/asr-verdant-audio-bambusa-mg-1.md"
+ ],
+ "evidence": [
+  "https://verdantaudio.com/collections/verdant-audio-speakers",
+  "https://www.audiosciencereview.com/forum/index.php?threads/verdant-audio-bambusa-mg-1-speaker-review.12385/"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "spendor-classic-4-5",
+ "brand": "Spendor",
+ "model": "Classic 4/5",
+ "brand_slug": "spendor",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (8 ohm nominal, min 6.6, sealed, 15 cm woofer, 308 mm tall, current, $2,999/pair at Upscale Audio) but no Tier A/B measurement found (no Hi-Fi News lab report, Stereophile, ASR or Erin).",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 2999,
+ "price_source": "https://upscaleaudio.com/products/spendor-classic-4-5-bookshelf-loudspeakers-pair",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-spendor-classic-4-5.md",
+  "raw/manufacturer/retail-upscale-spendor-classic-4-5.md",
+  "raw/reviews-critic/whathifi-spendor-classic-4-5.md"
+ ],
+ "evidence": [
+  "https://spendoraudio.com/classic-loudspeakers/",
+  "https://spendoraudio.com/wp-content/uploads/Spendor-Classic-Product-Data-Sheets_4-5_2023.pdf",
+  "https://upscaleaudio.com/products/spendor-classic-4-5-bookshelf-loudspeakers-pair",
+  "https://www.hifichoice.com/content/spendor-classic-45"
+ ],
+ "notes": "Maker: 84 dB/1 W, 8 ohm (min 6.6), 4.2 kHz crossover, 5 kg, 308x188x165 mm, sealed. What Hi-Fi? review saved raw (not summarised)."
+}

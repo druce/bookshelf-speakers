@@ -1,0 +1,22 @@
+{
+ "slug": "harbeth-p3esr-xd",
+ "brand": "Harbeth",
+ "model": "P3ESR XD",
+ "brand_slug": "harbeth",
+ "verdict": "no-tier-ab",
+ "reason": "In scope on maker page (6 ohm nominal, 83 dB/2.83V/1m, 306x190x184 mm, 6.1 kg, 110 mm driver; harbeth.co.uk lists it plus a separate P3ESR XD2 page, replacement relationship not stated). No measurement of the XD exists; Stereophile measured only the earlier P3ESR (different generation); Stereophile Gramophone Dreams #86 on XD is a listening piece. US price ~2,990-3,290 per pair (Acoustic Sounds per hint; Stereophile text $3,290) unverified.",
+ "successor": "P3ESR XD2 (possible)",
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 2990,
+ "price_source": "unverified hint: Acoustic Sounds; Stereophile GD#86 cites $3,290",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-harbeth-p3esr-xd.md"
+ ],
+ "evidence": [
+  "https://www.harbeth.co.uk/p3esr-xd/",
+  "https://www.harbeth.co.uk/p3esr-xd2/",
+  "https://stereophile.com/content/gramophone-dreams-86-harbeth-p3esr-xd-loudspeaker-and-nelson-subwooferstand"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "atc-scm20sl-mk2",
+ "brand": "ATC",
+ "model": "SCM20SL MK2",
+ "brand_slug": "atc",
+ "verdict": "discontinued",
+ "reason": "\"SCM20SL MK2\" is the former name of the passive SCM20; ATC now lists it as SCM20PSL (same specs: 8 Ω/5.5 Ω min, 6\" sealed). The spinorama dataset (audiorekr, quality \"low\", valid only above ~200 Hz, computed sensitivity 69 dB) is not usable as Tier B and no raw data is saved locally; review page text could not be fetched.",
+ "successor": "atc-scm20psl",
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": false,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.spinorama.org/speakers/ATC%20SCM20SL%20MK2/Misc/index_misc-audiorekr.html",
+  "https://atc.audio/hi-fi/loudspeakers/classic-series/scm20/"
+ ],
+ "notes": "Naming equivalence inferred from identical specs (8 Ω/5.5 Ω, 108 dB, 440x239 mm), not stated by maker."
+}

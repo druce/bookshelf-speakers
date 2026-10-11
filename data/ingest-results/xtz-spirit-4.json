@@ -1,0 +1,21 @@
+{
+ "slug": "xtz-spirit-4",
+ "brand": "XTZ",
+ "model": "Spirit 4",
+ "brand_slug": "xtz",
+ "verdict": "out-of-scope",
+ "reason": "Maker rates nominal impedance 4-8 Ω (range, effectively 4 Ω class); no US price found",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-xtz-spirit-4.md"
+ ],
+ "evidence": [
+  "https://xtzsound.eu/en/p/yj86fztg",
+  "https://www.vplak.com/xtz-spirit-4-bookshelf-speaker-p12497"
+ ]
+}

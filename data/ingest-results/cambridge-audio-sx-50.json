@@ -1,0 +1,8 @@
+{
+ "slug": "cambridge-audio-sx-50", "brand": "Cambridge Audio", "model": "SX-50", "brand_slug": "cambridge-audio",
+ "verdict": "no-tier-ab", "reason": "In scope (passive, '8 Ohms compatible' with no explicit nominal and not rated 4 ohm, 5.25\" woofer, 225 mm tall, InStock $229 on maker US page) but no Tier A/B measurement found (searched ASR, Erin, Stereophile, Audioholics, Hi-Fi World/Hi-Fi News via web search; only spec aggregators and qualitative reviews).", "successor": null,
+ "nominal_impedance_ohm": 8, "status": "current", "price_usd_pair": 229, "price_source": "https://www.cambridgeaudio.com/usa/en/products/speakers/sx/sx-50",
+ "tier_ab_available": false,
+ "raw_saved": ["raw/manufacturer/mfr-cambridge-audio-sx-50.md"],
+ "evidence": ["https://www.cambridgeaudio.com/usa/en/products/speakers/sx/sx-50","https://www.whathifi.com/cambridge-audio/sx-50/review","https://www.hifispecs.com/cambridge-audio-sx-50-review/"]
+}

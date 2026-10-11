@@ -1,0 +1,22 @@
+{
+ "slug": "dali-sonik-1",
+ "brand": "Dali",
+ "model": "Sonik 1",
+ "brand_slug": "dali",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (6 ohm, 274 mm, 5.25in woofer, $900/pair Audio Advisor) but no Tier A/B measurement found (no ASR, Erin, Audioholics, Stereophile, SoundStage); only What Hi-Fi?, TechRadar, TurboVS etc. listening/spec reviews.",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 900,
+ "price_source": "https://www.audioadvisor.com/products/dali-sonik-1-bookshelf-loudspeaker",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-dali-sonik-1.md"
+ ],
+ "evidence": [
+  "https://www.audioadvisor.com/products/dali-sonik-1-bookshelf-loudspeaker",
+  "https://www.whathifi.com/speakers/hi-fi-speakers/dali-sonik-1"
+ ],
+ "notes": "Claimed: 51 Hz-26 kHz +/-3 dB, 86 dB 2.83 V/1 m, 6 ohm, crossover 2.8 kHz, 274x162x231 mm, 4.1 kg, rear port tuned 51 Hz, 29 mm soft dome."
+}

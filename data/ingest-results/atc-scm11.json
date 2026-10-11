@@ -1,0 +1,42 @@
+{
+ "slug": "atc-scm11",
+ "brand": "ATC",
+ "model": "SCM11",
+ "brand_slug": "atc",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 8 ohm nominal per ATC, 6in sealed, 381 mm, sold new in US; USA Tube Audio $2,699/pair). But the only Tier B measurement found (Stereophile, John Atkinson, 2009-12-14) is of the superseded first-generation SCM11; the 2015 v2 (new tweeter, new cabinet and crossover, 2.2 kHz vs ~2.8 kHz measured) has no independent measurement found. Pages not created.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 2699,
+ "price_source": "https://www.usatubeaudio.com/product/speakers/atc-scm11/",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-atc-scm11.md",
+  "raw/manufacturer/retailer-atc-scm11.md",
+  "raw/measurements/stereophile-atc-scm11.md",
+  "raw/reviews-critic/stereophile-review-atc-scm11.md",
+  "raw/reviews-critic/stereophile-review-p2-atc-scm11.md",
+  "raw/reviews-critic/stereonet-atc-scm11.md",
+  "raw/reviews-critic/whathifi-atc-scm11.md"
+ ],
+ "evidence": [
+  "https://atc.audio/hi-fi/loudspeakers/entry-series/scm11/",
+  "https://www.usatubeaudio.com/product/speakers/atc-scm11/",
+  "https://stereophile.com/content/atc-scm-11-loudspeaker-measurements",
+  "https://www.whathifi.com/atc/scm-11-2013/review",
+  "https://stereonet.com/reviews/atc-scm11-standmount-loudspeaker-review"
+ ],
+ "v1_stereophile_values": "v1 only: sensitivity ~82 dB(B)/2.83V/m est. vs 85 claimed; impedance >8 ohm most of band, 6 ohm dip 100-300 Hz, 4.8 ohm mid-treble, 5.5 ohm/-42 deg at 3.3 kHz; woofer nearfield -6 dB at 53 Hz (sealed); two sidewall resonances 500-600 Hz; vertical suckout above tweeter axis at crossover; 24 dB/oct tweeter, 12 dB/oct woofer acoustic slopes",
+ "mfr_specs": "6in CLD woofer, 1in soft dome, sealed, 8 ohm nominal, 85 dB @1W/1m claimed (~84.0 dB 2.83V if 8 ohm... treat as 85 claimed), FR 56 Hz-22 kHz (-6 dB), xo 2.2 kHz, 381x232x236 mm, 10.9 kg each",
+ "takeaways": [
+  "Stereophile measured v1 only; v2 (2015) redesigned",
+  "What Hi-Fi? 2015 awards (v2): clean neutral, transparent, bass not deep",
+  "StereoNET (v2, GBP 1,450): smooth, controlled, benefits from sub",
+  "No owner reviews found"
+ ],
+ "conflicts": [],
+ "log_bullets": [
+  "atc-scm11: no-tier-ab (only v1 Stereophile measurement); raw files saved, no wiki pages"
+ ]
+}

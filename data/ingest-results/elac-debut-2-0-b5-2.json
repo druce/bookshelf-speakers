@@ -1,0 +1,52 @@
+{
+ "slug": "elac-debut-2-0-b5-2",
+ "brand": "Elac",
+ "model": "Debut 2.0 B5.2",
+ "brand_slug": "elac",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": "elac-debut-3-0-b5-3 (per What Hi-Fi?; B5.2 still listed on elac.com and in stock at World Wide Stereo)",
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 294,
+ "price_source": "https://www.worldwidestereo.com/products/elac-db52-debut-2-0-bookshelf-speakers-pair-black",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/elac-debut-2-0-b5-2.md",
+  "wiki/sources/eac-elac-debut-2-0-b5-2.md",
+  "wiki/sources/mfr-elac-debut-2-0-b5-2.md",
+  "wiki/sources/whathifi-elac-debut-2-0-b5-2.md",
+  "wiki/sources/users-elac-debut-2-0-b5-2.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-elac-debut-2-0-b5-2.md",
+  "raw/measurements/eac-elac-debut-2-0-b5-2.md",
+  "raw/reviews-critic/whathifi-elac-debut-2-0-b5-2.md",
+  "raw/reviews-user/users-elac-debut-2-0-b5-2-2026-10-11.md"
+ ],
+ "index_line": "- [[elac-debut-2-0-b5-2]] — 6 Ω, LW ±2.2 dB, f3 62 Hz, 83.3 dB sens, pref 5.0 (EAC)",
+ "source_index_lines": [
+  "- [[eac-elac-debut-2-0-b5-2]] — Erin's Audio Corner Klippel review, 2022-11-16 (Tier A)",
+  "- [[mfr-elac-debut-2-0-b5-2]] — ELAC product page (Tier C)",
+  "- [[whathifi-elac-debut-2-0-b5-2]] — What Hi-Fi? 5/5 review, 2023-10-16 (Tier D)",
+  "- [[users-elac-debut-2-0-b5-2]] — owner reports, 2 (Tier E, anecdotal)"
+ ],
+ "brand_notes": "Debut 2.0 is Andrew Jones-designed budget line, 1in cloth dome on waveguide, front port, aramid woofer (mfr-elac-debut-2-0-b5-2). B5.2 measures worse than B6.2 per Erin: +3 dB step at 1.5 kHz, 83.3 dB sensitivity vs 86 claimed (eac-elac-debut-2-0-b5-2). What Hi-Fi? says DB53 replaces it.",
+ "takeaways": [
+  "Erin Klippel: LW +/-2.2 dB, f3 62 Hz, but 83.3 dB sensitivity (claimed 86) and a +3 dB step near 1.5 kHz",
+  "Compression and midrange distortion are notable (THD ~4.2% at 96 dB, graph-read)",
+  "Impedance benign: 5.2 ohm min, EPDR 2.6 ohm",
+  "What Hi-Fi? 5/5 vs Erin's reservations; Erin recommends B6.2 unless using EQ",
+  "Status ambiguous: DB53 successor, but still in stock at WWS $294"
+ ],
+ "conflicts": [
+  "Sensitivity 83.3 measured vs 86 claimed",
+  "What Hi-Fi? balanced vs Erin 1.5 kHz step",
+  "Status current vs replaced by DB53"
+ ],
+ "log_bullets": [
+  "Created speakers/elac-debut-2-0-b5-2, sources/eac-, mfr-, whathifi-, users- elac-debut-2-0-b5-2",
+  "Conflict: sensitivity 83.3 dB measured vs 86 claimed",
+  "Nuyes (dcinside) Tier-B measurement not ingested: page capture contained no content"
+ ]
+}

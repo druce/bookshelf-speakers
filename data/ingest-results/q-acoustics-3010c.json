@@ -1,0 +1,22 @@
+{
+ "slug": "q-acoustics-3010c",
+ "brand": "Q Acoustics",
+ "model": "3010c",
+ "brand_slug": "q-acoustics",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (6 Ω, 4\" woofer, ~254 mm tall) but no Tier A/B measurement of this exact model found. 6 Ω nominal, 3.7 Ω min, 85 dB, 254 mm, 4.4 kg each; current on maker site. Only measurements found are Sound & Vision test bench of the older 3010 (different model).",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 479,
+ "price_source": "https://www.qacoustics.com/collections/bookshelf-speakers/products/3010c-bookshelf-speaker (sale $479 pair, regular $639)",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-q-acoustics-3010c.md"
+ ],
+ "evidence": [
+  "https://www.qacoustics.com/collections/bookshelf-speakers",
+  "https://www.soundandvision.com/content/q-acoustics-3000i-series-speaker-system-review-specs",
+  "https://www.whathifi.com/q-acoustics/3010i/review"
+ ]
+}

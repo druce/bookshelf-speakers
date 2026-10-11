@@ -1,0 +1,22 @@
+{
+ "brand": "Fyne Audio",
+ "brand_slug": "fyne-audio",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (8 \u03a9 per maker, bookshelf) but no Tier A/B measurement found (searched ASR, Erin, Audioholics, SoundStage, Stereophile)",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "tier_ab_available": false,
+ "slug": "fyne-audio-vintage-five",
+ "model": "Vintage Five",
+ "price_usd_pair": 4999,
+ "price_source": "https://upscaleaudio.com/collections/fyne-audio (regular $4,999)",
+ "raw_saved": [
+  "raw/manufacturer/mfr-fyne-audio-vintage-five.md",
+  "raw/manufacturer/retail-fyne-audio-collection.md"
+ ],
+ "evidence": [
+  "https://www.fyneaudio.com/product/vintage-five/",
+  "https://upscaleaudio.com/collections/fyne-audio"
+ ]
+}

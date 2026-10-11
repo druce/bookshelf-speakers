@@ -1,0 +1,56 @@
+{
+ "slug": "dayton-audio-opal1",
+ "brand": "Dayton Audio",
+ "model": "OPAL1",
+ "brand_slug": "dayton-audio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 499,
+ "price_source": "https://www.parts-express.com/Dayton-Audio-OPAL1-Black-Pair-300-4600",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/dayton-audio-opal1.md",
+  "wiki/sources/eac-dayton-audio-opal1.md",
+  "wiki/sources/audioholics-dayton-audio-opal1.md",
+  "wiki/sources/mfr-dayton-audio-opal1.md",
+  "wiki/sources/mfr-dayton-audio-opal1-daytonaudio.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-dayton-audio-opal1.md",
+  "raw/manufacturer/mfr-dayton-audio-opal1-daytonaudio.md",
+  "raw/measurements/eac-dayton-audio-opal1.md",
+  "raw/measurements/audioholics-dayton-audio-opal1.md",
+  "raw/assets/eac-dayton-audio-opal1-impedance.png",
+  "raw/assets/eac-dayton-audio-opal1-thd86.png",
+  "raw/assets/eac-dayton-audio-opal1-thd96.png",
+  "raw/assets/eac-dayton-audio-opal1-compression.png"
+ ],
+ "index_line": "- [[dayton-audio-opal1]] \u2014 8 \u03a9 (min 4.5 \u03a9), sens 75.4 dB, LW \u00b12.6 dB, f3 51 Hz, pref 5.1 (EAC)",
+ "source_index_lines": [
+  "- [[eac-dayton-audio-opal1]] \u2014 Erin Klippel review, 2024-04-21 (Tier A)",
+  "- [[audioholics-dayton-audio-opal1]] \u2014 Audioholics gated measurements + review, 2024-08-30 (Tier B/D)",
+  "- [[mfr-dayton-audio-opal1]] \u2014 Parts Express clearance listing, $499 pair (Tier C)",
+  "- [[mfr-dayton-audio-opal1-daytonaudio]] \u2014 Dayton Audio spec page (Tier C)"
+ ],
+ "brand_notes": "Dayton Audio is Parts Express house brand; OPAL1 is its first upscale finished hi-fi bookshelf (MMAG woofer, dual passive radiators, 200 W, claimed 78.5 dB). Sold via Parts Express/Amazon; clearanced to $499 vs $1,038.99 listed MSRP ($800 per reviews). (eac-dayton-audio-opal1, mfr-dayton-audio-opal1)",
+ "takeaways": [
+  "Very low sensitivity: 75.4 dB computed / 76 dB Audioholics vs 78.5 dB claimed; needs lots of power.",
+  "Minimum impedance about 4.5 \u03a9 (EAC) so flagged below-iec for an 8 \u03a9 rating; EPDR 1.9 \u03a9.",
+  "LW \u00b12.6 dB, f3 51 Hz, wide directivity (139\u00b0 H); forward ~1 kHz bump with midrange scoop.",
+  "THD ~1% at 86 dB and ~3.3% at 96 dB worst case (graph-read, ~100 Hz); compression \u22642.8 dB at 102 dB.",
+  "Audioholics 4.5/5 performance, 5/5 value; praised bass for size. No user reports retrievable (forums 403)."
+ ],
+ "conflicts": [
+  "Sensitivity claimed 78.5 dB vs measured 75.4/76 dB",
+  "Woofer size 5.5 in (maker) vs 5-1/4 in (Parts Express)",
+  "Erin page date 2024-04-21 vs dataset 2025-01-14"
+ ],
+ "log_bullets": [
+  "Created speakers/dayton-audio-opal1 and sources eac-, audioholics-, mfr- (x2) for OPAL1",
+  "Flagged below-iec (min 4.5 \u03a9 vs 8 \u03a9); sensitivity 2.6 dB under claim",
+  "Price $499 is Parts Express clearance; user reports not ingested (403)"
+ ]
+}

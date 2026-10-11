@@ -1,0 +1,22 @@
+{
+ "slug": "dayton-audio-b652-air",
+ "brand": "Dayton Audio",
+ "model": "B652-AIR",
+ "brand_slug": "dayton-audio",
+ "verdict": "discontinued",
+ "reason": "Parts Express page (300-651) is labelled CLEARANCE with a notify-when-back-in-stock form, i.e. no new stock; Dayton site product page blocked scripted fetch so maker status unconfirmed. Spec: 6 ohm, 87 dB 1W/1m, 6.5in woofer + AMT, ~$60/pair (third-party price). Stereophile also reviewed it (Tier B exists).",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "discontinued",
+ "price_usd_pair": 60,
+ "price_source": "https://hometechnologyreview.com/product/dayton-audio-b652-air-6-1-2-2-way-bookshelf-speaker-with-amt-tweeter-pair/ ($59.98, search snippet, unverified)",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.parts-express.com/Dayton-Audio-B652-AIR-6-1-2-Bookshelf-Speaker-Pair-with-AMT-Tweeter-300-651",
+  "https://daytonaudio.com/product/1243/",
+  "https://stereophile.com/content/dayton-audio-b652-loudspeaker-b652-air",
+  "https://www.audiosciencereview.com/forum/index.php?threads/dayton-audio-b652-air-speaker-review.11410/"
+ ],
+ "brand_notes": "Dayton fetches blocked (Incapsula) and Parts Express (Cloudflare); clearance status inferred from search snippets, so moderate confidence. Coordinator may want a manual recheck of Dayton product 1243."
+}

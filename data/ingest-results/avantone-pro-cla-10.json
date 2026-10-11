@@ -1,0 +1,14 @@
+{
+ "slug": "avantone-pro-cla-10", "brand": "Avantone Pro", "model": "CLA-10", "brand_slug": "avantone-pro",
+ "verdict": "in-scope", "reason": null, "successor": null,
+ "nominal_impedance_ohm": 8, "status": "current", "price_usd_pair": 699, "price_source": "https://www.sweetwater.com/store/detail/CLA10Passive--avantone-pro-cla-10-passive-pair",
+ "tier_ab_available": true,
+ "pages_created": ["wiki/speakers/avantone-pro-cla-10.md","wiki/sources/asr-avantone-pro-cla-10.md","wiki/sources/mfr-avantone-pro-cla-10.md","wiki/sources/musictech-avantone-pro-cla-10.md","wiki/sources/soundonsound-avantone-pro-cla-10.md","wiki/sources/users-avantone-pro-cla-10.md"],
+ "raw_saved": ["raw/measurements/asr-avantone-pro-cla-10.md","raw/manufacturer/mfr-avantone-pro-cla-10.md","raw/manufacturer/retail-avantone-pro-cla-10.md","raw/manufacturer/retail-zzounds-avantone-pro-cla-10.md","raw/manufacturer/retail-sweetwater-avantone-pro-cla-10.md","raw/reviews-critic/musictech-avantone-pro-cla-10.md","raw/reviews-critic/soundonsound-avantone-pro-cla-10.md","raw/reviews-user/users-avantone-pro-cla-10-2026-10-11.md","raw/assets/asr-avantone-pro-cla-10-impedance.png","raw/assets/asr-avantone-pro-cla-10-thd.png","raw/assets/asr-avantone-pro-cla-10-thd-rel.png"],
+ "index_line": "- [[avantone-pro-cla-10]] — 8 Ω sealed studio monitor (NS-10 clone), LW ±2.8 dB, f3 131 Hz, pref 2.2 (ASR)",
+ "source_index_lines": ["- [[asr-avantone-pro-cla-10]] — ASR Klippel review, 2023-08-05 (Tier A)","- [[mfr-avantone-pro-cla-10]] — retailer-copied Avantone specs (Tier C)","- [[musictech-avantone-pro-cla-10]] — MusicTech review, 2018-12-05 (Tier D)","- [[soundonsound-avantone-pro-cla-10]] — Sound On Sound review, 2018-12 (Tier D)","- [[users-avantone-pro-cla-10]] — Thomann and ASR user comments (Tier E, anecdotal)"],
+ "brand_notes": "Pro-audio brand; CLA-10 is a Chris Lord-Alge-endorsed NS-10M clone, 8 Ω passive sealed, $699/pair. ASR rated it very poor (asr-avantone-pro-cla-10). Maker page not retrievable (404); specs via retailers.",
+ "takeaways": ["Measures poorly: LW ±2.8 dB with big mid/treble boost, 3.5 kHz resonance, pref 2.2","f3 131 Hz, sealed; sensitivity 90.2 dB","Min impedance 6.8 Ω, no flag","SOS and MusicTech: NS-10-like but brighter","Stock mixed: in stock at Sweetwater, sold out/preorder elsewhere"],
+ "conflicts": ["Pref score 2.2 vs forum-member 1.4","Stock status mixed across retailers"],
+ "log_bullets": ["Created speakers/avantone-pro-cla-10 and 5 source pages","Conflict: stock status differs across retailers; pref score differs from forum calc"]
+}

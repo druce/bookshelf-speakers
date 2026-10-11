@@ -1,0 +1,21 @@
+{
+ "slug": "outlaw-audio-lcrv2",
+ "brand": "Outlaw Audio",
+ "model": "LCRv2",
+ "brand_slug": "outlaw-audio",
+ "verdict": "out-of-scope",
+ "reason": "Maker rates nominal impedance 4 Ohms; cabinet is 19 in tall with dual 5.25 in woofers (LCR/centre-style, not standmount)",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 1199.98,
+ "price_source": "https://outlawaudio.com/shop/speakers-subwoofers/32-lcrv2-loudspeaker.html ($599.99 each)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-outlaw-audio-lcrv2.md"
+ ],
+ "evidence": [
+  "https://outlawaudio.com/shop/speakers-subwoofers/32-lcrv2-loudspeaker.html",
+  "https://www.audioholics.com/bookshelf-speaker-reviews/outlaw-blsv2"
+ ]
+}

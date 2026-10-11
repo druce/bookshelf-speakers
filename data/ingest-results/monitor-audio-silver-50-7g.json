@@ -1,0 +1,21 @@
+{
+ "slug": "monitor-audio-silver-50-7g",
+ "brand": "Monitor Audio",
+ "model": "Silver 50 7g",
+ "brand_slug": "monitor-audio",
+ "verdict": "discontinued",
+ "reason": "Replaced by Silver 50 8G (2026). Maker's 7G range page reads as legacy; Audio Advisor describes it as older model at clearance pricing, replaced by Silver 50 8G ($1,249 shown, sold-out/in-stock conflicting); Music Direct listing returned 404. Only clearance remnants. Erin's Audio Corner Klippel data exists (ingestable if wanted): sens ~85.5 dB claimed by EAC, computed 85.1, LW +/-1.5, f3 83 Hz, pref 5.4/8.0; THD <2% at 86/96 dB (graphs), compression within 0.5 dB to ~70 Hz at 96 dB; EAC review 2022-11-10, ~$979 pair then. Audio Advisor: nominal 8 ohm, min 3.9 ohm @250 Hz (maker), 86 dB.",
+ "successor": "monitor-audio-silver-50-8g",
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": 1249,
+ "price_source": "https://www.audioadvisor.com/mrs507g-wal-pr",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.audioadvisor.com/mrs507g-wal-pr",
+  "https://www.monitoraudio.com/en/us/product-ranges/silver-series-7g/silver-50-7g/",
+  "https://www.erinsaudiocorner.com/loudspeakers/monitoraudio_silver_50_7g/",
+  "https://upscaleaudio.com/collections/monitor-audio"
+ ]
+}

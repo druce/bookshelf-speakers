@@ -1,0 +1,21 @@
+{
+ "slug": "jamo-s7-15b",
+ "brand": "Jamo",
+ "model": "S7-15B",
+ "brand_slug": "jamo",
+ "verdict": "out-of-scope",
+ "reason": "Manufacturer rates nominal impedance 4 ohm (jamo.com spec); Erin also lists 4 ohm.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 399,
+ "price_source": "https://www.erinsaudiocorner.com/loudspeakers/jamo_s7_15b/ (MSRP approx.)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/eac-jamo-s7-15b.md",
+  "raw/manufacturer/mfr-jamo-s7-15b.md"
+ ],
+ "evidence": [
+  "https://www.jamo.com/products/s7-15b-bookshelf-speaker"
+ ]
+}

@@ -1,0 +1,9 @@
+{"slug":"wharfedale-evo-4-1","brand":"Wharfedale","model":"EVO 4.1","brand_slug":"wharfedale","verdict":"in-scope","reason":null,"successor":null,"nominal_impedance_ohm":8,"status":"current","price_usd_pair":649,"price_source":"https://www.wharfedaleusa.com/products/evo4-1-bookshelf-speaker (sale price; list $799)","tier_ab_available":true,
+"pages_created":["wiki/speakers/wharfedale-evo-4-1.md","wiki/sources/asr-wharfedale-evo-4-1.md","wiki/sources/mfr-wharfedale-evo-4-1.md","wiki/sources/users-wharfedale-evo-4-1.md"],
+"raw_saved":["raw/measurements/asr-wharfedale-evo-4-1.md","raw/manufacturer/mfr-wharfedale-evo-4-1.md","raw/assets/asr-wharfedale-evo-4-1-impedance.png","raw/assets/asr-wharfedale-evo-4-1-thd.png","raw/reviews-user/users-wharfedale-evo-4-1-2026-10-11.md","raw/reviews-user/asrthread-evo41-raw.md"],
+"index_line":"- [[wharfedale-evo-4-1]] — 8 Ω compatible (3.2 Ω min), LW ±2.5 dB, f3 74 Hz, pref 4.5 (ASR)",
+"source_index_lines":["- [[asr-wharfedale-evo-4-1]] — ASR Klippel review, 2021-11-21 (Tier A)","- [[mfr-wharfedale-evo-4-1]] — Wharfedale USA spec page (Tier C)","- [[users-wharfedale-evo-4-1]] — 6 owner reports, anecdotal (Tier E)"],
+"brand_notes":"EVO 4.1 is the odd one in EVO4 line (AMT tweeter, 2-way). ASR did not recommend: 3.8 kHz tweeter resonance, beaming. Min impedance 3.2 ohm vs claimed 3.5. (asr-wharfedale-evo-4-1)",
+"takeaways":["ASR Klippel: LW ±2.5 dB, pref 4.5/6.6, not recommended","Tweeter resonance ~3.8 kHz and AMT beaming; strong vertical narrowness","Min impedance 3.2 ohm -> effectively-4ohm flag though maker says 8 ohm compatible","No pro critic review found; user reports anecdotal"],
+"conflicts":["Port type: ASR passive radiator vs maker slot port","Pref score 4.5 vs 4.8 in thread"],
+"log_bullets":["Created speakers/wharfedale-evo-4-1, sources asr/mfr/users-wharfedale-evo-4-1","Flag effectively-4ohm (3.2 ohm); conflict on port type, pref score"]}

@@ -1,0 +1,23 @@
+{
+ "slug": "focal-aria-evo-x-n1",
+ "brand": "Focal",
+ "model": "Aria Evo X N°1",
+ "brand_slug": "focal",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 8 Ω nominal, 6.5\" two-way, 390 mm tall, $2,598/pair in stock at Audio Advisor) but no Tier A/B measurement found (searched Audioholics, ASR, SoundStage/NRC, Stereophile, Hi-Fi News, general web; only specs and subjective reviews exist: The Absolute Sound, HiFiReport, Athens Pro Audio)",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 2598,
+ "price_source": "https://www.audioadvisor.com/products/focal-aria-evo-x-no-1-bookshelf-speaker",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-focal-aria-evo-x-n1.md"
+ ],
+ "evidence": [
+  "https://www.audioadvisor.com/products/focal-aria-evo-x-no-1-bookshelf-speaker",
+  "https://www.theabsolutesound.com/articles/best-bookshelf-speakers-series-focal-aria-evo-x-no-1-review/",
+  "https://www.hifireport.com/focal-aria-evo-x-n1-review/"
+ ],
+ "notes": "Claimed specs (Audio Advisor/Focal): 89.5 dB, 55 Hz-30 kHz ±3 dB, 47 Hz -6 dB, min 4.6 Ω, crossover 2.8 kHz, 390x225x280 mm, 8.5 kg; launch US price $2,398 (Audioholics). Worth a follow-up if Erin/ASR measures it."
+}

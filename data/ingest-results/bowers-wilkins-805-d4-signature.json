@@ -1,0 +1,61 @@
+{
+ "slug": "bowers-wilkins-805-d4-signature",
+ "brand": "Bowers & Wilkins",
+ "model": "805 D4 Signature",
+ "brand_slug": "bowers-wilkins",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 14000,
+ "price_source": "https://www.worldwidestereo.com/products/bowers-wilkins-805-d4-signature-2-way-bookshelf-speaker-pair-midnight-blue-metallic (available, $14,000 pair); B&W US $14,000 shows stock-notification form",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/bowers-wilkins-805-d4-signature.md",
+  "wiki/sources/mfr-bowers-wilkins-805-d4-signature.md",
+  "wiki/sources/soundstage-bowers-wilkins-805-d4-signature.md",
+  "wiki/sources/stereophile-bowers-wilkins-805-d4-signature.md",
+  "wiki/sources/hifinews-bowers-wilkins-805-d4-signature.md",
+  "wiki/sources/stereophile-review-bowers-wilkins-805-d4-signature.md",
+  "wiki/sources/soundstageultra-bowers-wilkins-805-d4-signature.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-bowers-wilkins-805-d4-signature.md",
+  "raw/measurements/soundstage-bowers-wilkins-805-d4-signature.md",
+  "raw/measurements/stereophile-bowers-wilkins-805-d4-signature.md",
+  "raw/measurements/hifinews-bowers-wilkins-805-d4-signature.md",
+  "raw/reviews-critic/stereophile-review-bowers-wilkins-805-d4-signature.md",
+  "raw/reviews-critic/stereophile-review-bowers-wilkins-805-d4-signature-p2.md",
+  "raw/reviews-critic/soundstageultra-bowers-wilkins-805-d4-signature.md",
+  "raw/assets/soundstage-bowers-wilkins-805-d4-signature-impedance.jpg",
+  "raw/assets/soundstage-bowers-wilkins-805-d4-signature-thd.jpg",
+  "raw/assets/soundstage-bowers-wilkins-805-d4-signature-lw.jpg"
+ ],
+ "index_line": "- [[bowers-wilkins-805-d4-signature]] — 8 Ω (min 4.5-4.7, EPDR 2.0), sens 84.1 (NRC), f6 41 Hz, raised treble; NRC + Stereophile + HFN",
+ "source_index_lines": [
+  "- [[mfr-bowers-wilkins-805-d4-signature]] — B&W US product page (Tier C)",
+  "- [[soundstage-bowers-wilkins-805-d4-signature]] — NRC anechoic measurements, 2025-07-01 (Tier A)",
+  "- [[stereophile-bowers-wilkins-805-d4-signature]] — Stereophile measurements, JA, 2024-09-20 (Tier B)",
+  "- [[hifinews-bowers-wilkins-805-d4-signature]] — Hi-Fi News lab report (Tier B)",
+  "- [[stereophile-review-bowers-wilkins-805-d4-signature]] — Stereophile review, 2024-09-20 (Tier D)",
+  "- [[soundstageultra-bowers-wilkins-805-d4-signature]] — SoundStage! Ultra review, 2025-07-01 (Tier D)"
+ ],
+ "brand_notes": "Signature upgrade of 805 D4 (crossover, motor, top plate, grille); $14,000 (was $13,500 at Stereophile 2024, $12,000 at SSU 2025). Three independent measurements agree on dished response and low-4 ohm min impedance with EPDR ~2 ohm; claimed 88 dB sensitivity only met on B-weighted tweeter axis (stereophile-*) vs 84.1 NRC / 86.1 HFN. Stereophile heard hardening with NAD M10 (current-hungry load).",
+ "takeaways": [
+  "Three Tier A/B sources: sens 84.1 (NRC) / 86.1 (HFN) / 88.4 B-weighted (Stereophile)",
+  "Min impedance 4.5-4.7 ohm, EPDR 2.0-2.1 ohm: demanding load, below-iec",
+  "f6 41 Hz; treble peak 9-10 kHz, HFN 8 dB mid dip, axial error ±4.9 dB",
+  "Stereophile: uncoloured mids but needs setup/system care; SSU: pure midrange, rising treble",
+  "No user reports found; B&W US stock form, retailers mixed"
+ ],
+ "conflicts": [
+  "Sensitivity 84.1 vs 86.1 vs 88.4(B) vs 88 claimed",
+  "Price/stock differences between B&W US and retailers"
+ ],
+ "log_bullets": [
+  "Created speakers/bowers-wilkins-805-d4-signature and 6 source pages (NRC A, Stereophile B, HFN B, 2 critic, mfr)",
+  "Conflict: sensitivity spread due to averaging/weighting",
+  "No user reports ingested"
+ ]
+}

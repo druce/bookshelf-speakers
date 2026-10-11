@@ -1,0 +1,65 @@
+{
+ "slug": "elac-debut-2-0-b6-2",
+ "brand": "Elac",
+ "model": "Debut 2.0 B6.2",
+ "brand_slug": "elac",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": "elac-debut-3-0-b6-3 (per What Hi-Fi? and Gear Patrol; still sold at World Wide Stereo, Audio Advisor lists discontinued)",
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 374,
+ "price_source": "https://www.worldwidestereo.com/products/elac-db62-debut-2-0-bookshelf-speakers-pair-black-ash-vinyl",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/elac-debut-2-0-b6-2.md",
+  "wiki/sources/asr-elac-debut-2-0-b6-2.md",
+  "wiki/sources/eac-elac-debut-2-0-b6-2.md",
+  "wiki/sources/mfr-elac-debut-2-0-b6-2.md",
+  "wiki/sources/whathifi-elac-debut-2-0-b6-2.md",
+  "wiki/sources/hifichoice-elac-debut-2-0-b6-2.md",
+  "wiki/sources/audiofi-elac-debut-2-0-b6-2.md",
+  "wiki/sources/users-elac-debut-2-0-b6-2.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-elac-debut-2-0-b6-2.md",
+  "raw/measurements/asr-elac-debut-2-0-b6-2.md",
+  "raw/measurements/eac-elac-debut-2-0-b6-2.md",
+  "raw/reviews-critic/whathifi-elac-debut-2-0-b6-2.md",
+  "raw/reviews-critic/hifichoice-elac-debut-2-0-b6-2.md",
+  "raw/reviews-critic/audiofi-elac-debut-2-0-b6-2.md",
+  "raw/reviews-user/users-elac-debut-2-0-b6-2-2026-10-11.md",
+  "raw/reviews-user/asrthread-elac-debut-2-0-b6-2-p2.md",
+  "raw/reviews-user/ahforum-elac-debut-2-0-b6-2.md"
+ ],
+ "index_line": "- [[elac-debut-2-0-b6-2]] — 6 Ω, LW ±2.3/±1.7 dB, f3 59/55 Hz, pref 4.8/5.2 (ASR/EAC)",
+ "source_index_lines": [
+  "- [[asr-elac-debut-2-0-b6-2]] — ASR Klippel review, 2020-06-22 (Tier A)",
+  "- [[eac-elac-debut-2-0-b6-2]] — Erin's Audio Corner Klippel review, 2022-08-13 (Tier A)",
+  "- [[mfr-elac-debut-2-0-b6-2]] — ELAC product page (Tier C)",
+  "- [[whathifi-elac-debut-2-0-b6-2]] — What Hi-Fi? review, 2020-02-26 (Tier D)",
+  "- [[hifichoice-elac-debut-2-0-b6-2]] — Hi-Fi Choice review, 2018-12-14 (Tier D)",
+  "- [[audiofi-elac-debut-2-0-b6-2]] — audioFi.net review, 2019-02-27 (Tier D)",
+  "- [[users-elac-debut-2-0-b6-2]] — owner reports, 2 (Tier E, anecdotal)"
+ ],
+ "brand_notes": "B6.2: 700 Hz woofer resonance and 1-2 kHz directivity dip (asr-elac-debut-2-0-b6-2); sharp compression below ~70 Hz (eac-elac-debut-2-0-b6-2). Easy 5 ohm load. Replaced by Debut 3.0 DB63 (whathifi-elac-debut-2-0-b6-2).",
+ "takeaways": [
+  "Two Klippel measurements agree broadly: LW +/-1.7 to 2.3 dB, f3 55-59 Hz",
+  "ASR sees 700 Hz resonance and 1-2 kHz dip; Erin sees 4-6 kHz glare",
+  "Sensitivity 84.5-86.2 dB vs 87 claimed",
+  "Easy load: min 5.0-5.2 ohm, EPDR 2.4",
+  "Strong low-frequency compression below ~70 Hz (EAC)",
+  "Status: being replaced by DB63; WWS $374 in stock, Audio Advisor discontinued"
+ ],
+ "conflicts": [
+  "Sensitivity 86.2 vs 84.5 vs 87 claimed",
+  "LW deviation 2.3 vs 1.7",
+  "ASR 'plays very loud' vs EAC LF compression",
+  "Status mixed across retailers"
+ ],
+ "log_bullets": [
+  "Created speakers/elac-debut-2-0-b6-2 and 7 source pages",
+  "Conflicts: sensitivity (2 Tier-A), LW deviation, subjective brightness, status",
+  "Nuyes (dcinside) measurement not ingested: capture contained no content"
+ ]
+}

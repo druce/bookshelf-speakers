@@ -1,0 +1,22 @@
+{
+ "slug": "selah-audio-rc3r",
+ "brand": "Selah Audio",
+ "model": "RC3R",
+ "brand_slug": "selah-audio",
+ "verdict": "discontinued",
+ "reason": "Vintage 3-way design from about 2003 (ASR describes it as a vintage speaker on loan from a member); no current maker listing or authorized retailer found, selahaudio.com returned HTTP 522, and only used listings (Audiogon) and old forum posts turned up. Nominal impedance not stated in anything retrieved.",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "none current; 2003 forum post ~$1,200-1,300/pair, ASR says about $1,300 built",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/asr-selah-audio-rc3r.md"
+ ],
+ "evidence": [
+  "https://www.audiosciencereview.com/forum/index.php?threads/selah-audio-rc3r-3-way-speaker-review.11218/",
+  "https://www.audiocircle.com/index.php?topic=5451.0",
+  "https://www.audiogon.com/listings/selah-rc3r-monitor-pau-ferro-veneer-ribbon-scans"
+ ]
+}

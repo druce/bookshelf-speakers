@@ -1,0 +1,20 @@
+{
+ "brand": "JBL",
+ "brand_slug": "jbl",
+ "slug": "jbl-stage-a130",
+ "model": "Stage A130",
+ "verdict": "discontinued",
+ "reason": "Stage A series replaced by Stage 2 series (2024); retailers list as discontinued / no longer available",
+ "successor": "jbl-stage-250b (Stage 2 250B) is the nearest current 5.25\" model; no official mapping found",
+ "nominal_impedance_ohm": 6,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "retailer pages list as discontinued",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.proacousticsusa.com/",
+  "https://www.ryans.com/jbl-stage-a130-2:0-bookshelf-speaker",
+  "https://slickdeals.net/f/16844900-jbl-home-theater-speaker-sale-jbl-stage-a125c-dual-5-25-inch-2-way-center-channel-loudspeaker-90-jbl-stage-a190-floorstanding-loudspeaker-200-more-free-shipping"
+ ]
+}

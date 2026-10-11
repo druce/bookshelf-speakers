@@ -1,0 +1,20 @@
+{
+ "slug": "klipsch-r-50m",
+ "brand": "Klipsch",
+ "model": "R-50M",
+ "verdict": "no-tier-ab",
+ "reason": "Passive 8 ohm Reference-series bookshelf, current on klipsch.com; searched ASR, Erin, Audioholics, SoundStage, Stereophile, Hi-Fi News: no Tier A/B measurements found (only spec aggregators/hobbyist scoring). 5.25 in woofer; ~USD 300 MSRP per hints",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.klipsch.com/products/r-50m-bookshelf-speakers (price not on page; spec sheet separate)",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-klipsch-r-50m.md"
+ ],
+ "evidence": [
+  "https://www.klipsch.com/products/r-50m-bookshelf-speakers",
+  "https://speakerdecision.com/review/Klipsch-Reference-R 50M"
+ ]
+}

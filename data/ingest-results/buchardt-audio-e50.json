@@ -1,0 +1,52 @@
+{
+ "slug": "buchardt-audio-e50",
+ "brand": "Buchardt Audio",
+ "model": "E50",
+ "brand_slug": "buchardt-audio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 4300,
+ "price_source": "https://buchardtaudio.com/products/e50 (EUR 4,100/pair, in stock, ships worldwide); USD ~$4,000-4,300 per Steve Huff, Apr 2025 (reviewer estimate, no USD on maker page)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/buchardt-audio-e50.md",
+  "wiki/sources/mfr-buchardt-audio-e50.md",
+  "wiki/sources/eac-buchardt-audio-e50.md",
+  "wiki/sources/stevehuff-buchardt-audio-e50.md",
+  "wiki/sources/hifiknights-buchardt-audio-e50.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-buchardt-audio-e50.md",
+  "raw/measurements/eac-buchardt-audio-e50.md",
+  "raw/reviews-critic/stevehuff-buchardt-audio-e50.md",
+  "raw/reviews-critic/hifiknights-buchardt-audio-e50.md",
+  "raw/reviews-critic/hifiknights-buchardt-audio-e50-p3.md"
+ ],
+ "index_line": "- [[buchardt-audio-e50]] — 6 Ω (maker '4/6'), LW ±1.9 dB, f3 42 Hz, sens 82.8, pref 5.84 (EAC)",
+ "source_index_lines": [
+  "- [[mfr-buchardt-audio-e50]] — Buchardt product page (Tier C)",
+  "- [[eac-buchardt-audio-e50]] — Erin's Audio Corner Klippel (video review), 2025-09-18 (Tier A)",
+  "- [[stevehuff-buchardt-audio-e50]] — Steve Huff review, 2025-04-14 (Tier D)",
+  "- [[hifiknights-buchardt-audio-e50]] — HiFi Knights review, Dawid Grzyb, 2025-06 (Tier D)"
+ ],
+ "brand_notes": "Danish direct-to-consumer brand (Silkeborg, founded 2013); E50 is flagship standmount (EUR 4,100) with Purifi woofer and passive radiators; S400 MKII/MK3 are 4 ohm (out of scope), E50 maker page says '4/6 ohms' and qualifies as 6 ohm; E50-S variant exists (higher sensitivity, USD ~4,300). Maker prices in EUR with shipping/taxes included; no dealer network (stevehuff-buchardt-audio-e50).",
+ "takeaways": [
+  "EAC Klippel: LW ±1.9 dB, f3 42 Hz, sens 82.8 dB (low), pref 5.84/7.61",
+  "Maker lists '4/6 ohms', qualifies as 6 ohm; no measured impedance found (video-only review)",
+  "Wide dispersion 124x112 deg, minor DI discontinuity, ER dip 2.0 dB",
+  "Critics: deep controlled bass, large soundstage; warm vs near-neutral disagreement",
+  "No user reports; USD price is only a reviewer estimate"
+ ],
+ "conflicts": [
+  "Nominal impedance listed 4 / 4-6 / 6 ohm across sources",
+  "Sensitivity claimed 85 vs measured 82.8-83.1"
+ ],
+ "log_bullets": [
+  "Created speakers/buchardt-audio-e50 and 4 source pages (EAC A, mfr C, 2 critic)",
+  "EAC review is video only: impedance/THD not available; computed spinorama metrics used",
+  "Conflict: impedance rating ambiguity (4/6 ohm) - scope kept at 6 ohm; human may review"
+ ]
+}

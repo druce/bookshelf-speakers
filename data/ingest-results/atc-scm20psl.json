@@ -1,0 +1,23 @@
+{
+ "slug": "atc-scm20psl",
+ "brand": "ATC",
+ "model": "SCM20PSL",
+ "brand_slug": "atc",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (8 Ω nominal/5.5 Ω min per maker, sealed 6\" standmount, 440 mm, current on ATC site, $6,499/pair at Sound Approach) but no usable Tier A/B measurement found. Only a low-quality hobbyist spinorama set (see atc-scm20sl-mk2) valid above ~200 Hz.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 6499,
+ "price_source": "https://soundapproach.com/atc-scm20psl-classic-series-9-3-way-passive-speakers-pair.html",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-atc-scm20psl.md"
+ ],
+ "evidence": [
+  "https://atc.audio/hi-fi/loudspeakers/classic-series/scm20/",
+  "https://soundapproach.com/atc-scm20psl-classic-series-9-3-way-passive-speakers-pair.html",
+  "https://www.witchdoctor.co.nz/2026/atc-scm20psl-classic-passive-standmount-speakers-review/"
+ ],
+ "notes": "Maker: 8 Ω nominal/5.5 Ω min, 85 dB (1W), 55 Hz -6 dB, 108 dB max SPL, 440x239x325.5 mm, 16.9 kg, crossover 2.2 kHz, sealed. Searches for Stereophile/SoundStage/Audioholics/Hi-Fi News/Erin found none."
+}

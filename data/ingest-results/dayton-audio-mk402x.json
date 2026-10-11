@@ -1,0 +1,21 @@
+{
+ "slug": "dayton-audio-mk402x",
+ "brand": "Dayton Audio",
+ "model": "MK402X",
+ "brand_slug": "dayton-audio",
+ "verdict": "out-of-scope",
+ "reason": "Rated 4 ohm nominal (Audiophonics spec: 4 Ohm, 84 dB 1W/1m); also 4in woofer, Parts Express CLEARANCE and Audiophonics 'discontinued'.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "Parts Express 300-465 shows CLEARANCE, price not retrievable (Cloudflare)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-dayton-audio-mk402x-audiophonics.md"
+ ],
+ "evidence": [
+  "https://www.audiophonics.fr/en/passive-speakers-and-subwoofer/dayton-audio-mk402x-bookshelf-speakers-2-way-40w-4-ohm-84db-60hz-20khz-pair-p-14534.html",
+  "https://parts-express.com/Dayton-Audio-MK402X-4-2-Way-Bookshelf-Speaker-Pair-300-465"
+ ]
+}

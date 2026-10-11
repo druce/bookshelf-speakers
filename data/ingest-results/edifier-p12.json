@@ -1,0 +1,24 @@
+{
+ "slug": "edifier-p12",
+ "brand": "Edifier",
+ "model": "P12",
+ "brand_slug": "edifier",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 6 ohm rated per Edifier online store and retailers, 4 in woofer, 238 mm tall, $109.99/pair on Edifier US store and Best Buy listing) but no Tier A/B measurement exists; only Audio Appraisal written review. Note: us.edifier.com spec text does not itself state impedance; 6 ohm comes from edifier-online.com and retailers.",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 109.99,
+ "price_source": "https://us.edifier.com/products/p12-passive-bookshelf-speakers-1",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-edifier-p12.md",
+  "raw/manufacturer/mfr-edifier-p12-us.md"
+ ],
+ "evidence": [
+  "https://edifier-online.com/products/edifier-p12-brown",
+  "https://us.edifier.com/products/p12-passive-bookshelf-speakers-1",
+  "https://www.bestbuy.com/product/edifier-p12-passive-bookshelf-speakers-2-way-speakers-needs-amplifier-or-receiver-brown/J3WSK7S898/sku/12776148"
+ ],
+ "notes": "Claimed: 55 Hz-20 kHz (no tolerance, not data), about 79 dB at 1 W/1 m per Edifier (claimed; 2.83 V conversion at 6 ohm nominal would be roughly +0.7 dB, about 79.7 dB, not verified by measurement), crossover 1500 Hz, 4 in + 19 mm silk dome, 128x238x168 mm, 6 kg. mfr-edifier-p12.md raw is only a Loox review snippet."
+}

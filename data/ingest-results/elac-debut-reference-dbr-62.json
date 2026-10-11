@@ -1,0 +1,64 @@
+{
+ "slug": "elac-debut-reference-dbr-62",
+ "brand": "Elac",
+ "model": "Debut Reference DBR-62",
+ "brand_slug": "elac",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 799,
+ "price_source": "https://www.audioadvisor.com/products/elac-dbr62-debut",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/elac-debut-reference-dbr-62.md",
+  "wiki/sources/eac-elac-debut-reference-dbr-62.md",
+  "wiki/sources/asr-elac-debut-reference-dbr-62.md",
+  "wiki/sources/mfr-elac-debut-reference-dbr-62.md",
+  "wiki/sources/whathifi-elac-debut-reference-dbr-62.md",
+  "wiki/sources/futureaudiophile-elac-debut-reference-dbr-62.md",
+  "wiki/sources/users-elac-debut-reference-dbr-62.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/eac-elac-debut-reference-dbr-62.md",
+  "raw/measurements/asr-elac-debut-reference-dbr-62.md",
+  "raw/manufacturer/mfr-elac-debut-reference-dbr-62.md",
+  "raw/manufacturer/mfr-audioadvisor-elac-debut-reference-dbr-62.md",
+  "raw/reviews-critic/whathifi-elac-debut-reference-dbr-62.md",
+  "raw/reviews-critic/futureaudiophile-elac-debut-reference-dbr-62.md",
+  "raw/reviews-user/users-elac-debut-reference-dbr-62-2026-10-11.md",
+  "raw/reviews-user/asrthread-elac-debut-reference-dbr-62-p2.md",
+  "raw/assets/eac-elac-debut-reference-dbr-62-impedance.png",
+  "raw/assets/eac-elac-debut-reference-dbr-62-thd86.png",
+  "raw/assets/eac-elac-debut-reference-dbr-62-thd96.png",
+  "raw/assets/eac-elac-debut-reference-dbr-62-compression.png",
+  "raw/assets/asr-elac-debut-reference-dbr-62-impedance.png",
+  "raw/assets/asr-elac-debut-reference-dbr-62-thd.png"
+ ],
+ "index_line": "- [[elac-debut-reference-dbr-62]] \u2014 6 \u03a9, LW \u00b11.3 dB, f3 52 Hz, sens 83.9 dB, pref 5.1 (EAC)",
+ "source_index_lines": [
+  "- [[eac-elac-debut-reference-dbr-62]] \u2014 Erin's Audio Corner Klippel review, 2023-07-16 (Tier A)",
+  "- [[asr-elac-debut-reference-dbr-62]] \u2014 ASR Klippel review, 2020-03-25 (Tier A)",
+  "- [[mfr-elac-debut-reference-dbr-62]] \u2014 retailer-reproduced Elac specs, 2026-10-11 (Tier C)",
+  "- [[whathifi-elac-debut-reference-dbr-62]] \u2014 What Hi-Fi? review, 2020-11-13 (Tier D)",
+  "- [[futureaudiophile-elac-debut-reference-dbr-62]] \u2014 FutureAudiophile review (Tier D)",
+  "- [[users-elac-debut-reference-dbr-62]] \u2014 3 owner reports (Tier E, anecdotal)"
+ ],
+ "brand_notes": "Debut Reference line (Andrew Jones design), /pair, 6 ohm 2-way. Elac support: one owner reports no reply after a tweeter failure (users-elac-debut-reference-dbr-62). Elac site not scriptable; retailer-reproduced specs used. Black/walnut finish out of stock at World Wide Stereo.",
+ "takeaways": [
+  "EAC Klippel: LW \u00b11.3 dB, f3 52 Hz, sens 83.9 dB, pref 5.1/7.3; ASR unit LW \u00b12.1 dB, sens 85.3",
+  "Min impedance 5.2 \u03a9 (EAC) and 5 \u03a9 (ASR), above IEC floor; EPDR 2.4 \u03a9, phase about -60 deg near 100 Hz",
+  "THD graph-read about 1.3% at 86 dB and 2.2% at 96 dB",
+  "What Hi-Fi? 4/5: transparent midrange, subdued punch",
+  "3 owner reports only"
+ ],
+ "conflicts": [
+  "Sensitivity 83.9 (EAC) vs 85.3 (ASR) vs 86 claimed",
+  "LW deviation 1.3 (EAC) vs 2.1 (ASR)"
+ ],
+ "log_bullets": [
+  "Created speakers/elac-debut-reference-dbr-62 and 6 source pages (eac, asr, mfr, whathifi, futureaudiophile, users)",
+  "Conflict: sensitivity 83.9 vs 85.3 dB and LW dev 1.3 vs 2.1 dB between the two Klippel units"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "monitor-audio-silver-100-8g",
+ "brand": "Monitor Audio",
+ "model": "Silver 100 8G",
+ "brand_slug": "monitor-audio",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 8 ohm nominal, 3-way standmount 440 mm tall with 8-inch woofer, current, $2300 pair at maker US page) but no Tier A/B measurement found (Klippel/ASR/Erin/Audioholics/Stereophile/HFN searches empty; 8G range launched 2026). Maker claims min impedance 3.7 ohm @140 Hz (Tier C, would be effectively-4ohm-class if measured), sensitivity 87 dB, port tuned 37 Hz, crossover 610 Hz/2.9 kHz, 12.1 kg, 440x230x354 mm.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 2300,
+ "price_source": "https://www.monitoraudio.com/en/us/product-ranges/silver-series-8g/silver-100-8g/ (also Upscale Audio, World Wide Stereo list $2,300)",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-monitor-audio-silver-100-8g.md (JS shell only, 321 chars; specs captured via WebFetch)"
+ ],
+ "evidence": [
+  "https://www.monitoraudio.com/en/us/product-ranges/silver-series-8g/silver-100-8g/",
+  "https://upscaleaudio.com/products/monitor-audio-silver-100-8g-bookshelf-loudspeaker-pair",
+  "https://www.worldwidestereo.com/products/monitor-audio-silver-100-8g-3-way-bookshelf-speakers-pair-satin-white"
+ ]
+}

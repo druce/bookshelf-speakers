@@ -1,0 +1,22 @@
+{
+ "slug": "diapason-emera",
+ "brand": "Diapason",
+ "model": "Emera",
+ "brand_slug": "diapason",
+ "verdict": "discontinued",
+ "reason": "Emera (c.2002, successor Emera II) is not in Diapason current Classic/Reference lineup (Adamantes V, Astera, etc., per 2026 MoFi US-relaunch article); no US retailer or maker spec page found; nominal impedance not stated in any source found. ASR Klippel data exists but model not currently sold new.",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-diapason-emera-lineup-evidence.md"
+ ],
+ "evidence": [
+  "https://www.ecoustics.com/news/diapason-loudspeakers-mofi-distribution-usa/",
+  "https://tnt-audio.com/casse/nux_emera_e.html",
+  "https://www.hifi-guide.com/loudspeaker/diapason-emera/"
+ ]
+}

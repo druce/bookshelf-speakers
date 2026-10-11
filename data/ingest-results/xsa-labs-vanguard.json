@@ -1,0 +1,54 @@
+{
+ "slug": "xsa-labs-vanguard",
+ "brand": "XSA Labs",
+ "model": "Vanguard",
+ "brand_slug": "xsa-labs",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 995,
+ "price_source": "https://www.tnt-audio.com/casse/xsa_vanguard_e.html (995 bamboo; ASR thread quotes maker 995/1095); maker site not fetchable",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/xsa-labs-vanguard.md",
+  "wiki/sources/asr-xsa-labs-vanguard.md",
+  "wiki/sources/mfr-xsa-labs-vanguard.md",
+  "wiki/sources/stereotimes-xsa-labs-vanguard.md",
+  "wiki/sources/tntaudio-xsa-labs-vanguard.md",
+  "wiki/sources/users-xsa-labs-vanguard.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/asr-xsa-labs-vanguard.md",
+  "raw/assets/asr-xsa-labs-vanguard-impedance.png",
+  "raw/assets/asr-xsa-labs-vanguard-thd.png",
+  "raw/manufacturer/mfr-xsa-labs-vanguard.md",
+  "raw/reviews-critic/stereotimes-xsa-labs-vanguard.md",
+  "raw/reviews-critic/tntaudio-xsa-labs-vanguard.md",
+  "raw/reviews-user/users-xsa-labs-vanguard-2026-10-11.md"
+ ],
+ "index_line": "- [[xsa-labs-vanguard]] — 8 Ω sealed 2-way, LW ±4.2 dB, f3 77 Hz, sens 81.8 dB, pref 2.7 (ASR)",
+ "source_index_lines": [
+  "- [[asr-xsa-labs-vanguard]] — ASR Klippel review, 2023-07-23 (Tier A)",
+  "- [[mfr-xsa-labs-vanguard]] — maker specs via secondary capture (Tier C)",
+  "- [[stereotimes-xsa-labs-vanguard]] — Stereo Times listening review (Tier D)",
+  "- [[tntaudio-xsa-labs-vanguard]] — TNT-Audio listening test, 2023-06 (Tier D)",
+  "- [[users-xsa-labs-vanguard]] — ASR thread reactions, anecdotal (Tier E)"
+ ],
+ "brand_notes": "XSA Labs (formerly Vera-Fi; designer Viet Nguyen, DIY-origin, Mark Schifter partner) sells direct only; Vanguard is an LS3/5a-inspired sealed 2-way, inverted Harsch crossover. Sister brand Vera-Fi sells $299 Vanguard Scout. Made-to-order, ships ~5-7 days. ASR rejected it; one second-hand claim of woofer unit variation (users-xsa-labs-vanguard). Maker site not scrapeable.",
+ "takeaways": [
+  "ASR Klippel: LW ±4.2 dB, broad 700 Hz-3 kHz hill, f3 77 Hz, sens 81.8 dB (low); pref 2.73/5.48",
+  "Impedance min 8.5 Ω @ ~160 Hz (graph-read), benign; THD ~1.8% at 86 dB, ~7% at 96 dB near 100 Hz (graph-read)",
+  "Wide directivity (116/117 deg) so EQ helps; ER dip 2.5 dB",
+  "Subjective reviewers (Stereo Times, TNT) positive; sharply at odds with measurements"
+ ],
+ "conflicts": [
+  "Tier A (coloured, bass-light) vs Tier D (praise for balance/bass)",
+  "Sensitivity 81.8 computed vs 83 claimed"
+ ],
+ "log_bullets": [
+  "Created speakers/xsa-labs-vanguard and sources asr-, mfr-, stereotimes-, tntaudio-, users- xsa-labs-vanguard",
+  "Conflict: ASR measurements vs subjective reviews; maker site unverifiable (503/JS), specs via secondary capture"
+ ]
+}

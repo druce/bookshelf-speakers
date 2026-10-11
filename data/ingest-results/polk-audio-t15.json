@@ -1,0 +1,56 @@
+{
+ "brand": "Polk Audio",
+ "brand_slug": "polk-audio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "tier_ab_available": true,
+ "slug": "polk-audio-t15",
+ "model": "T15",
+ "price_usd_pair": 149,
+ "price_source": "https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/t15/112508.html (Polk US, in stock)",
+ "pages_created": [
+  "wiki/speakers/polk-audio-t15.md",
+  "wiki/sources/asr-polk-audio-t15.md",
+  "wiki/sources/audioholics-polk-audio-t15.md",
+  "wiki/sources/mfr-polk-audio-t15.md",
+  "wiki/sources/users-polk-audio-t15.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-polk-audio-t15.md",
+  "raw/measurements/asr-polk-audio-t15.md",
+  "raw/measurements/audioholics-polk-audio-t15.md",
+  "raw/assets/asr-polk-audio-t15-impedance.png",
+  "raw/assets/asr-polk-audio-t15-thd.png",
+  "raw/assets/audioholics-polk-audio-t15-impedance.png",
+  "raw/reviews-user/asrthread-polk-audio-t15-p1.md",
+  "raw/reviews-user/users-polk-audio-t15-2026-10-11.md"
+ ],
+ "index_line": "- [[polk-audio-t15]] \u2014 8 \u03a9, LW \u00b17.1 dB, f3 88 Hz, pref 0.3 (ASR); surround/wall use",
+ "source_index_lines": [
+  "- [[asr-polk-audio-t15]] \u2014 ASR Klippel review, 2020-02-26 (Tier A)",
+  "- [[audioholics-polk-audio-t15]] \u2014 Audioholics gated measurements and review, 2018-06-29 (Tier B)",
+  "- [[mfr-polk-audio-t15]] \u2014 Polk product page and T-Series info sheet (Tier C)",
+  "- [[users-polk-audio-t15]] \u2014 ASR thread replies (Tier E, anecdotal)"
+ ],
+ "brand_notes": "Polk US lists all bookshelf models current (Reserve R100/R200, Signature Elite ES15/ES20, T15, Monitor XT15/XT20). Nominal impedance is not stated for ES/XT/Reserve ('compatible with 4- and 8-ohm outputs'); only T-Series info sheet rates T15 at 8 ohm. Measured minima for ES20 3.6, XT15/XT20 about 4.0, T15 about 4.1 ohm: all effectively 4 ohm designs. Design traits: Terylene dome tweeters, Dynamic Balance cones, budget price, 5-year warranty, Vietnam manufacture (tnt-audio XT15). T15 deliberately voiced to be flatter 20 degrees above/below the tweeter (Polk VP engineering quoted by Audioholics).",
+ "takeaways": [
+  "Poorest measured: LW \u00b17.1 dB, f3 88 Hz, 3-6 kHz on-axis hole, ER dip 6.2 dB",
+  "Polk intentionally optimised for off-axis (above/below ear) placement; Audioholics 3.5/5 perf",
+  "Maker rates 8 \u03a9 nominal; ASR graph ~4 \u03a9 minimum (below-iec)",
+  "Sensitivity 88.7 computed vs 86.4 Audioholics vs 89 claimed",
+  "$149/pair Polk US"
+ ],
+ "conflicts": [
+  "Sensitivity 88.7 vs 86.4 vs 89 claimed",
+  "f3 88 Hz vs claimed 65 Hz -3 dB",
+  "Impedance 8 \u03a9 rating vs ~4 \u03a9 graph"
+ ],
+ "log_bullets": [
+  "Created speakers/polk-audio-t15, sources/asr-, audioholics-, mfr-, users-polk-audio-t15",
+  "Conflict: sensitivity (ASR vs Audioholics vs claim) and f3 vs claim",
+  "Maker nominal 8 \u03a9 from T-Series info sheet; impedance_flag below-iec (graph-read ~4.1 \u03a9)"
+ ]
+}

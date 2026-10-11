@@ -1,0 +1,20 @@
+{
+ "slug": "wharfedale-diamond-12-2i",
+ "brand": "Wharfedale",
+ "model": "Diamond 12.2i",
+ "brand_slug": "wharfedale",
+ "verdict": "no-tier-ab",
+ "reason": "6.5in woofer, 8 ohm compatible, min 4 ohm claimed (one retailer 3.7); no independent measurements found.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 649,
+ "price_source": "https://www.wharfedaleusa.com/collections/bookshelf-speakers/products/diamond-12-2i-bookshelf-speakers-pair",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-wharfedale-diamond-12-2i.md"
+ ],
+ "evidence": [
+  "https://www.wharfedaleusa.com/collections/bookshelf-speakers/products/diamond-12-2i-bookshelf-speakers-pair"
+ ]
+}

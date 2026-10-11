@@ -1,0 +1,23 @@
+{
+ "slug": "dynaudio-evoke-20",
+ "brand": "Dynaudio",
+ "model": "Evoke 20",
+ "brand_slug": "dynaudio",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (6 ohm rated, rear-ported 18 cm woofer, 380 mm tall, status Current at dynaudio.com, $2,399/pair Safe and Sound HQ) but no accessible Tier A/B measurement. Lead only: Alpha Audio (NL) multitest has graph measurements (impedance min >5 ohm, ~0.5% distortion) but page returned HTTP 403 to scripted and WebFetch access, so not ingested.",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 2399,
+ "price_source": "https://www.safeandsoundhq.com/products/dynaudio-evoke-20-bookshelf-speakers-pair",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-dynaudio-evoke-20.md"
+ ],
+ "evidence": [
+  "https://dynaudio.com/home-audio/evoke/evoke-20",
+  "https://www.safeandsoundhq.com/products/dynaudio-evoke-20-bookshelf-speakers-pair",
+  "https://www.alpha-audio.net/review/multitest-bookshelf-speakers-2500-euro-part-1-en/4/"
+ ],
+ "notes": "Claimed: 86 dB @2.83V/1m, 40 Hz-23 kHz +/-3 dB, crossover 3200 Hz 2nd order, 28 mm Cerotar + 18 cm MSP, 9.9 kg, 215x380x307 mm."
+}

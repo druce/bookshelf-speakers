@@ -1,0 +1,77 @@
+{
+ "slug": "dynaudio-special-forty",
+ "brand": "Dynaudio",
+ "model": "Special Forty",
+ "brand_slug": "dynaudio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 3599,
+ "price_source": "https://audiovisionsf.com/products/dynaudio-special-forty-bookshelf-loudspeaker",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/dynaudio-special-forty.md",
+  "wiki/sources/mfr-dynaudio-special-forty.md",
+  "wiki/sources/eac-dynaudio-special-forty.md",
+  "wiki/sources/soundstage-nrc-dynaudio-special-forty.md",
+  "wiki/sources/stereophile-dynaudio-special-forty.md",
+  "wiki/sources/soundstage-dynaudio-special-forty.md",
+  "wiki/sources/stereophile-review-dynaudio-special-forty.md",
+  "wiki/sources/tas-dynaudio-special-forty.md",
+  "wiki/sources/users-dynaudio-special-forty.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-dynaudio-special-forty.md",
+  "raw/manufacturer/retail-dynaudio-special-forty-tmr.md",
+  "raw/measurements/eac-dynaudio-special-forty.md",
+  "raw/measurements/soundstage-nrc-dynaudio-special-forty.md",
+  "raw/measurements/stereophile-dynaudio-special-forty.md",
+  "raw/reviews-critic/soundstage-dynaudio-special-forty.md",
+  "raw/reviews-critic/stereophile-review-dynaudio-special-forty.md",
+  "raw/reviews-critic/stereophile-review-p2-dynaudio-special-forty.md",
+  "raw/reviews-critic/tas-dynaudio-special-forty.md",
+  "raw/reviews-user/users-dynaudio-special-forty-2026-10-11.md",
+  "raw/reviews-user/asr-thread-dynaudio-special-forty.md",
+  "raw/reviews-user/asr-thread-p2-dynaudio-special-forty.md",
+  "raw/assets/eac-dynaudio-special-forty-impedance.png",
+  "raw/assets/eac-dynaudio-special-forty-thd86.png",
+  "raw/assets/eac-dynaudio-special-forty-thd96.png",
+  "raw/assets/eac-dynaudio-special-forty-compression.png",
+  "raw/assets/nrc-dynaudio-special-forty-impedance.gif",
+  "raw/assets/nrc-dynaudio-special-forty-thd_90db.gif",
+  "raw/assets/nrc-dynaudio-special-forty-fr_listeningwindow.gif",
+  "raw/assets/nrc-dynaudio-special-forty-dev_90db.gif"
+ ],
+ "index_line": "- [[dynaudio-special-forty]] \u2014 6 \u03a9, LW \u00b12.2 dB, f3 52 Hz, 83 dB sens, pref 4.7 (EAC); 3 measurers, cabinet resonance near 500 Hz",
+ "source_index_lines": [
+  "- [[eac-dynaudio-special-forty]] \u2014 Erin's Audio Corner Klippel review, 2023 (Tier A)",
+  "- [[soundstage-nrc-dynaudio-special-forty]] \u2014 SoundStage!/NRC anechoic measurements, 2018 (Tier A)",
+  "- [[stereophile-dynaudio-special-forty]] \u2014 Stereophile MLSSA measurements, 2018 (Tier B)",
+  "- [[soundstage-dynaudio-special-forty]] \u2014 SoundStage! review, Doug Schneider, 2018 (Tier D)",
+  "- [[stereophile-review-dynaudio-special-forty]] \u2014 Stereophile review, John Atkinson, 2018 (Tier D)",
+  "- [[tas-dynaudio-special-forty]] \u2014 The Absolute Sound review, Chris Martens, 2018 (Tier D)",
+  "- [[users-dynaudio-special-forty]] \u2014 ASR forum comments, anecdotal (Tier E)",
+  "- [[mfr-dynaudio-special-forty]] \u2014 Dynaudio product page specs (Tier C)"
+ ],
+ "brand_notes": "Special Forty (2017 40th-anniversary, now Editions series, Current at dynaudio.com) is 6 ohm; Dynaudio's current range elsewhere often 4 ohm (Heritage Special 4 ohm, out of scope). Evoke 10/20 are 6 ohm, rear-ported, current ($1,699/$2,399) but lack Tier A/B (see no-tier-ab sidecars). Tier-A/B data show 1.6-2.8 dB lower sensitivity than the 86 dB claim (mfr-dynaudio-special-forty, eac-dynaudio-special-forty). Stereophile heard cabinet-wall resonance (stereophile-dynaudio-special-forty). Warranty 5 yr / 8 yr registered per soundstage-dynaudio-special-forty.",
+ "takeaways": [
+  "LW +/-2.2 dB, f3 52 Hz, sensitivity 83.2 dB (EAC Klippel) vs 86 dB claim; NRC 83.6 and Stereophile 84.4 agree it is low.",
+  "Min impedance 4.9 \u03a9 (EAC, Stereophile) with EPDR min 2.5 \u03a9: demanding for a 6 \u03a9 rating; not flagged (>=4.8 \u03a9).",
+  "Cabinet sidewall mode near 512 Hz and 700 Hz port spike (Stereophile); audible congestion per JA only; SoundStage and TAS did not hear it.",
+  "Pref 4.7 / 6.7 with sub; early-reflection dip 3.4 dB flagged at 1.5 kHz.",
+  "Status/price uncertain: Dynaudio lists Current; $3,599 at Audio Vision SF vs $2,999 launch; TMR sold out."
+ ],
+ "conflicts": [
+  "Sensitivity 83.2/83.6/84.4 measured vs 86 claimed",
+  "Cabinet resonance audible to Stereophile only",
+  "Status: limited edition (Stereophile) vs not limited (SoundStage) vs Current (Dynaudio)",
+  "Price $3,599 vs $2,999 launch"
+ ],
+ "log_bullets": [
+  "Created speakers/dynaudio-special-forty plus 8 source pages (EAC, NRC, Stereophile measurements, SoundStage/Stereophile/TAS reviews, users, mfr)",
+  "Conflicts: sensitivity vs claim, cabinet resonance only audible to Stereophile, status and price uncertainty",
+  "dynaudio-evoke-10, dynaudio-evoke-20, edifier-p12: in scope but no-tier-ab; dynaudio-heritage-special out-of-scope (4 ohm)"
+ ]
+}

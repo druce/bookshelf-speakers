@@ -1,0 +1,19 @@
+{
+ "slug": "radiant-acoustics-clarity-66",
+ "brand": "Radiant Acoustics",
+ "model": "Clarity 66",
+ "brand_slug": "radiant-acoustics",
+ "verdict": "out-of-scope",
+ "reason": "Floorstanding loudspeaker (maker labels it floorstanding), not a bookshelf; 4 ohm per hints.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "radiantacoustics.com lists 7,998 EUR; Hi-Fi News 6,998 GBP",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://radiantacoustics.com/products/clarity-66",
+  "https://hifinews.com/content/radiant-acoustics-clarity-66-loudspeaker"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "gallo-acoustics-a-diva-ti",
+ "brand": "Gallo Acoustics",
+ "model": "A'Diva Ti",
+ "brand_slug": "gallo-acoustics",
+ "verdict": "discontinued",
+ "reason": "2005-era 3-inch metal-sphere satellite; no maker page reachable (gallo-acoustics.com does not resolve); current Gallo line is the A'Diva SE/Droplet family. Not confirmed sold new in US. Also a satellite sphere rather than a conventional bookshelf. Archimago (Tier B, qSpin) measured 8 ohm nominal, 88 dB/2.83V, -6 dB ~100 Hz.",
+ "successor": "Gallo A'Diva SE (Droplet)",
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://www.soundandvision.com/content/anthony-gallo-acoustics-adiva-ti-speaker-system-glance-ratings",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://archimago.blogspot.com/2021/05/review-measurements-anthony-gallo.html",
+  "https://www.soundandvision.com/content/anthony-gallo-acoustics-adiva-ti-speaker-system-glance-ratings"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "slug": "janszen-loudspeaker-za1-1",
+ "brand": "JansZen Loudspeaker",
+ "model": "zA1.1",
+ "brand_slug": "janszen-loudspeaker",
+ "verdict": "discontinued",
+ "reason": "Not on janszenaudio.com, which now offers Carmelita P7 (passive standmount, from $4,850/pair, built to order, impedance not stated). zA1.1 last priced $4,495/pair in 2014 reviews; Absolute Sound lists 8 ohm.",
+ "successor": "Carmelita P7 (apparent, unconfirmed)",
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://janszenaudio.com/",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://janszenaudio.com/",
+  "https://www.theabsolutesound.com/articles/janszen-za11-electrostatic-hybrid-stand-mounted-loudspeaker/"
+ ]
+}

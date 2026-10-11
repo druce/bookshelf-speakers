@@ -1,0 +1,22 @@
+{
+ "slug": "arendal-sound-1528-monitor-8",
+ "brand": "Arendal Sound",
+ "model": "1528 Monitor 8",
+ "brand_slug": "arendal-sound",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance 4 ohm: 4-ohm nominal per maker; also 2x8in woofers, 47 kg, ~808 mm tall (floor-size, not bookshelf)",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-arendal-sound-1528-monitor-8.md",
+  "raw/manufacturer/mfr-tech-arendal-sound-1528-monitor-8.md"
+ ],
+ "evidence": [
+  "https://arendalsound.com/product/1528-monitor-8/tech/",
+  "https://arendalsound.com/product/1528-monitor-8/"
+ ]
+}

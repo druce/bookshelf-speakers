@@ -1,0 +1,22 @@
+{
+ "slug": "neat-acoustics-momentum-js",
+ "brand": "Neat Acoustics",
+ "model": "Momentum JS",
+ "brand_slug": "neat-acoustics",
+ "verdict": "no-tier-ab",
+ "reason": "In scope on maker specs (8 ohm nominal, 5 ohm min, 170 mm isobaric woofer + AMT, 370x220x270 mm, GBP 4,995) but no Tier A/B measurement found; no USD price or confirmed US dealer stock found, so US availability unverified.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.neatacoustics.com/products/neat-momentum-js-bookshelf-speakers",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-neat-acoustics-momentum-js.md"
+ ],
+ "evidence": [
+  "https://www.neatacoustics.com/products/neat-momentum-js-bookshelf-speakers",
+  "https://www.neatacoustics.com/pages/dealers"
+ ],
+ "brand_notes": "UK maker (hand built in north of England); US distributor Fidelis Distribution (Nashua NH) per maker dealer page; UK GBP pricing only on maker site; prior Stereophile review exists only for older Iota Alpha (4 ohm, ~83 dB measured) - not these models."
+}

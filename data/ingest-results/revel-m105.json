@@ -1,0 +1,59 @@
+{
+ "brand": "Revel",
+ "brand_slug": "revel",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "tier_ab_available": true,
+ "slug": "revel-m105",
+ "model": "M105",
+ "price_usd_pair": 1650,
+ "price_source": "https://www.audioadvice.com/revel-m105-bookshelf-speakers (Was $825 each; sale $577.50 each shown Unavailable)",
+ "pages_created": [
+  "wiki/speakers/revel-m105.md",
+  "wiki/sources/asr-revel-m105.md",
+  "wiki/sources/whathifi-revel-m105.md",
+  "wiki/sources/hometheaterhifi-revel-m105.md",
+  "wiki/sources/mfr-revel-m105.md",
+  "wiki/sources/users-revel-m105.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/asr-revel-m105.md",
+  "raw/reviews-critic/whathifi-revel-m105.md",
+  "raw/reviews-critic/hometheaterhifi-revel-m105.md",
+  "raw/manufacturer/mfr-revel-m105.md",
+  "raw/manufacturer/mfr-revel-m105-listing.md",
+  "raw/manufacturer/mfr-revel-m105-audioadvice.md",
+  "raw/reviews-user/users-revel-m105-2026-10-11.md",
+  "raw/reviews-user/asr-thread-revel-m105.md",
+  "raw/assets/asr-revel-m105-impedance.png",
+  "raw/assets/asr-revel-m105-thd.png",
+  "raw/assets/asr-revel-m105-compression.png"
+ ],
+ "index_line": "- [[revel-m105]] — 8 Ω (3.8 Ω min), LW ±1.3 dB, f3 60 Hz, pref 5.8 (ASR)",
+ "source_index_lines": [
+  "- [[asr-revel-m105]] — ASR Klippel review, 2020-07-16 (Tier A)",
+  "- [[whathifi-revel-m105]] — What Hi-Fi?/Australian Hi-Fi review, 2021 (Tier D)",
+  "- [[hometheaterhifi-revel-m105]] — HomeTheaterHifi review with in-room bench data, 2013 (Tier D)",
+  "- [[mfr-revel-m105]] — Revel product page and specs (Tier C)",
+  "- [[users-revel-m105]] — ASR thread, no owner reports (Tier E)"
+ ],
+ "brand_notes": "Performa3 M105 (5.25\", 8 Ω nominal) is current on Revel US; Audio Advice shows it unavailable/on sale with a \"Discontinued\" vendor label. Min impedance 3.8 Ω (effectively 4 Ω). ASR reviewer is a Harman dealer (disclosed). Sources: asr-revel-m105, mfr-revel-m105.",
+ "takeaways": [
+  "ASR Klippel: LW ±1.3 dB, f3 60 Hz, sensitivity 84.8 dB vs 86 claimed.",
+  "Impedance min 3.8 Ω at ~230 Hz despite 8 Ω rating: effectively-4ohm.",
+  "Very clean above 500 Hz; ~8% THD at 100 Hz at 96 dB; ~111 dB before compression at 80 Hz.",
+  "Only one Tier A source; no Stereophile/NRC measurement found.",
+  "No owner reports found."
+ ],
+ "conflicts": [
+  "Sensitivity 84.8 computed vs 86 claimed",
+  "Price/status ambiguity: Revel current vs Audio Advice unavailable"
+ ],
+ "log_bullets": [
+  "Created speakers/revel-m105 and sources asr, whathifi, hometheaterhifi, mfr, users for revel-m105",
+  "Impedance flag effectively-4ohm (3.8 Ω, graph-read); only one Tier A source"
+ ]
+}

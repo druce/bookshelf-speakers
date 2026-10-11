@@ -1,0 +1,57 @@
+{
+ "slug": "totem-acoustic-kin-one",
+ "brand": "Totem Acoustic",
+ "model": "Kin One",
+ "brand_slug": "totem-acoustic",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 599,
+ "price_source": "https://totemacoustic.com/product/kin-one/ ($599/pair; TMR shows $703.83)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/totem-acoustic-kin-one.md",
+  "wiki/sources/eac-totem-acoustic-kin-one.md",
+  "wiki/sources/mfr-totem-acoustic-kin-one.md",
+  "wiki/sources/soundstageaccess-totem-acoustic-kin-one-summary.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/eac-totem-acoustic-kin-one.md",
+  "raw/manufacturer/mfr-totem-acoustic-kin-one.md",
+  "raw/manufacturer/mfr-totem-acoustic-kin-one-maker.md",
+  "raw/reviews-critic/soundstageaccess-totem-acoustic-kin-one.md (stub, failed capture)",
+  "raw/reviews-critic/soundstageaccess-totem-acoustic-kin-one-summary.md",
+  "raw/reviews-critic/gearpatrol-totem-acoustic-kin-one.md (product blurb, not used)",
+  "raw/assets/eac-totem-acoustic-kin-one-impedance.png",
+  "raw/assets/eac-totem-acoustic-kin-one-thd86.png",
+  "raw/assets/eac-totem-acoustic-kin-one-thd96.png",
+  "raw/assets/eac-totem-acoustic-kin-one-compression.png"
+ ],
+ "index_line": "- [[totem-acoustic-kin-one]] \u2014 6 \u03a9, LW \u00b12.3 dB, f3 87 Hz, 83.1 dB, pref 3.7 (EAC)",
+ "source_index_lines": [
+  "- [[eac-totem-acoustic-kin-one]] \u2014 Erin's Audio Corner Klippel review, 2024-12-12 (Tier A)",
+  "- [[mfr-totem-acoustic-kin-one]] \u2014 Totem KIN ONE product/spec page (Tier C)",
+  "- [[soundstageaccess-totem-acoustic-kin-one-summary]] \u2014 SoundStage! Access system review, 2024-12-15 (Tier D, model-extracted)"
+ ],
+ "brand_notes": "Kin One is Totem's $599 entry compact (4 in woofer, 6 \u03a9); measures with 6 ohm rating but 4.4 ohm minimum and 83 dB sensitivity vs 89 dB claimed (eac-totem-acoustic-kin-one, mfr-totem-acoustic-kin-one). Bison Monitor is the $2,300 step up with 8 \u03a9 rating (mfr-totem-acoustic-bison-monitor).",
+ "takeaways": [
+  "Erin Klippel: LW \u00b12.3 dB, f3 87 Hz, pref 3.7 / 6.6 with sub",
+  "Measured sensitivity 83.1 dB vs 89 dB claimed (about 6 dB gap)",
+  "Min impedance 4.4 \u03a9 above 80 Hz on a 6 \u03a9 rating: below-iec; EPDR 2.6 \u03a9",
+  "THD about 3.5% at 96 dB near 2-3 kHz (graph-read); compression over 3 dB around 200 Hz at 102 dB",
+  "SoundStage! Access: slightly bright, needs a sub, strains loud in big room",
+  "No user reviews found"
+ ],
+ "conflicts": [
+  "Sensitivity claimed 89 vs measured 83.1 dB",
+  "Impedance rated 6 vs 4.4 \u03a9 min",
+  "Price $599 maker vs $703.83 TMR"
+ ],
+ "log_bullets": [
+  "Created speakers/totem-acoustic-kin-one, sources/eac-, mfr-, soundstageaccess-...-summary",
+  "Conflict: claimed 89 dB vs measured 83.1 dB; impedance below-iec",
+  "No user reviews found"
+ ]
+}

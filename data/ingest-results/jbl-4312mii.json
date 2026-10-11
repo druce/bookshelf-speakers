@@ -1,0 +1,19 @@
+{
+ "slug": "jbl-4312mii",
+ "brand": "JBL",
+ "model": "4312MII",
+ "brand_slug": "jbl",
+ "verdict": "discontinued",
+ "reason": "JBL US page shows SOLD OUT; Technology Factory lists as discontinued; no authorized US retailer found (only eBay $1,100 new, Erics Electronics $699.99 unverified). 6 ohm rated, 3-way, ~300 mm tall, in scope otherwise. jbl.com/Harman pages blocked (403) so no raw mfr file.",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://www.jbl.com/4312MII-.html",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.jbl.com/4312MII-.html",
+  "https://www.ericselectronics.com/shop/music-technology/speakers/harmon-kardon-speakers/jbl-4312mii-wx-pair-compact-monitor-speakers-4312m2wx/"
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "hsu-research-mfl-6",
+ "brand": "Hsu Research",
+ "model": "MFL-6",
+ "brand_slug": "hsu-research",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 558,
+ "price_source": "https://hsuresearch.com/products/mfl-6-speaker ($279 each, maker-direct)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/hsu-research-mfl-6.md",
+  "wiki/sources/mfr-hsu-research-mfl-6.md",
+  "wiki/sources/asr-hsu-research-mfl-6.md",
+  "wiki/sources/soundandvision-hsu-research-mfl-6.md",
+  "wiki/sources/users-hsu-research-mfl-6.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-hsu-research-mfl-6.md",
+  "raw/measurements/asr-hsu-research-mfl-6.md",
+  "raw/reviews-critic/soundandvision-hsu-research-mfl-6.md",
+  "raw/reviews-user/users-hsu-research-mfl-6-2026-10-11.md",
+  "raw/reviews-user/asr-thread-hsu-research-mfl-6.md",
+  "raw/assets/asr-hsu-research-mfl-6-impedance.png",
+  "raw/assets/asr-hsu-research-mfl-6-thd.png"
+ ],
+ "index_line": "- [[hsu-research-mfl-6]] \u2014 8 \u03a9 (min 4.0 \u03a9), 85.5 dB, LW \u00b13.8 dB, f3 80 Hz, pref 3.4 (ASR)",
+ "source_index_lines": [
+  "- [[mfr-hsu-research-mfl-6]] \u2014 Hsu product page, $279 each (Tier C)",
+  "- [[asr-hsu-research-mfl-6]] \u2014 ASR Klippel review, 2025-12-09 (Tier A)",
+  "- [[soundandvision-hsu-research-mfl-6]] \u2014 Sound & Vision listening review, 2025-10-31 (Tier D)",
+  "- [[users-hsu-research-mfl-6]] \u2014 maker-store and forum user reports (Tier E, anecdotal)"
+ ],
+ "brand_notes": "MFL-6 is Hsu's multi-function (L/C/R/surround/Atmos) speaker with 45-degree slanted baffle and Don Keele horn; ASR measured elevated top octave and woofer resonance and did not recommend it (asr-hsu-research-mfl-6); S&V liked it (soundandvision-hsu-research-mfl-6). Sound & Vision cites a 92 dB rating (conditions unstated).",
+ "takeaways": [
+  "Slanted-panel multi-function speaker, measured on 90-degree-to-baffle design axis",
+  "Strongly elevated upper treble and woofer resonance near 2.5 kHz; LW \u00b13.8 dB, pref 3.4",
+  "f3 80 Hz so needs a sub; sensitivity 85.5 dB",
+  "Distortion fine at 86 dB, high at 96 dB, ok at 91 dB",
+  "Sound & Vision found it smooth and detailed, contradicting ASR's treble finding"
+ ],
+ "conflicts": [
+  "Treble: S&V smooth vs ASR strongly elevated",
+  "Claimed 92 dB (S&V, conditions unstated) vs 85.5 dB computed full-space"
+ ],
+ "log_bullets": [
+  "Created speakers/hsu-research-mfl-6 and sources mfr-, asr-, soundandvision-, users-hsu-research-mfl-6",
+  "Conflict: S&V smooth treble vs ASR elevated treble; sensitivity claim 92 dB unconverted"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "slug": "kef-r3-meta",
+ "brand": "KEF",
+ "model": "R3 Meta",
+ "verdict": "out-of-scope",
+ "reason": "Manufacturer rates nominal impedance 4 ohm (min 3.2 ohm)",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 2500,
+ "price_source": "https://us.kef.com/products/r3-meta ($2,499.99 pair, Indigo special edition; backorder)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-kef-r3-meta.md"
+ ],
+ "evidence": [
+  "https://us.kef.com/products/r3-meta",
+  "https://www.worldwidestereo.com/products/kef-r3-meta-bookshelf-speaker-pair-gloss-white"
+ ]
+}

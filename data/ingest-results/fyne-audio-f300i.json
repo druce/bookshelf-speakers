@@ -1,0 +1,4 @@
+{"slug":"fyne-audio-f300i","brand":"Fyne Audio","model":"F300i","brand_slug":"fyne-audio","verdict":"out-of-scope","reason":"No evidence it is sold new in the US: Fyne page is UK-only (GBP 250/pair); only UK/AU/NZ/CA/IN retailers found; US retailer Upscale Audio's Fyne range lists F500/F5E/Cubitt/F1/F7/Vintage but no F300i. Spec otherwise in range (8 Ω, 5 in, 250 mm). No Tier A/B measurements found either.","successor":null,"nominal_impedance_ohm":8,"status":"unknown","price_usd_pair":null,"price_source":"https://www.fyneaudio.com/product/f300i/","tier_ab_available":false,
+"raw_saved":["raw/manufacturer/mfr-fyne-audio-f300i.md"],
+"evidence":["https://www.fyneaudio.com/product/f300i/","https://upscaleaudio.com/collections/fyne-audio","https://www.stereophile.com/content/fyne-audio-f301-loudspeaker"],
+"notes":"Maker: 8 Ω, 87 dB @2.83 V, 54 Hz-34 kHz (-6 dB room), 3.4 kHz crossover, 250x156x211 mm, 3.7 kg, Ti dome. Could revisit if a US dealer is found."}

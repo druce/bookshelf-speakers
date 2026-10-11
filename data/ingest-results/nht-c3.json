@@ -1,0 +1,58 @@
+{
+ "slug": "nht-c3",
+ "brand": "NHT",
+ "model": "C3",
+ "brand_slug": "nht",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 1250,
+ "price_source": "https://www.nhthifi.com/api/products (maker store backend): $624.99 each x2 = $1,249.98",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/nht-c3.md",
+  "wiki/sources/asr-nht-c3.md",
+  "wiki/sources/hometheaterhifi-nht-c3.md",
+  "wiki/sources/soundstage-nht-c3.md",
+  "wiki/sources/mfr-nht-c3.md",
+  "wiki/sources/users-nht-c3.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-nht-c3.md",
+  "raw/measurements/asr-nht-c3.md",
+  "raw/measurements/hometheaterhifi-nht-c3.md",
+  "raw/reviews-critic/soundstage-nht-c3.md",
+  "raw/reviews-user/asr-thread-nht-c3-page2.md",
+  "raw/reviews-user/users-nht-c3-2026-10-11.md",
+  "raw/assets/asr-nht-c3-impedance.png",
+  "raw/assets/asr-nht-c3-thd.png"
+ ],
+ "index_line": "- [[nht-c3]] \u2014 6 \u03a9 sealed 3-way, LW \u00b11.8 dB, f3 61 Hz, 83.1 dB, min 4.2 \u03a9, pref 4.5 (ASR)",
+ "source_index_lines": [
+  "- [[asr-nht-c3]] \u2014 ASR Klippel review, 2021-03-04 (Tier A)",
+  "- [[hometheaterhifi-nht-c3]] \u2014 Secrets outdoor-measurement review, 2018 (Tier B)",
+  "- [[soundstage-nht-c3]] \u2014 SoundStage! Access review of C 3 Carbon Fiber, 2020-03-15 (Tier D)",
+  "- [[mfr-nht-c3]] \u2014 NHT store data for C 3 (Tier C)",
+  "- [[users-nht-c3]] \u2014 ASR forum owner comments (Tier E, anecdotal)"
+ ],
+ "brand_notes": "NHT (Now Hear This), Benicia CA; founders left; sealed-box tradition. Own web store sells singles (C 3 $624.99 ea; SuperZero 2.1 $134.99 ea); Chinese-made (asr-nht-c3). C3 is successor to Classic Three (hometheaterhifi-nht-c3). Current store also lists C1, SuperOne 2.1, C4, MS series, in-wall/ceiling. SB2 not listed (discontinued). Possible damaged ASR sample (users-nht-c3).",
+ "takeaways": [
+  "ASR Klippel: LW \u00b11.8 dB, f3 61 Hz, 83.1 dB vs 87 dB claimed, pref 4.5/6.9",
+  "Min impedance 4.2 \u03a9 on a 6 \u03a9 rating (below-iec)",
+  "86 dB THD very low, 96 dB breaks down above ~7 kHz",
+  "Secrets outdoor measurements found it far flatter than ASR; ASR sample possibly damaged",
+  "Critics: neutral, fast, great imaging, lean bass, wants a sub"
+ ],
+ "conflicts": [
+  "ASR wavy/bright on-axis vs Secrets 'superbly flat' (possible damaged ASR sample)",
+  "Sensitivity 83.1 measured vs 87 claimed",
+  "Claimed 45 Hz FR vs f3 61 Hz"
+ ],
+ "log_bullets": [
+  "Created speakers/nht-c3 and sources asr-, hometheaterhifi-, soundstage-, mfr-, users-nht-c3",
+  "Conflict: ASR vs Secrets on-axis flatness; sensitivity claim 87 vs 83.1 dB",
+  "Impedance flag below-iec (4.2 \u03a9 on 6 \u03a9 nominal)"
+ ]
+}

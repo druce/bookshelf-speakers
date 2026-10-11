@@ -1,0 +1,22 @@
+{
+ "slug": "yamaha-ns-6490",
+ "brand": "Yamaha",
+ "model": "NS-6490",
+ "brand_slug": "yamaha",
+ "verdict": "discontinued",
+ "reason": "Yamaha USA product page marked Discontinued; retailers out of stock/no longer available",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://usa.yamaha.com/products/audio_visual/speaker_systems/ns-6490/index.html",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-yamaha-ns-6490.md"
+ ],
+ "evidence": [
+  "https://usa.yamaha.com/products/audio_visual/speaker_systems/ns-6490/specs.html",
+  "https://www.sweetwater.com/store/detail/NS6490--yamaha-ns-6490-passive-bookshelf-speaker-black-pair",
+  "https://www.walmart.com/ip/Yamaha-3-Way-Acoustic-Suspension-Bookshelf-Speakers-Pair/43049490"
+ ]
+}

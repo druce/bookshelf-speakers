@@ -1,0 +1,57 @@
+{
+ "slug": "psb-alpha-p5",
+ "brand": "PSB",
+ "model": "Alpha P5",
+ "brand_slug": "psb",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 549,
+ "price_source": "https://www.worldwidestereo.com/products/psb-alpha-p5-bookshelf-speaker-walnut-pair and Audio Advisor (PSB direct lists $699/pair)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/psb-alpha-p5.md",
+  "wiki/sources/asr-psb-alpha-p5.md",
+  "wiki/sources/stereophile-psb-alpha-p5.md",
+  "wiki/sources/tas-psb-alpha-p5.md",
+  "wiki/sources/mfr-psb-alpha-p5.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/asr-psb-alpha-p5.md",
+  "raw/measurements/stereophile-psb-alpha-p5.md",
+  "raw/manufacturer/mfr-psb-alpha-p5.md",
+  "raw/reviews-critic/stereophile-review-psb-alpha-p5.md",
+  "raw/reviews-critic/stereophile-review-psb-alpha-p5-p2.md",
+  "raw/reviews-critic/stereophile-review-psb-alpha-p5-specs.md",
+  "raw/reviews-critic/tas-psb-alpha-p5.md",
+  "raw/assets/asr-psb-alpha-p5-impedance.png",
+  "raw/assets/asr-psb-alpha-p5-thd.png",
+  "raw/assets/asr-psb-alpha-p5-thd-absolute.png",
+  "raw/assets/asr-psb-alpha-p5-compression.png"
+ ],
+ "index_line": "- [[psb-alpha-p5]] \u2014 8 \u03a9 (3.9 \u03a9 min), LW \u00b12.8 dB, f3 56 Hz, sens 83.6 dB, pref 4.0 (ASR)",
+ "source_index_lines": [
+  "- [[asr-psb-alpha-p5]] \u2014 ASR Klippel review, 2020-08-06 (Tier A)",
+  "- [[stereophile-psb-alpha-p5]] \u2014 Stereophile review + MLSSA measurements, 2019-09-27 (Tier B/D)",
+  "- [[tas-psb-alpha-p5]] \u2014 The Absolute Sound review, 2020-07-27 (Tier D)",
+  "- [[mfr-psb-alpha-p5]] \u2014 PSB product page (Tier C)"
+ ],
+ "brand_notes": "Alpha P5 won Stereophile Product of the Year 2019 (per maker page) while ASR's Klippel review was negative; maker sensitivity claims exceed measured by 2-3.4 dB (stereophile-psb-alpha-p5, asr-psb-alpha-p5).",
+ "takeaways": [
+  "5.25in ported two-way, inverted layout; min Z 3.9 ohm (ASR) / 3.85 ohm (Stereophile) at 190 Hz -> effectively-4ohm.",
+  "Klippel LW \u00b12.8 dB, f3 56 Hz, major DI discontinuity, port peak.",
+  "THD ~2.7% at 86 dB; >5% at 96 dB; 200 Hz compression sweep benign (~0.5 dB at ~105 dB).",
+  "Stereophile/TAS praised balance and bass for size; ASR not recommended."
+ ],
+ "conflicts": [
+  "Sensitivity 83.6 (ASR) vs 85 (Stereophile) vs 87 claimed",
+  "Stereophile 'superbly flat' vs ASR uneven response (different axis/method)"
+ ],
+ "log_bullets": [
+  "Created speakers/psb-alpha-p5 and 4 source pages (ASR, Stereophile, TAS, mfr)",
+  "Impedance flag effectively-4ohm (3.9/3.85 ohm)",
+  "Conflict: claimed 87 dB vs 83.6-85 dB; ASR vs Stereophile on response flatness; no user reports found"
+ ]
+}

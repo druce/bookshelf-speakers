@@ -1,0 +1,56 @@
+{
+ "slug": "totem-acoustic-bison-monitor",
+ "brand": "Totem Acoustic",
+ "model": "Bison Monitor",
+ "brand_slug": "totem-acoustic",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 2300,
+ "price_source": "https://totemacoustic.com/product/bison-monitor/",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/totem-acoustic-bison-monitor.md",
+  "wiki/sources/hifinews-totem-acoustic-bison-monitor.md",
+  "wiki/sources/mfr-totem-acoustic-bison-monitor.md",
+  "wiki/sources/audiophilia-totem-acoustic-bison-monitor.md",
+  "wiki/sources/futureaudiophile-totem-acoustic-bison-monitor.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-totem-acoustic-bison-monitor.md",
+  "raw/reviews-critic/hifinews-totem-acoustic-bison-monitor.md",
+  "raw/reviews-critic/hifinews-totem-acoustic-bison-monitor-p2.md",
+  "raw/reviews-critic/hifinews-totem-acoustic-bison-monitor-lab-report.md",
+  "raw/reviews-critic/hifinews-totem-acoustic-bison-monitor-totems-timeline.md",
+  "raw/reviews-critic/audiophilia-totem-acoustic-bison-monitor.md",
+  "raw/reviews-critic/futureaudiophile-totem-acoustic-bison-monitor.md"
+ ],
+ "index_line": "- [[totem-acoustic-bison-monitor]] \u2014 8 \u03a9, min 5.4 \u03a9, 84.8 dB, f6 41 Hz, THD <0.7% @90 dB (Hi-Fi News lab, Tier B)",
+ "source_index_lines": [
+  "- [[hifinews-totem-acoustic-bison-monitor]] \u2014 Hi-Fi News review + lab report, 2023-06-23 (Tier B lab / D review)",
+  "- [[mfr-totem-acoustic-bison-monitor]] \u2014 Totem Bison Monitor spec page (Tier C)",
+  "- [[audiophilia-totem-acoustic-bison-monitor]] \u2014 Audiophilia review, 2023 (Tier D)",
+  "- [[futureaudiophile-totem-acoustic-bison-monitor]] \u2014 FutureAudiophile review (Tier D)"
+ ],
+ "brand_notes": "Bison Monitor ($2,300/pair, 8 \u03a9 rating, 5.25 in woofer, Canada-built) replaced the Sky Monitor with 43% larger cabinet (hifinews-totem-acoustic-bison-monitor). Totem sells Bison Tower/Twin Tower at higher prices (audiophilia-totem-acoustic-bison-monitor).",
+ "takeaways": [
+  "Only Tier-B data: Hi-Fi News lab (no spinorama)",
+  "Min impedance 5.4 \u03a9 @228 Hz vs 8 \u03a9 rating: below-iec; EPDR 2.8 \u03a9",
+  "Sensitivity 84.8 dB mean (87.8 at 1 kHz bump) vs 87 claimed",
+  "~3 dB bump 800 Hz-1.3 kHz; LF -6 dB at 41 Hz re 200 Hz",
+  "THD <0.7% 100 Hz-10 kHz at 90 dB",
+  "Critics: imaging and mid clarity praised; bass tuneful not deep"
+ ],
+ "conflicts": [
+  "Claimed 87 dB vs 84.8 dB measured mean",
+  "8 \u03a9 rated vs 5.4 \u03a9 min",
+  "Maker weight 13.49 kg vs HFN 5 kg each; HFN height 850 mm typo"
+ ],
+ "log_bullets": [
+  "Created speakers/totem-acoustic-bison-monitor and 4 source pages (hifinews lab Tier B, mfr, audiophilia, futureaudiophile)",
+  "Conflict: sensitivity claim vs measured; impedance below-iec",
+  "No Tier-A data and no user reviews found"
+ ]
+}

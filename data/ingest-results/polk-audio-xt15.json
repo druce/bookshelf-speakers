@@ -1,0 +1,53 @@
+{
+ "brand": "Polk Audio",
+ "brand_slug": "polk-audio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "tier_ab_available": true,
+ "slug": "polk-audio-xt15",
+ "model": "Monitor XT15",
+ "price_usd_pair": 149,
+ "price_source": "https://www.polkaudio.com/en-us/product/home-speakers/satellite-surround/monitor-xt15/300147.html (Polk US, in stock, reduced from $179)",
+ "pages_created": [
+  "wiki/speakers/polk-audio-xt15.md",
+  "wiki/sources/eac-polk-audio-xt15.md",
+  "wiki/sources/mfr-polk-audio-xt15.md",
+  "wiki/sources/tntaudio-polk-audio-xt15.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-polk-audio-xt15.md",
+  "raw/measurements/eac-polk-audio-xt15.md",
+  "raw/reviews-critic/tntaudio-polk-audio-xt15.md",
+  "raw/assets/eac-polk-audio-xt15-impedance.png",
+  "raw/assets/eac-polk-audio-xt15-thd86.png",
+  "raw/assets/eac-polk-audio-xt15-thd96.png",
+  "raw/assets/eac-polk-audio-xt15-compression.png"
+ ],
+ "index_line": "- [[polk-audio-xt15]] \u2014 8 \u03a9 compatible (min ~4.0 \u03a9), LW \u00b11.9 dB, f3 77 Hz, pref 4.6 (EAC)",
+ "source_index_lines": [
+  "- [[eac-polk-audio-xt15]] \u2014 Erin's Audio Corner Klippel review, 2022-01-08 (Tier A)",
+  "- [[mfr-polk-audio-xt15]] \u2014 Polk product page and info sheet (Tier C)",
+  "- [[tntaudio-polk-audio-xt15]] \u2014 TNT-Audio listening test, 2026-02 (Tier D)"
+ ],
+ "brand_notes": "Polk US lists all bookshelf models current (Reserve R100/R200, Signature Elite ES15/ES20, T15, Monitor XT15/XT20). Nominal impedance is not stated for ES/XT/Reserve ('compatible with 4- and 8-ohm outputs'); only T-Series info sheet rates T15 at 8 ohm. Measured minima for ES20 3.6, XT15/XT20 about 4.0, T15 about 4.1 ohm: all effectively 4 ohm designs. Design traits: Terylene dome tweeters, Dynamic Balance cones, budget price, 5-year warranty, Vietnam manufacture (tnt-audio XT15). XT15 listed under satellite/surround on Polk US.",
+ "takeaways": [
+  "Good LW \u00b11.9 dB, minor DI discontinuity, low sens 84.4 dB, f3 77 Hz",
+  "THD ~0.5% at 86 dB; 2.5% at 96 dB (graph-read); compression <=2.4 dB at 102 dB",
+  "Maker only says 4/8-ohm compatible; manual min 4.1 \u03a9 per TNT-Audio; measured ~4.0 \u03a9",
+  "TNT-Audio: open, articulate, strong bass for size",
+  "$149/pair"
+ ],
+ "conflicts": [
+  "Sensitivity 84.4 vs 86 claimed",
+  "f3 77 vs 48 Hz claimed",
+  "Price $200 (2022) vs $149 now"
+ ],
+ "log_bullets": [
+  "Created speakers/polk-audio-xt15, sources/eac-, mfr-, tntaudio-polk-audio-xt15",
+  "Impedance flag below-iec (4.0 \u03a9 graph-read); no user reports ingested",
+  "Conflict: sensitivity and bass vs claims"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "slug": "radiant-acoustics-clarity-6-2",
+ "brand": "Radiant Acoustics",
+ "model": "Clarity 6.2",
+ "brand_slug": "radiant-acoustics",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance 4 ohm (Erin's spec list; maker spec sheet per search). Standmount otherwise (6.5 in Purifi woofer, about 364 mm tall, 85 dB 2.83 V, about 4,500 USD / 3,998 EUR pair).",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 4500,
+ "price_source": "Erin's Audio Corner MSRP approx 4500/pair; radiantacoustics.com lists 3,998 EUR",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/eac-radiant-acoustics-clarity-6-2.md"
+ ],
+ "evidence": [
+  "https://www.erinsaudiocorner.com/loudspeakers/radiant_acoustics_clarity62/",
+  "https://radiantacoustics.com/en-us/products/clarity-6-2"
+ ]
+}

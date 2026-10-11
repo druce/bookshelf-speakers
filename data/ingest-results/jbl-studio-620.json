@@ -1,0 +1,19 @@
+{
+ "slug": "jbl-studio-620",
+ "brand": "JBL",
+ "model": "Studio 620",
+ "brand_slug": "jbl",
+ "verdict": "discontinued",
+ "reason": "No new US stock found: only an open-box Music Direct listing, itself unavailable; JBL US page returned 403. Also no Tier A/B measurements found (only Studio 630 reportedly measured by Erin). Specs: 6 \u03a9, 84 dB, 5.25\" woofer, crossover 2.3 kHz (hifiverse/speakerdecision, secondary).",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": false,
+ "raw_saved": [],
+ "evidence": [
+  "https://musicdirect.com/equipment/speakers/jbl-studio-620-bookshelf-speakers-walnut-pair-open-box",
+  "https://www.hifiverse.io/components/loudspeakers/bookshelf/studio-620"
+ ]
+}

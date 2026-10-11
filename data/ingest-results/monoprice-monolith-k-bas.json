@@ -1,0 +1,21 @@
+{
+ "slug": "monoprice-monolith-k-bas",
+ "brand": "Monoprice",
+ "model": "Monolith K-BAS",
+ "verdict": "discontinued",
+ "reason": "2016-era model (Audioholics review: 6-8 ohm nominal, 87 dB, 5.25in, 396 mm tall, MSRP ~$250 each). No current US retailer listing found; eBay/Wish listings show sold out; Monoprice site blocked scripted access (Cloudflare 403) so status could not be confirmed on the maker's page. Treated as discontinued/unconfirmed. Tier A/B data exists (Audioholics gated measurements incl. impedance min 6.2 ohm, THD at 90/95 dB) if status is later confirmed current.",
+ "successor": "Monolith Encore B6 / Audition B5 (possible; unconfirmed)",
+ "nominal_impedance_ohm": "6-8",
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://www.audioholics.com/bookshelf-speaker-reviews/monolith-k-bs-1 (launch MSRP $249.99 each)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/audioholics-monoprice-monolith-k-bas.md"
+ ],
+ "evidence": [
+  "https://www.audioholics.com/bookshelf-speaker-reviews/monolith-k-bs-1/measurements",
+  "https://www.ebay.com/p/2127177306",
+  "https://www.monoprice.com/pages/monolith"
+ ]
+}

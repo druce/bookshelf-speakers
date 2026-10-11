@@ -1,0 +1,58 @@
+{
+ "slug": "atc-scm19",
+ "brand": "ATC",
+ "model": "SCM19",
+ "brand_slug": "atc",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 3749,
+ "price_source": "https://soundapproach.com/atc-scm19-entry-series-6-2-way-passive-bookshelf-speakers-pair.html (also $4,199 at tmraudio.com / Music Direct)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/atc-scm19.md",
+  "wiki/sources/mfr-atc-scm19.md",
+  "wiki/sources/avmentor-atc-scm19.md",
+  "wiki/sources/tas-atc-scm19.md",
+  "wiki/sources/soundstage-atc-scm19.md",
+  "wiki/sources/stereotimes-atc-scm19.md",
+  "wiki/sources/users-atc-scm19-2026-10-11.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-atc-scm19.md",
+  "raw/measurements/avmentor-atc-scm19.md",
+  "raw/reviews-critic/tas-atc-scm19.md",
+  "raw/reviews-critic/soundstage-atc-scm19.md",
+  "raw/reviews-critic/stereotimes-atc-scm19.md",
+  "raw/reviews-user/users-atc-scm19-2026-10-11.md"
+ ],
+ "index_line": "- [[atc-scm19]] — 8 Ω sealed 6\" standmount, ~83 dB, min 5.6 Ω, f3 ~52 Hz (AVMentor Tier B)",
+ "source_index_lines": [
+  "- [[mfr-atc-scm19]] — ATC product page specs (Tier C)",
+  "- [[avmentor-atc-scm19]] — AVMentor quasi-anechoic lab evaluation, 2016 (Tier B)",
+  "- [[tas-atc-scm19]] — The Absolute Sound review, Neil Gader, 2014-08-12 (Tier D)",
+  "- [[soundstage-atc-scm19]] — SoundStage! Xperience review of SCM19 V2, 2016-10 (Tier D)",
+  "- [[stereotimes-atc-scm19]] — Stereo Times review, Allen Edelstein (Tier D)",
+  "- [[users-atc-scm19-2026-10-11]] — What Hi-Fi? forum owner reports (Tier E, anecdotal)"
+ ],
+ "brand_notes": "ATC (Stroud, UK): pro-monitor heritage, all drivers in-house (SL \"super linear\" mid/bass, SH25-76 tweeter), sealed cabinets, low sensitivity (84-85 dB), 6-year warranty, rated 8 ohm but measured minima 5.25-5.6 ohm (avmentor-atc-scm19, stereophile-atc-scm7). Entry Series passive: SCM7 $1,749, SCM11, SCM19 ~$3,750-4,200; Classic SCM20PSL $6,499. Entry-series models sold via US dealers (Sound Approach, The Music Room, Music Direct). No QC complaints found.",
+ "takeaways": [
+  "Only Tier-B data: AVMentor quasi-anechoic, ~83 dB sens, 5.6 Ω min @150 Hz, f3 52 Hz, wide even horizontal dispersion",
+  "Critics (TAS, SoundStage, Stereo Times) praise neutrality, dynamics, tight sealed bass; all warn it needs a strong amp",
+  "No Klippel/spinorama, no distortion/max SPL data",
+  "Sensitivity 2 dB below ATC claim; flagged below-iec on 5.6 Ω",
+  "Reviews cover earlier SCM19 generations; price spread $3,749-$4,199"
+ ],
+ "conflicts": [
+  "Sensitivity ~83 dB measured vs 85 claimed",
+  "Bass f6 40 Hz (AVMentor) vs 54 Hz claimed",
+  "Price $3,749 vs $4,199 across dealers"
+ ],
+ "log_bullets": [
+  "Created speakers/atc-scm19 and sources mfr-, avmentor-, tas-, soundstage-, stereotimes-, users- atc-scm19",
+  "Only Tier-B (AVMentor); impedance flag below-iec (5.6 Ω)",
+  "Conflicts: sensitivity 83 vs 85 claimed; f6 40 vs 54 Hz claimed"
+ ]
+}

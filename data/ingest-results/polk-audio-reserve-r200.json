@@ -1,0 +1,62 @@
+{
+ "slug": "polk-audio-reserve-r200",
+ "brand": "Polk Audio",
+ "model": "Reserve R200",
+ "brand_slug": "polk-audio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 639,
+ "price_source": "https://sfcc-prod-polk.soundunited.com/en-us/product/home-speakers/bookshelf/reserve-r200/300029.html",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/polk-audio-reserve-r200.md",
+  "wiki/sources/eac-polk-audio-reserve-r200.md",
+  "wiki/sources/napilopez-polk-audio-reserve-r200.md",
+  "wiki/sources/mfr-polk-audio-reserve-r200.md",
+  "wiki/sources/whathifi-polk-audio-reserve-r200.md",
+  "wiki/sources/tnw-polk-audio-reserve-r200.md",
+  "wiki/sources/users-polk-audio-reserve-r200.md"
+ ],
+ "raw_saved": [
+  "raw/measurements/eac-polk-audio-reserve-r200.md",
+  "raw/measurements/napilopez-polk-audio-reserve-r200.md",
+  "raw/manufacturer/mfr-polk-audio-reserve-r200.md",
+  "raw/reviews-critic/whathifi-polk-audio-reserve-r200.md",
+  "raw/reviews-critic/tnw-polk-audio-reserve-r200.md",
+  "raw/reviews-user/users-polk-audio-reserve-r200-2026-10-11.md",
+  "raw/assets/eac-polk-audio-reserve-r200-impedance.png",
+  "raw/assets/eac-polk-audio-reserve-r200-thd86.png",
+  "raw/assets/eac-polk-audio-reserve-r200-thd96.png",
+  "raw/assets/eac-polk-audio-reserve-r200-compression.png"
+ ],
+ "index_line": "- [[polk-audio-reserve-r200]] \u2014 8 \u03a9-compatible (min 3.8 \u03a9, EPDR 1.8 \u03a9), LW \u00b11.7 dB, f3 68 Hz, pref 5.1 (EAC)",
+ "source_index_lines": [
+  "- [[eac-polk-audio-reserve-r200]] \u2014 Erin's Audio Corner Klippel review, 2023-06 (Tier A)",
+  "- [[napilopez-polk-audio-reserve-r200]] \u2014 napilopez ASR-forum spinorama, 2021-05-17 (Tier B)",
+  "- [[mfr-polk-audio-reserve-r200]] \u2014 Polk product page and specs (Tier C)",
+  "- [[whathifi-polk-audio-reserve-r200]] \u2014 What Hi-Fi?/Sound+Image review, 2021-09-10 (Tier D)",
+  "- [[tnw-polk-audio-reserve-r200]] \u2014 The Next Web review with measurements, 2021-05-22 (Tier D)",
+  "- [[users-polk-audio-reserve-r200]] \u2014 user reports clip, 5 thin reports (Tier E)"
+ ],
+ "brand_notes": "See R100 notes. R200: 359x190x354 mm, 8.7 kg, $639 (list $799). Polk page cites a The Absolute Sound award (unverified). Source: mfr-polk-audio-reserve-r200.",
+ "takeaways": [
+  "Klippel LW \u00b11.7 dB (good), f3 68 Hz vs claimed 51 Hz",
+  "Min Z 3.8 \u03a9, EPDR 1.8 \u03a9: effectively-4ohm",
+  "Compression modest to 102 dB above 100 Hz; THD hump ~1.6%/5% at 6.5 kHz (graph-read)",
+  "Second rig (napilopez, Tier B) pref 6.16 vs EAC 5.09",
+  "Critics: neutral, clear, value; edgy-recording and aiming caveats"
+ ],
+ "conflicts": [
+  "Pref score 5.09/7.61 (EAC) vs 6.16/8.23 (napilopez)",
+  "Claimed -3 dB 51 Hz vs measured f3 68 Hz",
+  "Aiming advice differs between EAC and TNW"
+ ],
+ "log_bullets": [
+  "Created speakers/polk-audio-reserve-r200 and sources eac, napilopez, mfr, whathifi, tnw, users",
+  "Conflict: pref score EAC vs napilopez; claimed vs measured bass",
+  "Impedance flag effectively-4ohm (3.8 \u03a9)"
+ ]
+}

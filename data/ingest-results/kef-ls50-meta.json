@@ -1,0 +1,69 @@
+{
+ "slug": "kef-ls50-meta",
+ "brand": "KEF",
+ "model": "LS50 Meta",
+ "brand_slug": "kef",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1600,
+ "price_source": "https://us.kef.com/products/ls50-meta ($1,599.99 pair)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/kef-ls50-meta.md",
+  "wiki/sources/mfr-kef-ls50-meta.md",
+  "wiki/sources/asr-kef-ls50-meta.md",
+  "wiki/sources/eac-kef-ls50-meta.md",
+  "wiki/sources/stereophile-kef-ls50-meta-measurements.md",
+  "wiki/sources/audioxpress-kef-ls50-meta.md",
+  "wiki/sources/stereophile-kef-ls50-meta.md",
+  "wiki/sources/whathifi-kef-ls50-meta.md",
+  "wiki/sources/users-kef-ls50-meta.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-kef-ls50-meta.md",
+  "raw/measurements/eac-kef-ls50-meta.md",
+  "raw/measurements/asr-kef-ls50-meta.md",
+  "raw/measurements/stereophile-kef-ls50-meta-measurements.md",
+  "raw/measurements/audioxpress-kef-ls50-meta.md",
+  "raw/reviews-critic/stereophile-kef-ls50-meta.md",
+  "raw/reviews-critic/whathifi-kef-ls50-meta.md",
+  "raw/reviews-user/asr-thread-kef-ls50-meta-p2.md",
+  "raw/reviews-user/users-kef-ls50-meta-2026-10-11.md",
+  "raw/assets/eac-kef-ls50-meta-impedance.png",
+  "raw/assets/eac-kef-ls50-meta-thd86.png",
+  "raw/assets/eac-kef-ls50-meta-thd96.png",
+  "raw/assets/eac-kef-ls50-meta-compression.png",
+  "raw/assets/asr-kef-ls50-meta-impedance.png"
+ ],
+ "index_line": "- [[kef-ls50-meta]] \u2014 8 \u03a9 (min 3.7 \u03a9, effectively 4 \u03a9), LW \u00b11.7 dB, f3 64 Hz, 82.7 dB, pref 5.7 (EAC)",
+ "source_index_lines": [
+  "- [[eac-kef-ls50-meta]] \u2014 Erin's Audio Corner Klippel review, 2023-12-21 (Tier A)",
+  "- [[asr-kef-ls50-meta]] \u2014 ASR Klippel review, 2021-08-07 (Tier A)",
+  "- [[stereophile-kef-ls50-meta-measurements]] \u2014 Stereophile measurements, 2020-12-16 (Tier B)",
+  "- [[audioxpress-kef-ls50-meta]] \u2014 audioXpress Klippel measurements, 2021-06-30 (Tier B)",
+  "- [[stereophile-kef-ls50-meta]] \u2014 Stereophile review, 2020-12-16 (Tier D)",
+  "- [[whathifi-kef-ls50-meta]] \u2014 What Hi-Fi? review, 5 stars (Tier D)",
+  "- [[users-kef-ls50-meta]] \u2014 ASR thread/aggregator notes (Tier E, anecdotal)",
+  "- [[mfr-kef-ls50-meta]] \u2014 KEF US product page (Tier C)"
+ ],
+ "brand_notes": "LS50 Meta: Uni-Q coax 5.25\", MAT, $1,599.99 pair, 8 \u03a9 rated but ~3.7 \u03a9 min, 82.7-84.5 dB measured vs 85 claimed. Sister models Q3 Meta and Q Concerto Meta are 4 \u03a9 rated (out of scope). KEF Uni-Q gives smooth directivity (eac-kef-ls50-meta).",
+ "takeaways": [
+  "Smooth Klippel measurements: LW \u00b11.7 dB, smooth DI, pref 5.7/7.9 (EAC)",
+  "Rated 8 \u03a9 but measures 3.7 \u03a9 min, EPDR 1.7-1.8 \u03a9: effectively-4ohm flag",
+  "Sensitivity 82.7-84.5 dB vs 85 claimed",
+  "Heavy bass distortion below ~150 Hz; ~6.7% THD at 96 dB near 100 Hz (graph-read)",
+  "Critics (Stereophile, What Hi-Fi? 5/5) praise transparency and imaging"
+ ],
+ "conflicts": [
+  "Sensitivity measured 82.7-84.5 vs 85 claimed",
+  "f3 64 (EAC) vs 68 (ASR) Hz",
+  "pref score spread 5.0-5.9 across rigs"
+ ],
+ "log_bullets": [
+  "Created speakers/kef-ls50-meta and 8 source pages (EAC, ASR, Stereophile meas + review, audioXpress, What Hi-Fi?, users, mfr)",
+  "Conflict: measured sensitivity and impedance below manufacturer claims; impedance_flag effectively-4ohm"
+ ]
+}

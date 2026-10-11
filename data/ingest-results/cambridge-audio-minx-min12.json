@@ -1,0 +1,8 @@
+{
+ "slug": "cambridge-audio-minx-min12", "brand": "Cambridge Audio", "model": "Minx MIN12", "brand_slug": "cambridge-audio",
+ "verdict": "out-of-scope", "reason": "78 x 78 x 85 mm single 2.25\" BMR satellite cube, 150 Hz-20 kHz, sold individually ($99 each) and described by retailer as 'a satellite, not a full-range bookshelf speaker'; needs a subwoofer. Meets numeric 8 ohm/size tests and is current, so borderline: human may reinstate. Also no usable measurement (spinorama misc-audiorekr raw data not in repo, review URL blank).", "successor": null,
+ "nominal_impedance_ohm": 8, "status": "current", "price_usd_pair": 198, "price_source": "https://www.audioadvisor.com/products/cambridge-audio-minx-min-12-satellite-speaker-black-each (99 each, doubled)",
+ "tier_ab_available": false,
+ "raw_saved": ["raw/manufacturer/mfr-cambridge-audio-minx-min12.md"],
+ "evidence": ["https://www.cambridgeaudio.com/usa/en/manuals/minx-min12-compact-speaker","https://www.audioadvisor.com/products/cambridge-audio-minx-min-12-satellite-speaker-black-each"]
+}

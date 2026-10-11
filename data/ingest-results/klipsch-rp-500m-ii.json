@@ -1,0 +1,54 @@
+{
+ "slug": "klipsch-rp-500m-ii",
+ "brand": "Klipsch",
+ "model": "RP-500M II",
+ "brand_slug": "klipsch",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 400,
+ "price_source": "https://www.musicdirect.com/equipment/speakers/klipsch-reference-premiere-rp-500m-ii-bookshelf-speakers-pair/",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/klipsch-rp-500m-ii.md",
+  "wiki/sources/eac-klipsch-rp-500m-ii.md",
+  "wiki/sources/mfr-klipsch-rp-500m-ii.md",
+  "wiki/sources/users-klipsch-rp-500m-ii.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-klipsch-rp-500m-ii.md",
+  "raw/manufacturer/mfr-klipsch-bookshelf-category.md",
+  "raw/measurements/eac-klipsch-rp-500m-ii.md",
+  "raw/reviews-user/users-klipsch-rp-500m-ii-2026-10-11.md",
+  "raw/assets/eac-klipsch-rp-500m-ii-impedance.png",
+  "raw/assets/eac-klipsch-rp-500m-ii-thd86.png",
+  "raw/assets/eac-klipsch-rp-500m-ii-thd96.png",
+  "raw/assets/eac-klipsch-rp-500m-ii-compression.png"
+ ],
+ "index_line": "- [[klipsch-rp-500m-ii]] \u2014 8 \u03a9 compatible but 3.3 \u03a9 min, LW \u00b11.9 dB, f3 66 Hz, 84.8 dB, pref 5.2 (EAC)",
+ "source_index_lines": [
+  "- [[eac-klipsch-rp-500m-ii]] \u2014 Erin's Audio Corner Klippel review, 2022-06-10 (Tier A)",
+  "- [[mfr-klipsch-rp-500m-ii]] \u2014 Klipsch product page and spec sheet (Tier C)",
+  "- [[users-klipsch-rp-500m-ii]] \u2014 user reports, aggregate only (Tier E)"
+ ],
+ "brand_notes": "Klipsch rates sensitivity 'in-room, half-space' (RP-500M II claims 92 dB, EAC measures about 85 dB anechoic; mfr-klipsch-rp-500m-ii, eac-klipsch-rp-500m-ii). Specs say '8 ohms compatible' not a nominal; RP-500M II measures 3.3 ohm min. Current klipsch.com bookshelf category (2026-10-11): R-40M, R-50M, RP-500M II, RP-600M II; legacy R-41M, R-51M, RP-400M, RP-500M (gen 1) pages carry 'latest' banners/refurb only and are treated as discontinued. Horn-loaded 90x90 Tractrix design, narrow-ish dispersion.",
+ "takeaways": [
+  "Klippel (EAC): LW \u00b11.9 dB, f3 66 Hz, sensitivity 84.8 dB vs 92 dB claimed",
+  "Min impedance 3.3 \u03a9, min EPDR 1.8 \u03a9: effectively-4ohm flag despite '8 \u03a9 compatible' rating",
+  "THD about 1.1% at 86 dB and 4% at 96 dB near 120 Hz (graph-read); no compression at 96 dB",
+  "Lifted 10-15 kHz peak; Erin recommends toe-out about 30\u00b0",
+  "No pro critic reviews and no verifiable user reports found"
+ ],
+ "conflicts": [
+  "Sensitivity 92 dB claimed vs 84.8 dB measured",
+  "Rated 8 \u03a9 compatible vs 3.3 \u03a9 measured minimum",
+  "EAC graph filenames label 'RP-500M I' on the II page"
+ ],
+ "log_bullets": [
+  "Created speakers/klipsch-rp-500m-ii, sources/eac-, mfr-, users- klipsch-rp-500m-ii",
+  "Conflict: 92 dB claimed vs 84.8 dB measured; 8 \u03a9 rating vs 3.3 \u03a9 min",
+  "Discontinued (sidecars only): klipsch-r-51m, klipsch-r41m, klipsch-rp-400m, klipsch-rp-500m"
+ ]
+}

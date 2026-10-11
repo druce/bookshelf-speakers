@@ -1,0 +1,53 @@
+{
+ "slug": "salk-wow1",
+ "brand": "Salk",
+ "model": "WoW1",
+ "brand_slug": "salk",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 2595,
+ "price_source": "https://www.salksound.com/model.php?model=WOW1 ($2,595/pair black satin or white; $2,995 veneer; factory-direct, built to order, no explicit stock flag)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/salk-wow1.md",
+  "wiki/sources/asr-salk-wow1.md",
+  "wiki/sources/mfr-salk-wow1.md",
+  "wiki/sources/users-salk-wow1.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-salk-wow1.md",
+  "raw/measurements/asr-salk-wow1.md",
+  "raw/reviews-user/users-salk-wow1-2026-10-11.md",
+  "raw/assets/asr-salk-wow1-impedance.png",
+  "raw/assets/asr-salk-wow1-thd.png",
+  "raw/assets/asr-salk-wow1-thd-rel.png"
+ ],
+ "index_line": "- [[salk-wow1]] \u2014 8 \u03a9, LW \u00b13.1 dB, f3 54 Hz, sens 78.2 dB, min Z ~3.3 \u03a9 (effectively-4ohm), pref 4.4 (ASR)",
+ "source_index_lines": [
+  "- [[asr-salk-wow1]] \u2014 ASR Klippel review, 2020-07-21 (Tier A)",
+  "- [[mfr-salk-wow1]] \u2014 Salk Sound WOW1 maker page (Tier C)",
+  "- [[users-salk-wow1]] \u2014 ASR thread reactions, ~2 owner remarks (Tier E)"
+ ],
+ "brand_notes": "Salk Sound (Seattle) builds to order, factory-direct, high-end cabinetry; WOW1 is its only mini-monitor (Hiquphon OW1 tweeter, Seas Excel W12 12 cm woofer, front port). Price rose from $1,295 (2020 ASR) to $2,595 (2026). No professional reviews found; designer-peer on ASR said claimed 82 dB and 48 Hz are overstated. Source: asr-salk-wow1, mfr-salk-wow1.",
+ "takeaways": [
+  "ASR Klippel: LW \u00b13.1 dB, sens 78.2 dB vs 82 claimed, f3 54 Hz, 500-700 Hz dip from port",
+  "Heavy bass distortion: THD ~2.2% at 100 Hz/86 dB, >5% below ~90 Hz; off-scale <140 Hz at 96 dB",
+  "Graph-read min impedance ~3.3 \u03a9 near 4-5 kHz (flag effectively-4ohm) vs ASR label 6.5 \u03a9",
+  "ASR could not recommend; members suspect a defective sample (unconfirmed, second pair not measured)",
+  "No professional Tier D reviews found"
+ ],
+ "conflicts": [
+  "Sensitivity 78.2 vs 82 claimed",
+  "f3 54 Hz vs 48 Hz claimed",
+  "Min impedance graph-read 3.3 \u03a9 vs graph label 6.5 \u03a9",
+  "Single possibly defective sample"
+ ],
+ "log_bullets": [
+  "Created speakers/salk-wow1 plus 3 source pages (asr, mfr, users)",
+  "Flagged impedance effectively-4ohm from graph-read ~3.3 \u03a9 minimum (needs human check)",
+  "Conflict: sensitivity 78.2 vs 82 claimed; single-sample doubt"
+ ]
+}

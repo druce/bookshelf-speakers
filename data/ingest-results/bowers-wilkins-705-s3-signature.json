@@ -1,0 +1,54 @@
+{
+ "slug": "bowers-wilkins-705-s3-signature",
+ "brand": "Bowers & Wilkins",
+ "model": "705 S3 Signature",
+ "brand_slug": "bowers-wilkins",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 5200,
+ "price_source": "https://www.bowerswilkins.com/en-us/product/loudspeakers/705-s3-signature/300975.html (Add to Cart; World Wide Stereo also $5,200 but feed showed unavailable)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/bowers-wilkins-705-s3-signature.md",
+  "wiki/sources/mfr-bowers-wilkins-705-s3-signature.md",
+  "wiki/sources/hifinews-bowers-wilkins-705-s3-signature-lab.md",
+  "wiki/sources/hifinews-bowers-wilkins-705-s3-signature.md",
+  "wiki/sources/7review-bowers-wilkins-705-s3-signature.md",
+  "wiki/sources/futureaudiophile-bowers-wilkins-705-s3-signature.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-bowers-wilkins-705-s3-signature.md",
+  "raw/measurements/hifinews-bowers-wilkins-705-s3-signature-lab.md",
+  "raw/reviews-critic/hifinews-bowers-wilkins-705-s3-signature.md",
+  "raw/reviews-critic/7review-bowers-wilkins-705-s3-signature.md",
+  "raw/reviews-critic/futureaudiophile-bowers-wilkins-705-s3-signature.md"
+ ],
+ "index_line": "- [[bowers-wilkins-705-s3-signature]] — 8 Ω (min 4.7), sens 86.0 (84.1 @1 kHz), f6 53 Hz, uptilted treble (HFN lab, Tier B only)",
+ "source_index_lines": [
+  "- [[mfr-bowers-wilkins-705-s3-signature]] — B&W US product page (Tier C)",
+  "- [[hifinews-bowers-wilkins-705-s3-signature-lab]] — Hi-Fi News lab report, Paul Miller (Tier B)",
+  "- [[hifinews-bowers-wilkins-705-s3-signature]] — Hi-Fi News review, 2024-10-23 (Tier D)",
+  "- [[7review-bowers-wilkins-705-s3-signature]] — 7Review, 2024-09-05 (Tier D)",
+  "- [[futureaudiophile-bowers-wilkins-705-s3-signature]] — Future Audiophile review (Tier D)"
+ ],
+ "brand_notes": "Signature trim of the 705 S3 with Mundorf caps, carbon-dome tweeter, rear Flowport; price $5,200 vs $3,150-3,800 for standard 705 S3. HFN lab shows ~8 dB treble uptilt and sens well below claimed 88 dB; B&W rated min impedance 3.7 ohm vs measured 4.7. B&W consistently quotes 88 dB sensitivity that measurements do not support (hifinews-*, soundstage-*).",
+ "takeaways": [
+  "Only Tier-B measurement is HFN lab: sens 86.0 dB mean / 84.1 dB @1 kHz vs claimed 88",
+  "Min impedance 4.7 ohm @175 Hz (claimed 3.7), EPDR 2.2 ohm @120 Hz -> below-iec flag",
+  "f6 53 Hz; ~8 dB lift 1-10 kHz, axial error ±4.1 dB",
+  "Critics: detailed, energetic, forward treble; big premium over standard 705 S3",
+  "No Klippel/NRC data and no user reports found"
+ ],
+ "conflicts": [
+  "Min impedance claimed 3.7 vs measured 4.7 ohm",
+  "Sensitivity claimed 88 vs 84.1-86.0 measured"
+ ],
+ "log_bullets": [
+  "Created speakers/bowers-wilkins-705-s3-signature, sources/mfr-*, hifinews-*-lab, hifinews-*, 7review-*, futureaudiophile-*",
+  "Single Tier-B measurement; no Tier A found; HFN table (THD) did not extract",
+  "Conflict: claimed vs measured impedance and sensitivity"
+ ]
+}

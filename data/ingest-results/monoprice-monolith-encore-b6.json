@@ -1,0 +1,19 @@
+{
+ "slug": "monoprice-monolith-encore-b6",
+ "brand": "Monoprice",
+ "model": "Monolith Encore B6",
+ "brand_slug": "monoprice",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance 4 ohm per maker spec (quoted by Erin's Audio Corner and Sound & Vision; Monoprice page itself blocked, 403). 85 dB, 6.5-inch woofer. Currently ~$100-240 each.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.monoprice.com/product?p_id=43150 (blocked); deal posts $74.99-$155 each",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.erinsaudiocorner.com/loudspeakers/monoprice_encore_b6/",
+  "https://soundandvision.com/node/121299"
+ ]
+}

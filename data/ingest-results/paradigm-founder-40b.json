@@ -1,0 +1,63 @@
+{
+ "slug": "paradigm-founder-40b",
+ "brand": "Paradigm",
+ "model": "Founder 40B",
+ "brand_slug": "paradigm",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 2399.98,
+ "price_source": "https://www.paradigm.com/en/passive/founder-40b ($1,199.99 each)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/paradigm-founder-40b.md",
+  "wiki/sources/mfr-paradigm-founder-40b.md",
+  "wiki/sources/eac-paradigm-founder-40b.md",
+  "wiki/sources/whathifi-paradigm-founder-40b.md",
+  "wiki/sources/audiophilia-paradigm-founder-40b.md",
+  "wiki/sources/stereonet-paradigm-founder-40b.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-paradigm-founder-40b.md",
+  "raw/measurements/eac-paradigm-founder-40b.md",
+  "raw/assets/eac-paradigm-founder-40b-impedance.png",
+  "raw/assets/eac-paradigm-founder-40b-thd86.png",
+  "raw/assets/eac-paradigm-founder-40b-thd96.png",
+  "raw/assets/eac-paradigm-founder-40b-compression.png",
+  "raw/assets/eac-paradigm-founder-40b-spinorama.png",
+  "raw/reviews-critic/whathifi-paradigm-founder-40b.md",
+  "raw/reviews-critic/audiophilia-paradigm-founder-40b.md",
+  "raw/reviews-critic/stereonet-paradigm-founder-40b.md",
+  "raw/reviews-user/audioholicsforum-paradigm-founder.md"
+ ],
+ "index_line": "- [[paradigm-founder-40b]] \u2014 8 \u03a9 compatible but min Z 3.5 \u03a9 (effectively 4 \u03a9), f3 ~70 Hz, 87 dB, low distortion (EAC)",
+ "source_index_lines": [
+  "- [[eac-paradigm-founder-40b]] \u2014 Erin's Audio Corner Klippel review, 2025-01-29 (Tier A)",
+  "- [[whathifi-paradigm-founder-40b]] \u2014 Australian Hi-Fi / What Hi-Fi? review with Newport Test Labs report, 2022 (Tier B/D)",
+  "- [[mfr-paradigm-founder-40b]] \u2014 Paradigm spec page (Tier C)",
+  "- [[audiophilia-paradigm-founder-40b]] \u2014 Audiophilia review, 2023 (Tier D)",
+  "- [[stereonet-paradigm-founder-40b]] \u2014 StereoNET review, 2023 (Tier D)"
+ ],
+ "brand_notes": "Founder is the mid-tier line below Persona; 40B is the standmount (6in AL-MAG, 1in ceramic-dome with OSW waveguide, rear port). Paradigm states 'compatible with 8 ohms' but EAC and NTL measure ~3.1-3.5 \u03a9 minimum (eac-paradigm-founder-40b, whathifi-paradigm-founder-40b). spinorama.org mislabels the 40B as a passive center. Made in Toronto.",
+ "takeaways": [
+  "EAC Klippel: min Z 3.5 \u03a9, EPDR 1.8 \u03a9 -> effectively-4ohm flag",
+  "Sensitivity 87.2 dB (EAC via spinorama.org) vs 88.5 dB (NTL) vs 89 claimed",
+  "f3 ~70 Hz, pref 4.9/7.1; no raw spinorama export so beamwidth/LW deviation left null",
+  "THD ~0.4% @86 dB, ~1.0% @96 dB, compression under ~0.7 dB at 102 dB (graph-read)",
+  "Critics (What Hi-Fi?/AHF, StereoNET, Audiophilia) praise imaging and soundstage",
+  "No user reports ingested"
+ ],
+ "conflicts": [
+  "Sensitivity 87.2 vs 88.5 vs 89 claimed",
+  "Crossover 1.6 kHz claimed vs ~2.8 kHz measured by NTL",
+  "FR claim \u00b12 dB vs NTL \u00b14 dB",
+  "Pref score 4.89 (fetched) vs 4.99 in a search summary"
+ ],
+ "log_bullets": [
+  "Created speakers/paradigm-founder-40b and 5 source pages (EAC Tier A, NTL via What Hi-Fi? Tier B, mfr, Audiophilia, StereoNET)",
+  "impedance_flag effectively-4ohm (3.5 \u03a9 EAC, 3.1 \u03a9 NTL) despite 8 \u03a9 compatible claim",
+  "Metrics from spinorama.org page (pref, f3, f6) not from cta2034.py; lineup packet had no raw data"
+ ]
+}

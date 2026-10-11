@@ -1,0 +1,52 @@
+{
+ "slug": "aperion-audio-verus-iii-concert-v8b",
+ "brand": "Aperion Audio",
+ "model": "Verus III Concert V8B",
+ "brand_slug": "aperion-audio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 1549,
+ "price_source": "https://aperionaudio.com/products/v8b",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/aperion-audio-verus-iii-concert-v8b.md",
+  "wiki/sources/eac-aperion-audio-verus-iii-concert-v8b.md",
+  "wiki/sources/hometheaterhifi-aperion-audio-verus-iii-concert-v8b.md",
+  "wiki/sources/mfr-aperion-audio-verus-iii-concert-v8b.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-aperion-audio-verus-iii-concert-v8b.md",
+  "raw/measurements/eac-aperion-audio-verus-iii-concert-v8b.md",
+  "raw/measurements/hometheaterhifi-aperion-audio-verus-iii-concert-v8b.md",
+  "raw/assets/eac-aperion-audio-verus-iii-concert-v8b-impedance.png",
+  "raw/assets/eac-aperion-audio-verus-iii-concert-v8b-thd86.png",
+  "raw/assets/eac-aperion-audio-verus-iii-concert-v8b-thd96.png",
+  "raw/assets/eac-aperion-audio-verus-iii-concert-v8b-compression.png"
+ ],
+ "index_line": "- [[aperion-audio-verus-iii-concert-v8b]] \u2014 6 \u03a9, LW \u00b12.1 dB, f3 54 Hz, 8\" woofer, major DI discontinuity, pref 3.7 (EAC)",
+ "source_index_lines": [
+  "- [[eac-aperion-audio-verus-iii-concert-v8b]] \u2014 Erin's Audio Corner Klippel review, 2023-06-19 (Tier A)",
+  "- [[hometheaterhifi-aperion-audio-verus-iii-concert-v8b]] \u2014 HomeTheaterHifi listening plus bench test (Tier B)",
+  "- [[mfr-aperion-audio-verus-iii-concert-v8b]] \u2014 Aperion maker page, $1,549 (Tier C)"
+ ],
+ "brand_notes": "Aperion Audio sells direct (US), 30-day home audition; Novus N5B is 4 \u03a9 (out of scope); Verus III V8B is 6 \u03a9, 8\" woofer, bi-amp terminals, treble jumper (mfr-aperion-audio-verus-iii-concert-v8b).",
+ "takeaways": [
+  "Erin Klippel: LW \u00b12.1 dB, f3 54 Hz, sens 84.7 dB vs 88 dB@1W claimed (~89.2 @2.83V)",
+  "Mid-range scoop 100-500 Hz, peaks near 4 and 10 kHz, major DI discontinuity, pref 3.65",
+  "Low distortion (~1.2% @86, ~2.2% @96 dB); compression \u22641.1 dB at 102 dB",
+  "Min Z 5.7 \u03a9 Erin vs 4.5 \u03a9 HomeTheaterHifi",
+  "Large: 433 mm, 12.7 kg each; HTH positive, Erin negative"
+ ],
+ "conflicts": [
+  "Min impedance 5.7 (EAC) vs 4.5 \u03a9 (HTH)",
+  "Sensitivity 84.7 vs 89.2 claimed converted",
+  "Critics split"
+ ],
+ "log_bullets": [
+  "Created speakers/aperion-audio-verus-iii-concert-v8b and sources eac/hometheaterhifi/mfr",
+  "Conflict: min impedance 5.7 vs 4.5 \u03a9; sensitivity delta ~4.5 dB vs claim"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "fyne-audio-f500sp",
+ "brand": "Fyne Audio",
+ "model": "F500SP",
+ "brand_slug": "fyne-audio",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1999,
+ "price_source": "https://www.upscaleaudio.com/products/fyne-audio-f500sp-bookshelf-loudspeaker-pair (regular price from $1,999; all finishes sold out 2026-10-11); Stereophile launch $1,995/$2,295",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/fyne-audio-f500sp.md",
+  "wiki/sources/stereophile-fyne-audio-f500sp.md",
+  "wiki/sources/stereophile-review-fyne-audio-f500sp.md",
+  "wiki/sources/mfr-fyne-audio-f500sp.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-fyne-audio-f500sp.md",
+  "raw/manufacturer/retail-fyne-audio-f500sp.md",
+  "raw/manufacturer/retail-fyne-audio-collection.md",
+  "raw/measurements/stereophile-fyne-audio-f500sp.md",
+  "raw/reviews-critic/stereophile-review-fyne-audio-f500sp.md",
+  "raw/reviews-critic/stereophile-review-fyne-audio-f500sp-page2.md",
+  "raw/assets/stereophile-fyne-audio-f500sp-impedance.jpg"
+ ],
+ "index_line": "- [[fyne-audio-f500sp]] \u2014 8 \u03a9, 6\" coaxial, sens 87 dB (claimed 90), min Z 5.0 \u03a9 / EPDR 2.3 \u03a9 (Stereophile, Tier B)",
+ "source_index_lines": [
+  "- [[stereophile-fyne-audio-f500sp]] \u2014 Stereophile gated measurements, 2022-02-02 (Tier B)",
+  "- [[stereophile-review-fyne-audio-f500sp]] \u2014 Stereophile review, Ken Micallef, 2022-02-02 (Tier D)",
+  "- [[mfr-fyne-audio-f500sp]] \u2014 Fyne product page and Upscale listing (Tier C)"
+ ],
+ "brand_notes": "Fyne (ex-Tannoy staff) uses IsoFlare coaxial drivers and BassTrax downfiring port/diffuser across range. SP line built in Glasgow; F300/F500 in Asia (stereophile-review-fyne-audio-f500sp). Measured sensitivity 3 dB under claim on F500SP (stereophile-fyne-audio-f500sp). Upscale Audio US prices: F500S $1,299, F5E $699, Vintage Five $4,999.",
+ "takeaways": [
+  "Sensitivity 87 dB vs 90 dB claimed",
+  "Min Z 5.0 \u03a9 (below-iec), EPDR 2.3 \u03a9 at 121 Hz",
+  "Tweeter about +2 dB hot, narrow HF peaks/dips",
+  "Stereophile: wide deep stage, amp-sensitive",
+  "No Tier A data; Upscale shows sold out"
+ ],
+ "conflicts": [
+  "Sensitivity claimed 90 vs measured 87 dB(B)",
+  "Crossover 1.7 kHz claimed vs ~1.5 kHz acoustic",
+  "Maker lists current but Upscale sold out"
+ ],
+ "log_bullets": [
+  "Created speakers/fyne-audio-f500sp, sources/stereophile-fyne-audio-f500sp, stereophile-review-fyne-audio-f500sp, mfr-fyne-audio-f500sp",
+  "Conflict: sensitivity 90 claimed vs 87 measured; Upscale sold out"
+ ]
+}

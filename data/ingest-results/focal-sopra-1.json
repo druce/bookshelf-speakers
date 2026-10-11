@@ -1,0 +1,21 @@
+{
+ "slug": "focal-sopra-1",
+ "brand": "Focal",
+ "model": "Sopra 1",
+ "brand_slug": "focal",
+ "verdict": "out-of-scope",
+ "reason": "Duplicate of focal-sopra-n1: the Audioholics 'Sopra NB01' review used by the spinorama packet is of the Sopra N°1 (same drivers, 8 Ω, 3.9 Ω min, 2.2 kHz); no separate 'Sopra 1' model found. All data merged into wiki/speakers/focal-sopra-n1.md. Retailer 'Smoked Oak discontinued' note is a finish, not the model. Packet's raw/spinorama/Focal Sopra 1/ directory does not exist (webplotdigitizer origin, no data saved).",
+ "successor": "focal-sopra-n1",
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 12998,
+ "price_source": "https://tmraudio.com/products/focal-sopra-no-1-2-way-bookshelf-speakers",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/audioholics-focal-sopra-n1.md"
+ ],
+ "evidence": [
+  "https://www.audioholics.com/bookshelf-speaker-reviews/focal-sopra-nb01/focal-sopra-nb01-conclusion"
+ ],
+ "merged_into": "focal-sopra-n1"
+}

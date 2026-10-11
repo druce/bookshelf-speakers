@@ -1,0 +1,20 @@
+{
+ "brand": "JBL",
+ "brand_slug": "jbl",
+ "slug": "jbl-l52-classic",
+ "model": "L52 Classic",
+ "verdict": "out-of-scope",
+ "reason": "Nominal impedance 4 ohm per JBL/Harman support pages",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 1000,
+ "price_source": "https://worldwidestereo.com/products/jbl-synthesis-l52-classic-5-25-inch-2-way-bookshelf-loudspeaker-pair (hint; price not verified)",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-jbl-l52-classic.md"
+ ],
+ "evidence": [
+  "https://support.harmanaudio.com/gb/en/speakers/stereo-surround-speakers/speakers-bookshelf/L52.html"
+ ]
+}

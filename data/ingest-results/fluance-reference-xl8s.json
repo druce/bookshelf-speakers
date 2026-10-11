@@ -1,0 +1,51 @@
+{
+ "slug": "fluance-reference-xl8s",
+ "brand": "Fluance",
+ "model": "Reference XL8S",
+ "brand_slug": "fluance",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 179.99,
+ "price_source": "https://www.fluance.com/reference-two-way-bookshelf-surround-speakers (maker shows Out of Stock; Newegg Business lists $179.99)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/fluance-reference-xl8s.md",
+  "wiki/sources/archimago-fluance-reference-xl8s.md",
+  "wiki/sources/hometheaterhifi-fluance-reference-xl8s.md",
+  "wiki/sources/mfr-fluance-reference-xl8s.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-fluance-reference-xl8s.md",
+  "raw/manufacturer/mfr-fluance-reference-2-way-bookshelf.md",
+  "raw/measurements/archimago-fluance-reference-xl8s.md",
+  "raw/assets/archimago-fluance-reference-xl8s-impedance.png",
+  "raw/reviews-critic/hometheaterhifi-fluance-reference-xl8s.md"
+ ],
+ "index_line": "- [[fluance-reference-xl8s]] \u2014 8 \u03a9 compatible, min ~6 \u03a9, EPDR 3.5 \u03a9, f6 ~60 Hz, pref 3.5 (Archimago, Tier B)",
+ "source_index_lines": [
+  "- [[archimago-fluance-reference-xl8s]] \u2014 Archimago qSpin measurements, 2020-11-29 (Tier B)",
+  "- [[hometheaterhifi-fluance-reference-xl8s]] \u2014 HomeTheaterHiFi XL8 system review (Tier D)",
+  "- [[mfr-fluance-reference-xl8s]] \u2014 Fluance product page (Tier C)"
+ ],
+ "brand_notes": "Reference series sits between Elite and Signature; shares the Signature silk-dome tweeter. Maker site shows XL8S out of stock though listed.",
+ "takeaways": [
+  "Tier B only (Archimago qSpin); no numeric LW deviation/f3 computed",
+  "EPDR min 3.5 \u03a9 ~150 Hz; impedance min ~6 \u03a9 -> below-iec (approx.)",
+  "Listening window rough 1.5-8 kHz; f6 ~60 Hz vs 50 Hz claimed",
+  "Distortion low at 85 dB, rising at 90 dB",
+  "pref 3.5 / 5.6 via spinorama.org"
+ ],
+ "conflicts": [
+  "Claimed 50 Hz vs ~60 Hz f6",
+  "Out of stock at maker vs Newegg listing",
+  "Lineup packet fluance-reference-2-way-bookshelf is a duplicate"
+ ],
+ "log_bullets": [
+  "Created speakers/fluance-reference-xl8s, sources/archimago-fluance-reference-xl8s, hometheaterhifi-fluance-reference-xl8s, mfr-fluance-reference-xl8s",
+  "Duplicate packet fluance-reference-2-way-bookshelf merged",
+  "Flag below-iec approximate (min ~6 \u03a9 graph/text-read)"
+ ]
+}
