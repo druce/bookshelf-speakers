@@ -35,6 +35,7 @@ pref_score_sub: 7.2
 woofer_in: 5.0
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 290x165x250
 weight_kg: 4.6
 critic_consensus: Praised for soundstage, imaging, value and lively sound; caveats are bright lower treble, placement and amplifier sensitivity, and one Klippel-based review finding a hollow midrange.

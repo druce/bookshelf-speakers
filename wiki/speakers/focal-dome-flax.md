@@ -35,6 +35,7 @@ pref_score_sub: 5.5
 woofer_in: 4
 tweeter_type: null
 port: sealed
+wall_mount: null
 dimensions_mm: 171x146x143
 weight_kg: 1.9
 critic_consensus: ASR (measurement-based) rejects it for uneven response, heavy distortion and no bass; other outlets review it only as part of 5.1 packages.

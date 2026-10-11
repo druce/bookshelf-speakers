@@ -35,6 +35,7 @@ pref_score_sub: 7.8
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: "none"
 dimensions_mm: 335x203x239
 weight_kg: 7.0
 critic_consensus: Enthusiast and system reviews found it detailed, well imaged and easy to drive, with a hint of treble emphasis and limited bass below about 48 Hz; Erin found the midrange forward.

@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 7.1
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 395x220x285
 weight_kg: 9.9
 critic_consensus: Hi-Fi News (Outstanding) and HiFi Choice (group-test winner) praise a seamless, uncoloured, easy-to-drive standmount with good bass grip; no independent spinorama exists.

@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6.5
 tweeter_type: dome
 port: front
+wall_mount: null
 dimensions_mm: 440x240x373
 weight_kg: 15.6
 critic_consensus: Praised for a pure, uncoloured midrange, imaging and clarity; critics agree the treble is raised and bass is limited, so it needs room and amp care.

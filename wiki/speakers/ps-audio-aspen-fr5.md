@@ -35,6 +35,7 @@ pref_score_sub: 6.3
 woofer_in: 6.5
 tweeter_type: ribbon
 port: passive-radiator
+wall_mount: null
 dimensions_mm: 368x203x330
 weight_kg: 12.1
 critic_consensus: Praised for generous bass for its size, clean smooth treble, wide stage and imaging; caveats are limited low-bass weight and output at high levels, a slightly recessed upper midrange, and placement sensitivity.

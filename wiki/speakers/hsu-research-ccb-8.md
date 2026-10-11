@@ -35,6 +35,7 @@ pref_score_sub: 4.0
 woofer_in: 8
 tweeter_type: coaxial
 port: rear
+wall_mount: null
 dimensions_mm: 381x267x305
 weight_kg: 10.0
 critic_consensus: Audioholics and AV Nirvana praised detail, imaging and dynamics; ASR measured a messy on-axis response and rejected the constant-directivity claim.

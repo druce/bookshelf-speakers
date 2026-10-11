@@ -35,6 +35,7 @@ pref_score_sub: 5.6
 woofer_in: 5.25
 tweeter_type: dome
 port: front
+wall_mount: "keyhole"
 dimensions_mm: 290x206x229
 weight_kg: 5.2
 critic_consensus: HomeTheaterHiFi praised value and clear mids; Archimago measured a non-flat, rough response between 1.5 and 8 kHz.

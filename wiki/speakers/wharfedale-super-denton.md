@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 360x246x275
 weight_kg: 9.2
 critic_consensus: Praised for rich, smooth, balanced sound, natural vocals, spacious imaging and value; caveats are limited bass depth and less air/definition than pricier rivals.

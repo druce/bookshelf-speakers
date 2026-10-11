@@ -35,6 +35,7 @@ pref_score_sub: 6.6
 woofer_in: 5.25
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 321x200x241
 weight_kg: 5.6
 critic_consensus: Few professional reviews; a sponsored Japanese review praised direct, energetic JBL sound, while Erin's Audio Corner found poor linearity that benefits from EQ.

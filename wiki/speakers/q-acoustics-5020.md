@@ -35,6 +35,7 @@ pref_score_sub: 6.6
 woofer_in: 5.0
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 284x180x293
 weight_kg: 7.0
 critic_consensus: TAS and Trusted Reviews praise a rich, musical, detailed sound; Erin's Audio Corner calls it treble heavy with a crossover that needs refinement.

@@ -35,6 +35,7 @@ pref_score_sub: 3.6
 woofer_in: 3.5
 tweeter_type: null
 port: sealed
+wall_mount: "threaded-insert"
 dimensions_mm: 152x102x127
 weight_kg: 1.6
 critic_consensus: Praised for midrange purity, coherence and imaging as a near-field/desktop speaker; limited bass and output, subwoofer advised.

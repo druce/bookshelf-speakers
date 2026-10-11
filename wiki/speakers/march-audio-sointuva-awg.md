@@ -35,6 +35,7 @@ pref_score_sub: 8.45
 woofer_in: 6.5
 tweeter_type: dome
 port: passive-radiator
+wall_mount: null
 dimensions_mm: 450x240x220
 weight_kg: null
 critic_consensus: null

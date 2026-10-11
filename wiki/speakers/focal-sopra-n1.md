@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 425x279x396
 weight_kg: 19.0
 critic_consensus: Praised for liquid-smooth, forward midrange, imaging, extended beryllium treble and build; reservations are bass output for the price and a touch of brightness at 3-10 kHz.

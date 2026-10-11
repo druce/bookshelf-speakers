@@ -35,6 +35,7 @@ pref_score_sub: 5.8
 woofer_in: 8.0
 tweeter_type: dome
 port: rear
+wall_mount: "threaded-insert"
 dimensions_mm: 433x269x330
 weight_kg: 12.7
 critic_consensus: HomeTheaterHifi calls it a winner with bold, clear sound; Erin's Klippel review finds a mid-range scoop and treble resonances and advises looking elsewhere.

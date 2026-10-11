@@ -35,6 +35,7 @@ pref_score_sub: 7.6
 woofer_in: 6.5
 tweeter_type: dome
 port: passive-radiator
+wall_mount: null
 dimensions_mm: 395x190x284
 weight_kg: 8.6
 critic_consensus: Praised for deep, controlled bass, big soundstage, build and value; described as warm to near-neutral and needing a capable amplifier.

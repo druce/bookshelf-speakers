@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 5.0
 tweeter_type: dome
 port: sealed
+wall_mount: null
 dimensions_mm: 300x174x215
 weight_kg: 7.5
 critic_consensus: Praised for imaging, clean low-distortion sound and a tough woofer; bass is limited and sensitivity low.

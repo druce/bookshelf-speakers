@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6.5
 tweeter_type: dome
 port: front
+wall_mount: null
 dimensions_mm: 340x200x272
 weight_kg: 5.0
 critic_consensus: Upbeat, forward, detailed and well imaged for the money; caveats are edgy treble on bright material, some cabinet boxiness and restrained or wall-sensitive bass.

@@ -35,6 +35,7 @@ pref_score_sub: 8.0
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: "threaded-insert"
 dimensions_mm: 305x229x241
 weight_kg: 6.8
 critic_consensus: ASR's Amir called it clean, loud and high-fidelity with a very large soundstage and strongly recommended it; only one Tier-D source so far.

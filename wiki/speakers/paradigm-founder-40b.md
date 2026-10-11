@@ -35,6 +35,7 @@ pref_score_sub: 7.1
 woofer_in: 6
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 368x197x320
 weight_kg: 11.3
 critic_consensus: Praised for imaging, soundstage, dynamics and surprising bass for size; minor notes of midband cuppiness, forward highs and a low impedance.

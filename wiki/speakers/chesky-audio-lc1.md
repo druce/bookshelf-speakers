@@ -35,6 +35,7 @@ pref_score_sub: 5.9
 woofer_in: 6.5
 tweeter_type: dome
 port: passive-radiator
+wall_mount: null
 dimensions_mm: 254x203x254
 weight_kg: 8.2
 critic_consensus: Two enthusiast outlets praise wide imaging, clean bass for the size and value; Erin's Klippel data and listening found recessed mids, early bass roll-off and sample mismatch.

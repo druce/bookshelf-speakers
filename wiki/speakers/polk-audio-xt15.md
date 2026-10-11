@@ -35,6 +35,7 @@ pref_score_sub: 7.3
 woofer_in: 5.25
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 269x165x182
 weight_kg: 4.1
 critic_consensus: TNT-Audio found it open and articulate with surprisingly strong bass for its size and a plain, slightly light mid-high; good value for a second or first system.

@@ -35,6 +35,7 @@ pref_score_sub: 6.3
 woofer_in: 5.25
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 290x170x240
 weight_kg: 4.6
 critic_consensus: Stereophile and TAS praise a balanced, natural, non-fatiguing small speaker with decent bass for its size; ASR's Klippel data show resonances, a port peak and high distortion, and found it unimpressive.

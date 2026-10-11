@@ -35,6 +35,7 @@ pref_score_sub: 3.4
 woofer_in: 5.25
 tweeter_type: dome
 port: front
+wall_mount: "keyhole"
 dimensions_mm: 270x165x184
 weight_kg: null
 critic_consensus: Measures poorly on axis (3-6 kHz hole); Audioholics found it veiled at ear level but decent and wide-sounding 20 degrees above or below; ASR does not recommend it.

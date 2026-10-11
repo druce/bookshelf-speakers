@@ -35,6 +35,7 @@ pref_score_sub: 7.3
 woofer_in: 5.25
 tweeter_type: dome
 port: front
+wall_mount: null
 dimensions_mm: 341x180x234
 weight_kg: 5.9
 critic_consensus: What Hi-Fi? gave 5/5 for detailed, organised, well-timed sound, with a lean, analytical tone that is less forgiving of partnering gear.

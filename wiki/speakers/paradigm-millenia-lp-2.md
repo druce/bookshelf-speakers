@@ -36,6 +36,7 @@ pref_score_sub: 5.1
 woofer_in: 4.5
 tweeter_type: dome
 port: passive-radiator
+wall_mount: "on-wall-design"
 dimensions_mm: "635x152x44"
 weight_kg: 3.0
 critic_consensus: HomeTheaterHifi (2015) liked the clear dialog from a 2 in deep speaker with a sub; the only measurement set finds it bright and bass-light.

@@ -35,6 +35,7 @@ pref_score_sub: 5.0
 woofer_in: 5.75
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 377x219x259
 weight_kg: 13.2
 critic_consensus: Reviewers like detail, composure and compact size; ASR liked the sound with EQ despite poor measurements; caveats are port-boosted bass, limited extension and a demanding load.

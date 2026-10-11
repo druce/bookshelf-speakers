@@ -35,6 +35,7 @@ pref_score_sub: 7.9
 woofer_in: 5.25
 tweeter_type: dome
 port: rear
+wall_mount: "none"
 dimensions_mm: 324x166x260
 weight_kg: 5.5
 critic_consensus: Thin coverage; one blog praises imaging and smooth, detailed treble, with limited deep bass.

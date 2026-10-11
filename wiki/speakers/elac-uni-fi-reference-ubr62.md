@@ -35,6 +35,7 @@ pref_score_sub: 7.7
 woofer_in: 6.5
 tweeter_type: coaxial
 port: front
+wall_mount: null
 dimensions_mm: 359x208x334
 weight_kg: 10.7
 critic_consensus: "Mostly positive: clean, detailed, slightly warm and open sound with limited deep bass; one outlet found it uninvolving next to cheaper Debut models."

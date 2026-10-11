@@ -35,6 +35,7 @@ pref_score_sub: 4.0
 woofer_in: 8
 tweeter_type: null
 port: null
+wall_mount: null
 dimensions_mm: 470x292x368
 weight_kg: 13.2
 critic_consensus: null

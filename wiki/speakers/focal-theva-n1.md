@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 391x213x260
 weight_kg: 7.0
 critic_consensus: Balanced, authoritative, wide-dispersion sound with good bass for size; caveats are slightly exposed or conversely soft treble (reviewers differ), weaker low-volume balance and strong competition at the price.

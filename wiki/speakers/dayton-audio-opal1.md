@@ -35,6 +35,7 @@ pref_score_sub: 6.6
 woofer_in: 5.5
 tweeter_type: dome
 port: passive-radiator
+wall_mount: null
 dimensions_mm: 356x178x241
 weight_kg: 9.4
 critic_consensus: Audioholics praises subwoofer-like bass, build and imaging for the money; both it and Erin note very low sensitivity, a forward/scooped midrange and an irregular measured response.

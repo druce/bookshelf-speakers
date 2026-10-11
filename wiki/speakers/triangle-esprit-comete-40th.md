@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6.5
 tweeter_type: dome
 port: front
+wall_mount: null
 dimensions_mm: 400x200x324
 weight_kg: 8.8
 critic_consensus: SoundStage! liked the rich, smooth midrange and neutral treble, but found bass extension and weight lacking and suggested a sub.

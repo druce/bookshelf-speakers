@@ -35,6 +35,7 @@ pref_score_sub: 6.4
 woofer_in: 5.0
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 278x170x282
 weight_kg: 4.8
 critic_consensus: Praised by What Hi-Fi? and SoundStage! as a warm, detailed, great-value starter standmount; ASR's Amir found a bright, uneven response with weak woofer distortion performance.

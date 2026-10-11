@@ -35,6 +35,7 @@ pref_score_sub: 6.4
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 419x232x359
 weight_kg: 13.0
 critic_consensus: Audioholics (4.5/5) praises balanced sound, imaging, bass for a bookshelf and finish; Erin heard bright treble and weak bass away from walls; price is the main caveat.

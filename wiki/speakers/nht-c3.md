@@ -35,6 +35,7 @@ pref_score_sub: 6.9
 woofer_in: 6.5
 tweeter_type: dome
 port: sealed
+wall_mount: null
 dimensions_mm: 349x191x257
 weight_kg: 7.3
 critic_consensus: Clear, neutral, fast and well imaged with excellent dispersion, but lean bass that wants a subwoofer; treble can run hot.

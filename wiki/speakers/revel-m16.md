@@ -35,6 +35,7 @@ pref_score_sub: 7.3
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 370x220x270
 weight_kg: 7.3
 critic_consensus: Praised for balanced, neutral sound, wide dispersion, imaging and bass for size; caveats are bass depth without a sub and a slightly edgy treble with bright partnering gear.

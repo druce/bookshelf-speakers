@@ -35,6 +35,7 @@ pref_score_sub: 7.9
 woofer_in: 6.0
 tweeter_type: dome
 port: rear
+wall_mount: "threaded-insert"
 dimensions_mm: 362x191x267
 weight_kg: 9.5
 critic_consensus: null

@@ -35,6 +35,7 @@ pref_score_sub: 6.3
 woofer_in: 4.5
 tweeter_type: dome
 port: sealed
+wall_mount: null
 dimensions_mm: 229x127x140
 weight_kg: 2.6
 critic_consensus: Audioholics praised clean, natural highs with a sub; ASR found almost no bass, low sensitivity and a directivity dip; maker says a subwoofer is required.

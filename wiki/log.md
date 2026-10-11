@@ -570,3 +570,7 @@ Append-only. Each entry header: `## [YYYY-MM-DD] <op> | <title>`.
 - Seller availability is in `data/speaker-sellers.json` (3 agent passes plus a logged-in Crutchfield search of all 91 models). Fields are applied by `scripts/add_trial.py`, which also generates [returns-and-trials](comparisons/returns-and-trials.md).
 - Result: 62 no-hassle, 3 not (Chesky, March Audio at 14 days; XSA Labs at a 20% fee), 26 unknown.
 - Side finding: Crutchfield lists Revel Performa4 M145/M146 and Paradigm Premier 120B/220B v2 as current, confirming those successors.
+
+## [2026-10-11] lint | Claude.md updated for features added this session; wall_mount field added
+- Claude.md now documents: the on-wall category; the publishing policy (third-party raw/ stays local, photos hotlinked, licence); all `data/` files and scripts; the standard rebuild order; the photo block; return-policy fields and how to refresh them; the owner-review workflow; batched Discover/Ingest; generated comparison pages; and interpretation caveats (max SPL, no-hassle returns).
+- New frontmatter field `wall_mount` (none | keyhole | threaded-insert | bracket-included | on-wall-design). Set on 15 pages from maker specs or owner reports (`data/wall-mount.json`, `scripts/set_wall_mount.py`). Null means not yet checked.

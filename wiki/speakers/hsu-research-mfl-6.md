@@ -35,6 +35,7 @@ pref_score_sub: 5.6
 woofer_in: 6.5
 tweeter_type: null
 port: rear
+wall_mount: "on-wall-design"
 dimensions_mm: 391x203x257
 weight_kg: 5.9
 critic_consensus: Sound & Vision's reviewer found it smooth and precise; ASR measured strongly elevated treble and woofer resonances and did not recommend it.

@@ -35,6 +35,7 @@ pref_score_sub: 7.8
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 400x202x330
 weight_kg: 8.2
 critic_consensus: Lively, dynamic, engaging and easy to drive with strong imaging; brighter and less neutral than most, so amplifier matching matters.

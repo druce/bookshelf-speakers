@@ -35,6 +35,7 @@ pref_score_sub: 7.0
 woofer_in: 5.25
 tweeter_type: AMT
 port: rear
+wall_mount: null
 dimensions_mm: 319x216x245
 weight_kg: 6.7
 critic_consensus: Praised for refined, smooth, fatigue-free treble, rich midrange and surprising bass weight; caveats are placement sensitivity (about 12 in from the wall), a slightly dry or dark presentation, and a response dip near 2.8 kHz in measurements.

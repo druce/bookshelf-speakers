@@ -35,6 +35,7 @@ pref_score_sub: 8.4
 woofer_in: 5.25
 tweeter_type: dome
 port: rear
+wall_mount: "threaded-insert"
 dimensions_mm: 362x191x267
 weight_kg: 8.4
 critic_consensus: Both Erin and Amir praise very neutral in-room response and wide dispersion; caveats are low sensitivity and limited output at high SPL.

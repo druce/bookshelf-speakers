@@ -1,0 +1,15 @@
+{
+ "ascend-acoustics-cbm-170-se2": {"value": "threaded-insert", "source": "mfr-ascend-acoustics-cbm-170-se2", "note": "1/4-20 insert for wall mount brackets"},
+ "ascend-acoustics-sierra-1-v2": {"value": "threaded-insert", "source": "mfr-ascend-acoustics-sierra-1-v2", "note": "1/4-20 insert intended for Ascend TP-24 stands; fits standard 1/4-20 brackets"},
+ "ascend-acoustics-sierra-lx": {"value": "threaded-insert", "source": "mfr-ascend-acoustics-sierra-lx", "note": "1/4-20 insert intended for Ascend TP-24 stands"},
+ "totem-acoustic-kin-one": {"value": "threaded-insert", "source": "mfr-totem-acoustic-kin-one", "note": "maker: wall-mountable via 1/4-20 insert"},
+ "aperion-audio-verus-iii-concert-v8b": {"value": "threaded-insert", "source": "mfr-aperion-audio-verus-iii-concert-v8b", "note": "dual 1/4-20 inserts; 28 lb each"},
+ "role-audio-skiff": {"value": "threaded-insert", "source": "mfr-role-audio-skiff", "note": "retainer for Omnimount 10.0 / 1/4-20 brackets"},
+ "monitor-audio-apex-a10": {"value": "bracket-included", "source": "mfr-monitor-audio-apex-a10", "note": "tilting wall/ceiling bracket supplied (secondary spec source)"},
+ "hsu-research-mfl-6": {"value": "on-wall-design", "source": "mfr-hsu-research-mfl-6", "note": "angled baffle designed for flat wall mounting with toe-in; bookshelf category"},
+ "fluance-reference-xl8s": {"value": "keyhole", "source": "mfr-fluance-reference-xl8s", "note": "built-in keyhole"},
+ "polk-audio-t15": {"value": "keyhole", "source": "mfr-polk-audio-t15", "note": "integrated keyhole slot"},
+ "polk-audio-reserve-r200": {"value": "none", "source": "mfr-polk-audio-reserve-r200", "note": "spec: wall-mountable (keyhole slots) No"},
+ "polk-audio-reserve-r100": {"value": "none", "source": "crutchfield-polk-audio-reserve-r100", "note": "owner report C17: no native wall mounting (Tier E)"},
+ "svs-prime-bookshelf": {"value": "none", "source": "crutchfield-svs-prime-bookshelf", "note": "2 owners: no wall-mount provision (Tier E)"}
+}

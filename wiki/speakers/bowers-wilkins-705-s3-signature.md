@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 345x192x297
 weight_kg: 10.4
 critic_consensus: Praised for detail, imaging and punchy bass for its size; reviewers note a lifted presence/treble region and a large premium over the standard 705 S3.

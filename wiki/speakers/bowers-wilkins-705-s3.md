@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 345x192x297
 weight_kg: 9.6
 critic_consensus: Clean, detailed, wide-staging and well built, but treble-rich and cool; wants higher volumes and good, current-capable amplification.

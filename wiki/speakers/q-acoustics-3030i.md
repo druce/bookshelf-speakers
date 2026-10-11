@@ -35,6 +35,7 @@ pref_score_sub: 7.3
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 325x200x329
 weight_kg: 6.4
 critic_consensus: What Hi-Fi? gave five stars for smooth, cohesive sound with weighty, well-integrated bass; napilopez found neutral tonality and judged it better than the 3020i.

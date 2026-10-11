@@ -35,6 +35,7 @@ pref_score_sub: 6.4
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 376x216x351
 weight_kg: 7.7
 critic_consensus: "Only ASR's listening notes (Tier D): impressive fidelity after EQ, slightly muddy and bright as-is; no other professional review found."

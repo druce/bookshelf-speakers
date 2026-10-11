@@ -35,6 +35,7 @@ pref_score_sub: 5.3
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 362x225x232
 weight_kg: 7.0
 critic_consensus: null

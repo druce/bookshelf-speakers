@@ -35,6 +35,7 @@ pref_score_sub: 5.5
 woofer_in: 5.1
 tweeter_type: dome
 port: sealed
+wall_mount: null
 dimensions_mm: 305x191x203
 weight_kg: 5.1
 critic_consensus: Subjective reviewers (Stereo Times, TNT-Audio) praise integration, imaging and value; ASR's Klippel data shows a coloured midrange hill, weak bass and low sensitivity.

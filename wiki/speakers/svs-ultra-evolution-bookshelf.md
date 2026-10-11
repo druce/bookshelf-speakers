@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 378x220x286
 weight_kg: 8.6
 critic_consensus: Stereophile, Audioholics and Pragmatic Audio praise unusually weighty bass and smooth treble for a 6.5" standmount; Stereophile adds that it cannot fully excite a room at low levels without a sub.

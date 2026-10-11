@@ -35,6 +35,7 @@ pref_score_sub: 6.4
 woofer_in: 6.3
 tweeter_type: dome
 port: front
+wall_mount: null
 dimensions_mm: 380x206x314
 weight_kg: 6.3
 critic_consensus: Pro and enthusiast reviewers praise scale, detail and value; measurement reviewers (ASR, Erin) find an uneven midrange/treble and do not recommend it.

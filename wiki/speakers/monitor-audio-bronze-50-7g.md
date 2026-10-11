@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 335x185x328
 weight_kg: 6.4
 critic_consensus: Clear, fast, detailed and dynamic with controlled, deep-for-size bass at the price; a slightly assertive or "uptight" character and a widescreen rather than pinpoint stage are the main caveats.

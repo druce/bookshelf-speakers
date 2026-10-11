@@ -35,6 +35,7 @@ pref_score_sub: 3.1
 woofer_in: 8
 tweeter_type: coaxial
 port: front
+wall_mount: null
 dimensions_mm: 381x222x279
 weight_kg: 9.1
 critic_consensus: Positive Feedback finds it lively with wide imaging but not deep in bass (subs advised); Klippel data shows a coloured response and crossover-region problems.

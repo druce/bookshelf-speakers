@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 7
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 435x225x330
 weight_kg: 14
 critic_consensus: SoundStage's reviewer raved about neutrality, imaging and fast bass; the lab report found a lively treble and presence-band dip.

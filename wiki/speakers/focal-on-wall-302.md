@@ -36,6 +36,7 @@ pref_score_sub: null
 woofer_in: 4
 tweeter_type: dome
 port: rear
+wall_mount: "on-wall-design"
 dimensions_mm: 1250x155x90
 weight_kg: 9.4
 critic_consensus: Clear midrange and spirited-but-not-bright highs, loud for its size, little output below about 50 Hz so a subwoofer is advised; Audioholics and SoundStage! both recommend it.

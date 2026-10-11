@@ -35,6 +35,7 @@ pref_score_sub: 5.9
 woofer_in: 7.0
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 370x205x312
 weight_kg: 10.3
 critic_consensus: Praised for scale, bass for size, smooth refined treble and value; caveats are dynamics/cohesion versus the best rivals (What Hi-Fi?) and, per Erin, a 700 Hz woofer resonance and bright on-axis top end.

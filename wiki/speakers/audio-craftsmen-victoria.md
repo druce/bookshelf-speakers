@@ -35,6 +35,7 @@ pref_score_sub: 7.3
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 405x230x355
 weight_kg: 16.0
 critic_consensus: Steve Huff found it refined and smooth; Erin's listening notes found thin midrange and weak bass, so critics are split.

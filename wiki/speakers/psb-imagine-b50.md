@@ -35,6 +35,7 @@ pref_score_sub: 6.92
 woofer_in: 5.25
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 300x171x251
 weight_kg: 5.1
 critic_consensus: Praised for even midrange, coherence and bass deeper than its size suggests; Erin notes a wavy midrange and a directivity mismatch near 4 kHz.

@@ -35,6 +35,7 @@ pref_score_sub: 5.7
 woofer_in: 6.5
 tweeter_type: coaxial
 port: sealed
+wall_mount: null
 dimensions_mm: 305x203x292
 weight_kg: 10.0
 critic_consensus: Tone Audio (2015) praised coherence, imaging and ease of drive; ASR's Klippel review found it badly flawed and unrecommended.

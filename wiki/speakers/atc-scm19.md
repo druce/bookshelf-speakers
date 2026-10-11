@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6.0
 tweeter_type: dome
 port: sealed
+wall_mount: null
 dimensions_mm: 438x265x300
 weight_kg: 17.8
 critic_consensus: Praised for neutrality, dynamics, low-level resolution and tight sealed bass; caveats are no deep bass and a need for a powerful amp.

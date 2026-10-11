@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 355x220x400
 weight_kg: 14.5
 critic_consensus: Neutral-to-warm, very quiet cabinet, stable imaging and surprising bass for a stand-mount; a touch bright with bright electronics.

@@ -35,6 +35,7 @@ pref_score_sub: 6.6
 woofer_in: 4
 tweeter_type: dome
 port: null
+wall_mount: "threaded-insert"
 dimensions_mm: 243x127x159
 weight_kg: 2.8
 critic_consensus: Praised for imaging and rhythm for its size; caveats are a slightly bright upper midrange and the need for a subwoofer and limited loudness in larger rooms (one review, with Kin Amp).

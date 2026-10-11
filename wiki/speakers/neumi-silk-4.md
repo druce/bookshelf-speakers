@@ -35,6 +35,7 @@ pref_score_sub: 7.1
 woofer_in: 4
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 226x140x208
 weight_kg: 2.8
 critic_consensus: Seen as a smooth, slightly warm and clean small speaker for desks and small rooms; port resonances and limited bass are the caveats.

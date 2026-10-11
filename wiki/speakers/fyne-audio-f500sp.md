@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6
 tweeter_type: coaxial
 port: rear
+wall_mount: null
 dimensions_mm: 323x200x320
 weight_kg: 8.1
 critic_consensus: Stereophile found a wide, deep stage and taut, textured sound with good bass for size, but amp-sensitive and a little forward or lean in the treble with some partners.

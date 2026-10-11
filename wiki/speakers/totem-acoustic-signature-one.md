@@ -35,6 +35,7 @@ pref_score_sub: null
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 350x195x270
 weight_kg: 10.5
 critic_consensus: Reviewers praise silky treble, depth, imaging and tight bass for its size, with a narrow 500-600 Hz midrange disturbance noted by Stereophile and a long break-in.

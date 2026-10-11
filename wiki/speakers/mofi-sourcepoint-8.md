@@ -35,6 +35,7 @@ pref_score_sub: 7.28
 woofer_in: 8
 tweeter_type: coaxial
 port: rear
+wall_mount: null
 dimensions_mm: 456x290x335
 weight_kg: 12.7
 critic_consensus: Balanced, wide-range, non-fatiguing with a deep, transparent soundstage and punchy bass; caveats are little output below 50 Hz and limited ultimate level versus bigger speakers.

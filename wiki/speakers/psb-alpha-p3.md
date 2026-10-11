@@ -35,6 +35,7 @@ pref_score_sub: 5.6
 woofer_in: 4
 tweeter_type: dome
 port: rear
+wall_mount: null
 dimensions_mm: 220x130x174
 weight_kg: 2.2
 critic_consensus: Launch reviews praised clean, detailed mids and highs and a small footprint but noted little bass below about 60 Hz; ASR's measurements show uneven response with port/woofer resonances and very low sensitivity.

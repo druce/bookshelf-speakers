@@ -35,6 +35,7 @@ pref_score_sub: 5.9
 woofer_in: 7
 tweeter_type: dome
 port: sealed
+wall_mount: null
 dimensions_mm: 381.5x215x197.5
 weight_kg: 6.3
 critic_consensus: Studio-monitor critics find it a faithful NS-10 character (fast mids and bass) but brighter than the original and tiring; not recommended as a sole or neutral reference.

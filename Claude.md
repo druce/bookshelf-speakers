@@ -1,8 +1,10 @@
 # CLAUDE.md — Bookshelf Speaker Research Wiki
 
-This repo is an LLM-maintained research wiki (Karpathy "LLM Wiki" pattern) covering **passive, 6- or 8-ohm nominal bookshelf speakers currently sold new**. Goal: rank and compare them on measured performance — frequency response, directivity/dispersion, maximum output, distortion, sensitivity, impedance — and on aggregated critic and user assessments of sound quality.
+This repo is an LLM-maintained research wiki (Karpathy "LLM Wiki" pattern) covering **passive, 6- or 8-ohm nominal bookshelf speakers currently sold new**, plus a separately ranked **on-wall** category (§2). Goal: rank and compare them on measured performance — frequency response, directivity/dispersion, maximum output, distortion, sensitivity, impedance — and on aggregated critic and user assessments of sound quality.
 
 You (Claude) write and maintain everything under `wiki/` and `data/`. The human curates sources, directs analysis, and asks questions. `raw/` is read-only to you except when the human asks you to fetch a source into it.
+
+The repo is published publicly at github.com/druce/bookshelf-speakers. Third-party source copies under `raw/` stay local (see §1, Publishing).
 
 ---
 
@@ -27,9 +29,34 @@ wiki/
   concepts/<concept>.md           # e.g. spinorama, directivity-index, preference-score, epdr
   comparisons/<slug>.md           # Filed-back query answers, head-to-heads, ranked tables
 data/
-  speakers.csv            # Flat table regenerated from speaker-page frontmatter (see §6)
-scripts/                  # Small helpers you write as needed (CSV build, link check, search)
+  speakers.csv                    # Flat table generated from speaker-page frontmatter (see §6)
+  cta2034-metrics.json            # Uniform CTA-2034 metrics computed from raw Klippel exports
+  spinorama-passive-bookshelf.json# spinorama.org passive bookshelf list with evidence tiers
+  candidate-universe.csv          # Discover output (all screened models + verdicts)
+  ingest-packets-*.json           # Packets sent to ingest agents (slug, brand, model, measurements)
+  ingest-results/<slug>.json      # Per-candidate scope verdict sidecars (authoritative for Discover)
+  speaker-images.json             # Product photo URL per slug (hotlinked, not stored)
+  wall-mount.json                 # Wall-mount provision per slug, with source
+  seller-policies.json            # Verified return/trial policy per seller or maker
+  speaker-sellers.json            # Authorized US sellers per speaker (availability snapshot)
+scripts/
+  INGEST-PLAYBOOK.md              # Instructions for (sub)agent ingest; ONWALL-ADDENDUM.md for on-walls
+  fetch_raw.py / fetch_asset.py / fetch_spin_raw.py   # Save sources, graphs, Klippel exports into raw/
+  cta2034.py / compute_all.py     # Compute spinorama metrics (method in wiki/concepts/spinorama.md)
+  build_csv.py                    # data/speakers.csv
+  rank.py                         # ranked-by-price-band, ranked-on-wall, impedance-honesty, sensitivity-claims-vs-measured
+  size_table.py                   # size-and-weight comparison
+  build_universe.py               # candidate-universe page + CSV
+  add_trial.py                    # return/trial frontmatter + returns-and-trials page
+  set_wall_mount.py               # wall_mount frontmatter from data/wall-mount.json
+  add_photos.py                   # photo block + image_url from data/speaker-images.json
+  build_index.py / build_raw_manifest.py
+  wikilinks_to_md.py / check_links.py / fix_frontmatter.py   # link conversion and lint helpers
 ```
+
+**Publishing.** `raw/measurements`, `reviews-critic`, `reviews-user`, `manufacturer`, `assets` and per-speaker `raw/spinorama/*/` folders are gitignored: they are copies of third-party content. Only `raw/MANIFEST.md` (title, URL and fetch date of every raw doc; regenerate with `scripts/build_raw_manifest.py` after each ingest) and the spinorama.org metadata export are committed. Never commit third-party page text, review text or graphs. Product photos are hotlinked with attribution, never downloaded into the repo. Wiki text and data are CC BY-NC-SA 4.0 (ASR data share-alike); scripts MIT.
+
+**Standard rebuild before commit:** `fix_frontmatter.py` → `set_wall_mount.py` → `add_trial.py` → `add_photos.py` → `build_csv.py` → `rank.py` → `size_table.py` → `build_universe.py <scratch>` (if verdicts changed) → `build_raw_manifest.py` → `build_index.py` → `check_links.py` (must report 0 broken, 0 unconverted, 0 orphans, 0 frontmatter errors).
 
 ---
 
@@ -85,6 +112,7 @@ wall_voiced: null          # on-wall only: true | false | null
 status: current            # current | discontinued
 price_usd_pair: 499        # street price at last check
 price_checked: 2026-10-11
+image_url: null            # hotlinked product photo (scripts/add_photos.py)
 home_trial_days: null      # best return window among authorized US sellers (days)
 no_hassle_return: null     # true if >=30 days, opened speakers accepted, restocking fee on a normal return none or low (<=10%, or a flat fee <=$50 or <=~5% of pair price); buyer-paid return shipping allowed
 trial_seller: null         # seller offering that best policy
@@ -113,14 +141,23 @@ pref_score_sub: null       # with ideal sub
 woofer_in: null
 tweeter_type: null         # dome | ribbon | AMT | coaxial
 port: null                 # rear | front | sealed | passive-radiator
+wall_mount: null           # none | keyhole | threaded-insert | bracket-included | on-wall-design (maker spec, Tier C; or ≥2 owner reports, Tier E)
 dimensions_mm: null        # HxWxD
 weight_kg: null
 critic_consensus: null     # one line
 user_consensus: null       # one line
 sources: []                # list of wiki/sources slugs
 last_updated: 2026-10-11
+claimed_fr: null           # maker's FR claim as text (not data)
+primary_measurement: null  # source slug whose data fills the spinorama-derived fields
+measurement_count: null    # number of Tier A/B source pages
 ---
 ```
+
+Field notes:
+- **Returns** (`home_trial_days` … `trial_checked`): set only by `scripts/add_trial.py`. The rule: best policy among authorized US sellers currently selling the model new. The fee counted is for a normal return of opened, complete, undamaged speakers in original packaging; fees triggered only by missing packaging or damage don't count. Never hand-edit; update `data/seller-policies.json` (verified from the seller's own policy page, raw copy saved as `raw/manufacturer/policy-<seller>.md`) or `data/speaker-sellers.json`, then re-run. All comparison output goes to [[returns-and-trials]].
+- **wall_mount**: from the maker's spec page, or ≥2 independent owner reports. Record the source in `data/wall-mount.json` and re-run `scripts/set_wall_mount.py`. `null` means not checked, not "no". Rear-ported speakers on a wall gain boundary bass ([[bass-extension-vs-room-gain]]).
+- **image_url**: manufacturer product image preferred, then a major retailer. Check visually that it shows the right product, and reject logos, lifestyle shots where the speaker is tiny, or wrong models.
 
 Body sections, in order:
 1. `## Summary` — 3–5 sentences: what it is, how it measures, who it suits.
@@ -133,7 +170,9 @@ Body sections, in order:
 8. `## Conflicts` — disagreements between sources, unresolved.
 9. `## Related` — links to brand, siblings, competitors, comparisons.
 
-Keep pages under ~800 words. Link generously.
+Keep pages under ~800 words (~1,000 when owner-review tallies are present). Link generously.
+
+**Photo block.** Directly after the frontmatter, `scripts/add_photos.py` inserts a 360 px `<img>` plus an attribution line between `<!-- photo -->` and `<!-- /photo -->` markers. Don't edit inside the markers; edit `data/speaker-images.json` and re-run.
 
 **Link format.** Committed pages use relative markdown links so they render on GitHub, e.g. `[Polk Audio T15](../speakers/polk-audio-t15.md)` or `[asr-polk-audio-t15](../sources/asr-polk-audio-t15.md)`. While drafting you may write `[[slug]]` or `[[slug|text]]`; `scripts/wikilinks_to_md.py` converts them, labelling speakers "Brand Model" and brands by name, and runs automatically at the end of `build_index.py`, `rank.py` and `build_universe.py`. Run it before every commit. Links to screened models without a page become plain text. `scripts/check_links.py` reports broken links and any leftover `[[...]]`.
 
@@ -146,6 +185,7 @@ Run when the human asks to expand coverage.
 1. Search spinorama.org and ASR's speaker review index for passive bookshelf models; search manufacturer lineups for 8 Ω standmounts.
 2. Write `wiki/comparisons/candidate-universe.md`: every in-scope model found, with columns: brand, model, price, Tier-A data available (y/n), source URLs.
 3. Do not create speaker pages yet. Report count found, count with Tier-A data, and suggested ingest order (Tier-A available first, then by price band).
+4. At scale, Discover and Ingest run as batched subagents following `scripts/INGEST-PLAYBOOK.md`: each candidate gets a scope gate (manufacturer spec page plus US availability), then ingest if in scope with Tier A/B data. Each writes a sidecar JSON verdict (`in-scope | out-of-scope | discontinued | no-tier-ab`) that `build_universe.py` uses. Lineup sweeps by brand catch models missing from spinorama.org.
 
 ### Ingest (one source at a time by default)
 1. If the human gives a URL, fetch it and save to the correct `raw/` subfolder as markdown with a header: title, URL, author, publication date, fetch date. Save graphs to `raw/assets/` when they carry data.
@@ -154,7 +194,15 @@ Run when the human asks to expand coverage.
 4. Create `wiki/sources/<slug>.md`: summary, extracted values table, method notes, reliability notes.
 5. Create or update each affected `wiki/speakers/*.md`, `wiki/brands/*.md`, `wiki/reviewers/*.md`. Update frontmatter only where the new source is equal or higher tier, or fills a null. Record conflicts.
 6. Update `wiki/index.md` and append to `wiki/log.md`.
-7. Regenerate `data/speakers.csv`.
+7. Regenerate `data/speakers.csv` (run the standard rebuild in §1), regenerate `raw/MANIFEST.md`, commit and push.
+
+### Owner reviews (Tier E)
+- Retailer reviews are read in full via the logged-in Chrome session (Crutchfield works; Reddit is blocked by the extension; AVS Forum search is mostly classifieds). An in-page digest flags themes, then counts are hand-coded from the full text of every negative or flagged review.
+- Save a paraphrased clip (≤15-word quotes, per-review ids, theme tallies, QC section) to `raw/reviews-user/<retailer>-<slug>-<date>.md`, a `wiki/sources/<retailer>-<slug>.md` page, and update the speaker's User reviews section and `user_consensus`.
+- Report driver or electrical failures as "k of N". Add Conflicts bullets where owner patterns contradict measurements (e.g. "bass good for size" vs measured f3).
+
+### Returns refresh
+Re-verify seller policies and availability at least every 90 days, or when a price/status changes: update `data/seller-policies.json` and `data/speaker-sellers.json`, run `scripts/add_trial.py`, and log it.
 
 A single source commonly touches 5–15 pages. That is expected.
 
@@ -167,7 +215,8 @@ A single source commonly touches 5–15 pages. That is expected.
 ### Lint (run on request, or every ~10 ingests)
 Check and report:
 - Contradictions between pages, or frontmatter that disagrees with its own body.
-- Speakers with no Tier-A/B data; speakers whose price or status is >90 days stale.
+- Speakers with no Tier-A/B data; speakers whose price, status or `trial_checked` is >90 days stale.
+- Missing `image_url` or `wall_mount` on shortlisted speakers; on-wall pages without `wall_voiced`.
 - Unconverted sensitivity figures; impedance flags not set where data supports them.
 - Orphan pages (no inbound links), broken links or unconverted `[[...]]`, concepts mentioned ≥3 times without a page.
 - Sources ingested but not reflected in speaker pages.
@@ -190,6 +239,8 @@ Followed by 1–5 bullets: pages created/updated, conflicts noted.
 
 **data/speakers.csv** — generated by `scripts/build_csv.py` from speaker-page frontmatter. One row per speaker, columns match frontmatter keys. Never hand-edit; regenerate after every ingest.
 
+**Generated comparison pages** (regenerate, don't hand-edit outside their `## Notes` section, which is preserved): `ranked-by-price-band` (bookshelf; Group A = within 0.5 pref-with-sub of band leader, Group B = within 1.0), `ranked-on-wall`, `impedance-honesty`, `sensitivity-claims-vs-measured`, `size-and-weight`, `returns-and-trials`, `candidate-universe`. The current shortlist (Group A per band) lives in the Notes of `ranked-by-price-band` and in `overview.md`.
+
 ---
 
 ## 7. Interpretation standards
@@ -202,7 +253,9 @@ Use these when summarizing or ranking. State them when they drive a conclusion.
 - **Distortion**: THD <1% above 100 Hz at 86 dB is clean; note where it rises above 3% at 96 dB.
 - **Preference score**: differences <0.5 are not meaningful; never rank on score alone.
 - **On-wall speakers**: free-field (anechoic/Klippel) bass figures of wall-voiced designs understate in-use bass. Do not apply the f3 labels above to them, and rank on-walls only against each other.
-- Small-sample user reviews (<5) are anecdote; say so.
+- Small-sample user reviews (<5) are anecdote; say so. Retailer reviews skew positive and self-selected; weight QC/failure counts more than praise.
+- **Max SPL** values are not comparable across reviewers (EAC's 102 dB test ceiling vs ASR draft compression charts). Never rank on `max_spl_db`.
+- **No-hassle return** is a buying convenience, not a quality signal; never let it change a ranking.
 
 ---
 

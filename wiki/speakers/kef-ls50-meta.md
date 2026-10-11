@@ -35,6 +35,7 @@ pref_score_sub: 7.9
 woofer_in: 5.25
 tweeter_type: coaxial
 port: rear
+wall_mount: null
 dimensions_mm: 302x200x280.5
 weight_kg: 7.8
 critic_consensus: Praised for transparency, precise imaging and a smooth, balanced midrange; caveats are limited bass depth/dynamics and need for a capable amplifier.
