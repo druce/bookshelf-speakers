@@ -18,6 +18,11 @@ Small speakers run out of output before their amplifiers do. Two limits apply:
 - `max_spl_db`: max SPL @ 1 m before ≥ 3 dB compression or audible distortion. The speaker page must state the method, the band, and whose test it is.
 - `thd_86db_pct` and `thd_96db_pct`: THD at 86 or 96 dB SPL @ 1 m, as a typical value over 100 Hz–10 kHz. Values read off a graph are marked "graph-read" in the source page.
 
+## Comparability caveat (added 2026-10-11 after initial ingest)
+- Several EAC-based pages record `max_spl_db: 102`. That is Erin's **highest test level**, not a failure point; the true limit is ≥ 102 dB in the stated band.
+- ASR-based values (e.g. [[revel-m105]] ~111 dB, [[revel-m106]] ~110 dB) come from ASR's draft 80 Hz compression chart, which has an unstated criterion.
+- Because of this, `max_spl_db` is not used for ranking ([[ranked-by-price-band]]). Compare output only within one reviewer.
+
 ## Practical translation
 SPL falls about 6 dB per doubling of distance in free field; in typical rooms it falls 3–5 dB. At 3 m, a pair gives roughly 3–5 dB less than 1 m single-speaker figures, offset by pair summation (+3 to +6 dB). For 85 dB peaks at the seat (loud listening), a bookshelf speaker typically needs about 100 dB clean at 1 m.
 
