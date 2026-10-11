@@ -1,0 +1,21 @@
+{
+ "slug": "ascend-acoustics-sierra-2ex-v2",
+ "brand": "Ascend Acoustics",
+ "model": "Sierra-2EX V2",
+ "brand_slug": "ascend-acoustics",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 8 ohm nominal, 6in SEAS woofer, 14.25x7.5x10.5 in, $1,748/pair on ascendacoustics.com, current) but only vendor-published Klippel spinorama (Tier C: spinorama.org lists sens 82.9 dB, f3 58.6 Hz, pref 5.9; vendor data) exists. No ASR/Erin/Audioholics/Stereophile/NRC measurement found; ASR video only critiques a GR Research crossover mod.",
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1748,
+ "price_source": "https://www.ascendacoustics.com/products/sierra-2ex-v2-pair",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-ascend-acoustics-sierra-2ex-v2.md"
+ ],
+ "evidence": [
+  "https://www.ascendacoustics.com/products/sierra-2ex-v2-pair",
+  "https://www.spinorama.org/speakers/Ascend%20Acoustics%20Sierra-2EX%20V2/Ascend%20Acoustics/index_vendor.html"
+ ],
+ "successor": null
+}

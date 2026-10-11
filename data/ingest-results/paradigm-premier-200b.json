@@ -1,0 +1,20 @@
+{
+ "slug": "paradigm-premier-200b",
+ "brand": "Paradigm",
+ "model": "Premier 200B",
+ "brand_slug": "paradigm",
+ "verdict": "discontinued",
+ "reason": "paradigm.com product page marks it discontinued (previously $499.99 each; 'compatible with 8 ohms'; 33.5x19.8x32.1 cm, 6.5 in woofer); only factory-refurbished listings remain. No Tier A/B measurement found either.",
+ "successor": "not stated",
+ "nominal_impedance_ohm": 8,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://www.paradigm.com/en/passive/premier-200b",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-paradigm-premier-200b.md"
+ ],
+ "evidence": [
+  "https://www.paradigm.com/en/passive/premier-200b"
+ ]
+}

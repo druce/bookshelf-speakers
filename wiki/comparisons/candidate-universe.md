@@ -1,14 +1,14 @@
 ---
 type: comparison
 slug: candidate-universe
-summary: Discover output — 375 models screened, 141 in scope, 89 with Tier A/B data
+summary: Discover output — 383 models screened, 145 in scope, 89 with Tier A/B data
 last_updated: 2026-10-11
 ---
 # Candidate universe
 
 Built by `scripts/build_universe.py` from the [spinorama-org](../sources/spinorama-org.md) passive-bookshelf list (Tier A/B entries), manufacturer lineup sweeps of about 40 brands, and the scope verdicts written by ingest. Ingest verdicts were checked against manufacturer spec pages and US retailers on 2026-10-11. Rows marked "quick pass" were excluded on a first search pass and not re-verified, so treat them as provisional. Scope: passive, rated 6 or 8 Ω, bookshelf or standmount, sold new in the US (Claude.md §2).
 
-**Counts:** 375 screened · 141 in scope · 89 in scope with Tier A/B data.
+**Counts:** 383 screened · 145 in scope · 89 in scope with Tier A/B data.
 
 ## In scope — ingested (speaker page exists) (89)
 
@@ -104,12 +104,15 @@ Built by `scripts/build_universe.py` from the [spinorama-org](../sources/spinora
 | Yamaha | [Yamaha NS-800A](../speakers/yamaha-ns-800a.md) | $5,000 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/yamaha_ns800a/) |
 | Zu Audio | [Zu Audio Method](../speakers/zu-audio-method.md) | $1,438 | 8 | y (A) | — |
 
-## In scope — no Tier A/B measurement found (52)
+## In scope — no Tier A/B measurement found (56)
 
 | Brand | Model | Price/pr | Rated Ω | Tier A/B data | Note |
 |---|---|---|---|---|---|
+| Ascend Acoustics | Sierra-2EX V2 | $1,748 | 8 | n | In scope (passive, 8 ohm nominal, 6in SEAS woofer, 14.25x7.5x10.5 in, $1,748/pai |
 | ATC | SCM11 | $2,699 | 8 | n | In scope (passive, 8 ohm nominal per ATC, 6in sealed, 381 mm, sold new in US; US |
 | ATC | SCM20PSL | $6,499 | 8 | n | In scope (8 Ω nominal/5.5 Ω min per maker, sealed 6" standmount, 440 mm, current |
+| Axiom | M2 v4 | $698 | 8 | n | In scope (8 ohm, 5.25in, 292 mm tall) but no Tier A/B measurement of v4; only ol |
+| Axiom | M3 | $798 | 8 | n | In scope (8 ohm, 6.5in, 343 mm tall) but no Tier A/B of current version; only M3 |
 | Bowers & Wilkins | 606 S3 | $1,200 | 8 | n | In scope (8 Ω nominal, min 3.7 Ω per maker, 6.5" woofer, 344 mm cabinet, passive |
 | Bowers & Wilkins | 607 S3 | $1,000 | 8 | n | In scope (8 Ω nominal, min 3.0 Ω per maker, 5.0" woofer, 300 mm cabinet, passive |
 | Cambridge Audio | SX-50 | $229 | 8 | n | In scope (passive, '8 Ohms compatible' with no explicit nominal and not rated 4  |
@@ -131,6 +134,7 @@ Built by `scripts/build_universe.py` from the [spinorama-org](../sources/spinora
 | Fyne Audio | Vintage Five | $4,999 | 8 | n | In scope (8 Ω per maker, bookshelf) but no Tier A/B measurement found (searched  |
 | Graham Audio | Chartwell LS6 | — | 8 | n | In scope on dealer-reproduced specs (8 ohm, 87 dB/2.83V/1m, 6.5in, 370 mm tall)  |
 | Harbeth | P3ESR XD | $2,990 | 6 | n | In scope on maker page (6 ohm nominal, 83 dB/2.83V/1m, 306x190x184 mm, 6.1 kg, 1 |
+| Harbeth | P3ESR XD2 | $3,790 | 6 | n | In scope: maker page 6 ohm, 83 dB/2.83V/1m, 306x190 mm cabinet, 110 mm RADIAL4 d |
 | Kanto | YUP6 | $280 | 6 | n | In scope (passive, 6 Ω per retailer/spec listings, 5.25" woofer, ~272 mm tall, s |
 | Klipsch | R-40M | — | 8 | n | Passive 8 ohm Reference-series bookshelf, current on klipsch.com; searched ASR,  |
 | Klipsch | R-50M | — | 8 | n | Passive 8 ohm Reference-series bookshelf, current on klipsch.com; searched ASR,  |
@@ -165,7 +169,7 @@ Built by `scripts/build_universe.py` from the [spinorama-org](../sources/spinora
 
 _None._
 
-## Discontinued (excluded from rankings) (106)
+## Discontinued (excluded from rankings) (107)
 
 | Brand | Model | Price/pr | Rated Ω | Tier A/B data | Successor |
 |---|---|---|---|---|---|
@@ -244,6 +248,7 @@ _None._
 | NHT | SB2 | — | 8 | y (A) | — |
 | Outlaw Audio | BLSv2 | — | — | y (A) | — |
 | Paradigm | Cinema 100 | — | 8 | y (A) | — |
+| Paradigm | Premier 200B | — | 8 | n | not stated |
 | Paradigm | Prestige 15B | $1,598 | 8 | y (A) | — |
 | Pioneer | SP-BS22-LR | — | 6 | y (A) | — |
 | Pioneer | SP-EBS73-LR | — | — | y (A) | — |
@@ -276,13 +281,14 @@ _None._
 | Yamaha | NS-18 | — | — | y (B) | — |
 | Yamaha | NS-6490 | — | 8 | y (A) | — |
 
-## Out of scope (impedance, form factor, powered) (94)
+## Out of scope (impedance, form factor, powered) (97)
 
 | Brand | Model | Price/pr | Rated Ω | Tier A/B data | Reason |
 |---|---|---|---|---|---|
 | Aoshida Audio | Musician Knight I V2 | $2,099 | 4 | y (A) | Rated impedance 4 Ohms per maker spec sheet (screenshot in ASR review thread); 6/8 ohm sco |
 | Aperion Audio | Novus N5B | — | 4 | y (A) | Aperion spec page states Impedance 4 Ohms (sensitivity 85 dB); 6/8 ohm scope not met. |
 | Arendal Sound | 1528 Monitor 8 | — | 4 | y (A) | Nominal impedance 4 ohm: 4-ohm nominal per maker; also 2x8in woofers, 47 kg, ~808 mm tall  |
+| Arendal Sound | 1610 Bookshelf 8 | — | 4 | y (A/B) | Maker rates nominal impedance 4 ohm (tech page; Audioholics agrees); cabinet 477 mm tall ( |
 | Arendal Sound | 1723 Bookshelf S THX | — | 4 | y (A) | Nominal impedance 4 ohm: maker states 4-ohm nominal (tech tab) |
 | Arendal Sound | 1723 Monitor S THX | — | 4 | y (A) | Nominal impedance 4 ohm: maker states 4-ohm nominal (tech tab) |
 | Arendal Sound | 1723 Monitor THX | — | 4 | y (A) | Nominal impedance 4 ohm: maker states 4-ohm nominal (tech tab); also 2x8in woofers, 26.7 k |
@@ -291,6 +297,7 @@ _None._
 | AsciLab | C6B | — | 4 | y (A) | Nominal impedance 4 ohm (min 2.6 ohm @ 200 Hz) per Audiophonics listings; EU/UK sales only |
 | AsciLab | F6B | — | 4 | y (A) | Nominal impedance 4 ohm (min 3.5 ohm @ 140 Hz), 84 dB per Audiophonics listing; EU sales,  |
 | AsciLab | F6Bs | — | 4 | y (A) | Nominal impedance 4 ohm (min 3.7 ohm @ 190 Hz), 83 dB per Audiophonics listing; EUR 799 ea |
+| Axiom | M5HP | $1,098 | 8 | n | Cabinet 483 mm (19 in) tall, over the ~457 mm height limit; 3-way, 8 ohm, 6.5in woofer. So |
 | Buchardt Audio | S400 MKII | $2,200 | 4 | y (A) | Nominal impedance 4 ohm (Erin's Audio Corner/spinorama vendor spec, Speaker Decision, hifi |
 | Cambridge Audio | Minx MIN12 | $198 | 8 | y (B) | 78 x 78 x 85 mm single 2.25" BMR satellite cube, 150 Hz-20 kHz, sold individually ($99 eac |
 | Canton | Plus GLX.3 | — | 4 | y (A) | ASR-reviewed unit is the Canton Plus GXL.3, a small plastic wall-mount/ambient speaker; se |
@@ -310,6 +317,7 @@ _None._
 | Fyne Audio | F300i | — | 8 | n | No evidence it is sold new in the US: Fyne page is UK-only (GBP 250/pair); only UK/AU/NZ/C |
 | Fyne Audio | F301i | — | 8 | n | No evidence it is sold new in the US: Fyne page is UK-only (GBP 349.99/pair, listed out of |
 | GoldenEar | BRX | $1,598 | 4 | y (A) | Maker spec sheet (goldenear.com/?p=757) lists Nominal Impedance 4 ohm, sensitivity 88 dB 1 |
+| Harbeth | C7ES-3 XD | — | 6 | n | Cabinet 520 mm tall (20.5 in) exceeds ~18 in / 457 mm standmount limit (maker spec 520x272 |
 | iKey-Audio | M-808V2 | — | — | y (A) | powered/active (quick pass) — Active nearfield monitor, not passive; M808 discontinued at  |
 | Jamo | S7-15B | $399 | 4 | y (A) | Manufacturer rates nominal impedance 4 ohm (jamo.com spec); Erin also lists 4 ohm. |
 | JBL | 4309 | $2,000 | 4 | y (A/B) | Nominal impedance 4 ohm per JBL spec sheet and Audio Advice; also sold out at Audio Advice |

@@ -1,0 +1,21 @@
+{
+ "slug": "arendal-sound-1610-bookshelf-8",
+ "brand": "Arendal Sound",
+ "model": "1610 Bookshelf 8",
+ "brand_slug": "arendal-sound",
+ "verdict": "out-of-scope",
+ "reason": "Maker rates nominal impedance 4 ohm (tech page; Audioholics agrees); cabinet 477 mm tall (18.8 in) also exceeds ~18 in. No 1610 Bookshelf 6 exists (tech URL 404; maker lists only Bookshelf 8 and Slim 8 as bookshelf-category), so no second sidecar.",
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "price not listed on maker tech page",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/manufacturer/mfr-arendal-sound-1610-bookshelf-8.md"
+ ],
+ "evidence": [
+  "https://arendalsound.com/product/1610-bookshelf-8/tech/",
+  "https://www.audioholics.com/bookshelf-speaker-reviews/arendal-sound-1610"
+ ],
+ "successor": null
+}

@@ -12059,5 +12059,104 @@
    "product_url": "https://www.bhphotovideo.com/c/product/1904357-REG/sony_sscs5m2_bookshelf_speakers_pair.html",
    "notes": "3-way, 130 mm woofer. Tier-A is for predecessor SS-CS5, not M2. Sony site not fetched."
   }
+ },
+ {
+  "kind": "lineup",
+  "brand": "Ascend Acoustics",
+  "model": "Sierra-2EX V2",
+  "slug": "ascend-acoustics-sierra-2ex-v2",
+  "brand_slug": "ascend-acoustics",
+  "primary_measurement": null,
+  "measurements": [],
+  "tier_a_hints": [],
+  "unverified_hints": {
+   "notes": "successor to Sierra-2; spinorama.org has vendor (Tier C) data only; price ~$1,698/pr"
+  },
+  "spinorama_note": "vendor-only spinorama entry 'Ascend Acoustics Sierra-2EX V2'"
+ },
+ {
+  "kind": "lineup",
+  "brand": "Arendal Sound",
+  "model": "1610 Bookshelf 8",
+  "slug": "arendal-sound-1610-bookshelf-8",
+  "brand_slug": "arendal-sound",
+  "primary_measurement": null,
+  "measurements": [],
+  "tier_a_hints": [],
+  "unverified_hints": {
+   "notes": "Arendal 1723 models are 4 ohm; check 1610 rating; also check whether a 1610 Bookshelf 6 exists and screen it too (add a second sidecar arendal-sound-1610-bookshelf-6 if so)"
+  }
+ },
+ {
+  "kind": "lineup",
+  "brand": "Harbeth",
+  "model": "P3ESR XD2",
+  "slug": "harbeth-p3esr-xd2",
+  "brand_slug": "harbeth",
+  "primary_measurement": null,
+  "measurements": [],
+  "tier_a_hints": [],
+  "unverified_hints": {
+   "notes": "newer than P3ESR XD (which was no-tier-ab); check whether XD2 replaced XD; Stereophile/SoundStage/Hi-Fi News may have measured it"
+  }
+ },
+ {
+  "kind": "lineup",
+  "brand": "Harbeth",
+  "model": "C7ES-3 XD",
+  "slug": "harbeth-c7es-3-xd",
+  "brand_slug": "harbeth",
+  "primary_measurement": null,
+  "measurements": [],
+  "tier_a_hints": [],
+  "unverified_hints": {
+   "notes": "Compact 7ES-3 XD (or XD2); check height <= ~18in and rating; Stereophile measured C7ES-3 variants"
+  }
+ },
+ {
+  "kind": "lineup",
+  "brand": "Paradigm",
+  "model": "Premier 200B",
+  "slug": "paradigm-premier-200b",
+  "brand_slug": "paradigm",
+  "primary_measurement": null,
+  "measurements": [],
+  "tier_a_hints": [],
+  "unverified_hints": {
+   "notes": "earlier sweep said paradigm.com marks Premier 100B/200B discontinued; verify; if still sold new in US, ingest (SoundStage/NRC and Erin may have measured it)"
+  }
+ },
+ {
+  "kind": "lineup",
+  "brand": "Axiom",
+  "model": "M5HP",
+  "slug": "axiom-m5",
+  "brand_slug": "axiom",
+  "primary_measurement": null,
+  "measurements": [],
+  "tier_a_hints": [],
+  "unverified_hints": {}
+ },
+ {
+  "kind": "lineup",
+  "brand": "Axiom",
+  "model": "M3",
+  "slug": "axiom-m3",
+  "brand_slug": "axiom",
+  "primary_measurement": null,
+  "measurements": [],
+  "tier_a_hints": [],
+  "unverified_hints": {}
+ },
+ {
+  "kind": "lineup",
+  "brand": "Axiom",
+  "model": "M2 v4",
+  "slug": "axiom-m2-v4",
+  "brand_slug": "axiom",
+  "primary_measurement": null,
+  "measurements": [],
+  "tier_a_hints": [],
+  "unverified_hints": {}
  }
 ]

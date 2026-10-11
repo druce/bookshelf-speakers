@@ -1,0 +1,21 @@
+{
+ "slug": "harbeth-c7es-3-xd",
+ "brand": "Harbeth",
+ "model": "Compact 7ES-3 XD",
+ "brand_slug": "harbeth",
+ "verdict": "out-of-scope",
+ "reason": "Cabinet 520 mm tall (20.5 in) exceeds ~18 in / 457 mm standmount limit (maker spec 520x272x305 mm; XD2 successor same size). 6 ohm, 86 dB, 200 mm woofer. No Stereophile/HFN measurement found for XD variants anyway.",
+ "successor": "harbeth-c7es-3-xd2 (also out of scope on height)",
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "What Hi-Fi cites $3,990 (unverified)",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-harbeth-c7es-3-xd.md"
+ ],
+ "evidence": [
+  "https://www.harbeth.co.uk/c7es-3-xd/",
+  "https://www.whathifi.com/us/reviews/harbeth-compact-7es-3-xd"
+ ]
+}

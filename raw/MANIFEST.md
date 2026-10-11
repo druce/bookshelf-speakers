@@ -432,7 +432,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | users-wharfedale-super-denton-2026-10-11.md | User reports: Wharfedale Super Denton |  | 2026-10-11 |
 | users-xsa-labs-vanguard-2026-10-11.md | User/forum reactions: XSA Labs Vanguard |  | 2026-10-11 |
 
-## raw/manufacturer/ (284)
+## raw/manufacturer/ (292)
 
 | File | Title | URL | Fetched |
 |---|---|---|---|
@@ -444,12 +444,14 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | mfr-aperion-audio-novus-n5b.md | Novus N5B 5.25" Bookshelf Speaker Pair | https://www.aperionaudio.com/products/novus-n5b-front-ported-bookshelf | 2026-10-11 |
 | mfr-aperion-audio-verus-iii-concert-v8b.md | Verus V8B Bookshelf Speaker Pair | https://aperionaudio.com/products/v8b | 2026-10-11 |
 | mfr-arendal-sound-1528-monitor-8.md | 1528 Monitor 8 | https://arendalsound.com/product/1528-monitor-8/ | 2026-10-11 |
+| mfr-arendal-sound-1610-bookshelf-8.md | 1610 Bookshelf 8 Tech Specs | https://arendalsound.com/product/1610-bookshelf-8/tech/ | 2026-10-11 |
 | mfr-arendal-sound-1723-bookshelf-s-thx.md | 1723 Bookshelf S THX | https://arendalsound.com/product/1723-bookshelf-s-thx/ | 2026-10-11 |
 | mfr-arendal-sound-1723-monitor-s-thx.md | 1723 Monitor S THX | https://arendalsound.com/product/1723-monitor-s-thx/ | 2026-10-11 |
 | mfr-arendal-sound-1723-monitor-thx.md | 1723 Monitor THX | https://arendalsound.com/product/1723-monitor-thx/ | 2026-10-11 |
 | mfr-arendal-sound-1961-monitor.md | 1961 Monitor | https://arendalsound.com/product/1961-monitor/ | 2026-10-11 |
 | mfr-ascend-acoustics-cbm-170-se2.md | CBM-170SE2 BOOKSHELF MONITOR PAIR | https://www.ascendacoustics.com/products/cbm-170se2-bookshelf-monitor-pair | 2026-10-11 |
 | mfr-ascend-acoustics-sierra-1-v2.md | SIERRA-1 V2 PAIR | https://www.ascendacoustics.com/products/sierra-1-v2-pair | 2026-10-11 |
+| mfr-ascend-acoustics-sierra-2ex-v2.md | SIERRA-2EX V2 PAIR | https://www.ascendacoustics.com/products/sierra-2ex-v2-pair | 2026-10-11 |
 | mfr-ascend-acoustics-sierra-collection.md | Sierra Series Pairs | https://www.ascendacoustics.com/collections/sierra-series-pairs | 2026-10-11 |
 | mfr-ascend-acoustics-sierra-lx.md | SIERRA-LX PAIR | https://www.ascendacoustics.com/products/sierra-lx-pair | 2026-10-11 |
 | mfr-atc-scm11.md | SCM11 - ATC Loudspeakers | https://atc.audio/hi-fi/loudspeakers/entry-series/scm11/ | 2026-10-11 |
@@ -459,6 +461,9 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | mfr-audio-craftsmen-victoria.md | Victoria speakers by Pahmer Audio | https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria | 2026-10-11 |
 | mfr-audioadvisor-elac-debut-reference-dbr-62.md | ELAC DBR62 Debut Reference Bookshelf Speakers / Audio Advisor | https://www.audioadvisor.com/products/elac-dbr62-debut | 2026-10-11 |
 | mfr-avantone-pro-cla-10.md | Avantone Pro CLA-10 Passive - Classic Reference Studio Monitor System | https://www.proaudiodesign.com/products/avantone-pro-cla-10-passive-classic-reference-studio-monitor-system | 2026-10-11 |
+| mfr-axiom-m2-v4.md | M2 Bookshelf Speakers | https://www.axiomaudio.com/m2-bookshelf-speakers | 2026-10-11 |
+| mfr-axiom-m3.md | M3 Bookshelf Speakers | https://www.axiomaudio.com/m3-bookshelf-speakers | 2026-10-11 |
+| mfr-axiom-m5.md | M5 Bookshelf Speakers | https://www.axiomaudio.com/m5-bookshelf-speakers | 2026-10-11 |
 | mfr-bic-america-venturi-dv62si.md | Venturi DV62si bookshelf speakers / BIC America | https://www.bicamerica.com/products/dv62si | 2026-10-11 |
 | mfr-bowers-wilkins-606-s3.md | 606 S3 - Performance 600 Series stand mount speakers / Bowers & Wilkins - United States | https://www.bowerswilkins.com/en-us/product/loudspeakers/600-series/606-s3/300660.html | 2026-10-11 |
 | mfr-bowers-wilkins-607-s3.md | 607 S3 - Performance Compact bookshelf speakers / Bowers & Wilkins - United States | https://www.bowerswilkins.com/en-us/product/loudspeakers/600-series/607-s3/300661.html | 2026-10-11 |
@@ -528,7 +533,9 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | mfr-fyne-audio-vintage-five.md | Vintage Five Bookshelf Speaker / Hi-Fi - FYNE AUDIO | https://www.fyneaudio.com/product/vintage-five/ | 2026-10-11 |
 | mfr-goldenear-brx.md | BRX (Bookshelf Reference X) / GoldenEar | https://www.goldenear.com/bookshelf-speakers/brx-bookshelf-reference-x | 2026-10-11 |
 | mfr-graham-audio-chartwell-ls6.md | Graham Audio LS6 Loudspeaker / Stone Audio | https://www.stoneaudio.co.uk/products/graham-audio-ls6-loudspeaker | 2026-10-11 |
+| mfr-harbeth-c7es-3-xd.md | C7ES-3 XD – Harbeth | https://www.harbeth.co.uk/c7es-3-xd/ | 2026-10-11 |
 | mfr-harbeth-p3esr-xd.md | P3ESR XD – Harbeth | https://www.harbeth.co.uk/p3esr-xd/ | 2026-10-11 |
+| mfr-harbeth-p3esr-xd2.md | P3ESR XD2 loudspeaker – Harbeth | https://www.harbeth.co.uk/p3esr-xd2/ | 2026-10-11 |
 | mfr-hsu-research-ccb-8.md | CCB-8 Speaker | https://hsuresearch.com/products/ccb-8-speaker | 2026-10-11 |
 | mfr-hsu-research-hb-1-mk2.md | Hsu Research speakers collection (HB-1 MK2 absent; product URL 404) | https://hsuresearch.com/collections/speakers | 2026-10-11 |
 | mfr-hsu-research-mfl-6.md | MFL-6 Speaker :: Dolby Atoms Speaker | https://hsuresearch.com/products/mfl-6-speaker | 2026-10-11 |
@@ -595,6 +602,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | mfr-paradigm-founder-70lcr.md | Paradigm Founder 70LCR (manufacturer page) | https://www.paradigm.com/en/passive/founder-70lcr | 2026-10-11 |
 | mfr-paradigm-monitor-se-atom.md | Paradigm Monitor SE Atom (manufacturer page) | https://www.paradigm.com/en/passive/monitor-se-atom | 2026-10-11 |
 | mfr-paradigm-persona-b.md | Paradigm Persona B specifications | https://www.paradigm.com/en/passive/persona-b | 2026-10-11 |
+| mfr-paradigm-premier-200b.md | Premier 200B | https://www.paradigm.com/en/passive/premier-200b | 2026-10-11 |
 | mfr-paradigm-prestige-15b.md | Paradigm Prestige 15B specifications | https://www.paradigm.com/en/passive/prestige-15b | 2026-10-11 |
 | mfr-perlisten-s4b.md | Perlisten S4b specifications (TMR Audio) | https://tmraudio.com/products/perlisten-s4b-bookshelf-speakers-pair | 2026-10-11 |
 | mfr-philharmonic-bmr.md | Philharmonic BMR Monitor specifications | https://philharmonicaudio.com/products/bmr-monitor | 2026-10-11 |

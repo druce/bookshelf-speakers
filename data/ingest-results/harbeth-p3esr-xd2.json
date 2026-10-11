@@ -1,0 +1,21 @@
+{
+ "slug": "harbeth-p3esr-xd2",
+ "brand": "Harbeth",
+ "model": "P3ESR XD2",
+ "brand_slug": "harbeth",
+ "verdict": "no-tier-ab",
+ "reason": "In scope: maker page 6 ohm, 83 dB/2.83V/1m, 306x190 mm cabinet, 110 mm RADIAL4 driver; sold new (Music Direct lists $3,790/pair; TMR Audio MSRP $3,190 per snippet, unverified). Successor design to P3ESR XD (both listed on harbeth.co.uk). No Stereophile/SoundStage/HFN measurement of XD2 found; Stereophile measured only the original P3ESR (2010, different generation).",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 3790,
+ "price_source": "https://www.musicdirect.com/brands/harbeth (search snippet, unverified)",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-harbeth-p3esr-xd2.md"
+ ],
+ "evidence": [
+  "https://www.harbeth.co.uk/p3esr-xd2/",
+  "https://www.musicdirect.com/brands/harbeth"
+ ]
+}
