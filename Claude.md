@@ -85,6 +85,11 @@ wall_voiced: null          # on-wall only: true | false | null
 status: current            # current | discontinued
 price_usd_pair: 499        # street price at last check
 price_checked: 2026-10-11
+home_trial_days: null      # best return window among authorized US sellers (days)
+no_hassle_return: null     # true if >=30 days, opened speakers accepted, restocking fee on a normal return none or low (<=10%, or a flat fee <=$50 or <=~5% of pair price); buyer-paid return shipping allowed
+trial_seller: null         # seller offering that best policy
+trial_terms: null          # e.g. "60 days, buyer pays return shipping, no restocking fee"
+trial_checked: null        # date policies/availability were verified
 nominal_impedance_ohm: 8
 min_impedance_ohm: null    # measured
 min_impedance_hz: null

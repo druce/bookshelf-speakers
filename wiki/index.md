@@ -162,11 +162,12 @@ Key: nominal impedance, listening-window deviation, anechoic f3, sensitivity, Ol
 - [Yamaha](brands/yamaha.md) — One premium standmount, NS-800A ($5,000, 6 Ω): ±2.2 dB LW, f3 57 Hz, 84.6 dB sensitivity, 4.3 Ω minimum.
 - [Zu Audio](brands/zu-audio.md) — One high-efficiency coaxial standmount measuring 90.1 dB but with 4.7 dB listening-window deviation and weak preference score.
 
-## Comparisons (6)
+## Comparisons (7)
 - [candidate-universe](comparisons/candidate-universe.md) — Discover output — 445 models screened, 158 in scope, 91 with Tier A/B data
 - [impedance-honesty](comparisons/impedance-honesty.md) — 67 of 84 measured speakers fall below the IEC floor for their rating; 30 are effectively 4 Ω loads
 - [ranked-by-price-band](comparisons/ranked-by-price-band.md) — 66 current speakers with preference scores, grouped by price band; Group A = within 0.5 of band leader
 - [ranked-on-wall](comparisons/ranked-on-wall.md) — 2 current on-wall speakers with Tier A/B data, ranked separately from bookshelf speakers
+- [returns-and-trials](comparisons/returns-and-trials.md) — In-home trial and return terms for 91 speakers; 62 have a no-hassle option
 - [sensitivity-claims-vs-measured](comparisons/sensitivity-claims-vs-measured.md) — Median measured sensitivity is -2.0 dB vs claim across 87 speakers
 - [size-and-weight](comparisons/size-and-weight.md) — Cabinet sizes 2–51 L (median 20 L); bass extension vs box size
 

@@ -7,6 +7,11 @@ category: bookshelf
 status: current
 price_usd_pair: 3749
 price_checked: 2026-10-11
+home_trial_days: 60
+no_hassle_return: true
+trial_seller: "Music Direct"
+trial_terms: "60 days, buyer pays return shipping, restocking fee: none (only for damage/missing accessories)"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 8
 min_impedance_ohm: 5.6
 min_impedance_hz: 150

@@ -7,6 +7,11 @@ category: bookshelf
 status: current
 price_usd_pair: 199.99
 price_checked: 2026-10-11
+home_trial_days: 30
+no_hassle_return: true
+trial_seller: "Fluance"
+trial_terms: "30 days, free return shipping, no restocking fee"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 8
 min_impedance_ohm: 3.7
 min_impedance_hz: 140

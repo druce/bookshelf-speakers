@@ -563,3 +563,10 @@ Append-only. Each entry header: `## [YYYY-MM-DD] <op> | <title>`.
 - Screened 64 on-wall models and brand lines (Axiom, KEF, Paradigm, Ascend, MartinLogan, Focal, Monitor Audio, ELAC, Polk, Klipsch, Def Tech, JBL, Atlantic, Theory, Leon, Triad, Wharfedale, B&W, Revel, SVS, Sonance, Origin, Episode, Q Acoustics, Bose, Andersson). Verdicts: 2 in scope with data, 11 in scope without Tier A/B data, 4 discontinued, 45 out of scope (mostly 4 Ω, surround-only or centres).
 - Paged: [Paradigm Millenia LP 2](speakers/paradigm-millenia-lp-2.md) (Tier B hobbyist measurement; free-field f3 ~125–151 Hz) and [Focal On Wall 302](speakers/focal-on-wall-302.md) (Audioholics in-room 1 m only; 4.9 Ω minimum).
 - KEF T101/T301 are discontinued (the ASR T101 Klippel data is kept in `raw/spinorama/`). Borderline: Ascend Sierra Duo V2 LCR (marketed as on-wall, 6" deep, no bracket) and Polk XT35 (slim centre with Erin's data) were screened out or kept unpaged. Human may revisit.
+
+## [2026-10-11] ingest | Return policies and in-home trials for all 91 speakers
+- New frontmatter fields `home_trial_days`, `no_hassle_return`, `trial_seller`, `trial_terms` and `trial_checked` (Claude.md §4). Definition per the human: no-hassle means 30 days or more, opened speakers accepted, and restocking fee none or low. Buyer-paid return shipping is allowed.
+- Verified 45 seller and maker return policies from official pages (raw copies in `raw/manufacturer/policy-*`, data in `data/seller-policies.json`). Each fee is recorded as the fee on a normal return of complete, undamaged, original-packaged speakers. Fees that apply only to damage or missing parts are not counted.
+- Seller availability is in `data/speaker-sellers.json` (3 agent passes plus a logged-in Crutchfield search of all 91 models). Fields are applied by `scripts/add_trial.py`, which also generates [returns-and-trials](comparisons/returns-and-trials.md).
+- Result: 62 no-hassle, 3 not (Chesky, March Audio at 14 days; XSA Labs at a 20% fee), 26 unknown.
+- Side finding: Crutchfield lists Revel Performa4 M145/M146 and Paradigm Premier 120B/220B v2 as current, confirming those successors.

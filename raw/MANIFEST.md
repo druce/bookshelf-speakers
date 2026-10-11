@@ -439,7 +439,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | users-wharfedale-super-denton-2026-10-11.md | User reports: Wharfedale Super Denton |  | 2026-10-11 |
 | users-xsa-labs-vanguard-2026-10-11.md | User/forum reactions: XSA Labs Vanguard |  | 2026-10-11 |
 
-## raw/manufacturer/ (304)
+## raw/manufacturer/ (347)
 
 | File | Title | URL | Fetched |
 |---|---|---|---|
@@ -714,6 +714,49 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | mfr-yamaha-ns-6490.md | NS-6490 Bookshelf Stereo Speakers - Specs - Yamaha USA | https://usa.yamaha.com/products/audio_visual/speaker_systems/ns-6490/specs.html | 2026-10-11 |
 | mfr-yamaha-ns-800a.md | NS-800A Bookshelf Speaker Specs - Yamaha USA | https://usa.yamaha.com/products/audio_visual/speaker_systems/ns-800a/specs.html | 2026-10-11 |
 | mfr-zu-audio-method.md | Zu Audio Method Bookshelf - product page | https://www.zuaudio.com/loudspeakers/p/mb1 | 2026-10-11 |
+| policy-abt.md | Returns & Exchanges / Return Policy / Abt | https://www.abt.com/help/return-policy | 2026-10-11 |
+| policy-amazon.md | Amazon Return Policy | https://www.amazon.com/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7 | 2026-10-11 |
+| policy-aperion-audio.md | Refund policy | https://www.aperionaudio.com/policies/refund-policy | 2026-10-11 |
+| policy-ascend-acoustics.md | 30 Day Guarantee | https://www.ascendacoustics.com/pages/30-day-guarantee | 2026-10-11 |
+| policy-audio-advice-return.md | Refund policy | https://www.audioadvice.com/return-policy | 2026-10-11 |
+| policy-audio-advice.md | Audio Advice Policies | https://www.audioadvice.com/pages/audio-advice-policies | 2026-10-11 |
+| policy-audio-advisor.md | Refund policy | https://www.audioadvisor.com/policies/refund-policy | 2026-10-11 |
+| policy-axiom.md | Axiom Guarantee / Axiom Audio | https://axiomaudio.com/guarantee | 2026-10-11 |
+| policy-best-buy.md | Best Buy Return & Exchange Policy | https://www.bestbuy.com/site/help-topics/return-exchange-policy/pcmcat260800050014.c?id=pcmcat260800050014 | 2026-10-11 |
+| policy-bh-photo.md | B&H Photo - Return Policy & Instructions (Easy 30-Day Return Policy) | https://www.bhphotovideo.com/find/HelpCenter/ReturnExchange.jsp | 2026-10-11 |
+| policy-bowers-wilkins.md | Return Policy | https://www.bowerswilkins.com/en-us/support/return-policy.html | 2026-10-11 |
+| policy-buchardt-audio.md | Warranty & Returns | https://buchardtaudio.com/pages/warranty-returns | 2026-10-11 |
+| policy-cambridge-audio.md | What is Cambridge Audio's return policy? (US) | https://www.cambridgeaudio.com/usa/en/faqs/what-cambridge-audios-return-policy | 2026-10-11 |
+| policy-chesky-audio.md | Refund policy | https://cheskyaudio.com/policies/refund-policy | 2026-10-11 |
+| policy-crutchfield.md | Crutchfield - Returns (60-day returns & exchanges) | https://www.crutchfield.com/support/returns.aspx | 2026-10-11 |
+| policy-elac.md | Return Policy / Best Audiophile Speakers | https://elac.com/return-policy | 2026-10-11 |
+| policy-fluance-store-policies.md | Fluance Policies | https://www.fluance.com/store-policies | 2026-10-11 |
+| policy-fluance.md | 30 Day Risk Free Trial | https://www.fluance.com/30-day-risk-free-in-home-trial | 2026-10-11 |
+| policy-hsu-research.md | FAQ | https://hsuresearch.com/pages/faq | 2026-10-11 |
+| policy-kef.md | Returns and Exchanges | https://us.kef.com/pages/returns-exchanges | 2026-10-11 |
+| policy-klipsch.md | Website Terms of Sale / Klipsch | https://www.klipsch.com/storepolicy | 2026-10-11 |
+| policy-listenup.md | Returns, Refunds, and Price Matching | https://listenup.com/pages/returns-refunds | 2026-10-11 |
+| policy-march-audio.md | Returns & Cancellation Policy & T&Cs – March Audio | https://marchaudio.com/returns-cancellations/ | 2026-10-11 |
+| policy-music-direct.md | Music Direct - Return Policy | https://www.musicdirect.com/return-policy | 2026-10-11 |
+| policy-paradigm.md | High Performance Audio - Crafted in Canada | https://www.paradigm.com/en/online-shopping-policy | 2026-10-11 |
+| policy-parts-express.md | 60 Day No Hassle Returns | https://www.parts-express.com/return-a-product | 2026-10-11 |
+| policy-polk-audio.md | Return Policy | https://www.polkaudio.com/en-us/return-policy.html | 2026-10-11 |
+| policy-ps-audio.md | Refund policy | https://www.psaudio.com/policies/refund-policy | 2026-10-11 |
+| policy-psb-return-charge.md | Will I be charged to return a product? | https://support.psbspeakers.com/hc/en-us/articles/360062419634-Will-I-be-charged-to-return-a-product | 2026-10-11 |
+| policy-psb.md | What is your refund policy? | https://support.psbspeakers.com/hc/en-us/articles/1500003966662-What-is-your-refund-policy | 2026-10-11 |
+| policy-q-acoustics.md | Q Acoustics Return Policy | https://www.qacoustics.com/pages/return-policy | 2026-10-11 |
+| policy-salk-sound.md | Salk Sound | https://www.salksound.com/faq.php | 2026-10-11 |
+| policy-svs.md | SVS Return and Refund Policy | https://www.svsound.com/pages/svs-return-and-refund-policy | 2026-10-11 |
+| policy-sweetwater.md | Returns & Exchanges / Help Center / Sweetwater | https://www.sweetwater.com/help/returns-exchanges.php | 2026-10-11 |
+| policy-tmr-audio.md | The Music Room - Shipping & Returns | https://tmraudio.com/shipping-returns | 2026-10-11 |
+| policy-totem.md | FAQ - Totem Acoustic Loudspeakers | https://totemacoustic.com/faq/ | 2026-10-11 |
+| policy-triangle-faq.md | FAQ | https://trianglehifi.us/pages/faq | 2026-10-11 |
+| policy-triangle.md | Refund policy | https://trianglehifi.us/policies/refund-policy | 2026-10-11 |
+| policy-upscale-audio.md | Refund policy | https://upscaleaudio.com/policies/refund-policy | 2026-10-11 |
+| policy-walmart.md | Free Returns / Walmart.com | https://www.walmart.com/cp/returns/1231920 | 2026-10-11 |
+| policy-wharfedale-usa.md | Policies | https://www.wharfedaleusa.com/pages/policies | 2026-10-11 |
+| policy-world-wide-stereo.md | Return Policy / World Wide Stereo | https://www.worldwidestereo.com/pages/return-policy | 2026-10-11 |
+| policy-zu-audio.md | Everything Zu Makes—Covered By Their 60-Day Satisfaction Guarantee / Zu Audio /  Hi-Fi Spe | https://www.zuaudio.com/60-day-guarantee | 2026-10-11 |
 | retail-audioadvisor-dynaudio-emit-20.md | Dynaudio Emit 20 Bookshelf Speakers - Walnut - Pair / Audio Advisor | https://www.audioadvisor.com/products/dynaudio-emit-20-bookshelf-speakers-walnut-pair | 2026-10-11 |
 | retail-autogarsas-system-one-sb-15b.md | System One SB-15B, bookshelf speakers | https://www.autogarsas.lt/en/products/system-one-sb-15b-lentynines-garso-koloneles | 2026-10-11 |
 | retail-avantone-pro-cla-10.md | Avantone Pro CLA-10 Passive (pair) | https://www.voltmusicstore.com/products/avantone-pro-cla-10-passive-pair | 2026-10-11 |

@@ -7,6 +7,11 @@ category: bookshelf
 status: current
 price_usd_pair: 995
 price_checked: 2026-10-11
+home_trial_days: 30
+no_hassle_return: false
+trial_seller: "XSA Labs"
+trial_terms: "30 days, return shipping unclear, restocking fee: 20%"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 8
 min_impedance_ohm: 8.5
 min_impedance_hz: 160

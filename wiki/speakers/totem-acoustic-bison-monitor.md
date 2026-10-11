@@ -7,6 +7,11 @@ category: bookshelf
 status: current
 price_usd_pair: 2300
 price_checked: 2026-10-11
+home_trial_days: null
+no_hassle_return: null
+trial_seller: "Totem"
+trial_terms: "return shipping unclear, restocking fee unclear"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 8
 min_impedance_ohm: 5.4
 min_impedance_hz: 228

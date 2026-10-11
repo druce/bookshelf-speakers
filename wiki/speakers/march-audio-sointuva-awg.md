@@ -7,6 +7,11 @@ category: bookshelf
 status: current
 price_usd_pair: 4100
 price_checked: 2026-10-11
+home_trial_days: 14
+no_hassle_return: false
+trial_seller: "March Audio"
+trial_terms: "14 days, buyer pays return shipping, restocking fee: 5%"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 6
 min_impedance_ohm: 3.0
 min_impedance_hz: 180

@@ -7,6 +7,11 @@ category: bookshelf
 status: current
 price_usd_pair: 4300
 price_checked: 2026-10-11
+home_trial_days: 45
+no_hassle_return: true
+trial_seller: "Buchardt Audio"
+trial_terms: "45 days, return shipping conditional, restocking fee: EUR 100 flat per box (about $110, ~2.5% of the E50 pair price; waivable if arranged in advance)"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 6
 min_impedance_ohm: null
 min_impedance_hz: null

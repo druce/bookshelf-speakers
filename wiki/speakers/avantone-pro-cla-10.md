@@ -7,6 +7,11 @@ category: bookshelf
 status: current
 price_usd_pair: 699
 price_checked: 2026-10-11
+home_trial_days: 30
+no_hassle_return: true
+trial_seller: "Sweetwater"
+trial_terms: "30 days, return shipping unclear, no restocking fee"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 8
 min_impedance_ohm: 6.8
 min_impedance_hz: null

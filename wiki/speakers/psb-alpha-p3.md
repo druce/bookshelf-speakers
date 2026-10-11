@@ -7,6 +7,11 @@ category: bookshelf
 status: current
 price_usd_pair: 349
 price_checked: 2026-10-11
+home_trial_days: 60
+no_hassle_return: true
+trial_seller: "World Wide Stereo"
+trial_terms: "60 days, buyer pays return shipping, restocking fee: none (if like-new)"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 8
 min_impedance_ohm: 3.9
 min_impedance_hz: 190

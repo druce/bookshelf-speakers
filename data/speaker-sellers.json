@@ -1,0 +1,1515 @@
+[
+ {
+  "slug": "acoustic-energy-ae100-mk2",
+  "sellers": [],
+  "maker_direct": null,
+  "notes": "No US seller confirmed; searches found only non-US listings."
+ },
+ {
+  "slug": "ascend-acoustics-cbm-170-se2",
+  "sellers": [
+   {
+    "seller": "ascend-acoustics",
+    "url": "https://www.ascendacoustics.com/products/cbm-170se2-bookshelf-monitor-pair",
+    "status": "orderable",
+    "price_usd_pair": 468
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Add to Cart on maker site; no explicit stock message."
+ },
+ {
+  "slug": "atc-scm19",
+  "sellers": [
+   {
+    "seller": "music-direct",
+    "url": "https://musicdirect.com/speakers/atc-scm19-v2-bookshelf-speakers",
+    "status": "in stock",
+    "price_usd_pair": 4199
+   }
+  ],
+  "maker_direct": false,
+  "notes": "Music Direct lists SCM19 v2 in stock; TMR shows only used pairs."
+ },
+ {
+  "slug": "avantone-pro-cla-10",
+  "sellers": [
+   {
+    "seller": "sweetwater",
+    "url": "https://www.sweetwater.com/store/detail/CLA10Passive--avantone-pro-cla-10-passive-pair",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Sweetwater page 403 to fetch; listing exists per earlier price source, status unverified."
+ },
+ {
+  "slug": "bowers-wilkins-705-s3",
+  "sellers": [
+   {
+    "seller": "bowers-wilkins",
+    "url": "https://www.bowerswilkins.com/en-us/product/loudspeakers/700-series/705-s3/300522.html",
+    "status": "in stock",
+    "price_usd_pair": 3800
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_749705S3BK/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker US store in stock, free delivery."
+ },
+ {
+  "slug": "buchardt-audio-e50",
+  "sellers": [
+   {
+    "seller": "buchardt-audio",
+    "url": "https://buchardtaudio.com/products/e50",
+    "status": "in stock",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Priced EUR 4,100; free worldwide shipping incl. duties; US not named explicitly."
+ },
+ {
+  "slug": "dayton-audio-opal1",
+  "sellers": [
+   {
+    "seller": "parts-express",
+    "url": "https://www.parts-express.com/Dayton-Audio-OPAL1-Black-Pair-300-4600",
+    "status": "in stock",
+    "price_usd_pair": 499
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Parts Express (Dayton's house brand) 33 in stock, clearance price."
+ },
+ {
+  "slug": "elac-carina-bs243-4",
+  "sellers": [
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/elac-bs243-4-carina-5-25-inch-bookshelf-speakers-pair-satin-black",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_970BS2434B/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": null,
+  "notes": "WWS listing exists; price/stock not visible in fetch."
+ },
+ {
+  "slug": "elac-debut-3-0-b6-3",
+  "sellers": [
+   {
+    "seller": "audio-advisor",
+    "url": "https://www.audioadvisor.com/products/elac-debut-3-0-b6-3-bookshelf-speakers-walnut-pair",
+    "status": "unknown",
+    "price_usd_pair": 499
+   },
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/elac-db63-debut-3-0-6-5-inch-bookshelf-speakers-pair-black",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Audio Advisor lists walnut pair $449.98-499; stock unconfirmed."
+ },
+ {
+  "slug": "fluance-hfs-signature",
+  "sellers": [
+   {
+    "seller": "fluance",
+    "url": "https://www.fluance.com/signature-series-hifi-two-way-bookshelf-surround-sound-speakers",
+    "status": "orderable",
+    "price_usd_pair": 199.99
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Add to Cart plus Notify Me; estimated delivery Oct 15-21."
+ },
+ {
+  "slug": "focal-kanta-n1",
+  "sellers": [
+   {
+    "seller": "tmr-audio",
+    "url": "https://tmraudio.com/products/focal-kanta-no-1-bookshelf-speaker",
+    "status": "orderable",
+    "price_usd_pair": 8598
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_091KN1BHGB/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": null,
+  "notes": "TMR Add to Cart, no stock message."
+ },
+ {
+  "slug": "focal-theva-n1",
+  "sellers": [
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/focal-theva-no-1-2-way-bass-reflex-bookshelf-loudspeakers-pair-light-wood",
+    "status": "unknown",
+    "price_usd_pair": 1098
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_091THN1BK/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": null,
+  "notes": "WWS listing exists; stock not visible in fetch."
+ },
+ {
+  "slug": "hsu-research-mfl-6",
+  "sellers": [
+   {
+    "seller": "hsu-research",
+    "url": "https://hsuresearch.com/products/mfl-6-speaker",
+    "status": "orderable",
+    "price_usd_pair": 558
+   }
+  ],
+  "maker_direct": true,
+  "notes": "$279 each, order two; no stock message."
+ },
+ {
+  "slug": "kef-ls50-meta",
+  "sellers": [
+   {
+    "seller": "kef",
+    "url": "https://us.kef.com/products/ls50-meta",
+    "status": "unknown",
+    "price_usd_pair": 1599.99
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_991LS50MWH/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": null,
+  "notes": "KEF US page shows Notify Me and early-access sign-in; availability unclear."
+ },
+ {
+  "slug": "march-audio-sointuva-awg",
+  "sellers": [
+   {
+    "seller": "march-audio",
+    "url": null,
+    "status": "orderable",
+    "note": "direct-only brand; added by coordinator"
+   }
+  ],
+  "maker_direct": true,
+  "notes": "No US seller found; Australian maker, US shipping unverified."
+ },
+ {
+  "slug": "monitor-audio-bronze-50-7g",
+  "sellers": [
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/monitor-audio-bronze-50-7g-bookshelf-speakers-pair-black",
+    "status": "unknown",
+    "price_usd_pair": 849
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_893B7G50B/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": null,
+  "notes": "WWS listing exists; stock not visible in fetch."
+ },
+ {
+  "slug": "nht-c3",
+  "sellers": [],
+  "maker_direct": null,
+  "notes": "Maker store not verified live; Drop lists C3 Carbon only, price hidden."
+ },
+ {
+  "slug": "paradigm-millenia-lp-2",
+  "sellers": [
+   {
+    "seller": "paradigm",
+    "url": "https://www.paradigm.com/en/lcr/millenia-lp-2",
+    "status": "orderable",
+    "price_usd_pair": 1200
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Add to Cart at $599.99 each; US shipping and stock not stated."
+ },
+ {
+  "slug": "polk-audio-reserve-r100",
+  "sellers": [
+   {
+    "seller": "polk-audio",
+    "url": "https://sfcc-prod-polk.soundunited.com/en-us/product/home-speakers/bookshelf/reserve-r100/300028.html",
+    "status": "in stock",
+    "price_usd_pair": 559
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_107RSV100/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Polk direct in stock, MSRP $699."
+ },
+ {
+  "slug": "polk-audio-t15",
+  "sellers": [
+   {
+    "seller": "polk-audio",
+    "url": "https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/t15/112508.html",
+    "status": "in stock",
+    "price_usd_pair": 149
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Polk US page shows In Stock."
+ },
+ {
+  "slug": "ps-audio-aspen-fr5",
+  "sellers": [
+   {
+    "seller": "ps-audio",
+    "url": "https://www.psaudio.com/products/aspen-fr5-loudspeaker",
+    "status": "orderable",
+    "price_usd_pair": 3499
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Add to cart, free US shipping, 30-day home audition."
+ },
+ {
+  "slug": "psb-imagine-b50",
+  "sellers": [
+   {
+    "seller": "audio-advisor",
+    "url": "https://www.audioadvisor.com/products/psb-imagine-b50-bookshelf-speakers-satin",
+    "status": "orderable",
+    "price_usd_pair": 999
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Audio Advisor backorder, ships within 21 days."
+ },
+ {
+  "slug": "q-acoustics-3030i",
+  "sellers": [
+   {
+    "seller": "q-acoustics",
+    "url": "https://www.qacoustics.com/collections/bookshelf-speakers/products/3030i-bookshelf-speaker-pair",
+    "status": "sold out",
+    "price_usd_pair": 499.96
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Maker store out of stock (Reserve Now); US storefront not confirmed."
+ },
+ {
+  "slug": "revel-m105",
+  "sellers": [
+   {
+    "seller": "audio-advice",
+    "url": "https://www.audioadvice.com/revel-m105-bookshelf-speakers",
+    "status": "sold out",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": false,
+  "notes": "Audio Advice sold out; brand labeled Discontinued there."
+ },
+ {
+  "slug": "revel-m16",
+  "sellers": [
+   {
+    "seller": "audio-advice",
+    "url": "https://www.audioadvice.com/products/revel-m16-bookshelf-speaker-black",
+    "status": "sold out",
+    "price_usd_pair": 990
+   }
+  ],
+  "maker_direct": false,
+  "notes": "Audio Advice sold out at $495 each; Crutchfield page not fetchable."
+ },
+ {
+  "slug": "sony-ss-cs5m2",
+  "sellers": [
+   {
+    "seller": "amazon",
+    "url": "https://www.amazon.com/dp/B0F8PNFBTL",
+    "status": "orderable",
+    "price_usd_pair": 153
+   },
+   {
+    "seller": "walmart",
+    "url": "https://www.walmart.com/ip/17624952861",
+    "status": "unknown",
+    "price_usd_pair": 153
+   },
+   {
+    "seller": "abt",
+    "url": "https://www.abt.com/Sony-Bookshelf-Speakers-in-Black-Pair-SSCS5M2/p/225612.html",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Amazon $153 per Oct 5 2026 article via search; not page-verified."
+ },
+ {
+  "slug": "svs-ultra-evolution-bookshelf",
+  "sellers": [
+   {
+    "seller": "svs",
+    "url": "https://svsound.com/products/ultra-evolution-bookshelf",
+    "status": "unknown",
+    "price_usd_pair": 1199.98
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_946UEBPG/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Maker page fetch showed no price/stock; one review links Crutchfield, unverified."
+ },
+ {
+  "slug": "totem-acoustic-signature-one",
+  "sellers": [
+   {
+    "seller": "totem",
+    "url": "https://totemacoustic.com/product/signature-one/",
+    "status": "orderable",
+    "price_usd_pair": 3800
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Add to cart on maker site; US shipping not stated."
+ },
+ {
+  "slug": "vandersteen-vlr",
+  "sellers": [],
+  "maker_direct": false,
+  "notes": "Dealer-only; maker site offers Find a Dealer, no direct sale or dealer stock confirmed."
+ },
+ {
+  "slug": "wilson-audio-tunetot",
+  "sellers": [],
+  "maker_direct": false,
+  "notes": "Dealer-only; only used pairs found at TMR; new dealer stock unconfirmed."
+ },
+ {
+  "slug": "zu-audio-method",
+  "sellers": [
+   {
+    "seller": "zu-audio",
+    "url": "https://www.zuaudio.com/loudspeakers/p/mb1",
+    "status": "orderable",
+    "price_usd_pair": 1438
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Built to order, ~2 week lead time."
+ },
+ {
+  "slug": "amphion-argon1",
+  "sellers": [
+   {
+    "seller": "amphion",
+    "url": "https://amphionspeakers.com/products/amphion-argon1",
+    "status": "in stock",
+    "price_usd_pair": 1919
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker Shopify store; black/walnut/std white in stock, full white 2-4 wk lead. US dealers not found."
+ },
+ {
+  "slug": "ascend-acoustics-sierra-1-v2",
+  "sellers": [
+   {
+    "seller": "ascend-acoustics",
+    "url": "https://www.ascendacoustics.com/products/sierra-1-v2-pair",
+    "status": "orderable",
+    "price_usd_pair": 998
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Add-to-cart on maker site; stock not shown."
+ },
+ {
+  "slug": "atc-scm7",
+  "sellers": [
+   {
+    "seller": "sound-approach",
+    "url": "https://soundapproach.com/atc-scm7-entry-series-2-way-passive-bookshelf-speakers-pair.html",
+    "status": "orderable",
+    "price_usd_pair": 1749
+   },
+   {
+    "seller": "tmr-audio",
+    "url": "https://tmraudio.com/speakers/bookshelf-speakers-monitors/atc-scm7-bookshelf-passive-speaker-pair",
+    "status": "sold out",
+    "price_usd_pair": 1599
+   }
+  ],
+  "maker_direct": false,
+  "notes": "Sound Approach is special order 1-2 wks; TMR stock 0 per search snippet."
+ },
+ {
+  "slug": "bic-america-venturi-dv62si",
+  "sellers": [
+   {
+    "seller": "amazon",
+    "url": "https://www.bicamerica.com/products/dv62si",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "walmart",
+    "url": "https://www.bicamerica.com/products/dv62si",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": false,
+  "notes": "Maker page links Amazon, Walmart, Target; no direct sale. Retailer stock/price unverified (URLs are maker page)."
+ },
+ {
+  "slug": "bowers-wilkins-805-d4-signature",
+  "sellers": [
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/bowers-wilkins-805-d4-signature-2-way-bookshelf-speaker-pair-midnight-blue-metallic",
+    "status": "orderable",
+    "price_usd_pair": 14000
+   },
+   {
+    "seller": "audio-advisor",
+    "url": "https://www.audioadvisor.com/products/bowers-wilkins-805-d4-signature-floorstanding-speaker-california-burl-gloss-each",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "listenup",
+    "url": "https://listenup.com/products/bowers-wilkins-805-d4-signature",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": null,
+  "notes": "WWS availability from input; page not parsable. Audio Advisor listing is per-each. Crutchfield not confirmed."
+ },
+ {
+  "slug": "cambridge-audio-sx-60",
+  "sellers": [
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/cambridge-audio-sx-60-bookshelf-speakers-pair",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_779SX60MB/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": false,
+  "notes": "Maker US page shows $329 in stock (schema) but no cart; uses retailer locator."
+ },
+ {
+  "slug": "dynaudio-emit-20",
+  "sellers": [
+   {
+    "seller": "audio-advisor",
+    "url": "https://www.audioadvisor.com/products/dynaudio-emit-20-bookshelf-speakers-walnut-pair",
+    "status": "unknown",
+    "price_usd_pair": 1049
+   }
+  ],
+  "maker_direct": false,
+  "notes": "Page says both Sold out and In Stock ships 1-3 days; contradictory."
+ },
+ {
+  "slug": "elac-debut-2-0-b5-2",
+  "sellers": [
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/elac-db52-debut-2-0-bookshelf-speakers-pair-black",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_970DB52/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": null,
+  "notes": "WWS page exists; stock/price not parsable. Crutchfield carried it in 2023 (expired deal); current status unverified."
+ },
+ {
+  "slug": "elac-debut-reference-dbr-62",
+  "sellers": [
+   {
+    "seller": "audio-advisor",
+    "url": "https://www.audioadvisor.com/products/elac-dbr62-debut",
+    "status": "in stock",
+    "price_usd_pair": 799
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_970DBR62BK/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Audio Advisor ships 1-3 days. Crutchfield.ca listing exists; US Crutchfield unconfirmed."
+ },
+ {
+  "slug": "fluance-reference-xl8s",
+  "sellers": [
+   {
+    "seller": "fluance",
+    "url": null,
+    "status": "orderable",
+    "note": "maker-direct per seller check"
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker site lists $179.99 but out of stock (Notify Me). Newegg Business listing unverified; Amazon unconfirmed."
+ },
+ {
+  "slug": "focal-on-wall-302",
+  "sellers": [
+   {
+    "seller": "upscale-audio",
+    "url": "https://upscaleaudio.com/products/focal-on-wall-302-wall-mounted-loudspeaker-each",
+    "status": "sold out",
+    "price_usd_pair": 3498
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_091OW302BK/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Upscale variants sold out, $1,749 each. Audio Advice sold out per input. On-wall, not bookshelf."
+ },
+ {
+  "slug": "fyne-audio-f500sp",
+  "sellers": [
+   {
+    "seller": "upscale-audio",
+    "url": "https://www.upscaleaudio.com/products/fyne-audio-f500sp-bookshelf-loudspeaker-pair",
+    "status": "sold out",
+    "price_usd_pair": 1999
+   }
+  ],
+  "maker_direct": null,
+  "notes": "All finishes marked unavailable at Upscale; no other seller confirmed."
+ },
+ {
+  "slug": "human-speakers-81-dk",
+  "sellers": [
+   {
+    "seller": "human-speakers",
+    "url": "https://www.humanspeakers.com/human/81dk.htm",
+    "status": "orderable",
+    "price_usd_pair": 1397
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker order form, 'now available'."
+ },
+ {
+  "slug": "klipsch-rp-500m-ii",
+  "sellers": [
+   {
+    "seller": "music-direct",
+    "url": "https://www.musicdirect.com/equipment/speakers/klipsch-reference-premiere-rp-500m-ii-bookshelf-speakers-pair/",
+    "status": "in stock",
+    "price_usd_pair": 399.99
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_714500M2E/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Music Direct $399.99 (was $549.99). Klipsch.com URL tried returned 404; direct sale unconfirmed."
+ },
+ {
+  "slug": "mofi-sourcepoint-8",
+  "sellers": [
+   {
+    "seller": "the-in-groove",
+    "url": "https://www.theingroove.com/products/mobile-fidelity-sourcepoint-8-bookshelf-speakers",
+    "status": "orderable",
+    "price_usd_pair": 2195
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Retailer The 'In' Groove, add-to-cart, stock not stated; Walnut speakers-only."
+ },
+ {
+  "slug": "neumi-bs5",
+  "sellers": [],
+  "maker_direct": null,
+  "notes": "No confirmed new seller; Amazon page fetch unreadable, input says first-party unavailable."
+ },
+ {
+  "slug": "nht-super-zero-2-1",
+  "sellers": [
+   {
+    "seller": "nht",
+    "url": "https://www.nhthifi.com/superzero-2-1-our-amazing-mini-monitor-single",
+    "status": "unknown",
+    "price_usd_pair": 269.98
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker store lists $134.99 each, active; stock not stated. URL inferred from API path."
+ },
+ {
+  "slug": "paradigm-monitor-se-atom",
+  "sellers": [
+   {
+    "seller": "paradigm",
+    "url": "https://www.paradigm.com/en/passive/monitor-se-atom",
+    "status": "orderable",
+    "price_usd_pair": 399.98
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_819MATOMBK/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Add to Cart on maker site; US shipping and stock unconfirmed."
+ },
+ {
+  "slug": "polk-audio-reserve-r200",
+  "sellers": [
+   {
+    "seller": "polk-audio",
+    "url": "https://sfcc-prod-polk.soundunited.com/en-us/product/home-speakers/bookshelf/reserve-r200/300029.html",
+    "status": "in stock",
+    "price_usd_pair": 639
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_107RSV200/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker store en-us, Black in stock, $639 (MSRP $799)."
+ },
+ {
+  "slug": "polk-audio-xt15",
+  "sellers": [
+   {
+    "seller": "polk-audio",
+    "url": "https://www.polkaudio.com/en-us/product/home-speakers/satellite-surround/monitor-xt15/300147.html",
+    "status": "in stock",
+    "price_usd_pair": 149
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_107MXT15/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker store in stock, $149 (MSRP $179), 30-day returns."
+ },
+ {
+  "slug": "psb-alpha-p3",
+  "sellers": [
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/psb-alpha-p3-bookshelf-speaker-pair-black",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_760ALPP3B/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": null,
+  "notes": "WWS page exists; stock/price not parsable. Input says PSB direct $449."
+ },
+ {
+  "slug": "psb-synchrony-b600",
+  "sellers": [
+   {
+    "seller": "audio-advisor",
+    "url": "https://www.audioadvisor.com/products/psb-synchrony-b600-premium-bookshelf-speaker-satin-walnut-each",
+    "status": "orderable",
+    "price_usd_pair": 3799
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Backordered, 7 days or less; $1,899.50 each."
+ },
+ {
+  "slug": "q-acoustics-5020",
+  "sellers": [
+   {
+    "seller": "q-acoustics",
+    "url": "https://www.qacoustics.com/collections/bookshelf-speakers/products/5020-bookshelf-speaker",
+    "status": "in stock",
+    "price_usd_pair": 1199
+   }
+  ],
+  "maker_direct": true,
+  "notes": "USD price, in stock ships 1-2 days; US-store status not explicit. Nominal impedance 6 ohm."
+ },
+ {
+  "slug": "revel-m106",
+  "sellers": [],
+  "maker_direct": null,
+  "notes": "Audio Advice URL from input returned 404; no seller confirmed."
+ },
+ {
+  "slug": "role-audio-skiff",
+  "sellers": [
+   {
+    "seller": "role-audio",
+    "url": "https://role-loudspeakers.com/prices",
+    "status": "orderable",
+    "price_usd_pair": 495
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Order by emailed invoice or phone; satin black $495, birch $545."
+ },
+ {
+  "slug": "spendor-classic-3-1",
+  "sellers": [
+   {
+    "seller": "upscale-audio",
+    "url": "https://upscaleaudio.com/products/spendor-classic-3-1-bookshelf-loudspeakers-pair",
+    "status": "sold out",
+    "price_usd_pair": 4999
+   }
+  ],
+  "maker_direct": false,
+  "notes": "Both finishes marked unavailable; page contradictory ('In stock now')."
+ },
+ {
+  "slug": "totem-acoustic-bison-monitor",
+  "sellers": [
+   {
+    "seller": "totem",
+    "url": "https://totemacoustic.com/product/bison-monitor/",
+    "status": "orderable",
+    "price_usd_pair": 2300
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Add to cart/Buy Now on maker site; stock not stated; dealer locator also."
+ },
+ {
+  "slug": "triangle-borea-br03",
+  "sellers": [
+   {
+    "seller": "triangle",
+    "url": "https://trianglehifi.us/products/enceinte-bibliotheque-hi-fi-borea-br03-paire",
+    "status": "orderable",
+    "price_usd_pair": 599
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Triangle Hifi USA store, 30-day returns; stock not stated."
+ },
+ {
+  "slug": "wharfedale-evo-4-1",
+  "sellers": [
+   {
+    "seller": "wharfedale-usa",
+    "url": "https://www.wharfedaleusa.com/products/evo4-1-bookshelf-speaker",
+    "status": "sold out",
+    "price_usd_pair": 649
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_336EVO41BK/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker store marks Out Of Stock; no other seller checked."
+ },
+ {
+  "slug": "xsa-labs-vanguard",
+  "sellers": [
+   {
+    "seller": "xsa-labs",
+    "url": null,
+    "status": "orderable",
+    "note": "direct-only brand; added by coordinator"
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker site not fetchable; no seller confirmed."
+ },
+ {
+  "slug": "aperion-audio-verus-iii-concert-v8b",
+  "sellers": [
+   {
+    "seller": "aperion-audio",
+    "url": "https://aperionaudio.com/products/v8b",
+    "status": "unknown",
+    "price_usd_pair": 1549
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker page contradictory: says in stock and Sold Out/notify. No third-party retailer confirmed."
+ },
+ {
+  "slug": "ascend-acoustics-sierra-lx",
+  "sellers": [
+   {
+    "seller": "ascend-acoustics",
+    "url": "https://www.ascendacoustics.com/products/sierra-lx-pair",
+    "status": "orderable",
+    "price_usd_pair": 1598
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker-direct only; Add to Cart shown. TMR lists only used pairs."
+ },
+ {
+  "slug": "audio-craftsmen-victoria",
+  "sellers": [
+   {
+    "seller": "audio-craftsmen",
+    "url": "https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria",
+    "status": "sold out",
+    "price_usd_pair": 3990
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker-direct page shows out of stock; no other US sellers found."
+ },
+ {
+  "slug": "bowers-wilkins-705-s3-signature",
+  "sellers": [
+   {
+    "seller": "bowers-wilkins",
+    "url": "https://www.bowerswilkins.com/en-us/product/loudspeakers/705-s3-signature/300975.html",
+    "status": "in stock",
+    "price_usd_pair": 5200
+   },
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/bowers-wilkins-705-s3-signature-2-way-bookshelf-speakers-pair-midnight-blue-metallic",
+    "status": "unknown",
+    "price_usd_pair": 5200
+   },
+   {
+    "seller": "best-buy",
+    "url": "https://www.bestbuy.com/product/bowers-wilkins-705-s3-signature-bookshelf-speaker-with-1-tweeter-on-top-and-6-5-midbass-pair-datuk-gloss/JXT7VJQW4R",
+    "status": "unknown",
+    "price_usd_pair": 5000
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_749705S3DG/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker Add to Cart in stock; Audio Advice and Amazon showed unavailable."
+ },
+ {
+  "slug": "bowers-wilkins-805-d4",
+  "sellers": [
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/bowers-wilkins-805-d4-2-way-bookshelf-speaker-pair-gloss-black",
+    "status": "in stock",
+    "price_usd_pair": 10000
+   },
+   {
+    "seller": "bowers-wilkins",
+    "url": "https://www.bowerswilkins.com/en-us/product/loudspeakers/805-d4",
+    "status": "sold out",
+    "price_usd_pair": 10000
+   },
+   {
+    "seller": "best-buy",
+    "url": "https://www.bestbuy.com/product/bowers-wilkins-805-d4-diamond-2-way-bookshelf-speaker-each-gloss-black/JXT7VJQY98",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": true,
+  "notes": "WWS availability from earlier lookup (page unreadable now); maker shows stock-notify form. Best Buy sells each at $5,000."
+ },
+ {
+  "slug": "chesky-audio-lc1",
+  "sellers": [
+   {
+    "seller": "chesky-audio",
+    "url": "https://cheskyaudio.com/products/lc1",
+    "status": "in stock",
+    "price_usd_pair": 996
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker-direct only; $498 each sold separately; Add to cart shown."
+ },
+ {
+  "slug": "dynaudio-special-forty",
+  "sellers": [
+   {
+    "seller": "audio-advisor",
+    "url": "https://www.audioadvisor.com/dysforty-blkvin-pr",
+    "status": "unknown",
+    "price_usd_pair": 3599
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_345SP40BV/Dynaudio-Special-Forty-Black-Vine.html",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Crutchfield and Amazon mark Ebony Wave finish discontinued; model may be winding down."
+ },
+ {
+  "slug": "elac-debut-2-0-b6-2",
+  "sellers": [
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_970DB62/ELAC-Debut-2-0-B6-2.html",
+    "status": "unknown",
+    "price_usd_pair": 299
+   },
+   {
+    "seller": "elac",
+    "url": "https://elac.com/db62",
+    "status": "unknown",
+    "price_usd_pair": 329
+   },
+   {
+    "seller": "best-buy",
+    "url": "https://www.bestbuy.com/site/elac-debut-2-0-6-5-2-way-bookshelf-speakers-pair-black-ash/6198593.p?skuId=6198593",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Prices per Gear Patrol Sept 2026; Debut 3.0 DB63 replaces it. Audio Advisor lists unavailable."
+ },
+ {
+  "slug": "elac-uni-fi-reference-ubr62",
+  "sellers": [
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_970UBR62W/ELAC-Uni-Fi-Reference-UBR62-Oak.html",
+    "status": "unknown",
+    "price_usd_pair": 1199.98
+   },
+   {
+    "seller": "audio-advisor",
+    "url": "https://www.audioadvisor.com/prnt-elrubr62-oak-pr",
+    "status": "in stock",
+    "price_usd_pair": 1299
+   },
+   {
+    "seller": "audio-advice",
+    "url": "https://www.audioadvice.com/products/elac-uni-fi-reference-ubr62-3-way-bookshelf-speaker-black-pair",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Audio Advisor oak pair reported in stock; Audio Advice also has open-box at $899."
+ },
+ {
+  "slug": "focal-dome-flax",
+  "sellers": [
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_091DFW/Focal-Dome-Flax-White.html",
+    "status": "unknown",
+    "price_usd_pair": 1378
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Satellite; Crutchfield pages conflict: black backorder, one page no longer available, white $689 each."
+ },
+ {
+  "slug": "focal-sopra-n1",
+  "sellers": [
+   {
+    "seller": "audio-advice",
+    "url": "https://www.audioadvice.com/products/focal-sopra-n-1-bookshelf-loudspeaker",
+    "status": "unknown",
+    "price_usd_pair": 12998
+   },
+   {
+    "seller": "tmr-audio",
+    "url": "https://tmraudio.com/bookshelf-speakers-monitors/focal-sopra-no-1-2-way-high-end-bookshelf-speakers-pair/",
+    "status": "unknown",
+    "price_usd_pair": 12998
+   },
+   {
+    "seller": "upscale-audio",
+    "url": "https://upscaleaudio.com/products/focal-sopra-no1-loudspeakers-each",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Mostly out of stock in snippets; Audio Advice $6,499 each; Sopra N1 may be superseded."
+ },
+ {
+  "slug": "hsu-research-ccb-8",
+  "sellers": [
+   {
+    "seller": "hsu-research",
+    "url": "https://hsuresearch.com/products/ccb-8-speaker",
+    "status": "orderable",
+    "price_usd_pair": 778
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker-direct only; $389 each with Add to cart."
+ },
+ {
+  "slug": "jbl-stage-250b",
+  "sellers": [
+   {
+    "seller": "sweetwater",
+    "url": "https://www.sweetwater.com/store/detail/250BWht--jbl-stage-250b-5.25-inch-bookshelf-loudspeaker-latte-pair",
+    "status": "unknown",
+    "price_usd_pair": 439.95
+   },
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/jbl-stage-250b-5-25-bookshelf-speakers-black",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "abt",
+    "url": "https://www.abt.com/JBL-Stage-250B-2-Way-5.25-Inch-Bookshelf-Loudspeakers-in-Latte-Pair-JBL250BWHT/p/208706.html",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_109ST250BE/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": null,
+  "notes": "JBL.com pages show sold out; some retailers list in stock, unconfirmed."
+ },
+ {
+  "slug": "klipsch-rp-600m-ii",
+  "sellers": [
+   {
+    "seller": "audio-advisor",
+    "url": "https://www.audioadvisor.com/prnt-klrp600mii-wal-pr",
+    "status": "unknown",
+    "price_usd_pair": 699.99
+   },
+   {
+    "seller": "audio-advice",
+    "url": "https://www.audioadvice.com/products/klipsch-rp-600m-ii-bookshelf-speakers-ebony",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/klipsch-rp-600m-ii-reference-premiere-bookshelf-speakers-pair-ebony",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_714600M2E/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Many listings exist, stock not confirmed; also Upscale Audio, Best Buy, Amazon."
+ },
+ {
+  "slug": "monitor-audio-apex-a10",
+  "sellers": [
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_893A10B/Monitor-Audio-Apex-A10-Metallic-Black-High-Gloss.html",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Maker US site lists $849 (unit basis unclear); Crutchfield page found, stock unconfirmed."
+ },
+ {
+  "slug": "neumi-silk-4",
+  "sellers": [
+   {
+    "seller": "amazon",
+    "url": "https://www.neumitech.com/neumi-silk-4-bookshelf-speakers/",
+    "status": "unknown",
+    "price_usd_pair": 189.99
+   }
+  ],
+  "maker_direct": false,
+  "notes": "Maker site links to Amazon only; pair vs single unclear. Newegg also lists it."
+ },
+ {
+  "slug": "paradigm-founder-40b",
+  "sellers": [
+   {
+    "seller": "paradigm",
+    "url": "https://www.paradigm.com/en/passive/founder-40b",
+    "status": "unknown",
+    "price_usd_pair": 2399.98
+   },
+   {
+    "seller": "audio-advice",
+    "url": "https://www.audioadvice.com/products/paradigm-founder-40b-bookshelf-speaker-each",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Paradigm lists $1,199.99 each; Audio Advice showed finishes unavailable. Direct-to-consumer sale unconfirmed."
+ },
+ {
+  "slug": "paradigm-persona-b",
+  "sellers": [
+   {
+    "seller": "paradigm",
+    "url": "https://www.paradigm.com/en/passive/persona-b",
+    "status": "unknown",
+    "price_usd_pair": 10499.98
+   }
+  ],
+  "maker_direct": null,
+  "notes": "Paradigm lists $5,249.99 each; sold via dealers; stock unconfirmed."
+ },
+ {
+  "slug": "polk-audio-signature-elite-es20",
+  "sellers": [
+   {
+    "seller": "polk-audio",
+    "url": "https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/signature-elite-es20/300364.html",
+    "status": "in stock",
+    "price_usd_pair": 399
+   },
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/polk-audio-signature-elite-es20-bookshelf-speakers-pair-black",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "best-buy",
+    "url": "https://www.bestbuy.com/product/polk-audio-signature-elite-es20-hi-res-bookshelf-speake-stunning-black/JX5P9S4RHV/sku/12564908",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_107ES20BK/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker in stock per earlier check; some third-party listings show out of stock."
+ },
+ {
+  "slug": "polk-audio-xt20",
+  "sellers": [
+   {
+    "seller": "polk-audio",
+    "url": "https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/monitor-xt20/300151.html",
+    "status": "in stock",
+    "price_usd_pair": 279
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://crutchfield.com/S-jfkMXo1M1nO/p_107MXT20/Polk-Audio-Monitor-XT20.html",
+    "status": "unknown",
+    "price_usd_pair": 249
+   },
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/polk-audio-monitor-xt20-high-resolution-bookshelf-speakers-pair",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker in stock per earlier check; Crutchfield $249 per snippet."
+ },
+ {
+  "slug": "psb-alpha-p5",
+  "sellers": [
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_760ALPP5B/PSB-Alpha-P5-Black-Ash.html",
+    "status": "unknown",
+    "price_usd_pair": 449
+   },
+   {
+    "seller": "audio-advisor",
+    "url": "https://www.audioadvisor.com/pbap5-blk-pr",
+    "status": "unknown",
+    "price_usd_pair": 549
+   },
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/psb-alpha-p5-bookshelf-speaker-black-pair",
+    "status": "unknown",
+    "price_usd_pair": 549
+   },
+   {
+    "seller": "psb",
+    "url": null,
+    "status": "orderable",
+    "note": "maker-direct per seller check"
+   }
+  ],
+  "maker_direct": true,
+  "notes": "PSB site lists the model at $549 per snippet; stock unconfirmed everywhere."
+ },
+ {
+  "slug": "q-acoustics-3020i",
+  "sellers": [
+   {
+    "seller": "q-acoustics",
+    "url": "https://www.qacoustics.com/products/3020i-bookshelf-speaker-pair",
+    "status": "unknown",
+    "price_usd_pair": 349.96
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker stock conflicting (out of stock in one cache, in stock in another). Amazon listings partly unavailable."
+ },
+ {
+  "slug": "q-acoustics-concept-300",
+  "sellers": [
+   {
+    "seller": "q-acoustics",
+    "url": "https://www.qacoustics.com/products/concept-300-bookshelf-speaker-pair",
+    "status": "unknown",
+    "price_usd_pair": 6399
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker price $6,399 per snippet; Amazon third-party listings exist, stock unconfirmed."
+ },
+ {
+  "slug": "revel-m126be",
+  "sellers": [
+   {
+    "seller": "audio-advice",
+    "url": "https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black",
+    "status": "in stock",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_265M126BEB/Revel-PerformaBe-M126Be-High-Gloss-Black.html",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "upscale-audio",
+    "url": "https://upscaleaudio.com/products/revel-m126be-bookshelf-loudspeaker-each",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": false,
+  "notes": "Audio Advice gloss black in stock ($1,900 each per snippet); other finishes sold out; Crutchfield price unclear."
+ },
+ {
+  "slug": "salk-wow1",
+  "sellers": [
+   {
+    "seller": "salk-sound",
+    "url": "https://www.salksound.com/model.php?model=WOW1",
+    "status": "orderable",
+    "price_usd_pair": 2595
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Factory-direct, built to order; no stock flag. No retailers found."
+ },
+ {
+  "slug": "svs-prime-bookshelf",
+  "sellers": [
+   {
+    "seller": "svs",
+    "url": "https://www.svsound.com/products/prime-bookshelf",
+    "status": "unknown",
+    "price_usd_pair": 699.98
+   },
+   {
+    "seller": "world-wide-stereo",
+    "url": "https://www.worldwidestereo.com/products/svs-prime-bookshelf-speakers-pair-premium-black-ash",
+    "status": "unknown",
+    "price_usd_pair": 699
+   },
+   {
+    "seller": "audio-advice",
+    "url": "https://www.audioadvice.com/products/svs-prime-bookshelf-speaker-black-ash",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://www.crutchfield.com/p_946PBKBA/",
+    "status": "listed",
+    "note": "Crutchfield search 2026-10-11"
+   }
+  ],
+  "maker_direct": true,
+  "notes": "SVS lists $349.99 each; page stock status not readable."
+ },
+ {
+  "slug": "totem-acoustic-kin-one",
+  "sellers": [
+   {
+    "seller": "totem",
+    "url": "https://totemacoustic.com/product/kin-one/",
+    "status": "orderable",
+    "price_usd_pair": 599
+   },
+   {
+    "seller": "music-direct",
+    "url": "https://www.musicdirect.com/speakers/totem-acoustic-kin-one-bookshelf-speakers-pair/",
+    "status": "in stock",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "tmr-audio",
+    "url": "https://tmraudio.com/products/totem-acoustic-kin-one-bookshelf-speakers",
+    "status": "in stock",
+    "price_usd_pair": 703.83
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker has Add to cart; stock for MD/TMR per search summary."
+ },
+ {
+  "slug": "triangle-esprit-comete-40th",
+  "sellers": [
+   {
+    "seller": "triangle",
+    "url": "https://trianglehifi.us/products/enceinte-bibliotheque-hi-fi-anniversaire-40th-comete-paire",
+    "status": "in stock",
+    "price_usd_pair": 1900
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Maker-direct sale price $1,900 (regular $2,750), Add to cart shown. No US retailers found."
+ },
+ {
+  "slug": "wharfedale-super-denton",
+  "sellers": [
+   {
+    "seller": "wharfedale-usa",
+    "url": "https://www.wharfedaleusa.com/products/super-denton-bookshelf-speakers-pair",
+    "status": "unknown",
+    "price_usd_pair": 1499
+   },
+   {
+    "seller": "crutchfield",
+    "url": "https://crutchfield.com/S-1KHVy6pLVS7/p_336SPDENWL/Wharfedale-Super-Denton-Walnut.html",
+    "status": "unknown",
+    "price_usd_pair": 1399
+   },
+   {
+    "seller": "audio-advice",
+    "url": "https://www.audioadvice.com/products/wharfedale-super-denton-bookshelf-speakers",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": true,
+  "notes": "Crutchfield black oak was on backorder; walnut $1,399 in snippet."
+ },
+ {
+  "slug": "yamaha-ns-800a",
+  "sellers": [
+   {
+    "seller": "sweetwater",
+    "url": "https://www.sweetwater.com/store/detail/NS800APN--yamaha-ns-800a-passive-bookshelf-speaker-piano-black",
+    "status": "unknown",
+    "price_usd_pair": null
+   },
+   {
+    "seller": "bh-photo",
+    "url": "https://www.bhphotovideo.com/c/product/1790236-REG/yamaha_ns_800apn_ns_800a_bookshelf_speaker.html",
+    "status": "unknown",
+    "price_usd_pair": null
+   }
+  ],
+  "maker_direct": false,
+  "notes": "Sold singly: Sweetwater $2,499.95 each, B&H $1,299.95 each (limited supply); Sweetwater pair listing gone; Amazon unavailable."
+ }
+]

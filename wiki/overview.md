@@ -22,8 +22,12 @@ Screened 64 on-wall models across about 25 brands ([candidate-universe](comparis
 - **$1,200–2,500:** [Revel M105](speakers/revel-m105.md), [Ascend Acoustics Sierra-LX](speakers/ascend-acoustics-sierra-lx.md), [KEF LS50 Meta](speakers/kef-ls50-meta.md), [Revel M106](speakers/revel-m106.md), [Elac Uni-Fi Reference UBR62](speakers/elac-uni-fi-reference-ubr62.md)
 - **> $2,500:** [March Audio Sointuva AWG](speakers/march-audio-sointuva-awg.md). Group B: [Buchardt Audio E50](speakers/buchardt-audio-e50.md).
 
+## Buying: in-home trials (added 2026-10-11)
+62 of 91 speakers can be bought from an authorized US seller with a no-hassle return: 30 days or more, opened speakers accepted, and no or a low restocking fee. Buyer-paid return shipping is allowed. Crutchfield (60 days, no fee if returned like-new) covers much of the shortlist. SVS, Polk, Fluance and B&W direct add free return shipping. Excluded: Chesky and March Audio (14 days) and XSA Labs (20% fee). Unknown: 26, mostly maker-direct brands with no US return page, or models not found at any authorized seller. See [returns-and-trials](comparisons/returns-and-trials.md).
+
 ## Open questions (need the human)
 - **Buchardt E50** is rated "4/6 Ω" by its maker. It is included as 6 Ω, but should it be in scope?
+- **Successors now on sale at Crutchfield (2026-10-11):** Revel Performa4 M145/M146 (replacing M105/M106) and Paradigm Premier 120B/220B v2 (replacing Premier 100B/200B). These are candidates for the next ingest once measured.
 - **Revel Performa3 succession:** on 2026-10-11 Revel's US site lists a new Performa4 series (M145, M146, marked "New") alongside the Performa3 M105/M106 pages, which show no price. The M105 and M106 are probably being superseded. Confirm before buying, and measure the M145/M146 when data appears.
 - **Revel Concerta2/Performa3 status:** Revel lists them, but Audio Advice shows sold-out or "Discontinued" labels. Confirm with a dealer before relying on [Revel M16](speakers/revel-m16.md), [Revel M105](speakers/revel-m105.md) or [Revel M106](speakers/revel-m106.md).
 - **"8 Ω compatible" ratings:** Polk, Klipsch, Wharfedale and Paradigm give no explicit nominal. They are scoped in as 8 Ω (rule in Claude.md §2 as applied in ingest). Keep that, or treat them as unrated?

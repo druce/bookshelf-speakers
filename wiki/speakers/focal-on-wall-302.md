@@ -8,6 +8,11 @@ wall_voiced: null
 status: current
 price_usd_pair: 3498
 price_checked: 2026-10-11
+home_trial_days: 60
+no_hassle_return: true
+trial_seller: "Crutchfield"
+trial_terms: "60 days, buyer pays return shipping, no restocking fee"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 8
 min_impedance_ohm: 4.9
 min_impedance_hz: 200

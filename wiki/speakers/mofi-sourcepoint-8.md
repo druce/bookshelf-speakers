@@ -7,6 +7,11 @@ category: bookshelf
 status: current
 price_usd_pair: 2195
 price_checked: 2026-10-11
+home_trial_days: null
+no_hassle_return: null
+trial_seller: null
+trial_terms: "no verified authorized US seller policy"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 8
 min_impedance_ohm: 8.0
 min_impedance_hz: null

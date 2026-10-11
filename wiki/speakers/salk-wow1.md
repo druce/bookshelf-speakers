@@ -7,6 +7,11 @@ category: bookshelf
 status: current
 price_usd_pair: 2595
 price_checked: 2026-10-11
+home_trial_days: 30
+no_hassle_return: null
+trial_seller: "Salk Sound"
+trial_terms: "30 days, return shipping unclear, restocking fee unclear"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 8
 min_impedance_ohm: 3.3
 min_impedance_hz: 5000

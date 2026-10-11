@@ -7,6 +7,11 @@ category: bookshelf
 status: current
 price_usd_pair: 778
 price_checked: 2026-10-11
+home_trial_days: 30
+no_hassle_return: true
+trial_seller: "Hsu Research"
+trial_terms: "30 days, buyer pays return shipping, restocking fee: none (15% only if not like-new)"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 8
 min_impedance_ohm: 3.8
 min_impedance_hz: 182

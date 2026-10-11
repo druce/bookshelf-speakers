@@ -7,6 +7,11 @@ category: bookshelf
 status: current
 price_usd_pair: 1549
 price_checked: 2026-10-11
+home_trial_days: 30
+no_hassle_return: true
+trial_seller: "Aperion Audio"
+trial_terms: "30 days, free return shipping, restocking fee: 10%"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 6
 min_impedance_ohm: 5.7
 min_impedance_hz: 120

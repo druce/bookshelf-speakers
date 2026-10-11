@@ -8,6 +8,11 @@ wall_voiced: null
 status: current
 price_usd_pair: 1200
 price_checked: 2026-10-11
+home_trial_days: 30
+no_hassle_return: true
+trial_seller: "Paradigm"
+trial_terms: "30 days, buyer pays return shipping, restocking fee: none (15% only if packaging missing)"
+trial_checked: "2026-10-11"
 nominal_impedance_ohm: 8
 min_impedance_ohm: null
 min_impedance_hz: null
