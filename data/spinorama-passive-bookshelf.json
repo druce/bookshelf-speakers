@@ -1,0 +1,8002 @@
+[
+ {
+  "name": "Acoustic Energy AE100 Mk2",
+  "brand": "Acoustic Energy",
+  "model": "AE100 Mk2",
+  "price": "500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/acoustic_energy_ae100_mk2/",
+    "published": "20231129",
+    "pref_score": 4.96,
+    "pref_score_sub": 7.18,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "Advent The New Advent Loudspeaker",
+  "brand": "Advent",
+  "model": "The New Advent Loudspeaker",
+  "price": "125",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/the-new-advent-loudspeaker-review-vintage-speaker.24993/",
+    "published": "20210715",
+    "pref_score": 3.99,
+    "pref_score_sub": 5.93,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Aoshida Audio Musician Knight I V2",
+  "brand": "Aoshida Audio",
+  "model": "Musician Knight I V2",
+  "price": "1900",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/musician-knight-i-v2-speaker-review.70943/",
+    "published": "20260422",
+    "pref_score": 4.5,
+    "pref_score_sub": 6.57,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Aperion Audio Novus N5B",
+  "brand": "Aperion Audio",
+  "model": "Novus N5B",
+  "price": "300",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/aperion_novus_n5b/",
+    "published": "20231129",
+    "pref_score": 3.76,
+    "pref_score_sub": 5.98,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Aperion Audio Verus III Concert V8B",
+  "brand": "Aperion Audio",
+  "model": "Verus III Concert V8B",
+  "price": "750",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/aperion_verus_8/",
+    "published": "20230619",
+    "pref_score": 3.65,
+    "pref_score_sub": 5.79,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "Arendal Sound 1528 Monitor 8",
+  "brand": "Arendal Sound",
+  "model": "1528 Monitor 8",
+  "price": "5900",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "",
+    "published": "20250708",
+    "pref_score": 5.59,
+    "pref_score_sub": 7.04,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Arendal Sound 1723 Bookshelf S THX",
+  "brand": "Arendal Sound",
+  "model": "1723 Bookshelf S THX",
+  "price": "1500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-v2-20220526",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/arendal_1723_thx_s/",
+    "published": "20220526",
+    "pref_score": 4.89,
+    "pref_score_sub": 7.68,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac-v1-20220430",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/arendal_1723_thx_s/",
+    "published": "20220430",
+    "pref_score": 4.11,
+    "pref_score_sub": 6.9,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Arendal Sound 1723 Monitor S THX",
+  "brand": "Arendal Sound",
+  "model": "1723 Monitor S THX",
+  "price": "2000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/arendal_1723_thx_s_monitor/",
+    "published": "20231011",
+    "pref_score": 5.07,
+    "pref_score_sub": 7.08,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Arendal Sound 1723 Monitor THX",
+  "brand": "Arendal Sound",
+  "model": "1723 Monitor THX",
+  "price": "2400",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/arendal-1723-speaker-review.46141/",
+    "published": "20230704",
+    "pref_score": 5.16,
+    "pref_score_sub": 7.3,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/arendal-1723/conclusion",
+    "published": "20210705",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/arendal_1723_thx_monitor",
+    "published": "20231011",
+    "pref_score": 4.84,
+    "pref_score_sub": 6.98,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Arendal Sound 1961 Bookshelf",
+  "brand": "Arendal Sound",
+  "model": "1961 Bookshelf",
+  "price": "700",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/arendal_1961_bookshelf/",
+    "published": "20220118",
+    "pref_score": 4.15,
+    "pref_score_sub": 7.14,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Arendal Sound 1961 Monitor",
+  "brand": "Arendal Sound",
+  "model": "1961 Monitor",
+  "price": "1100",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/arendal-1961-center-monitor-speaker-review.43190/",
+    "published": "20230323",
+    "pref_score": 3.38,
+    "pref_score_sub": 6.69,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/arenda_1961_monitor/",
+    "published": "20231009",
+    "pref_score": 4.23,
+    "pref_score_sub": 7.37,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Ascend Acoustics CBM-170 SE",
+  "brand": "Ascend Acoustics",
+  "model": "CBM-170 SE",
+  "price": "400",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascend-cbm-170-se-speaker-review.11839",
+    "published": "20200302",
+    "pref_score": 4.27,
+    "pref_score_sub": 7.06,
+    "spec_impedance": null
+   },
+   {
+    "key": "princeton",
+    "origin": "Princeton",
+    "tier": "A",
+    "review": "https://www.princeton.edu/3D3A/Directivity.html",
+    "published": "20151001",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Ascend Acoustics CBM-170 SE2",
+  "brand": "Ascend Acoustics",
+  "model": "CBM-170 SE2",
+  "price": "468",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Ascend Acoustics",
+    "tier": "C",
+    "review": null,
+    "published": "20260707",
+    "pref_score": 6.3,
+    "pref_score_sub": 8.66,
+    "spec_impedance": 8
+   },
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascend-cbm-170se2-speaker-review.72683/",
+    "published": "20260805",
+    "pref_score": 5.65,
+    "pref_score_sub": 8.01,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Ascend Acoustics Luna Mini-Monitor",
+  "brand": "Ascend Acoustics",
+  "model": "Luna Mini-Monitor",
+  "price": "1150",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascend-sierra-luna-mini-monitor-review.17181/#post-556036",
+    "published": "20201031",
+    "pref_score": 1.87,
+    "pref_score_sub": 4.94,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Ascend Acoustics Sierra 1 V2",
+  "brand": "Ascend Acoustics",
+  "model": "Sierra 1 V2",
+  "price": "998",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Ascend Acoustics",
+    "tier": "C",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/",
+    "published": "20231209",
+    "pref_score": 6.65,
+    "pref_score_sub": 8.61,
+    "spec_impedance": 8
+   },
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/",
+    "published": "20231124",
+    "pref_score": 6.38,
+    "pref_score_sub": 8.39,
+    "spec_impedance": 8
+   },
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/ascend_sierra_1_v2/",
+    "published": "20240329",
+    "pref_score": 5.8,
+    "pref_score_sub": 7.81,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Ascend Acoustics Sierra 2",
+  "brand": "Ascend Acoustics",
+  "model": "Sierra 2",
+  "price": "1500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascend-sierra-2-speaker-review.11813/#post-341009",
+    "published": "20200301",
+    "pref_score": 4.22,
+    "pref_score_sub": 6.56,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Ascend Acoustics Sierra-LX",
+  "brand": "Ascend Acoustics",
+  "model": "Sierra-LX",
+  "price": "1438",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Ascend Acoustics",
+    "tier": "C",
+    "review": "http://forum.ascendacoustics.com/showthread.php?7588-Introducing-the-Sierra-LX!!!",
+    "published": "20220324",
+    "pref_score": 6.63,
+    "pref_score_sub": 8.44,
+    "spec_impedance": 8.0
+   },
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": null,
+    "published": "20250918",
+    "pref_score": 6.04,
+    "pref_score_sub": 7.92,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "AsciLab A6B Passive",
+  "brand": "AsciLab",
+  "model": "A6B Passive",
+  "price": "2900",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascilab-a6b-speaker-review.69864/",
+    "published": "20260304",
+    "pref_score": 6.5,
+    "pref_score_sub": 8.24,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor-v2-20240917",
+    "origin": "Vendors-AsciLab",
+    "tier": "C",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascilab-speakers-are-about-to-launch.54794/",
+    "published": "20240923",
+    "pref_score": 6.66,
+    "pref_score_sub": 8.15,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor-v1-20240720",
+    "origin": "Vendors-AsciLab",
+    "tier": "C",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascilab-speakers-are-about-to-launch.54794/",
+    "published": "20240720",
+    "pref_score": 6.82,
+    "pref_score_sub": 8.23,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "AsciLab C6B",
+  "brand": "AsciLab",
+  "model": "C6B",
+  "price": "1100",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/ascilab_c6b/",
+    "published": "20250707",
+    "pref_score": 6.33,
+    "pref_score_sub": 8.28,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor-v2-20240919",
+    "origin": "Vendors-AsciLab",
+    "tier": "C",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascilab-speakers-are-about-to-launch.54794/",
+    "published": "20240920",
+    "pref_score": 6.0,
+    "pref_score_sub": 7.95,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor-v1-20240814",
+    "origin": "Vendors-AsciLab",
+    "tier": "C",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascilab-speakers-are-about-to-launch.54794/",
+    "published": "20240531",
+    "pref_score": 6.07,
+    "pref_score_sub": 8.14,
+    "spec_impedance": null
+   },
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascilab-c6b-speaker-review.72776/",
+    "published": "20260810",
+    "pref_score": 6.26,
+    "pref_score_sub": 8.14,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "AsciLab F6B",
+  "brand": "AsciLab",
+  "model": "F6B",
+  "price": "835",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascilab-f6b-bookshelf-speaker-review.63387/#post-2323226",
+    "published": "20250606",
+    "pref_score": 6.32,
+    "pref_score_sub": 8.26,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "AsciLab F6Bs",
+  "brand": "AsciLab",
+  "model": "F6Bs",
+  "price": "575",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascilab-f6bs-speaker-review.63324/",
+    "published": "20250604",
+    "pref_score": 5.24,
+    "pref_score_sub": 7.9,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "ATC SCM19 v1",
+  "brand": "ATC",
+  "model": "SCM19 v1",
+  "price": "4000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/atc-scm19-bookshelf-speaker-review.14519/",
+    "published": "20200703",
+    "pref_score": 4.61,
+    "pref_score_sub": 7.03,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Audio Craftsmen Victoria",
+  "brand": "Audio Craftsmen",
+  "model": "Victoria",
+  "price": "3999",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://youtu.be/Oujx5LziiZA?si=n7KHvAtXeQm7LZnc",
+    "published": "20250319",
+    "pref_score": 4.87,
+    "pref_score_sub": 7.34,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Audio First Design Fidelia",
+  "brand": "Audio First Design",
+  "model": "Fidelia",
+  "price": "1200",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.youtube.com/watch?v=HKrm19_asro",
+    "published": "20250114",
+    "pref_score": 6.45,
+    "pref_score_sub": 8.46,
+    "spec_impedance": 3.2
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-Audio First Design",
+    "tier": "C",
+    "review": "",
+    "published": "20241206",
+    "pref_score": 6.76,
+    "pref_score_sub": 8.68,
+    "spec_impedance": 3.2
+   }
+  ]
+ },
+ {
+  "name": "Avantone Pro CLA-10",
+  "brand": "Avantone Pro",
+  "model": "CLA-10",
+  "price": "550",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/avantone-cla-10-yamaha-ns-10m-clone-review.46954/",
+    "published": "20230805",
+    "pref_score": 2.23,
+    "pref_score_sub": 5.87,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Behringer B2030p",
+  "brand": "Behringer",
+  "model": "B2030p",
+  "price": "200",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/behringer-b2030p-studio-monitor-review.14719",
+    "published": "20200715",
+    "pref_score": 3.3,
+    "pref_score_sub": 6.37,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "BIC America Venturi DV62si",
+  "brand": "BIC America",
+  "model": "Venturi DV62si",
+  "price": "275",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/bic-america-dv62si-bookshelf-speaker-review.14918/",
+    "published": "20200725",
+    "pref_score": 2.42,
+    "pref_score_sub": 5.34,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-BIC America",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 1.59,
+    "pref_score_sub": 4.31,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Boston Acoustics A 25",
+  "brand": "Boston Acoustics",
+  "model": "A 25",
+  "price": "180",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/boston-acoustics-a-25-speaker-review.17625/",
+    "published": "20201117",
+    "pref_score": 3.53,
+    "pref_score_sub": 6.19,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Bowers & Wilkins 607 S2 Anniversary Edition",
+  "brand": "Bowers & Wilkins",
+  "model": "607 S2 Anniversary Edition",
+  "price": "740",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/bowers-wilkins-607-s2-anniversary-edition-review.21597/",
+    "published": null,
+    "pref_score": 4.01,
+    "pref_score_sub": 6.2,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Bowers & Wilkins 805S",
+  "brand": "Bowers & Wilkins",
+  "model": "805S",
+  "price": "2500",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/bowers-wilkins-805s-bookshelf-speaker-review.16523/",
+    "published": "20201006",
+    "pref_score": 4.12,
+    "pref_score_sub": 6.07,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Buchardt Audio E50",
+  "brand": "Buchardt Audio",
+  "model": "E50",
+  "price": "1975",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://youtu.be/MmrIYaFii5Q?si=JT8pRsT6t6y-U5TK",
+    "published": "20250918",
+    "pref_score": 5.84,
+    "pref_score_sub": 7.61,
+    "spec_impedance": 5.0
+   }
+  ]
+ },
+ {
+  "name": "Buchardt Audio S400",
+  "brand": "Buchardt Audio",
+  "model": "S400",
+  "price": "1800",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/buchardt-s400-speaker-review.12844/",
+    "published": "20200424",
+    "pref_score": 5.23,
+    "pref_score_sub": 7.43,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/buchardt_audio_s400_bookshelf/",
+    "published": "20200613",
+    "pref_score": 5.89,
+    "pref_score_sub": 8.06,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-napilopez",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/buchardt-s400-on-and-off-axis-measurements-and-the-benefits-of-manufacturer-data.10075/page-2#post-366916",
+    "published": null,
+    "pref_score": 6.01,
+    "pref_score_sub": 7.84,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-Buchardt Audio",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Buchardt Audio S400 MKII",
+  "brand": "Buchardt Audio",
+  "model": "S400 MKII",
+  "price": "2250",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/buchardt_s400_mkii/",
+    "published": "20230919",
+    "pref_score": 5.38,
+    "pref_score_sub": 7.46,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Cambridge Audio Minx XL",
+  "brand": "Cambridge Audio",
+  "model": "Minx XL",
+  "price": "300",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/cambridge-audio-minx-xl-speaker-review.60824/",
+    "published": "20250216",
+    "pref_score": 2.91,
+    "pref_score_sub": 5.7,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Canton Plus GLX.3",
+  "brand": "Canton",
+  "model": "Plus GLX.3",
+  "price": "170",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/canton-plus-glx-3-review-speaker.18203/",
+    "published": null,
+    "pref_score": 1.72,
+    "pref_score_sub": 5.3,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Canton Vento 826.2",
+  "brand": "Canton",
+  "model": "Vento 826.2",
+  "price": "780",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/canton-vento-826-2-speaker-review.40475/",
+    "published": "20221229",
+    "pref_score": 5.48,
+    "pref_score_sub": 7.74,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Carmody S2000 DIY Speaker Kit",
+  "brand": "Carmody",
+  "model": "S2000 DIY Speaker Kit",
+  "price": "240",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/carmody-s2000-diy-speaker-kit-reivew.17507/",
+    "published": null,
+    "pref_score": 4.42,
+    "pref_score_sub": 6.89,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Celuaris Purify SPK5 prototype",
+  "brand": "Celuaris",
+  "model": "Purify SPK5 prototype",
+  "price": "2000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr-v2-20210206",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/celuaris-spk5-purifi-review-speaker.20125/",
+    "published": null,
+    "pref_score": 5.34,
+    "pref_score_sub": 6.75,
+    "spec_impedance": null
+   },
+   {
+    "key": "asr-v1-20201124",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/purifi-spk5-speaker-review-prototype.17806/",
+    "published": null,
+    "pref_score": 4.63,
+    "pref_score_sub": 6.82,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Cerwin Vega LA165",
+  "brand": "Cerwin Vega",
+  "model": "LA165",
+  "price": "270",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://youtu.be/5LLEbOTBoCk?si=Y5WVEfV6ZEn6JjqB",
+    "published": "20250918",
+    "pref_score": 3.01,
+    "pref_score_sub": 5.48,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Chane A1.5",
+  "brand": "Chane",
+  "model": "A1.5",
+  "price": "329",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/chane-a1-5-review-bookshelf-speaker.26078/",
+    "published": "20210825",
+    "pref_score": 3.98,
+    "pref_score_sub": 6.23,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Chesky Audio LC1",
+  "brand": "Chesky Audio",
+  "model": "LC1",
+  "price": "500",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/chesky_lc1/",
+    "published": "20250708",
+    "pref_score": 3.21,
+    "pref_score_sub": 5.87,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "CSS Criton 1TD-X DIY",
+  "brand": "CSS",
+  "model": "Criton 1TD-X DIY",
+  "price": "770",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/css-criton-1td-x-kit-speaker-review.41923/",
+    "published": "20230211",
+    "pref_score": 5.26,
+    "pref_score_sub": 6.92,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "CSS Criton 3TD-X DIY",
+  "brand": "CSS",
+  "model": "Criton 3TD-X DIY",
+  "price": "2000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/css-criton-3td-x-kit-speaker-review.58467/",
+    "published": "20241113",
+    "pref_score": 4.68,
+    "pref_score_sub": 6.69,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Dali Spektor 1",
+  "brand": "Dali",
+  "model": "Spektor 1",
+  "price": "250",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/dali-spektor-1-review-bookshelf-speaker.25063/",
+    "published": "20210719",
+    "pref_score": 4.0,
+    "pref_score_sub": 6.75,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Dayton Audio B452-AIR",
+  "brand": "Dayton Audio",
+  "model": "B452-AIR",
+  "price": "40",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/b452-air-speaker/conclusion",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Dayton Audio B652-AIR",
+  "brand": "Dayton Audio",
+  "model": "B652-AIR",
+  "price": "70",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/dayton-audio-b652-air-speaker-review.11410/",
+    "published": null,
+    "pref_score": 1.45,
+    "pref_score_sub": 4.57,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Dayton Audio MK402",
+  "brand": "Dayton Audio",
+  "model": "MK402",
+  "price": "35",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/mk402-and-mk442-review/page-2",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Dayton Audio MK402X",
+  "brand": "Dayton Audio",
+  "model": "MK402X",
+  "price": "70",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/dayton-mk402x-review-bookshelf-speaker.23249/",
+    "published": "20210510",
+    "pref_score": 4.01,
+    "pref_score_sub": 6.42,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Dayton Audio MK602X",
+  "brand": "Dayton Audio",
+  "model": "MK602X",
+  "price": "150",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/dayton_mk602x/",
+    "published": "20211117",
+    "pref_score": 4.39,
+    "pref_score_sub": 6.91,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Dayton Audio OPAL1",
+  "brand": "Dayton Audio",
+  "model": "OPAL1",
+  "price": "800",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/dayton_opal1/",
+    "published": "20250114",
+    "pref_score": 5.08,
+    "pref_score_sub": 6.58,
+    "spec_impedance": 4.3
+   }
+  ]
+ },
+ {
+  "name": "Definitive Technology Demand D11",
+  "brand": "Definitive Technology",
+  "model": "Demand D11",
+  "price": "1200",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/definitive-demand-d11-speaker-review.15581/",
+    "published": null,
+    "pref_score": 4.12,
+    "pref_score_sub": 6.48,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Definitive Technology ProMonitor 1000",
+  "brand": "Definitive Technology",
+  "model": "ProMonitor 1000",
+  "price": "400",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/definitive-technology-promonitor-1000-speaker-review.14220/",
+    "published": null,
+    "pref_score": 3.2,
+    "pref_score_sub": 6.58,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Dennis Murphy Affordable Accuracy Monitor",
+  "brand": "Dennis Murphy",
+  "model": "Affordable Accuracy Monitor",
+  "price": "",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/affordable-accuracy-monitor-review.13624/",
+    "published": null,
+    "pref_score": 5.07,
+    "pref_score_sub": 7.82,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Diapason Emera",
+  "brand": "Diapason",
+  "model": "Emera",
+  "price": "1000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/diapason-emera-italian-speaker-review.16193/",
+    "published": null,
+    "pref_score": 2.69,
+    "pref_score_sub": 6.07,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "DIYSG Elusive 1099",
+  "brand": "DIYSG",
+  "model": "Elusive 1099",
+  "price": "820",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/diysg_1099/",
+    "published": "20210607",
+    "pref_score": 2.75,
+    "pref_score_sub": 5.93,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "DIYSG HTM-12v1",
+  "brand": "DIYSG",
+  "model": "HTM-12v1",
+  "price": "600",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/diysg_htm12v1/",
+    "published": "20210523",
+    "pref_score": 2.59,
+    "pref_score_sub": 5.38,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "DIYSG HTM-12v2",
+  "brand": "DIYSG",
+  "model": "HTM-12v2",
+  "price": "600",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/diysg_htm12v2/",
+    "published": "20210612",
+    "pref_score": 3.26,
+    "pref_score_sub": 5.88,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "DIYSG Volt-6",
+  "brand": "DIYSG",
+  "model": "Volt-6",
+  "price": "300",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/diysg_volt6/",
+    "published": "20210602",
+    "pref_score": 0.26,
+    "pref_score_sub": 3.97,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "DIYSG Volt-8 v2",
+  "brand": "DIYSG",
+  "model": "Volt-8 v2",
+  "price": "300",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/diysg_volt8/",
+    "published": "20210603",
+    "pref_score": 1.81,
+    "pref_score_sub": 4.56,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Dynaudio Emit 20",
+  "brand": "Dynaudio",
+  "model": "Emit 20",
+  "price": "800",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/dynaudio_emit_20/",
+    "published": "20231122",
+    "pref_score": 4.22,
+    "pref_score_sub": 5.92,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "Dynaudio Emit M10",
+  "brand": "Dynaudio",
+  "model": "Emit M10",
+  "price": "800",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/dynaudio-emit-m10-review-bookshelf-speaker.20908/",
+    "published": null,
+    "pref_score": 4.56,
+    "pref_score_sub": 6.93,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Dynaudio Excite X14",
+  "brand": "Dynaudio",
+  "model": "Excite X14",
+  "price": "1500",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/dynaudio-x14-speaker-review.17569/",
+    "published": null,
+    "pref_score": 4.57,
+    "pref_score_sub": 6.94,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Dynaudio Heritage Special",
+  "brand": "Dynaudio",
+  "model": "Heritage Special",
+  "price": "7000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/dynaudio_heritage_special",
+    "published": "20231124",
+    "pref_score": 4.32,
+    "pref_score_sub": 6.33,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Dynaudio Special Forty",
+  "brand": "Dynaudio",
+  "model": "Special Forty",
+  "price": "3000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/dynaudio_special_forty/",
+    "published": "20231124",
+    "pref_score": 4.73,
+    "pref_score_sub": 6.74,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "Dynaudio Xeo 3",
+  "brand": "Dynaudio",
+  "model": "Xeo 3",
+  "price": "975",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "princeton",
+    "origin": "Princeton",
+    "tier": "A",
+    "review": "https://www.princeton.edu/3D3A/Directivity.html",
+    "published": "20151001",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Elac Adante AS-61",
+  "brand": "Elac",
+  "model": "Adante AS-61",
+  "price": "1500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/elac-adante-as-61-speaker-review.11507/#post-329527",
+    "published": null,
+    "pref_score": 3.79,
+    "pref_score_sub": 5.81,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Elac BS 41",
+  "brand": "Elac",
+  "model": "BS 41",
+  "price": "180",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/elac_bs41/",
+    "published": "20240916",
+    "pref_score": 4.29,
+    "pref_score_sub": 6.57,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Elac BS U5 Slim",
+  "brand": "Elac",
+  "model": "BS U5 Slim",
+  "price": "430",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/elac-bs-u5-slim-3-way-coaxial-speaker-review.13735/",
+    "published": null,
+    "pref_score": 4.71,
+    "pref_score_sub": 6.79,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Elac Carina BS243.4",
+  "brand": "Elac",
+  "model": "Carina BS243.4",
+  "price": "1000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/elac-carina-bs243-4-review-bookshelf-speaker.34398/",
+    "published": "20220528",
+    "pref_score": 4.85,
+    "pref_score_sub": 6.99,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Elac Debut 2.0 B5.2",
+  "brand": "Elac",
+  "model": "Debut 2.0 B5.2",
+  "price": "430",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/elac_db52/",
+    "published": "20221116",
+    "pref_score": 5.02,
+    "pref_score_sub": 7.27,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-nuyes",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://gall.dcinside.com/mgallery/board/view/?id=speakers&no=265694",
+    "published": "20220901",
+    "pref_score": 5.24,
+    "pref_score_sub": 7.26,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Elac Debut 2.0 B6.2",
+  "brand": "Elac",
+  "model": "Debut 2.0 B6.2",
+  "price": "245",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-2-0-b6-2-speaker-review.14272/",
+    "published": null,
+    "pref_score": 4.75,
+    "pref_score_sub": 7.0,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/elac_db62/",
+    "published": "20220813",
+    "pref_score": 5.15,
+    "pref_score_sub": 7.34,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Elac Debut Reference DBR-62",
+  "brand": "Elac",
+  "model": "Debut Reference DBR-62",
+  "price": "600",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/elac_dbr62/",
+    "published": "20231221",
+    "pref_score": 5.07,
+    "pref_score_sub": 7.27,
+    "spec_impedance": 6
+   },
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/elac-debut-reference-dbr-62-speaker-review.12232/#post-357719",
+    "published": "20200325",
+    "pref_score": 5.17,
+    "pref_score_sub": 7.36,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Elac Uni-Fi 2.0 UB52",
+  "brand": "Elac",
+  "model": "Uni-Fi 2.0 UB52",
+  "price": "600",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/elac-uni-fi-2-0-review-bookshelf-speaker.19216/",
+    "published": null,
+    "pref_score": 5.32,
+    "pref_score_sub": 7.34,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Elac Uni-Fi Reference UBR62",
+  "brand": "Elac",
+  "model": "Uni-Fi Reference UBR62",
+  "price": "1000",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/elac_ubr62/",
+    "published": null,
+    "pref_score": 5.44,
+    "pref_score_sub": 7.7,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Elac Vela BS 403",
+  "brand": "Elac",
+  "model": "Vela BS 403",
+  "price": "1150",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/elac_vela_bs_403/",
+    "published": "20240312",
+    "pref_score": 3.94,
+    "pref_score_sub": 6.28,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Emotiva Airmotiv B1+",
+  "brand": "Emotiva",
+  "model": "Airmotiv B1+",
+  "price": "300",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/emotiva-airmotiv-b1-review-bookshelf-speaker.22366/",
+    "published": null,
+    "pref_score": 4.73,
+    "pref_score_sub": 7.2,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/emotiva_airmotiv_b1plus/",
+    "published": null,
+    "pref_score": 5.34,
+    "pref_score_sub": 7.86,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-archimago",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://archimago.blogspot.com/2021/02/measurements-emotiva-airmotiv-b1.html",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Emotiva Airmotiv B2+",
+  "brand": "Emotiva",
+  "model": "Airmotiv B2+",
+  "price": "450",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/emotiva_airmotiv_b2plus/",
+    "published": "20220806",
+    "pref_score": 5.6,
+    "pref_score_sub": 7.96,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Emotiva Airmotiv XB2",
+  "brand": "Emotiva",
+  "model": "Airmotiv XB2",
+  "price": "600",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "",
+    "published": "20250918",
+    "pref_score": 5.65,
+    "pref_score_sub": 7.93,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Fisher STE-720",
+  "brand": "Fisher",
+  "model": "STE-720",
+  "price": "50",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "princeton",
+    "origin": "Princeton",
+    "tier": "A",
+    "review": "https://www.princeton.edu/3D3A/Directivity.html",
+    "published": "20151001",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Fluance HFS Signature",
+  "brand": "Fluance",
+  "model": "HFS Signature",
+  "price": "170",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/fluance-signature-bookshelf-speaker-review.16337/",
+    "published": null,
+    "pref_score": 2.92,
+    "pref_score_sub": 5.53,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Focal Aria 906",
+  "brand": "Focal",
+  "model": "Aria 906",
+  "price": "450",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/focal_aria_906/",
+    "published": "20230618",
+    "pref_score": 4.64,
+    "pref_score_sub": 7.0,
+    "spec_impedance": null
+   },
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/focal-aria-906-speaker-review.14085/",
+    "published": "20200614",
+    "pref_score": 5.26,
+    "pref_score_sub": 7.67,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Focal Dome Flax",
+  "brand": "Focal",
+  "model": "Dome Flax",
+  "price": "400",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/focal-dome-flax-speaker-review.47510/",
+    "published": "20230830",
+    "pref_score": 1.76,
+    "pref_score_sub": 5.48,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Focal Sopra 1",
+  "brand": "Focal",
+  "model": "Sopra 1",
+  "price": "10000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/focal-sopra-nb01/focal-sopra-nb01-conclusion",
+    "published": "20210609",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "GedLee Nathan",
+  "brand": "GedLee",
+  "model": "Nathan",
+  "price": "1500",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "princeton",
+    "origin": "Princeton",
+    "tier": "A",
+    "review": "https://www.princeton.edu/3D3A/Directivity.html",
+    "published": "20151001",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "GoldenEar BRX",
+  "brand": "GoldenEar",
+  "model": "BRX",
+  "price": "1600",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/goldenear-brx-review-high-end-bookshelf-speaker.28371/",
+    "published": "20211123",
+    "pref_score": 4.21,
+    "pref_score_sub": 6.57,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "GR Research Klipsch RP-600M Upgrade",
+  "brand": "GR Research",
+  "model": "Klipsch RP-600M Upgrade",
+  "price": "600",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/gr-research-klipsch-rp-600m-upgrade-review-speaker.35326/",
+    "published": "20220628",
+    "pref_score": 5.11,
+    "pref_score_sub": 7.06,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "GR Research LGK 2.0",
+  "brand": "GR Research",
+  "model": "LGK 2.0",
+  "price": "1000",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/gr-research-lgk-2-0-speaker-review-a-joke.34783/",
+    "published": "20220607",
+    "pref_score": 3.31,
+    "pref_score_sub": 6.23,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "GR Research NX-Bravo",
+  "brand": "GR Research",
+  "model": "NX-Bravo",
+  "price": "1525",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-15-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "",
+    "published": "20250404",
+    "pref_score": 5.18,
+    "pref_score_sub": 7.52,
+    "spec_impedance": 4.7
+   },
+   {
+    "key": "eac-0-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "",
+    "published": "20250404",
+    "pref_score": 4.99,
+    "pref_score_sub": 7.33,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "GR Research X-LS Encore Kit",
+  "brand": "GR Research",
+  "model": "X-LS Encore Kit",
+  "price": "500",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/gr-research-x-ls-encore-kit-speaker-review.14957/",
+    "published": null,
+    "pref_score": 5.05,
+    "pref_score_sub": 7.42,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Hivi 3.1A DIY",
+  "brand": "Hivi",
+  "model": "3.1A DIY",
+  "price": "300",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/hivi-3-1a-diy-speaker-with-sehlin-mod-review.15802/",
+    "published": null,
+    "pref_score": 5.6,
+    "pref_score_sub": 7.54,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Hsu Research CCB-8",
+  "brand": "Hsu Research",
+  "model": "CCB-8",
+  "price": "389",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/hsu-ccb-8-speaker-review.68131/",
+    "published": "20251217",
+    "pref_score": 1.62,
+    "pref_score_sub": 4.04,
+    "spec_impedance": 8
+   },
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/ccb-8-bookshelf/measurements",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Hsu Research HB-1 MK2",
+  "brand": "Hsu Research",
+  "model": "HB-1 MK2",
+  "price": "218",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/hsu-hb-1-mk2-review-horn-speaker.24445/",
+    "published": null,
+    "pref_score": 3.94,
+    "pref_score_sub": 6.41,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Hsu Research MFL-6",
+  "brand": "Hsu Research",
+  "model": "MFL-6",
+  "price": "280",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/hsu-mfl-6-home-theater-speaker-review.67955/",
+    "published": "20251209",
+    "pref_score": 3.44,
+    "pref_score_sub": 5.57,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "HTD Level THREE",
+  "brand": "HTD",
+  "model": "Level THREE",
+  "price": "429",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/htd-level-three-review-bookshelf-speaker.26566/",
+    "published": "20210912",
+    "pref_score": 0.85,
+    "pref_score_sub": 2.92,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Human Speakers 81 dk",
+  "brand": "Human Speakers",
+  "model": "81 dk",
+  "price": "1200",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/human-speakers-81-dk-review.50915/",
+    "published": "20240104",
+    "pref_score": 2.02,
+    "pref_score_sub": 3.97,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "iKey-Audio M-808V2",
+  "brand": "iKey-Audio",
+  "model": "M-808V2",
+  "price": "200",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "princeton",
+    "origin": "Princeton",
+    "tier": "A",
+    "review": "https://www.princeton.edu/3D3A/Directivity.html",
+    "published": "20151001",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Infinity Interlude IL10",
+  "brand": "Infinity",
+  "model": "Interlude IL10",
+  "price": "200",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/research-project-infinity-il10-speaker-review-measurements.14310/",
+    "published": null,
+    "pref_score": 4.98,
+    "pref_score_sub": 7.34,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-Infinity",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 5.47,
+    "pref_score_sub": 7.76,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Infinity R162",
+  "brand": "Infinity",
+  "model": "R162",
+  "price": "540",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/infinity-r162-bookshelf-speaker-review.12333/",
+    "published": null,
+    "pref_score": 5.07,
+    "pref_score_sub": 7.26,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-Infinity",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 5.12,
+    "pref_score_sub": 7.25,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Jamo C93 II",
+  "brand": "Jamo",
+  "model": "C93 II",
+  "price": "300",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/jamo_c93_ii/",
+    "published": "20220809",
+    "pref_score": 3.35,
+    "pref_score_sub": 5.97,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Jamo S7-15B",
+  "brand": "Jamo",
+  "model": "S7-15B",
+  "price": "350",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/jamo_s7_15b",
+    "published": "20240331",
+    "pref_score": 4.52,
+    "pref_score_sub": 6.66,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Jamo S803",
+  "brand": "Jamo",
+  "model": "S803",
+  "price": "150",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/jamo_s803/",
+    "published": "20220809",
+    "pref_score": 3.59,
+    "pref_score_sub": 6.1,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JansZen Loudspeaker zA1.1",
+  "brand": "JansZen Loudspeaker",
+  "model": "zA1.1",
+  "price": "",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "princeton",
+    "origin": "Princeton",
+    "tier": "A",
+    "review": "https://www.princeton.edu/3D3A/Directivity.html",
+    "published": "20151001",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL 4309",
+  "brand": "JBL",
+  "model": "4309",
+  "price": "2000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/jbl-4309-review-speaker.27255/",
+    "published": "20211012",
+    "pref_score": 3.32,
+    "pref_score_sub": 5.33,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-napilopez",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/jbl-4309-spinorama-and-measurements.23465/#post-784844",
+    "published": "20210517",
+    "pref_score": 4.36,
+    "pref_score_sub": 6.21,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL 4312MII",
+  "brand": "JBL",
+  "model": "4312MII",
+  "price": "1000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/jbl-4312m-ii-3-way-studio-monitor-review.51226/",
+    "published": "20240110",
+    "pref_score": -0.32,
+    "pref_score_sub": 2.99,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "JBL 4319",
+  "brand": "JBL",
+  "model": "4319",
+  "price": "2500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/jbl-4319-studio-monitor-review.12986/",
+    "published": null,
+    "pref_score": 4.41,
+    "pref_score_sub": 6.61,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL 4349",
+  "brand": "JBL",
+  "model": "4349",
+  "price": "7500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/jbl-4349-review-studio-monitor-speaker.22686/",
+    "published": "20210420",
+    "pref_score": 4.32,
+    "pref_score_sub": 6.05,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL 708i passive",
+  "brand": "JBL",
+  "model": "708i passive",
+  "price": "3800",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/jbl-708i-monitor-review-passive-part-1.40530/",
+    "published": "20221231",
+    "pref_score": 3.61,
+    "pref_score_sub": 5.56,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL AC25",
+  "brand": "JBL",
+  "model": "AC25",
+  "price": "1000",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/jbl-ac25-speaker-review.43520/",
+    "published": "20230403",
+    "pref_score": 0.43,
+    "pref_score_sub": 4.01,
+    "spec_impedance": 16
+   }
+  ]
+ },
+ {
+  "name": "JBL Control 1 Pro",
+  "brand": "JBL",
+  "model": "Control 1 Pro",
+  "price": "164",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/jbl-305p-mkii-and-control-1-pro-monitors-review.10811/",
+    "published": "20200110",
+    "pref_score": 2.87,
+    "pref_score_sub": 6.37,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL HDI-1600",
+  "brand": "JBL",
+  "model": "HDI-1600",
+  "price": "1800",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/jbl-hdi-1600-speaker-review.12477/",
+    "published": null,
+    "pref_score": 5.37,
+    "pref_score_sub": 7.32,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-napilopez",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://thenextweb.com/news/these-3-studio-monitors-are-great-speakers-for-a-small-desk",
+    "published": null,
+    "pref_score": 5.38,
+    "pref_score_sub": 7.29,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-JBL",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2021/01/jbl-synthesis-spinorama-data.html",
+    "published": null,
+    "pref_score": 6.29,
+    "pref_score_sub": 8.07,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL L100 Classic",
+  "brand": "JBL",
+  "model": "L100 Classic",
+  "price": "2000",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/jbl-l100/conclusion",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL L100 Classic MKII",
+  "brand": "JBL",
+  "model": "L100 Classic MKII",
+  "price": "2799",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://youtu.be/ZBBqxHku5sA",
+    "published": "20250404",
+    "pref_score": 4.64,
+    "pref_score_sub": 6.59,
+    "spec_impedance": 4
+   },
+   {
+    "key": "eac-maxed-out",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://youtu.be/ZBBqxHku5sA",
+    "published": "20250404",
+    "pref_score": 4.71,
+    "pref_score_sub": 6.94,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL L52 Classic",
+  "brand": "JBL",
+  "model": "L52 Classic",
+  "price": "1000",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/jbl_l52_classic/",
+    "published": "20240312",
+    "pref_score": 4.54,
+    "pref_score_sub": 6.96,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "JBL Stage 250B",
+  "brand": "JBL",
+  "model": "Stage 250B",
+  "price": "400",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/jbl_250b/",
+    "published": "20240916",
+    "pref_score": 4.06,
+    "pref_score_sub": 6.6,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "JBL Stage A120",
+  "brand": "JBL",
+  "model": "Stage A120",
+  "price": "200",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/jbl_stage_a120/",
+    "published": "20211025",
+    "pref_score": 3.5,
+    "pref_score_sub": 6.24,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL Stage A130",
+  "brand": "JBL",
+  "model": "Stage A130",
+  "price": "200",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/jbl_stage_a130/",
+    "published": "20211112",
+    "pref_score": 4.04,
+    "pref_score_sub": 6.51,
+    "spec_impedance": null
+   },
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/jbl-stage-a130-review-speaker.18260/",
+    "published": "20201210",
+    "pref_score": 4.93,
+    "pref_score_sub": 7.35,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL Studio 530",
+  "brand": "JBL",
+  "model": "Studio 530",
+  "price": "600",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/jbl-studio-530-speaker-review.12298/",
+    "published": null,
+    "pref_score": 5.21,
+    "pref_score_sub": 7.29,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL Studio 630",
+  "brand": "JBL",
+  "model": "Studio 630",
+  "price": "700",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/jbl_studio_630/",
+    "published": "20240112",
+    "pref_score": 3.67,
+    "pref_score_sub": 5.68,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "JBL XPL90",
+  "brand": "JBL",
+  "model": "XPL90",
+  "price": "700",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/jbl-xpl90-speaker-review.13449/",
+    "published": null,
+    "pref_score": 3.7,
+    "pref_score_sub": 6.31,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Jeff Bagby Mandolin DIY",
+  "brand": "Jeff Bagby",
+  "model": "Mandolin DIY",
+  "price": "300",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/bagby-mandolin-diy-speaker-review.22981/",
+    "published": null,
+    "pref_score": 5.1,
+    "pref_score_sub": 7.18,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Kanto YU4",
+  "brand": "Kanto",
+  "model": "YU4",
+  "price": "420",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/kanto__yu4/",
+    "published": "20241117",
+    "pref_score": 2.89,
+    "pref_score_sub": 5.83,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "KEF LS50",
+  "brand": "KEF",
+  "model": "LS50",
+  "price": "1500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr-vertical",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-bookshelf-speaker-review.11144/",
+    "published": null,
+    "pref_score": 4.39,
+    "pref_score_sub": 6.62,
+    "spec_impedance": null
+   },
+   {
+    "key": "asr-horizontal",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-bookshelf-speaker-review.11144/",
+    "published": null,
+    "pref_score": 4.43,
+    "pref_score_sub": 6.66,
+    "spec_impedance": null
+   },
+   {
+    "key": "princeton",
+    "origin": "Princeton",
+    "tier": "A",
+    "review": "https://www.princeton.edu/3D3A/Directivity.html",
+    "published": "20151001",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-archimago",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://archimago.blogspot.com/2020/10/pspinorama-measurements-kef-ls50.html",
+    "published": null,
+    "pref_score": 4.98,
+    "pref_score_sub": 7.11,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "KEF LS50 Meta",
+  "brand": "KEF",
+  "model": "LS50 Meta",
+  "price": "1000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-v1-0-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/kef_ls50_meta/",
+    "published": "20231221",
+    "pref_score": 5.74,
+    "pref_score_sub": 7.88,
+    "spec_impedance": 3.5
+   },
+   {
+    "key": "eac-v1-15-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/kef_ls50_meta/",
+    "published": "20231221",
+    "pref_score": 5.85,
+    "pref_score_sub": 7.98,
+    "spec_impedance": 3.5
+   },
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-review-speaker.25574/",
+    "published": "20210807",
+    "pref_score": 5.43,
+    "pref_score_sub": 7.57,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-napilopez",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/kef-ls50-meta-spinorama-and-measurements.18353/#post-598793",
+    "published": null,
+    "pref_score": 5.94,
+    "pref_score_sub": 8.17,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-speakerdata2034",
+    "origin": "Misc",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2019/03/spinorama-data-kef.html",
+    "published": null,
+    "pref_score": 5.54,
+    "pref_score_sub": 7.84,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-audioxpress",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://audioxpress.com/article/fresh-from-the-bench-kef-ls50-meta-the-measurements",
+    "published": "20210701",
+    "pref_score": 4.96,
+    "pref_score_sub": 8.09,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "KEF Q Concerto Meta",
+  "brand": "KEF",
+  "model": "Q Concerto Meta",
+  "price": "1300",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/kef_q3_meta/",
+    "published": "20241117",
+    "pref_score": 6.01,
+    "pref_score_sub": 7.71,
+    "spec_impedance": 3.2
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-KEF",
+    "tier": "C",
+    "review": null,
+    "published": "20241223",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "KEF Q100",
+  "brand": "KEF",
+  "model": "Q100",
+  "price": "600",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/kef-q100-speaker-review.11987/",
+    "published": null,
+    "pref_score": 4.96,
+    "pref_score_sub": 7.24,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "KEF Q150",
+  "brand": "KEF",
+  "model": "Q150",
+  "price": "500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/kef_q150/",
+    "published": "20220225",
+    "pref_score": 4.86,
+    "pref_score_sub": 7.06,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "KEF Q3 Meta",
+  "brand": "KEF",
+  "model": "Q3 Meta",
+  "price": "800",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/kef_q3_meta/",
+    "published": "20241117",
+    "pref_score": 4.66,
+    "pref_score_sub": 6.5,
+    "spec_impedance": 4
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-KEF",
+    "tier": "C",
+    "review": null,
+    "published": "20241223",
+    "pref_score": 5.24,
+    "pref_score_sub": 7.21,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "KEF Q350",
+  "brand": "KEF",
+  "model": "Q350",
+  "price": "700",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr-vertical",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/kef-q350-speaker-review.13484/",
+    "published": null,
+    "pref_score": 5.25,
+    "pref_score_sub": 7.12,
+    "spec_impedance": null
+   },
+   {
+    "key": "asr-horizontal",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/kef-q350-speaker-review.13484/",
+    "published": null,
+    "pref_score": 5.25,
+    "pref_score_sub": 7.13,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "KEF R3",
+  "brand": "KEF",
+  "model": "R3",
+  "price": "1400",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/kef-r3-speaker-review.12021/",
+    "published": null,
+    "pref_score": 6.2,
+    "pref_score_sub": 7.97,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/kef_r3/",
+    "published": "20210314",
+    "pref_score": 6.41,
+    "pref_score_sub": 8.22,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-KEF",
+    "tier": "C",
+    "review": "https://assets.kef.com/documents/rseries/rseries2018-white-paper.pdf",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "KEF R3 Meta",
+  "brand": "KEF",
+  "model": "R3 Meta",
+  "price": "2200",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-v1-ported-0-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?attachments/kef_r_series_with_mat_whitepaper_compressed-pdf.280101/",
+    "published": "20230705",
+    "pref_score": 6.1,
+    "pref_score_sub": 7.91,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac-v1-sealed-0-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?attachments/kef_r_series_with_mat_whitepaper_compressed-pdf.280101/",
+    "published": "20230705",
+    "pref_score": 4.88,
+    "pref_score_sub": 7.87,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac-v1-ported-10-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?attachments/kef_r_series_with_mat_whitepaper_compressed-pdf.280101/",
+    "published": "20230705",
+    "pref_score": 6.15,
+    "pref_score_sub": 7.95,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac-v1-sealed-10-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?attachments/kef_r_series_with_mat_whitepaper_compressed-pdf.280101/",
+    "published": "20230705",
+    "pref_score": 4.89,
+    "pref_score_sub": 7.88,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor-v2-20230503",
+    "origin": "Vendors-KEF",
+    "tier": "C",
+    "review": "https://www.audiosciencereview.com/forum/index.php?attachments/kef_r_series_with_mat_whitepaper_compressed-pdf.280101/",
+    "published": "20230503",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "KEF Reference 1 Meta",
+  "brand": "KEF",
+  "model": "Reference 1 Meta",
+  "price": "9000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-short-port",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/kef_reference_1_meta/",
+    "published": "20220501",
+    "pref_score": 6.48,
+    "pref_score_sub": 8.29,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac-long-port",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/kef_reference_1_meta/",
+    "published": "20220501",
+    "pref_score": 6.82,
+    "pref_score_sub": 8.32,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor-v2-20230503",
+    "origin": "Vendors-KEF",
+    "tier": "C",
+    "review": null,
+    "published": "20230503",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor-v1-20220217",
+    "origin": "Vendors-KEF",
+    "tier": "C",
+    "review": null,
+    "published": "20220217",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "King's Audio KingSound KS 3001",
+  "brand": "King's Audio",
+  "model": "KingSound KS 3001",
+  "price": "",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "princeton",
+    "origin": "Princeton",
+    "tier": "A",
+    "review": "https://www.princeton.edu/3D3A/Directivity.html",
+    "published": "20151001",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Klipsch R41M",
+  "brand": "Klipsch",
+  "model": "R41M",
+  "price": "150",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/klipsch-r-41m-bookshelf-speaker-review.11566/",
+    "published": null,
+    "pref_score": 3.04,
+    "pref_score_sub": 6.03,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Klipsch RP-500M",
+  "brand": "Klipsch",
+  "model": "RP-500M",
+  "price": "400",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_500m_i/",
+    "published": "20220610",
+    "pref_score": 4.38,
+    "pref_score_sub": 7.0,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Klipsch RP-500M II",
+  "brand": "Klipsch",
+  "model": "RP-500M II",
+  "price": "600",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_500m_ii/",
+    "published": "20220610",
+    "pref_score": 5.22,
+    "pref_score_sub": 7.84,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Klipsch RP-600M",
+  "brand": "Klipsch",
+  "model": "RP-600M",
+  "price": "670",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/klipsch-rp-600m-speaker-review.12138/",
+    "published": "20200519",
+    "pref_score": 3.66,
+    "pref_score_sub": 5.61,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_i/",
+    "published": "20220522",
+    "pref_score": 4.44,
+    "pref_score_sub": 6.45,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Klipsch RP-600M II",
+  "brand": "Klipsch",
+  "model": "RP-600M II",
+  "price": "670",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-no-grille",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_ii/",
+    "published": "20220522",
+    "pref_score": 5.64,
+    "pref_score_sub": 7.77,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac-grille-on",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_ii/",
+    "published": "20220522",
+    "pref_score": 5.43,
+    "pref_score_sub": 7.57,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "LCM Nearfield Monitor 3-D Printed DIY",
+  "brand": "LCM",
+  "model": "Nearfield Monitor 3-D Printed DIY",
+  "price": "",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/lcm_nearfield_monitor/",
+    "published": "20220623",
+    "pref_score": 4.74,
+    "pref_score_sub": 6.4,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "MAG Theatron S6",
+  "brand": "MAG Theatron",
+  "model": "S6",
+  "price": "950",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/mag-theatron-s6-surround-speaker-review.64391/",
+    "published": "20250728",
+    "pref_score": 1.8,
+    "pref_score_sub": 5.32,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "March Audio Sointuva",
+  "brand": "March Audio",
+  "model": "Sointuva",
+  "price": "7000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-v2-20220305",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/march_audio_sointuva/",
+    "published": "20220305",
+    "pref_score": 6.8,
+    "pref_score_sub": 8.45,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac-v1-20220106",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/march_audio_sointuva/",
+    "published": "20220106",
+    "pref_score": 6.7,
+    "pref_score_sub": 8.35,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "March Audio Sointuva AWG",
+  "brand": "March Audio",
+  "model": "Sointuva AWG",
+  "price": "4100",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/march_sointuva_awg/",
+    "published": "20231125",
+    "pref_score": 6.95,
+    "pref_score_sub": 8.45,
+    "spec_impedance": 3.4
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-March Audio",
+    "tier": "C",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/march-audio-sointuva.26085/",
+    "published": "20231125",
+    "pref_score": 7.25,
+    "pref_score_sub": 8.75,
+    "spec_impedance": 3.4
+   }
+  ]
+ },
+ {
+  "name": "MartinLogan Motion 35XTi",
+  "brand": "MartinLogan",
+  "model": "Motion 35XTi",
+  "price": "750",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/martinlogan-motion-35xti/conclusion",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "MartinLogan Motion 4i",
+  "brand": "MartinLogan",
+  "model": "Motion 4i",
+  "price": "360",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/martinlogan-motion-4i-review-bookshelf-speaker.18805/",
+    "published": "20201226",
+    "pref_score": 2.73,
+    "pref_score_sub": 6.36,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "MartinLogan Motion B10",
+  "brand": "MartinLogan",
+  "model": "Motion B10",
+  "price": "360",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/martin_logan_b10/",
+    "published": "20231124",
+    "pref_score": 4.01,
+    "pref_score_sub": 6.76,
+    "spec_impedance": 5
+   },
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/martin-logan-b10-speaker-review.46798/",
+    "published": "20230730",
+    "pref_score": 4.18,
+    "pref_score_sub": 6.84,
+    "spec_impedance": 5
+   }
+  ]
+ },
+ {
+  "name": "MartinLogan Motion XT B100",
+  "brand": "MartinLogan",
+  "model": "Motion XT B100",
+  "price": "800",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/martin_logan_xt_b100/",
+    "published": "20231124",
+    "pref_score": 3.83,
+    "pref_score_sub": 6.35,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Mcintosh XR50",
+  "brand": "Mcintosh",
+  "model": "XR50",
+  "price": "4000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/mcintosh_xr50/",
+    "published": "20220408",
+    "pref_score": 4.99,
+    "pref_score_sub": 6.8,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Micca MB42X Mark III",
+  "brand": "Micca",
+  "model": "MB42X Mark III",
+  "price": "80",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/micca_mb42xiii/",
+    "published": "20200813",
+    "pref_score": 3.04,
+    "pref_score_sub": 6.27,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Micca MB42X-G2",
+  "brand": "Micca",
+  "model": "MB42X-G2",
+  "price": "100",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/micca-mb42x-g2-budget-speaker-review.60712/",
+    "published": "20250211",
+    "pref_score": 4.18,
+    "pref_score_sub": 6.8,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Micca RB42",
+  "brand": "Micca",
+  "model": "RB42",
+  "price": "150",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/micca-rb42-bookshelf-speaker-review.11267/",
+    "published": "20200204",
+    "pref_score": 4.59,
+    "pref_score_sub": 6.87,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/micca_rb42/",
+    "published": "20240916",
+    "pref_score": 4.94,
+    "pref_score_sub": 7.17,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Mission LX-3 MKII",
+  "brand": "Mission",
+  "model": "LX-3 MKII",
+  "price": "250",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/mission-lx-3-mkii-speaker-review.44772/",
+    "published": "20230519",
+    "pref_score": 4.17,
+    "pref_score_sub": 6.42,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "MoFi SourcePoint 10",
+  "brand": "MoFi",
+  "model": "SourcePoint 10",
+  "price": "3700",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-v1-0-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/mofi_10/",
+    "published": "20230602",
+    "pref_score": 4.16,
+    "pref_score_sub": 6.17,
+    "spec_impedance": 6.4
+   },
+   {
+    "key": "eac-v1-10-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/mofi_10/",
+    "published": "20230602",
+    "pref_score": 4.44,
+    "pref_score_sub": 6.45,
+    "spec_impedance": 6.4
+   }
+  ]
+ },
+ {
+  "name": "MoFi SourcePoint 10 Master Edition",
+  "brand": "MoFi",
+  "model": "SourcePoint 10 Master Edition",
+  "price": "1900",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://youtu.be/0-2OWJ0RmX8?si=4rqrqPU26nzoc3Xl",
+    "published": "20250915",
+    "pref_score": 4.76,
+    "pref_score_sub": 6.77,
+    "spec_impedance": 6.2
+   }
+  ]
+ },
+ {
+  "name": "MoFi SourcePoint 8",
+  "brand": "MoFi",
+  "model": "SourcePoint 8",
+  "price": "2750",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-v1-0-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/mofi_8/",
+    "published": "20231220",
+    "pref_score": 5.15,
+    "pref_score_sub": 7.28,
+    "spec_impedance": 6.4
+   },
+   {
+    "key": "eac-v1-15-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/mofi_8/",
+    "published": "20231220",
+    "pref_score": 5.23,
+    "pref_score_sub": 7.37,
+    "spec_impedance": 6.4
+   }
+  ]
+ },
+ {
+  "name": "Monitor Audio Apex A10",
+  "brand": "Monitor Audio",
+  "model": "Apex A10",
+  "price": "1500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/monitor-audio-apex-a10-speaker-review.60230/",
+    "published": "20250122",
+    "pref_score": 2.75,
+    "pref_score_sub": 5.92,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Monitor Audio Silver 100 6g",
+  "brand": "Monitor Audio",
+  "model": "Silver 100 6g",
+  "price": "800",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/monitor-audio-silver-100-review-speaker.29190/#post-1018993",
+    "published": "20211220",
+    "pref_score": 4.7,
+    "pref_score_sub": 6.83,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Monitor Audio Silver 50 7g",
+  "brand": "Monitor Audio",
+  "model": "Silver 50 7g",
+  "price": "980",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/monitoraudio_silver_50_7g/",
+    "published": "20221116",
+    "pref_score": 5.4,
+    "pref_score_sub": 8.01,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Monoprice Monolith Air Motion Cinema 5",
+  "brand": "Monoprice",
+  "model": "Monolith Air Motion Cinema 5",
+  "price": "",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/monoprice-monolith/measurements",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Monoprice Monolith Encore B6",
+  "brand": "Monoprice",
+  "model": "Monolith Encore B6",
+  "price": "360",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-v2-20220507",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/monoprice_encore_b6/",
+    "published": "20220507",
+    "pref_score": 4.67,
+    "pref_score_sub": 6.93,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac-v1-20211206",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/monoprice_encore_b6/",
+    "published": "20211206",
+    "pref_score": 4.35,
+    "pref_score_sub": 6.48,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Monoprice Monolith K-BAS",
+  "brand": "Monoprice",
+  "model": "Monolith K-BAS",
+  "price": "250",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/monolith-k-bs-1/measurements",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Monoprice Monolith THX Compact Satellite",
+  "brand": "Monoprice",
+  "model": "Monolith THX Compact Satellite",
+  "price": "125",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/monoprice_comp_thx_sat/",
+    "published": "20231220",
+    "pref_score": 3.57,
+    "pref_score_sub": 6.56,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Monoprice MP-65RT",
+  "brand": "Monoprice",
+  "model": "MP-65RT",
+  "price": "25",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/mp-65rt/conclusion",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Moondrop M4P",
+  "brand": "Moondrop",
+  "model": "M4P",
+  "price": "900",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/moondrop_mrp/",
+    "published": "20250708",
+    "pref_score": 5.05,
+    "pref_score_sub": 7.59,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Natural Sound NS17",
+  "brand": "Natural Sound",
+  "model": "NS17",
+  "price": "2300",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/natural-sound-ns17-review-speaker.25251/",
+    "published": "20210726",
+    "pref_score": 4.87,
+    "pref_score_sub": 6.75,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Neumi BS5",
+  "brand": "Neumi",
+  "model": "BS5",
+  "price": "150",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-v2-20211212-ported",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5_nfs/",
+    "published": "20211212",
+    "pref_score": 3.6,
+    "pref_score_sub": 6.12,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac-v2-20211212-sealed",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5_nfs/",
+    "published": "20211212",
+    "pref_score": 4.6,
+    "pref_score_sub": 7.67,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac-v1-20200620",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5/",
+    "published": "20200620",
+    "pref_score": 4.28,
+    "pref_score_sub": 6.73,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Neumi Silk 4",
+  "brand": "Neumi",
+  "model": "Silk 4",
+  "price": "150",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/neumi_silk4/",
+    "published": "20231106",
+    "pref_score": 4.44,
+    "pref_score_sub": 7.1,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "NHT C3",
+  "brand": "NHT",
+  "model": "C3",
+  "price": "600",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/nht-c3-review-3-way-speaker.20287/",
+    "published": "20210304",
+    "pref_score": 4.45,
+    "pref_score_sub": 6.86,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "NHT SB2",
+  "brand": "NHT",
+  "model": "SB2",
+  "price": "400",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/nht-sb2-speaker-review.13273/",
+    "published": "20200512",
+    "pref_score": 3.16,
+    "pref_score_sub": 5.58,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "NHT Super Zero 2.1",
+  "brand": "NHT",
+  "model": "Super Zero 2.1",
+  "price": "250",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/nht-super-zero-2-1-review-bookshelf-speaker.18643/",
+    "published": "20201221",
+    "pref_score": 3.03,
+    "pref_score_sub": 6.34,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Nubert NuVero 60",
+  "brand": "Nubert",
+  "model": "NuVero 60",
+  "price": "1750",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/nubert-nuvero-60-speaker-review.54390/",
+    "published": "20240513",
+    "pref_score": 5.47,
+    "pref_score_sub": 7.13,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Outlaw Audio BLSv2",
+  "brand": "Outlaw Audio",
+  "model": "BLSv2",
+  "price": "",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/outlaw-blsv2/conclusion",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Outlaw Audio LCRv2",
+  "brand": "Outlaw Audio",
+  "model": "LCRv2",
+  "price": "",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics-vertical",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/outlaw-blsv2/conclusion",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-audioholics-horizontal",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/outlaw-blsv2/conclusion",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Paradigm Cinema 100",
+  "brand": "Paradigm",
+  "model": "Cinema 100",
+  "price": "100",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/paradigm-cinema-100-review-home-theater-speakers.22597/",
+    "published": "20210418",
+    "pref_score": 1.8,
+    "pref_score_sub": 5.71,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Paradigm Founder 70LCR",
+  "brand": "Paradigm",
+  "model": "Founder 70LCR",
+  "price": "1700",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/tower-speaker-reviews/paradigm-founder-100f-70lcr/conclusion",
+    "published": "20220109",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Paradigm Monitor SE Atom",
+  "brand": "Paradigm",
+  "model": "Monitor SE Atom",
+  "price": "239",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/paradigm-monitor-se-atom-speaker-review.17837/",
+    "published": "20201124",
+    "pref_score": 4.13,
+    "pref_score_sub": 6.5,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Paradigm Prestige 15B",
+  "brand": "Paradigm",
+  "model": "Prestige 15B",
+  "price": "1600",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/paradigm-prestige-15b-review-bookshelf-speaker.19466/",
+    "published": "20210117",
+    "pref_score": 4.76,
+    "pref_score_sub": 7.13,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Part Express DIY C-Note",
+  "brand": "Part Express",
+  "model": "DIY C-Note",
+  "price": "100",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/parts-express-diy-c-note-speaker-review.12693/",
+    "published": "20200419",
+    "pref_score": 4.07,
+    "pref_score_sub": 6.78,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Part Express DIY Copperhead",
+  "brand": "Part Express",
+  "model": "DIY Copperhead",
+  "price": "100",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/parts_express_copperhead/",
+    "published": "20220625",
+    "pref_score": 2.11,
+    "pref_score_sub": 5.35,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Part Express DIY Overnight Sensations MT",
+  "brand": "Part Express",
+  "model": "DIY Overnight Sensations MT",
+  "price": "160",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/parts_express_overnight_sensation_mt/",
+    "published": "20220621",
+    "pref_score": 3.37,
+    "pref_score_sub": 5.84,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Part Express DIY Samba MT",
+  "brand": "Part Express",
+  "model": "DIY Samba MT",
+  "price": "330",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/parts_express_samba_mt/",
+    "published": "20220619",
+    "pref_score": 4.46,
+    "pref_score_sub": 6.27,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Perlisten s4b",
+  "brand": "Perlisten",
+  "model": "s4b",
+  "price": "8000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/perlisten_s4b/",
+    "published": "20211024",
+    "pref_score": 5.35,
+    "pref_score_sub": 8.01,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-Perlisten",
+    "tier": "C",
+    "review": "https://www.perlistenaudio.com/downloads/",
+    "published": "20220208",
+    "pref_score": 6.49,
+    "pref_score_sub": 9.11,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Philharmonic BMR",
+  "brand": "Philharmonic",
+  "model": "BMR",
+  "price": "2400",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-v2-20220518",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/philharmonic_bmr_v2/",
+    "published": "20220518",
+    "pref_score": 6.02,
+    "pref_score_sub": 7.67,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac-v1-20211121",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/philharmonic_bmr/",
+    "published": "20211121",
+    "pref_score": 4.86,
+    "pref_score_sub": 7.17,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/bmr-philharmonitor-1/conclusion",
+    "published": "20211121",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Philharmonic Ceramic Mini",
+  "brand": "Philharmonic",
+  "model": "Ceramic Mini",
+  "price": "850",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/philharmonic_ceramic_mini/",
+    "published": "20231124",
+    "pref_score": 5.77,
+    "pref_score_sub": 7.78,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Pioneer SP-BS22-LR",
+  "brand": "Pioneer",
+  "model": "SP-BS22-LR",
+  "price": "160",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/pioneer-sp-bs22-lr-bookshelf-speaker-review.11303/",
+    "published": "20200207",
+    "pref_score": 4.76,
+    "pref_score_sub": 7.37,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Pioneer SP-EBS73-LR",
+  "brand": "Pioneer",
+  "model": "SP-EBS73-LR",
+  "price": "750",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/pioneer-elite-sp-ebs73-lr-atmos-speaker-review.12163/",
+    "published": "20200321",
+    "pref_score": 3.22,
+    "pref_score_sub": 5.53,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "PMC Twenty 21",
+  "brand": "PMC",
+  "model": "Twenty 21",
+  "price": "2000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/pmc-twenty-21-bookshelf-speaker-review.14442/",
+    "published": "20200630",
+    "pref_score": 3.05,
+    "pref_score_sub": 5.8,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Polk Audio 5JR",
+  "brand": "Polk Audio",
+  "model": "5JR",
+  "price": "175",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "princeton",
+    "origin": "Princeton",
+    "tier": "A",
+    "review": "https://www.princeton.edu/3D3A/Directivity.html",
+    "published": "20151001",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Polk Audio Legend L200",
+  "brand": "Polk Audio",
+  "model": "Legend L200",
+  "price": "750",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-napilopez",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/polk-l200-low-spinorama-and-measurements.13191/",
+    "published": null,
+    "pref_score": 5.31,
+    "pref_score_sub": 7.37,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/polk-l200-l400/conclusion",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Polk Audio Monitor 40 Series II",
+  "brand": "Polk Audio",
+  "model": "Monitor 40 Series II",
+  "price": "200",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/polk-monitor-40-series-ii-review-speaker.24146/",
+    "published": "20210612",
+    "pref_score": 3.02,
+    "pref_score_sub": 5.77,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Polk Audio Reserve R100",
+  "brand": "Polk Audio",
+  "model": "Reserve R100",
+  "price": "650",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/polk_r100/",
+    "published": "20211209",
+    "pref_score": 5.46,
+    "pref_score_sub": 7.93,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Polk Audio Reserve R200",
+  "brand": "Polk Audio",
+  "model": "Reserve R200",
+  "price": "700",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/polk_r200/",
+    "published": "20230618",
+    "pref_score": 5.09,
+    "pref_score_sub": 7.61,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-napilopez",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/polk-reserve-r200-spinorama-and-measurements-a-really-nice-surprise.23502/#post-785637",
+    "published": "20210517",
+    "pref_score": 6.16,
+    "pref_score_sub": 8.23,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Polk Audio Signature Elite ES20",
+  "brand": "Polk Audio",
+  "model": "Signature Elite ES20",
+  "price": "349",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/polk-signature-elite-es20-review-bookshelf-speaker.33834/",
+    "published": "20220510",
+    "pref_score": 4.49,
+    "pref_score_sub": 6.44,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Polk Audio Signature S15",
+  "brand": "Polk Audio",
+  "model": "Signature S15",
+  "price": "230",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/polk-audio-signature-s15-speaker-review.15437/",
+    "published": "20200819",
+    "pref_score": 4.29,
+    "pref_score_sub": 6.9,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Polk Audio T15",
+  "brand": "Polk Audio",
+  "model": "T15",
+  "price": "100",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/polk-t15-bookshelf-speaker-review.11720/",
+    "published": "20200226",
+    "pref_score": 0.34,
+    "pref_score_sub": 3.39,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Polk Audio XT15",
+  "brand": "Polk Audio",
+  "model": "XT15",
+  "price": "200",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/polk_xt15/",
+    "published": "20220108",
+    "pref_score": 4.56,
+    "pref_score_sub": 7.31,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Polk Audio XT20",
+  "brand": "Polk Audio",
+  "model": "XT20",
+  "price": "300",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/polk_xt20/",
+    "published": "20220108",
+    "pref_score": 4.71,
+    "pref_score_sub": 7.07,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Power Sound Audio MT-110-M",
+  "brand": "Power Sound Audio",
+  "model": "MT-110-M",
+  "price": "1350",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/powersoundaudiomt110m/",
+    "published": "20231106",
+    "pref_score": 2.53,
+    "pref_score_sub": 5.86,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "PSAudio aspen FR5",
+  "brand": "PSAudio",
+  "model": "aspen FR5",
+  "price": "3500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-v1-20-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/ps_audio_aspen_fr5/",
+    "published": "20250114",
+    "pref_score": 4.64,
+    "pref_score_sub": 6.26,
+    "spec_impedance": 5.6
+   },
+   {
+    "key": "eac-v1-0-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/ps_audio_aspen_fr5/",
+    "published": "20250114",
+    "pref_score": 4.3,
+    "pref_score_sub": 6.0,
+    "spec_impedance": 5.6
+   }
+  ]
+ },
+ {
+  "name": "PSB Alpha P3",
+  "brand": "PSB",
+  "model": "Alpha P3",
+  "price": "249",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/psb-alpha-p3-review-bookshelf-speaker.27498/",
+    "published": "20211022",
+    "pref_score": 3.12,
+    "pref_score_sub": 5.64,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "PSB Alpha P5",
+  "brand": "PSB",
+  "model": "Alpha P5",
+  "price": "349",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/psb-alpha-p5-speaker-review.15161/",
+    "published": "20200806",
+    "pref_score": 3.99,
+    "pref_score_sub": 6.25,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "PSB Imagine B50",
+  "brand": "PSB",
+  "model": "Imagine B50",
+  "price": "700",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/psb_b50/",
+    "published": "20240330",
+    "pref_score": 4.63,
+    "pref_score_sub": 6.92,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Pylon Jasper Monitor 18",
+  "brand": "Pylon Jasper",
+  "model": "Monitor 18",
+  "price": "3000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-v1-0-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/pylon_jasper_18/",
+    "published": "20250708",
+    "pref_score": 4.72,
+    "pref_score_sub": 6.34,
+    "spec_impedance": 4
+   },
+   {
+    "key": "eac-v1-30-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/pylon_jasper_18/",
+    "published": "20250708",
+    "pref_score": 4.79,
+    "pref_score_sub": 6.37,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Q Acoustics 3020i",
+  "brand": "Q Acoustics",
+  "model": "3020i",
+  "price": "315",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/q-acoustics-3020i-bookshelf-speaker-review.14568/",
+    "published": "20200706",
+    "pref_score": 3.86,
+    "pref_score_sub": 6.38,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Q Acoustics 5020",
+  "brand": "Q Acoustics",
+  "model": "5020",
+  "price": "900",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/q_acoustics_5020/",
+    "published": "20230602",
+    "pref_score": 3.63,
+    "pref_score_sub": 6.55,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Radiant Acoustics Clarity 6.2",
+  "brand": "Radiant Acoustics",
+  "model": "Clarity 6.2",
+  "price": "4000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-v1-0-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/radiant_acoustics_clarity62/",
+    "published": "20241117",
+    "pref_score": 5.97,
+    "pref_score_sub": 7.75,
+    "spec_impedance": 4
+   },
+   {
+    "key": "eac-v1-15-degree",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/radiant_acoustics_clarity62/",
+    "published": "20241117",
+    "pref_score": 5.84,
+    "pref_score_sub": 7.61,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Radiant Acoustics Clarity 66",
+  "brand": "Radiant Acoustics",
+  "model": "Clarity 66",
+  "price": "10000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr-v2-20260814",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/radiant-acoustics-clarity-66-speaker-review.72529/",
+    "published": "20260814",
+    "pref_score": 6.01,
+    "pref_score_sub": 7.03,
+    "spec_impedance": 4
+   },
+   {
+    "key": "asr-v1-20260726",
+    "origin": "ASR",
+    "tier": "A",
+    "review": null,
+    "published": "20260726",
+    "pref_score": 5.18,
+    "pref_score_sub": 7.13,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "RBH Sound PM-8",
+  "brand": "RBH Sound",
+  "model": "PM-8",
+  "price": "1600",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/rbh-pm-8-monitor/conclusion",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "RBH Sound R-5",
+  "brand": "RBH Sound",
+  "model": "R-5",
+  "price": "150",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/rbh-r-5/conclusion",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "RBH Sound R-515",
+  "brand": "RBH Sound",
+  "model": "R-515",
+  "price": "215",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/rbh-r-5/conclusion",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "RBH Sound SV-61R",
+  "brand": "RBH Sound",
+  "model": "SV-61R",
+  "price": "950",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/sv-61r/measurements",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Realistic MC-1000",
+  "brand": "Realistic",
+  "model": "MC-1000",
+  "price": "60",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/mc-1000-best-speaker-in-the-world.11283/",
+    "published": "20200206",
+    "pref_score": -1.21,
+    "pref_score_sub": 2.63,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Revel M105",
+  "brand": "Revel",
+  "model": "M105",
+  "price": "1500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/revel-m105-bookshelf-speaker-review.14745/",
+    "published": "20200716",
+    "pref_score": 5.76,
+    "pref_score_sub": 8.18,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-Revel",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2019/03/spinorama-data-revel-home.html",
+    "published": null,
+    "pref_score": 6.27,
+    "pref_score_sub": 8.56,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Revel M106",
+  "brand": "Revel",
+  "model": "M106",
+  "price": "4000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/revel-m106-bookshelf-speaker-review.14363/",
+    "published": "20200626",
+    "pref_score": 5.62,
+    "pref_score_sub": 7.87,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-Revel",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2019/03/spinorama-data-revel-home.html",
+    "published": null,
+    "pref_score": 5.78,
+    "pref_score_sub": 8.01,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Revel M126Be",
+  "brand": "Revel",
+  "model": "M126Be",
+  "price": "3300",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/revel_m126be/",
+    "published": "20231219",
+    "pref_score": 5.08,
+    "pref_score_sub": 7.34,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-Revel",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2019/03/spinorama-data-revel-home.html",
+    "published": null,
+    "pref_score": 5.91,
+    "pref_score_sub": 8.17,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/revel-performa-m126be/conclusion",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Revel M16",
+  "brand": "Revel",
+  "model": "M16",
+  "price": "900",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/revel-m16-speaker-review.11884/",
+    "published": "20200305",
+    "pref_score": 5.06,
+    "pref_score_sub": 7.28,
+    "spec_impedance": 6
+   },
+   {
+    "key": "misc-dominikz",
+    "origin": "Misc",
+    "tier": "B",
+    "review": null,
+    "published": "20211002",
+    "pref_score": 5.25,
+    "pref_score_sub": 7.5,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor",
+    "origin": "Vendors-Revel",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 4.97,
+    "pref_score_sub": 7.47,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-ageve",
+    "origin": "Misc",
+    "tier": "B",
+    "review": null,
+    "published": "20241111",
+    "pref_score": 5.23,
+    "pref_score_sub": 7.48,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Revel M22",
+  "brand": "Revel",
+  "model": "M22",
+  "price": "2000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/revel-m22-speaker-review.12279/",
+    "published": "20200328",
+    "pref_score": 5.31,
+    "pref_score_sub": 7.26,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Rogers LS3|5A",
+  "brand": "Rogers",
+  "model": "LS3|5A",
+  "price": "3500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/rogers-ls3-5a-bbc-speaker-review.49746/page-2",
+    "published": "20231123",
+    "pref_score": 2.72,
+    "pref_score_sub": 5.78,
+    "spec_impedance": 15
+   }
+  ]
+ },
+ {
+  "name": "Role Audio Skiff",
+  "brand": "Role Audio",
+  "model": "Skiff",
+  "price": "400",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/role-audio-skiff-speaker-review.47981/",
+    "published": "20230918",
+    "pref_score": -0.47,
+    "pref_score_sub": 3.61,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "RSL CG5",
+  "brand": "RSL",
+  "model": "CG5",
+  "price": "400",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "misc-audioholics",
+    "origin": "Misc",
+    "tier": "A",
+    "review": "https://www.audioholics.com/bookshelf-speaker-reviews/rsl-cg5-and-cg25/conclusion",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Salk WoW1",
+  "brand": "Salk",
+  "model": "WoW1",
+  "price": "1295",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/salk-wow1-bookshelf-speaker-review.14842/",
+    "published": "20200721",
+    "pref_score": 4.39,
+    "pref_score_sub": 6.59,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Sehlin Helium DIY",
+  "brand": "Sehlin",
+  "model": "Helium DIY",
+  "price": "140",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/sehlin-helium-diy-speaker-review.15518/",
+    "published": "20200822",
+    "pref_score": 2.58,
+    "pref_score_sub": 5.46,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Selah Audio Integrity DIY",
+  "brand": "Selah Audio",
+  "model": "Integrity DIY",
+  "price": "700",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/selah-integrity-diy-speaker-kit-review.15695/",
+    "published": "20200830",
+    "pref_score": 5.98,
+    "pref_score_sub": 7.71,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Selah Audio Purezza",
+  "brand": "Selah Audio",
+  "model": "Purezza",
+  "price": "2700",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac-original",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/selah_audio_purezza/",
+    "published": null,
+    "pref_score": 5.61,
+    "pref_score_sub": 7.65,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac-eq",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/selah_audio_purezza/",
+    "published": null,
+    "pref_score": 6.51,
+    "pref_score_sub": 8.19,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Selah Audio RC3R",
+  "brand": "Selah Audio",
+  "model": "RC3R",
+  "price": "1300",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/selah-audio-rc3r-3-way-speaker-review.11218/",
+    "published": "20200201",
+    "pref_score": 5.02,
+    "pref_score_sub": 7.56,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Sonus Faber Lumina II",
+  "brand": "Sonus Faber",
+  "model": "Lumina II",
+  "price": "1300",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/sonus_faber_lumina_ii/",
+    "published": "20231212",
+    "pref_score": 3.81,
+    "pref_score_sub": 6.1,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Sonus Faber Sonetto II G2",
+  "brand": "Sonus Faber",
+  "model": "Sonetto II G2",
+  "price": "2500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "",
+    "published": "20250320",
+    "pref_score": 4.25,
+    "pref_score_sub": 6.54,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Sony SS-CS5",
+  "brand": "Sony",
+  "model": "SS-CS5",
+  "price": "150",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/sony_sscs5/",
+    "published": "20200523",
+    "pref_score": 4.16,
+    "pref_score_sub": 7.07,
+    "spec_impedance": null
+   },
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/sony-ss-cs5-3-way-speaker-review.13562/",
+    "published": "20200523",
+    "pref_score": 4.35,
+    "pref_score_sub": 7.1,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "SoundArtist LS3|5A",
+  "brand": "SoundArtist",
+  "model": "LS3|5A",
+  "price": "630",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/soundartist-bbc-ls3-5a-speaker-review.49833/",
+    "published": "20231125",
+    "pref_score": 2.5,
+    "pref_score_sub": 4.92,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Spendor Audio Systems SA1",
+  "brand": "Spendor Audio",
+  "model": "Systems SA1",
+  "price": "",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "princeton",
+    "origin": "Princeton",
+    "tier": "A",
+    "review": "https://www.princeton.edu/3D3A/Directivity.html",
+    "published": "20151001",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-archimago",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://archimago.blogspot.com/2021/02/retro-measure-spendor-sa1-1976-monitor.html",
+    "published": null,
+    "pref_score": 4.85,
+    "pref_score_sub": 7.17,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "SVS Prime Bookshelf",
+  "brand": "SVS",
+  "model": "Prime Bookshelf",
+  "price": "600",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/svs_prime_bookshelf/",
+    "published": "20221116",
+    "pref_score": 5.17,
+    "pref_score_sub": 7.78,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "SVS Ultra Bookshelf",
+  "brand": "SVS",
+  "model": "Ultra Bookshelf",
+  "price": "1000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/svs_ultra_bookshelf/",
+    "published": "20230312",
+    "pref_score": 5.63,
+    "pref_score_sub": 8.1,
+    "spec_impedance": null
+   },
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/svs-ultra-bookshelf-speaker-review.15055/",
+    "published": "20200801",
+    "pref_score": 5.62,
+    "pref_score_sub": 8.04,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "TAD COMPACT REFERENCE ONE CR1TX",
+  "brand": "TAD",
+  "model": "COMPACT REFERENCE ONE CR1TX",
+  "price": "85000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/tad_cr1tx/",
+    "published": "20240727",
+    "pref_score": 5.45,
+    "pref_score_sub": 7.79,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Tannoy Definition DC6i",
+  "brand": "Tannoy",
+  "model": "Definition DC6i",
+  "price": "",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "princeton",
+    "origin": "Princeton",
+    "tier": "A",
+    "review": "https://www.princeton.edu/3D3A/Directivity.html",
+    "published": "20151001",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Teac S-300HR",
+  "brand": "Teac",
+  "model": "S-300HR",
+  "price": "800",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/teac-s-300hr-review-speaker.26186/",
+    "published": "20210830",
+    "pref_score": 2.94,
+    "pref_score_sub": 5.73,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Technics SB-C700",
+  "brand": "Technics",
+  "model": "SB-C700",
+  "price": "1700",
+  "amount": null,
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/technics-sb-c700-review-coaxial-bookshelf.30607/",
+    "published": "20220206",
+    "pref_score": 5.11,
+    "pref_score_sub": 7.25,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Technics SB-F1",
+  "brand": "Technics",
+  "model": "SB-F1",
+  "price": "115",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/technics-sb-f1-review-vintage-speaker.32975/",
+    "published": "20220413",
+    "pref_score": 2.18,
+    "pref_score_sub": 6.09,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Theory Audio SB25",
+  "brand": "Theory Audio",
+  "model": "SB25",
+  "price": "1700",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/theory-audio-sb25-speaker-system-review.56069/",
+    "published": "20240731",
+    "pref_score": 4.33,
+    "pref_score_sub": 6.99,
+    "spec_impedance": 4
+   },
+   {
+    "key": "vendor-pattern-120x40",
+    "origin": "Vendors-Theory Audio",
+    "tier": "C",
+    "review": null,
+    "published": "20230115",
+    "pref_score": 4.84,
+    "pref_score_sub": 7.37,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Totem Acoustic Kin One",
+  "brand": "Totem Acoustic",
+  "model": "Kin One",
+  "price": "300",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "",
+    "published": "20240404",
+    "pref_score": 3.68,
+    "pref_score_sub": 6.61,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "Totem Acoustics Rainmaker",
+  "brand": "Totem Acoustics",
+  "model": "Rainmaker",
+  "price": "500",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/totem-acoustics-rainmaker-speaker-review.40906/",
+    "published": "20230112",
+    "pref_score": 3.22,
+    "pref_score_sub": 5.17,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Triangle Borea BR03",
+  "brand": "Triangle",
+  "model": "Borea BR03",
+  "price": "500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/triangle_br03/",
+    "published": "20231220",
+    "pref_score": 4.03,
+    "pref_score_sub": 6.38,
+    "spec_impedance": 4.2
+   },
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/triangle-borea-br03-review-bookshelf-speaker.21739/",
+    "published": "20200325",
+    "pref_score": 4.33,
+    "pref_score_sub": 6.69,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Vandersteen Treo CT",
+  "brand": "Vandersteen",
+  "model": "Treo CT",
+  "price": "19790",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/vandersteen_treo_ct/",
+    "published": "20240916",
+    "pref_score": 4.95,
+    "pref_score_sub": 6.17,
+    "spec_impedance": 3
+   }
+  ]
+ },
+ {
+  "name": "Vandersteen VLR",
+  "brand": "Vandersteen",
+  "model": "VLR",
+  "price": "3800",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/vandersteen-vlr-speaker-review.35444/",
+    "published": "20220704",
+    "pref_score": 2.58,
+    "pref_score_sub": 5.65,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Verdant Audio Bambusa AL 1",
+  "brand": "Verdant Audio",
+  "model": "Bambusa AL 1",
+  "price": "3500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/verdant-audio-bambusa-al-1-review.12562/",
+    "published": "20200413",
+    "pref_score": 5.05,
+    "pref_score_sub": 7.12,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Verdant Audio Bambusa MG 1",
+  "brand": "Verdant Audio",
+  "model": "Bambusa MG 1",
+  "price": "5000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/verdant-audio-bambusa-mg-1-speaker-review.12385/",
+    "published": "20200403",
+    "pref_score": 5.15,
+    "pref_score_sub": 7.1,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Wharfedale Aura 2",
+  "brand": "Wharfedale",
+  "model": "Aura 2",
+  "price": "2500",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/wharfedale_aura_2",
+    "published": "20240112",
+    "pref_score": 6.03,
+    "pref_score_sub": 7.65,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "Wharfedale Denton 80th Anniversary",
+  "brand": "Wharfedale",
+  "model": "Denton 80th Anniversary",
+  "price": "600",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-denton-80th-anniversary-speaker-review.51847/",
+    "published": "20240130",
+    "pref_score": 3.25,
+    "pref_score_sub": 5.76,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Wharfedale Diamond 12.1",
+  "brand": "Wharfedale",
+  "model": "Diamond 12.1",
+  "price": "800",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-diamond-12-1-review-speaker.26780/",
+    "published": "20210922",
+    "pref_score": 5.01,
+    "pref_score_sub": 7.42,
+    "spec_impedance": null
+   },
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/wharfedale_12_1/",
+    "published": "20220814",
+    "pref_score": 4.93,
+    "pref_score_sub": 7.3,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Wharfedale Diamond 220",
+  "brand": "Wharfedale",
+  "model": "Diamond 220",
+  "price": "200",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-diamond-220-budget-speaker-review.16752/",
+    "published": "20201014",
+    "pref_score": 3.4,
+    "pref_score_sub": 6.64,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Wharfedale EVO 4.1",
+  "brand": "Wharfedale",
+  "model": "EVO 4.1",
+  "price": "800",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/wharfedale-evo-4-1-review-speaker.28305/",
+    "published": "20211121",
+    "pref_score": 4.5,
+    "pref_score_sub": 6.64,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Wharfedale Linton 85th Anniversary",
+  "brand": "Wharfedale",
+  "model": "Linton 85th Anniversary",
+  "price": "1000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/wharfedale_linton_85/",
+    "published": "20220704",
+    "pref_score": 6.07,
+    "pref_score_sub": 7.87,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Wharfedale Super Linton",
+  "brand": "Wharfedale",
+  "model": "Super Linton",
+  "price": "3000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/wharfedale_super_linton",
+    "published": "20241117",
+    "pref_score": 6.09,
+    "pref_score_sub": 7.94,
+    "spec_impedance": 3.9
+   }
+  ]
+ },
+ {
+  "name": "Wilson Audio TuneTot",
+  "brand": "Wilson Audio",
+  "model": "TuneTot",
+  "price": "10000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/wilson-audio-tunetot-review-high-end-bookshelf-speaker.29219/",
+    "published": "20211221",
+    "pref_score": 1.89,
+    "pref_score_sub": 4.96,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "XMechanik Mechano23 DIY",
+  "brand": "XMechanik",
+  "model": "Mechano23 DIY",
+  "price": "200",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/mechano23-open-source-diy-speaker-review.54066/",
+    "published": "20240428",
+    "pref_score": 5.42,
+    "pref_score_sub": 7.88,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "XSA Labs Vanguard",
+  "brand": "XSA Labs",
+  "model": "Vanguard",
+  "price": "1000",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/xsa-labs-vanguard-speaker-review.46629/",
+    "published": "20230723",
+    "pref_score": 2.73,
+    "pref_score_sub": 5.48,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Yamaha NS-10M Studio",
+  "brand": "Yamaha",
+  "model": "NS-10M Studio",
+  "price": "360",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.youtube.com/watch?v=0pYKuBdhmdc",
+    "published": "202404xx",
+    "pref_score": 2.24,
+    "pref_score_sub": 5.63,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Yamaha NS-6490",
+  "brand": "Yamaha",
+  "model": "NS-6490",
+  "price": "130",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/yamaha-ns-6490-3-way-budget-speaker-review.17042/",
+    "published": "20201026",
+    "pref_score": 2.17,
+    "pref_score_sub": 5.05,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Yamaha NS-800A",
+  "brand": "Yamaha",
+  "model": "NS-800A",
+  "price": "4800",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "https://www.erinsaudiocorner.com/loudspeakers/yamaha_ns800a/",
+    "published": "20250114",
+    "pref_score": 4.66,
+    "pref_score_sub": 6.43,
+    "spec_impedance": 3.8
+   }
+  ]
+ },
+ {
+  "name": "Zaph Audio ZA5.2",
+  "brand": "Zaph Audio",
+  "model": "ZA5.2",
+  "price": "350",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/zaph-audio-za5-2-diy-kit-speaker-review.12086/",
+    "published": "20201317",
+    "pref_score": 5.41,
+    "pref_score_sub": 7.6,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Zu Audio Method",
+  "brand": "Zu Audio",
+  "model": "Method",
+  "price": "700",
+  "amount": "each",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "eac",
+    "origin": "ErinsAudioCorner",
+    "tier": "A",
+    "review": "",
+    "published": "20250918",
+    "pref_score": 0.25,
+    "pref_score_sub": 3.05,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "理性派HiFi X5",
+  "brand": "理性派HiFi",
+  "model": "X5",
+  "price": "284",
+  "amount": "pair",
+  "best_tier": "A",
+  "measurements": [
+   {
+    "key": "asr",
+    "origin": "ASR",
+    "tier": "A",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/%E7%90%86%E6%80%A7%E6%B4%BEhifi-x5-speaker-review.42528/",
+    "published": "20230302",
+    "pref_score": 3.56,
+    "pref_score_sub": 6.55,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "ADS L520",
+  "brand": "ADS",
+  "model": "L520",
+  "price": "190",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-mab",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ads-l520-vintage-speaker-measurements.58690/#post-2144542",
+    "published": "20241123",
+    "pref_score": 4.15,
+    "pref_score_sub": 6.13,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "Amphion Argon1",
+  "brand": "Amphion",
+  "model": "Argon1",
+  "price": "2500",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-napilopez",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/amphion-argon1-low-spinorama-and-measurements-updated.13025/",
+    "published": "20200303",
+    "pref_score": 4.79,
+    "pref_score_sub": 7.01,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "ATC SCM20SL MK2",
+  "brand": "ATC",
+  "model": "SCM20SL MK2",
+  "price": "2495",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-audiorekr",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://audiore.kr/atc-scm20sl-mk2-%eb%a6%ac%eb%b7%b0/",
+    "published": "20250125",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": 5.5
+   }
+  ]
+ },
+ {
+  "name": "Bowers & Wilkins 686 S2",
+  "brand": "Bowers & Wilkins",
+  "model": "686 S2",
+  "price": "275",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-ageve",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/bowers-wilkins-686-s2-spinorama-measurements-cta-2034.59307/#post-2167509",
+    "published": "20241215",
+    "pref_score": 4.18,
+    "pref_score_sub": 6.84,
+    "spec_impedance": 5.2
+   }
+  ]
+ },
+ {
+  "name": "Cambridge Audio Minx MIN12",
+  "brand": "Cambridge Audio",
+  "model": "Minx MIN12",
+  "price": "70",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-audiorekr",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "",
+    "published": "20250812",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Dali Zensor 1",
+  "brand": "Dali",
+  "model": "Zensor 1",
+  "price": "100",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-ageve",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/dali-zensor-1-spinorama-measurements-passive-version.55016/",
+    "published": "20240618",
+    "pref_score": 4.7,
+    "pref_score_sub": 7.14,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "Definitive Technology D9",
+  "brand": "Definitive Technology",
+  "model": "D9",
+  "price": "387",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-napilopez",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/definitive-technology-d9-low-spinorama-and-measurements.13159/",
+    "published": null,
+    "pref_score": 3.99,
+    "pref_score_sub": 6.23,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "DIYSG HT-10",
+  "brand": "DIYSG",
+  "model": "HT-10",
+  "price": "216",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-mtg90",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.diysoundgroup.com/home-theater-speaker-kits/home-theater-series/home-theater/ht-8-kit.html",
+    "published": "20211205",
+    "pref_score": 4.26,
+    "pref_score_sub": 6.8,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "DIYSG HT-12",
+  "brand": "DIYSG",
+  "model": "HT-12",
+  "price": "330",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-mtg90",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.diysoundgroup.com/home-theater-speaker-kits/home-theater-series/home-theater/ht-8-kit.html",
+    "published": "20211205",
+    "pref_score": 3.73,
+    "pref_score_sub": 6.55,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "DIYSG HT-12+",
+  "brand": "DIYSG",
+  "model": "HT-12+",
+  "price": "330",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-mtg90",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.diysoundgroup.com/home-theater-speaker-kits/home-theater-series/home-theater/ht-8-kit.html",
+    "published": "20211205",
+    "pref_score": 4.78,
+    "pref_score_sub": 7.52,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "DIYSG HT-8",
+  "brand": "DIYSG",
+  "model": "HT-8",
+  "price": "164",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-mtg90",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.diysoundgroup.com/home-theater-speaker-kits/home-theater-series/home-theater/ht-8-kit.html",
+    "published": "20211205",
+    "pref_score": 2.37,
+    "pref_score_sub": 6.18,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Elac BS 314",
+  "brand": "Elac",
+  "model": "BS 314",
+  "price": "2300",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-nuyes-sealed",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "",
+    "published": "20220925",
+    "pref_score": 3.28,
+    "pref_score_sub": 6.66,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-nuyes-ported",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "",
+    "published": "20220925",
+    "pref_score": 4.23,
+    "pref_score_sub": 6.69,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Fluance Reference XL8S",
+  "brand": "Fluance",
+  "model": "Reference XL8S",
+  "price": "90",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-archimago",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://archimago.blogspot.com/2020/11/measurements-fluance-reference-xl8s.html",
+    "published": null,
+    "pref_score": 3.53,
+    "pref_score_sub": 5.6,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Focal Chora 806",
+  "brand": "Focal",
+  "model": "Chora 806",
+  "price": "450",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-napilopez",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/new-focal-chora-806-on-and-off-axis-measurements.9613/page-2#post-360116",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Gallo Acoustics A Diva Ti",
+  "brand": "Gallo Acoustics",
+  "model": "A Diva Ti",
+  "price": "400",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-archimago",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://archimago.blogspot.com/2021/05/review-measurements-anthony-gallo.html",
+    "published": null,
+    "pref_score": 1.62,
+    "pref_score_sub": 5.37,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Gallo Acoustics Nucleus Micro",
+  "brand": "Gallo Acoustics",
+  "model": "Nucleus Micro",
+  "price": "300",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-archimago",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://archimago.blogspot.com/2021/05/review-measurements-anthony-gallo.html",
+    "published": null,
+    "pref_score": -0.64,
+    "pref_score_sub": 4.4,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Jamo Concert 8",
+  "brand": "Jamo",
+  "model": "Concert 8",
+  "price": "2500",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-ageve",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/jamo-concert-8-d830-spinorama-measurements-cta-2034.55557/",
+    "published": "20240707",
+    "pref_score": 5.89,
+    "pref_score_sub": 8.09,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "LYX SPA8PAS",
+  "brand": "LYX",
+  "model": "SPA8PAS",
+  "price": "100",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-mtg90",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/worst-measuring-loudspeaker.11394/page-8#post-945725",
+    "published": "20211019",
+    "pref_score": -3.34,
+    "pref_score_sub": 0.56,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Monitor Audio Silver RX1",
+  "brand": "Monitor Audio",
+  "model": "Silver RX1",
+  "price": "675",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-ageve",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/monitor-audio-rx1-spinorama-measurements-cta-2034.57130/#post-2090018",
+    "published": "20240923",
+    "pref_score": 5.34,
+    "pref_score_sub": 7.8,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "MTG Designs AlTi DIY",
+  "brand": "MTG Designs",
+  "model": "AlTi DIY",
+  "price": "",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-mtg90",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "http://www.hificircuit.com/community/threads/the-alti-a-diy-2-way-bookshelf-speaker-design.773/",
+    "published": "20211205",
+    "pref_score": 6.24,
+    "pref_score_sub": 8.44,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "MTG Designs VBS-10.2 DIY",
+  "brand": "MTG Designs",
+  "model": "VBS-10.2 DIY",
+  "price": "300",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-mtg90",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.mtg-designs.com/diy-speaker-plans/vbs-10-2",
+    "published": "20211205",
+    "pref_score": 4.95,
+    "pref_score_sub": 7.8,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "MTG Designs VBS-6.2 DIY",
+  "brand": "MTG Designs",
+  "model": "VBS-6.2 DIY",
+  "price": "200",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-mtg90",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.mtg-designs.com/diy-speaker-plans/vbs-6-2",
+    "published": "20211205",
+    "pref_score": 3.86,
+    "pref_score_sub": 7.27,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Nexus MT DIY",
+  "brand": "Nexus",
+  "model": "MT DIY",
+  "price": "",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-mtg90",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "http://www.hificircuit.com/community/threads/project-nexus-a-timbre-matched-family-of-hi-fi-ht-speakers.319/#post-3368",
+    "published": "20211107",
+    "pref_score": 5.25,
+    "pref_score_sub": 7.66,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Q Acoustics 3030i",
+  "brand": "Q Acoustics",
+  "model": "3030i",
+  "price": "275",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-napilopez",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/q-acoustics-3030i-low-spinorama-and-other-measurements.12500/",
+    "published": null,
+    "pref_score": 4.97,
+    "pref_score_sub": 7.28,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Rauna Freja",
+  "brand": "Rauna",
+  "model": "Freja",
+  "price": "",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-mab",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/rauna-freja-vintage-2-way-loudspeaker-measurements.50093/page-2#post-2117440",
+    "published": "20241023",
+    "pref_score": 3.69,
+    "pref_score_sub": 7.18,
+    "spec_impedance": 7
+   }
+  ]
+ },
+ {
+  "name": "Realistic Tandy Minimus 7",
+  "brand": "Realistic",
+  "model": "Tandy Minimus 7",
+  "price": "50",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-mab",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/realistic-minimus-7-measurements.57184/",
+    "published": "20241023",
+    "pref_score": 0.81,
+    "pref_score_sub": 5.09,
+    "spec_impedance": null
+   },
+   {
+    "key": "misc-archimago",
+    "origin": "Misc",
+    "tier": "B",
+    "review": null,
+    "published": null,
+    "pref_score": 2.09,
+    "pref_score_sub": 5.34,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Sonus Faber Sonetto II",
+  "brand": "Sonus Faber",
+  "model": "Sonetto II",
+  "price": "1250",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-napilopez",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/sonus-faber-sonetto-ii-measurements-now-with-a-spinorama.10727/#post-305705",
+    "published": null,
+    "pref_score": 3.97,
+    "pref_score_sub": 5.92,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "System One S-15B",
+  "brand": "System One",
+  "model": "S-15B",
+  "price": "130",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-ageve",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/system-one-s15b-spinorama-measurements-cta-2034.58759/",
+    "published": "20241124",
+    "pref_score": 2.45,
+    "pref_score_sub": 5.83,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Tannoy Reveal 501a",
+  "brand": "Tannoy",
+  "model": "Reveal 501a",
+  "price": "229",
+  "amount": "each",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-archimago",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://archimago.blogspot.com/2020/12/measurements-tannoy-reveal-501a-powered.html",
+    "published": null,
+    "pref_score": 3.74,
+    "pref_score_sub": 5.47,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Triangle Esprit Titus EZ",
+  "brand": "Triangle",
+  "model": "Esprit Titus EZ",
+  "price": "449",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-ageve",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/triangle-titus-ez-spinorama-measurements-cta-2034.64250/#post-2355524",
+    "published": "20250720",
+    "pref_score": 4.24,
+    "pref_score_sub": 6.98,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "XTZ Spirit 4",
+  "brand": "XTZ",
+  "model": "Spirit 4",
+  "price": "477",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-ageve",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/xtz-spirit-4-spinorama-measurements-cta-2034.55433/",
+    "published": "20240707",
+    "pref_score": 4.18,
+    "pref_score_sub": 6.3,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Yamaha NS-18",
+  "brand": "Yamaha",
+  "model": "NS-18",
+  "price": "",
+  "amount": "pair",
+  "best_tier": "B",
+  "measurements": [
+   {
+    "key": "misc-mab",
+    "origin": "Misc",
+    "tier": "B",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/vintage-yamaha-ns-18-speaker-measurements.58087/",
+    "published": "20241105",
+    "pref_score": 0.36,
+    "pref_score_sub": 1.66,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Ascend Acoustics CMT-340 SE2",
+  "brand": "Ascend Acoustics",
+  "model": "CMT-340 SE2",
+  "price": "350",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Ascend Acoustics",
+    "tier": "C",
+    "review": null,
+    "published": "20221108",
+    "pref_score": 5.33,
+    "pref_score_sub": 7.99,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Ascend Acoustics HTM-200SE2",
+  "brand": "Ascend Acoustics",
+  "model": "HTM-200SE2",
+  "price": "184",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Ascend Acoustics",
+    "tier": "C",
+    "review": null,
+    "published": "20250209",
+    "pref_score": 4.98,
+    "pref_score_sub": 7.9,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Ascend Acoustics Luna V2 Mini-Monitor Ribbon",
+  "brand": "Ascend Acoustics",
+  "model": "Luna V2 Mini-Monitor Ribbon",
+  "price": "1248",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Ascend Acoustics",
+    "tier": "C",
+    "review": null,
+    "published": "20250209",
+    "pref_score": 4.89,
+    "pref_score_sub": 7.5,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Ascend Acoustics Luna V2 Mini-Monitor Titan",
+  "brand": "Ascend Acoustics",
+  "model": "Luna V2 Mini-Monitor Titan",
+  "price": "898",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Ascend Acoustics",
+    "tier": "C",
+    "review": null,
+    "published": "20250209",
+    "pref_score": 5.17,
+    "pref_score_sub": 7.78,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Ascend Acoustics Sierra Duo V2 LCR Ribbon",
+  "brand": "Ascend Acoustics",
+  "model": "Sierra Duo V2 LCR Ribbon",
+  "price": "1688",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Ascend Acoustics",
+    "tier": "C",
+    "review": null,
+    "published": "20250209",
+    "pref_score": 4.53,
+    "pref_score_sub": 7.15,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Ascend Acoustics Sierra Duo V2 LCR Titan",
+  "brand": "Ascend Acoustics",
+  "model": "Sierra Duo V2 LCR Titan",
+  "price": "1338",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Ascend Acoustics",
+    "tier": "C",
+    "review": null,
+    "published": "20250209",
+    "pref_score": 4.83,
+    "pref_score_sub": 7.45,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Ascend Acoustics Sierra-2EX V2",
+  "brand": "Ascend Acoustics",
+  "model": "Sierra-2EX V2",
+  "price": "1698",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Ascend Acoustics",
+    "tier": "C",
+    "review": "https://ascendacoustics.com/collections/sierra-series-pairs/products/sierra-2ex-v2-pair?variant=40390917750838",
+    "published": "20220928",
+    "pref_score": 5.88,
+    "pref_score_sub": 7.95,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "AsciLab C5B",
+  "brand": "AsciLab",
+  "model": "C5B",
+  "price": "1000",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor-v2-20240919",
+    "origin": "Vendors-AsciLab",
+    "tier": "C",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascilab-speakers-are-about-to-launch.54794/",
+    "published": "20240920",
+    "pref_score": 6.14,
+    "pref_score_sub": 8.09,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor-v1-20240814",
+    "origin": "Vendors-AsciLab",
+    "tier": "C",
+    "review": "https://www.audiosciencereview.com/forum/index.php?threads/ascilab-speakers-are-about-to-launch.54794/",
+    "published": "20240531",
+    "pref_score": 6.17,
+    "pref_score_sub": 8.12,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Audio First Design Cadentia 3",
+  "brand": "Audio First Design",
+  "model": "Cadentia 3",
+  "price": "3800",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Audio First Design",
+    "tier": "C",
+    "review": "https://audiofirstdesigns.uk/cadentia-3",
+    "published": "20251030",
+    "pref_score": 7.55,
+    "pref_score_sub": 8.91,
+    "spec_impedance": 3.1
+   }
+  ]
+ },
+ {
+  "name": "Bose 141",
+  "brand": "Bose",
+  "model": "141",
+  "price": "75",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Bose",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": -0.39,
+    "pref_score_sub": 2.7,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Bose 301 Series IV",
+  "brand": "Bose",
+  "model": "301 Series IV",
+  "price": "159",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Bose",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 2.18,
+    "pref_score_sub": 4.26,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Bose DesignMax DM5SE",
+  "brand": "Bose",
+  "model": "DesignMax DM5SE",
+  "price": "530",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor-pattern-130x130",
+    "origin": "Vendors-Bose",
+    "tier": "C",
+    "review": null,
+    "published": "20230601",
+    "pref_score": -0.41,
+    "pref_score_sub": 2.61,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Bose DesignMax DM6SE",
+  "brand": "Bose",
+  "model": "DesignMax DM6SE",
+  "price": "530",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor-pattern-125x125",
+    "origin": "Vendors-Bose",
+    "tier": "C",
+    "review": null,
+    "published": "20230530",
+    "pref_score": -0.04,
+    "pref_score_sub": 2.87,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Bose DesignMax DM8S",
+  "brand": "Bose",
+  "model": "DesignMax DM8S",
+  "price": "666",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor-pattern-130x130",
+    "origin": "Vendors-Bose",
+    "tier": "C",
+    "review": null,
+    "published": "20230524",
+    "pref_score": 0.3,
+    "pref_score_sub": 3.05,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Buchardt Audio S300",
+  "brand": "Buchardt Audio",
+  "model": "S300",
+  "price": "1200",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "misc-speakerdata2034",
+    "origin": "Misc",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2019/04/Spinorama-data-Buchardt.html",
+    "published": null,
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Cambridge Soundworks Model Six",
+  "brand": "Cambridge Soundworks",
+  "model": "Model Six",
+  "price": "119",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Cambridge Soundworks",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 3.23,
+    "pref_score_sub": 6.15,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Epos ES14N",
+  "brand": "Epos",
+  "model": "ES14N",
+  "price": "2000",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Misc",
+    "tier": "C",
+    "review": "https://karl-heinz-fink.de/the-measurements-checking-out-the-epos-14n",
+    "published": "20230926",
+    "pref_score": 6.22,
+    "pref_score_sub": 7.82,
+    "spec_impedance": 4.3
+   }
+  ]
+ },
+ {
+  "name": "EV EVID-S4.2",
+  "brand": "EV",
+  "model": "EVID-S4.2",
+  "price": "240",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-EV",
+    "tier": "C",
+    "review": null,
+    "published": "20230117",
+    "pref_score": -0.09,
+    "pref_score_sub": 3.68,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "EV EVID-S5.2",
+  "brand": "EV",
+  "model": "EVID-S5.2",
+  "price": "390",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-EV",
+    "tier": "C",
+    "review": null,
+    "published": "20230117",
+    "pref_score": 0.42,
+    "pref_score_sub": 4.03,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "EV EVID-S5.2X",
+  "brand": "EV",
+  "model": "EVID-S5.2X",
+  "price": "420",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-EV",
+    "tier": "C",
+    "review": null,
+    "published": "20230117",
+    "pref_score": 2.44,
+    "pref_score_sub": 6.05,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "EV EVID-S8.2",
+  "brand": "EV",
+  "model": "EVID-S8.2",
+  "price": "560",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-EV",
+    "tier": "C",
+    "review": null,
+    "published": "20230117",
+    "pref_score": 0.84,
+    "pref_score_sub": 4.15,
+    "spec_impedance": 6
+   }
+  ]
+ },
+ {
+  "name": "Infinity Entra One",
+  "brand": "Infinity",
+  "model": "Entra One",
+  "price": "150",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Infinity",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 5.13,
+    "pref_score_sub": 7.54,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Infinity R152",
+  "brand": "Infinity",
+  "model": "R152",
+  "price": "350",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Infinity",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 5.26,
+    "pref_score_sub": 7.69,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL 4312SE",
+  "brand": "JBL",
+  "model": "4312SE",
+  "price": "3000",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-JBL",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 4.81,
+    "pref_score_sub": 6.9,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL 4429",
+  "brand": "JBL",
+  "model": "4429",
+  "price": "6000",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-JBL",
+    "tier": "C",
+    "review": null,
+    "published": "20140101",
+    "pref_score": 4.46,
+    "pref_score_sub": 6.23,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL Arena 120",
+  "brand": "JBL",
+  "model": "Arena 120",
+  "price": "100",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "misc-speakerdata2034",
+    "origin": "Misc",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2019/06/harman-consumer-brands-spinorama-data.html",
+    "published": null,
+    "pref_score": 5.22,
+    "pref_score_sub": 8.02,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL LSR6332",
+  "brand": "JBL",
+  "model": "LSR6332",
+  "price": "3200",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-JBL",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 6.44,
+    "pref_score_sub": 8.37,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL Northridge Series N28",
+  "brand": "JBL",
+  "model": "Northridge Series N28",
+  "price": "",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-JBL",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 2.81,
+    "pref_score_sub": 5.09,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL Performance PT800",
+  "brand": "JBL",
+  "model": "Performance PT800",
+  "price": "",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "misc-speakerdata2034",
+    "origin": "Misc",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2019/06/harman-consumer-brands-spinorama-data.html",
+    "published": null,
+    "pref_score": 4.64,
+    "pref_score_sub": 7.9,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL Studio Series S26",
+  "brand": "JBL",
+  "model": "Studio Series S26",
+  "price": "175",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-JBL",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 5.73,
+    "pref_score_sub": 7.76,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL Synthesis 4429",
+  "brand": "JBL",
+  "model": "Synthesis 4429",
+  "price": "6000",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "misc-speakerdata2034",
+    "origin": "Misc",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2021/01/jbl-synthesis-spinorama-data.html",
+    "published": null,
+    "pref_score": 4.45,
+    "pref_score_sub": 6.24,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL Synthesis K2 S9900",
+  "brand": "JBL",
+  "model": "Synthesis K2 S9900",
+  "price": "22000",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "misc-speakerdata2034",
+    "origin": "Misc",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2021/01/jbl-synthesis-spinorama-data.html",
+    "published": null,
+    "pref_score": 4.86,
+    "pref_score_sub": 6.82,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL Synthesis SAM1HF + SAM2LF",
+  "brand": "JBL",
+  "model": "Synthesis SAM1HF + SAM2LF",
+  "price": "4000",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "misc-speakerdata2034",
+    "origin": "Misc",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2021/01/jbl-synthesis-spinorama-data.html",
+    "published": null,
+    "pref_score": 5.33,
+    "pref_score_sub": 8.16,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL Synthesis SK2-1000",
+  "brand": "JBL",
+  "model": "Synthesis SK2-1000",
+  "price": "7595",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "misc-speakerdata2034",
+    "origin": "Misc",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2021/01/jbl-synthesis-spinorama-data.html",
+    "published": null,
+    "pref_score": 4.27,
+    "pref_score_sub": 6.8,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "JBL Synthesis SK2-3300",
+  "brand": "JBL",
+  "model": "Synthesis SK2-3300",
+  "price": "10000",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "misc-speakerdata2034",
+    "origin": "Misc",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2021/01/jbl-synthesis-spinorama-data.html",
+    "published": null,
+    "pref_score": 4.41,
+    "pref_score_sub": 6.9,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "KEF Q1 Meta",
+  "brand": "KEF",
+  "model": "Q1 Meta",
+  "price": "550",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-KEF",
+    "tier": "C",
+    "review": null,
+    "published": "20241223",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "KEF Q4 Meta",
+  "brand": "KEF",
+  "model": "Q4 Meta",
+  "price": "400",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-KEF",
+    "tier": "C",
+    "review": null,
+    "published": "20241223",
+    "pref_score": null,
+    "pref_score_sub": null,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "KLH 911B",
+  "brand": "KLH",
+  "model": "911B",
+  "price": "",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-KLH",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 1.32,
+    "pref_score_sub": 5.12,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Klipsch Synergy SB-3 Monitor",
+  "brand": "Klipsch",
+  "model": "Synergy SB-3 Monitor",
+  "price": "225",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Klipsch",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 3.58,
+    "pref_score_sub": 6.25,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Optimal Audio Cuboid 10",
+  "brand": "Optimal Audio",
+  "model": "Cuboid 10",
+  "price": "660",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Optimal Audio",
+    "tier": "C",
+    "review": null,
+    "published": "20231020",
+    "pref_score": 3.01,
+    "pref_score_sub": 5.08,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Optimal Audio Cuboid 12",
+  "brand": "Optimal Audio",
+  "model": "Cuboid 12",
+  "price": "760",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Optimal Audio",
+    "tier": "C",
+    "review": null,
+    "published": "20231020",
+    "pref_score": 1.84,
+    "pref_score_sub": 3.74,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Optimal Audio Cuboid 15",
+  "brand": "Optimal Audio",
+  "model": "Cuboid 15",
+  "price": "1035",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Optimal Audio",
+    "tier": "C",
+    "review": null,
+    "published": "20231020",
+    "pref_score": 1.94,
+    "pref_score_sub": 3.71,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Optimal Audio Cuboid 3",
+  "brand": "Optimal Audio",
+  "model": "Cuboid 3",
+  "price": "85",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Optimal Audio",
+    "tier": "C",
+    "review": null,
+    "published": "20231020",
+    "pref_score": -0.18,
+    "pref_score_sub": 3.43,
+    "spec_impedance": 16
+   }
+  ]
+ },
+ {
+  "name": "Optimal Audio Cuboid 5",
+  "brand": "Optimal Audio",
+  "model": "Cuboid 5",
+  "price": "110",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Optimal Audio",
+    "tier": "C",
+    "review": null,
+    "published": "20231020",
+    "pref_score": 0.27,
+    "pref_score_sub": 3.94,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Optimal Audio Cuboid 8",
+  "brand": "Optimal Audio",
+  "model": "Cuboid 8",
+  "price": "490",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Optimal Audio",
+    "tier": "C",
+    "review": null,
+    "published": "20231020",
+    "pref_score": 2.28,
+    "pref_score_sub": 4.45,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Perlisten a3m",
+  "brand": "Perlisten",
+  "model": "a3m",
+  "price": "1500",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Perlisten",
+    "tier": "C",
+    "review": "https://www.perlistenaudio.com/downloads/",
+    "published": "20250722",
+    "pref_score": 4.3,
+    "pref_score_sub": 7.34,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Perlisten r4b",
+  "brand": "Perlisten",
+  "model": "r4b",
+  "price": "2500",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Perlisten",
+    "tier": "C",
+    "review": "https://www.perlistenaudio.com/downloads/",
+    "published": "20220208",
+    "pref_score": 5.76,
+    "pref_score_sub": 8.63,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Perlisten r4s",
+  "brand": "Perlisten",
+  "model": "r4s",
+  "price": "2000",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Perlisten",
+    "tier": "C",
+    "review": "https://www.perlistenaudio.com/downloads/",
+    "published": "20231022",
+    "pref_score": 5.77,
+    "pref_score_sub": 8.46,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Perlisten r5m",
+  "brand": "Perlisten",
+  "model": "r5m",
+  "price": "3000",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Perlisten",
+    "tier": "C",
+    "review": "https://www.perlistenaudio.com/downloads/",
+    "published": "20231025",
+    "pref_score": 5.47,
+    "pref_score_sub": 8.06,
+    "spec_impedance": 4
+   }
+  ]
+ },
+ {
+  "name": "Perlisten s5m",
+  "brand": "Perlisten",
+  "model": "s5m",
+  "price": "14000",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor-vented",
+    "origin": "Vendors-Perlisten",
+    "tier": "C",
+    "review": "https://www.perlistenaudio.com/downloads/",
+    "published": "20220208",
+    "pref_score": 6.41,
+    "pref_score_sub": 8.42,
+    "spec_impedance": null
+   },
+   {
+    "key": "vendor-sealed",
+    "origin": "Vendors-Perlisten",
+    "tier": "C",
+    "review": "https://www.perlistenaudio.com/downloads/",
+    "published": "20220208",
+    "pref_score": 6.43,
+    "pref_score_sub": 8.44,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Pioneer S-DF3-K",
+  "brand": "Pioneer",
+  "model": "S-DF3-K",
+  "price": "175",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Pioneer",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 4.58,
+    "pref_score_sub": 7.1,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Polk Audio RT15i",
+  "brand": "Polk Audio",
+  "model": "RT15i",
+  "price": "120",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Polk Audio",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 2.95,
+    "pref_score_sub": 5.51,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Revel Ultima2 Gem2",
+  "brand": "Revel",
+  "model": "Ultima2 Gem2",
+  "price": "5000",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Revel",
+    "tier": "C",
+    "review": "https://speakerdata2034.blogspot.com/2019/03/spinorama-data-revel-ultima.html",
+    "published": null,
+    "pref_score": 5.75,
+    "pref_score_sub": 8.56,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "SunAudio Purified 4 4XA25A Alu+Alu",
+  "brand": "SunAudio",
+  "model": "Purified 4 4XA25A Alu+Alu",
+  "price": "3300",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor-v3-20240619",
+    "origin": "Vendors-SunAudio",
+    "tier": "C",
+    "review": "https://sunaudio.com/products/purified-4-modular-active-loudspeakers",
+    "published": "20240619",
+    "pref_score": 6.48,
+    "pref_score_sub": 9.22,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "SunAudio Purified 4 4XA25A Fiber+Alu",
+  "brand": "SunAudio",
+  "model": "Purified 4 4XA25A Fiber+Alu",
+  "price": "3300",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor-v2-20240613",
+    "origin": "Vendors-SunAudio",
+    "tier": "C",
+    "review": "https://sunaudio.com/products/purified-4-modular-active-loudspeakers",
+    "published": "20240613",
+    "pref_score": 6.44,
+    "pref_score_sub": 9.17,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "SunAudio Purified 4 4XA25A tw35mm",
+  "brand": "SunAudio",
+  "model": "Purified 4 4XA25A tw35mm",
+  "price": "2800",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor-v1-20240218",
+    "origin": "Vendors-SunAudio",
+    "tier": "C",
+    "review": "https://sunaudio.com/products/purified-4-modular-active-loudspeakers",
+    "published": "20240218",
+    "pref_score": 6.14,
+    "pref_score_sub": 8.74,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "SunAudio Purified 4 4XA25B Alu+Berryllium",
+  "brand": "SunAudio",
+  "model": "Purified 4 4XA25B Alu+Berryllium",
+  "price": "3650",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor-v1-20240730",
+    "origin": "Vendors-SunAudio",
+    "tier": "C",
+    "review": "https://sunaudio.com/products/purified-4-modular-active-loudspeakers?variant=47286699491674",
+    "published": "20240730",
+    "pref_score": 6.67,
+    "pref_score_sub": 9.38,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "SunAudio Purified 4 4XP25B Fiber+Berryllium",
+  "brand": "SunAudio",
+  "model": "Purified 4 4XP25B Fiber+Berryllium",
+  "price": "3650",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor-v1-20240730",
+    "origin": "Vendors-SunAudio",
+    "tier": "C",
+    "review": "https://sunaudio.com/products/purified-4-modular-active-loudspeakers?variant=47286699327834",
+    "published": "20240730",
+    "pref_score": 6.73,
+    "pref_score_sub": 9.44,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Tannoy VX12",
+  "brand": "Tannoy",
+  "model": "VX12",
+  "price": "860",
+  "amount": "each",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor-pattern-75x40",
+    "origin": "Vendors-Tannoy",
+    "tier": "C",
+    "review": null,
+    "published": "20230909",
+    "pref_score": 1.94,
+    "pref_score_sub": 5.02,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Yamaha NS-A638",
+  "brand": "Yamaha",
+  "model": "NS-A638",
+  "price": "",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Yamaha",
+    "tier": "C",
+    "review": null,
+    "published": null,
+    "pref_score": 1.77,
+    "pref_score_sub": 5.06,
+    "spec_impedance": null
+   }
+  ]
+ },
+ {
+  "name": "Yamaha VXS3F",
+  "brand": "Yamaha",
+  "model": "VXS3F",
+  "price": "284",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Yamaha",
+    "tier": "C",
+    "review": null,
+    "published": "20231019",
+    "pref_score": 0.1,
+    "pref_score_sub": 4.71,
+    "spec_impedance": 8
+   }
+  ]
+ },
+ {
+  "name": "Yamaha VXS5",
+  "brand": "Yamaha",
+  "model": "VXS5",
+  "price": "585",
+  "amount": "pair",
+  "best_tier": "C",
+  "measurements": [
+   {
+    "key": "vendor",
+    "origin": "Vendors-Yamaha",
+    "tier": "C",
+    "review": null,
+    "published": "20231019",
+    "pref_score": 1.86,
+    "pref_score_sub": 5.17,
+    "spec_impedance": 8
+   }
+  ]
+ }
+]
