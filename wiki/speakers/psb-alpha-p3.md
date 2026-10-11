@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "57-21,000 Hz +/-3 dB on axis; LF cutoff -10 dB 43 Hz"
 primary_measurement: asr-psb-alpha-p3
 measurement_count: 1
+image_url: "https://www.psbspeakers.com/cdn/shop/files/p3-bookshelf-speaker-black.jpg?v=1774893176&width=1024"
 ---
+<!-- photo -->
+<img src="https://www.psbspeakers.com/cdn/shop/files/p3-bookshelf-speaker-black.jpg?v=1774893176&width=1024" alt="PSB Alpha P3" width="360">
+
+*Photo: [psbspeakers.com](https://www.psbspeakers.com/products/alpha-p3-compact-bookshelf) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The PSB Alpha P3 is a very small (220 mm tall) 8 Ω-rated two-way with a 4" woofer, a 0.75" aluminium dome mounted below it and a rear port, around $349 per pair. ASR's Klippel data show a listening window of ±3.1 dB, f3 of 62 Hz, port and woofer resonances breaking through the response, and very low sensitivity (80.3 dB). Impedance dips to about 3.9 Ω, so it behaves like a 4 Ω speaker despite the 8 Ω rating. Early reviewers liked its clarity for the money; measurements suggest it suits only small rooms at modest levels, ideally with a subwoofer.

@@ -32,13 +32,19 @@ port: rear
 dimensions_mm: 359x190x354
 weight_kg: 8.7
 critic_consensus: Praised for neutral tonality, clarity, bass punch and value; caveats are edgy-recording unforgiveness, aiming sensitivity and limited output.
-user_consensus: null
-sources: [eac-polk-audio-reserve-r200, napilopez-polk-audio-reserve-r200, mfr-polk-audio-reserve-r200, whathifi-polk-audio-reserve-r200, tnw-polk-audio-reserve-r200, users-polk-audio-reserve-r200, spinorama-org]
+user_consensus: "Crutchfield (n=99, 92% 5★): praised bass for the size and clear treble; 4 say it needs a good or 4 ohm-capable amp; no failures."
+sources: [eac-polk-audio-reserve-r200, napilopez-polk-audio-reserve-r200, mfr-polk-audio-reserve-r200, whathifi-polk-audio-reserve-r200, tnw-polk-audio-reserve-r200, users-polk-audio-reserve-r200, spinorama-org, crutchfield-polk-audio-reserve-r200]
 last_updated: 2026-10-11
 claimed_fr: "39 Hz-50 kHz overall; 51 Hz-38 kHz (-3 dB)"
 primary_measurement: eac-polk-audio-reserve-r200
 measurement_count: 2
+image_url: "https://sfcc-prod-polk.soundunited.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw4c35eed4/polk/PDP_Images/Home-Speakers/Bookshelf/Reserve/Reserve-R200-Black/Reserve-R200-Black_Image_pair-angle-right.png"
 ---
+<!-- photo -->
+<img src="https://sfcc-prod-polk.soundunited.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw4c35eed4/polk/PDP_Images/Home-Speakers/Bookshelf/Reserve/Reserve-R200-Black/Reserve-R200-Black_Image_pair-angle-right.png" alt="Polk Audio Reserve R200" width="360">
+
+*Photo: [sfcc-prod-polk.soundunited.com](https://sfcc-prod-polk.soundunited.com/en-us/product/home-speakers/bookshelf/reserve-r200/300029.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Polk Reserve R200 is a 6.5" rear-ported (X-Port) standmount with a 1" Pinnacle ring radiator, about $639/pair and fairly large (359 mm tall, 354 mm deep). Polk gives 8/6/4 Ω compatibility with a 3.8 Ω minimum and no explicit nominal, so it is entered as 8 Ω and flagged `effectively-4ohm` on the measured minimum. It measures very flat (listening window ±1.7 dB on Klippel; a second hobbyist rig agrees it is very flat) with modest bass (f3 68 Hz) and a narrowing tweeter above ~5 kHz that makes aiming important. Suits listeners wanting neutral, wide-horizontal sound at moderate levels with a 4 Ω-capable amp.
@@ -73,7 +79,9 @@ Maker: 8/6/4 Ω compatible, 3.8 Ω minimum. EAC graph shows minimum 3.8 Ω and E
 - Polk's page cites a The Absolute Sound "Bookshelf Loudspeaker of The Year" award (not independently verified).
 
 ## User reviews
-About 5 thin reports, anecdotal ([users-polk-audio-reserve-r200](../sources/users-polk-audio-reserve-r200.md)): 2 mention its large size, 2 prefer it to the R100 for bass, 1 reports clear vocals and adequate bass. No QC problems reported.
+Crutchfield ([crutchfield-polk-audio-reserve-r200](../sources/crutchfield-polk-audio-reserve-r200.md); 99 reviews, 91 five-star, hand-tallied): at least 23 of 99 praise strong, tight bass for the size (no weak-bass reports); 9 of 99 call the treble clear but not harsh (3 of 99 weak or problematic); 4 of 99 describe a warm voicing; 4 of 99 say it needs good amplification or a 4 ohm-capable amp, agreeing with the measured 3.8 Ω minimum. Forum reports ([users-polk-audio-reserve-r200](../sources/users-polk-audio-reserve-r200.md), about 5, anecdotal): 2 prefer it to the R100 for bass.
+
+QC/reliability: no driver or electrical failures in 99 reviews; 1 pair arrived damaged and was replaced.
 
 ## Conflicts
 - Preference score: 5.09/7.61 (EAC, Klippel, Tier A) vs 6.16/8.23 (napilopez, Tier B); different rig and sample, not averaged.
@@ -81,6 +89,7 @@ About 5 thin reports, anecdotal ([users-polk-audio-reserve-r200](../sources/user
 - Aiming advice differs: straight on (EAC) vs 10-20° off-axis (TNW).
 - Nominal impedance not stated by Polk; EAC treats it as ~4 Ω.
 - Price: $639 (Polk, list $799), $700 (2021) and $750 (EAC 2023).
+- Bass: at least 23 of 99 Crutchfield reviewers praise strong, deep bass for the size (often no sub needed) versus measured f3 68 / f6 57 Hz; praise is relative to size and may include room gain.
 
 ## Related
 [Polk Audio](../brands/polk-audio.md) · [Polk Audio Reserve R100](polk-audio-reserve-r100.md) · Polk Audio Signature Elite ES15 · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "±3 dB 61 Hz-21 kHz on-axis; 45 Hz (DIN)"
 primary_measurement: asr-paradigm-monitor-se-atom
 measurement_count: 1
+image_url: "https://www.paradigm.com/2518-large_default/monitor-se-atom.jpg"
 ---
+<!-- photo -->
+<img src="https://www.paradigm.com/2518-large_default/monitor-se-atom.jpg" alt="Paradigm Monitor SE Atom" width="360">
+
+*Photo: [paradigm.com](https://www.paradigm.com/en/passive/monitor-se-atom) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Paradigm Monitor SE Atom is a small 2-way ported standmount (5.5" woofer, 1" dome) that Paradigm lists at $399.98 per pair, rated "compatible with 8 ohms" ([mfr-paradigm-monitor-se-atom](../sources/mfr-paradigm-monitor-se-atom.md)). On ASR's Klippel it shows good, parallel directivity but an uneven on-axis response with a 2-4 kHz dip, a rising treble and a ~15 kHz resonance, giving a listening-window deviation of ±2.1 dB (good) and a preference score of 4.1. Bass is modest (f3 57 Hz). It suits small rooms and budget systems if you accept a bright top end or use EQ; it is not a high-output speaker.

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "Anechoic 53 Hz-23 kHz ±3 dB; -6 dB at 45 Hz (maker); typical in-room 39 Hz-23 kHz (no tolerance)"
 primary_measurement: eac-ascend-acoustics-sierra-1-v2
 measurement_count: 2
+image_url: "https://www.ascendacoustics.com/cdn/shop/files/S1V22_pb_pair_grande.png?v=1779441129"
 ---
+<!-- photo -->
+<img src="https://www.ascendacoustics.com/cdn/shop/files/S1V22_pb_pair_grande.png?v=1779441129" alt="Ascend Acoustics Sierra-1 V2" width="360">
+
+*Photo: [ascendacoustics.com](https://www.ascendacoustics.com/products/sierra-1-v2-pair) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Sierra-1 V2 is Ascend's $998 passive standmount: 5.25" woofer, 26 mm dome, bamboo cabinet, flared rear port. Two independent Klippel NFS measurements agree: listening window about ±1.6-1.7 dB, very wide and smooth directivity, f3 52 Hz, and an unusually smooth early-reflection curve. The costs are low sensitivity (about 81 dB) and limited output, with distortion climbing above about 90 dB at 4 m. Suits near-field or small-to-medium room listening with a strong amplifier; a sub helps for deep bass.

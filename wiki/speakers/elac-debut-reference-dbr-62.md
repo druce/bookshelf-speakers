@@ -32,13 +32,19 @@ port: front
 dimensions_mm: 359x208x275
 weight_kg: 8.2
 critic_consensus: Praised for clean, transparent midrange, driver integration and imaging; caveats are subdued dynamic punch, modest bass depth and a need for a capable amplifier.
-user_consensus: null
-sources: [eac-elac-debut-reference-dbr-62, asr-elac-debut-reference-dbr-62, mfr-elac-debut-reference-dbr-62, whathifi-elac-debut-reference-dbr-62, futureaudiophile-elac-debut-reference-dbr-62, users-elac-debut-reference-dbr-62, spinorama-org]
+user_consensus: "Crutchfield (n=102, 77% 5★): praised smooth, non-fatiguing sound and bass for the size; 6 say it needs power; 2 defective units."
+sources: [eac-elac-debut-reference-dbr-62, asr-elac-debut-reference-dbr-62, mfr-elac-debut-reference-dbr-62, whathifi-elac-debut-reference-dbr-62, futureaudiophile-elac-debut-reference-dbr-62, users-elac-debut-reference-dbr-62, spinorama-org, crutchfield-elac-debut-reference-dbr-62]
 last_updated: 2026-10-11
 claimed_fr: "44 Hz - 35 kHz (no tolerance stated)"
 primary_measurement: eac-elac-debut-reference-dbr-62
 measurement_count: 2
+image_url: "https://www.worldwidestereo.com/cdn/shop/files/Elac-DBR62-W-6-5-Inch-Bookshelf-Speakers-Pair-Oak-White-Image-03.jpg?v=1750257576"
 ---
+<!-- photo -->
+<img src="https://www.worldwidestereo.com/cdn/shop/files/Elac-DBR62-W-6-5-Inch-Bookshelf-Speakers-Pair-Oak-White-Image-03.jpg?v=1750257576" alt="Elac Debut Reference DBR-62" width="360">
+
+*Photo: [worldwidestereo.com](https://www.worldwidestereo.com/products/elac-dbr62-w-6-5-inch-bookshelf-speakers-pair-oak-white) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The ELAC Debut Reference DBR62 is a 6 ohm, two-way, front-ported standmount with a 6.5" aramid woofer and 1" dome tweeter on a waveguide, designed by Andrew Jones. On Erin's Klippel data the listening window is flat to +/-1.3 dB with wide, fairly smooth dispersion; ASR's earlier unit gives +/-2.1 dB. Sensitivity is low at about 84-85 dB and bass reaches f3 52 Hz (good). Suits listeners wanting a neutral, wide-dispersion speaker for a medium room with a capable 50 W+ amplifier. Price $799 per pair at Audio Advisor and World Wide Stereo; some finishes show out of stock.
@@ -74,7 +80,9 @@ No max-SPL figure is stated. Erin's compression sweeps show at most about 0.7 dB
 - [asr-elac-debut-reference-dbr-62](../sources/asr-elac-debut-reference-dbr-62.md) (ASR, Tier D listening notes): balanced, detailed, "strongest recommendation".
 
 ## User reviews
-Only 3 owner reports found, so anecdotal ([users-elac-debut-reference-dbr-62](../sources/users-elac-debut-reference-dbr-62.md)): 2 needed a strong, high-current amp and 2 found it dull versus alternatives. QC: 1 report of a tweeter failure after five years with no support response.
+Crutchfield ([crutchfield-elac-debut-reference-dbr-62](../sources/crutchfield-elac-debut-reference-dbr-62.md); 102 reviews, 79 five-star, hand-tallied): 16 of 102 describe a warm, smooth, non-fatiguing sound, 7 of 102 neutral; 14 of 102 say bass is strong for the size (3 of 102 lacking); 6 of 102 say it needs power (2 of 102 fine on low power), agreeing with the measured 83.9 dB sensitivity; 10 of 102 dislike the vinyl wrap; 5 of 102 see an upgrade over the B6.2. Forum reports ([users-elac-debut-reference-dbr-62](../sources/users-elac-debut-reference-dbr-62.md), 3, anecdotal): 2 needed a strong amp, 2 found it dull.
+
+QC/reliability: driver failures or defective units 2 of 102 (tweeter failure after about a year; one defective on arrival); the forum also had 1 tweeter failure after five years.
 
 ## Conflicts
 - Sensitivity: 83.9 dB (EAC) vs 85.3 dB (ASR), a 1.4 dB spread; both below the 86 dB claim.

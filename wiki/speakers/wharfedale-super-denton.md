@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "52 Hz-20 kHz (±3 dB); 40 Hz at -6 dB"
 primary_measurement: eac-wharfedale-super-denton
 measurement_count: 1
+image_url: "https://www.wharfedaleusa.com/cdn/shop/files/0004_Super-Denton-Walnut-Standard-_3_grande.png?v=1718132701"
 ---
+<!-- photo -->
+<img src="https://www.wharfedaleusa.com/cdn/shop/files/0004_Super-Denton-Walnut-Standard-_3_grande.png?v=1718132701" alt="Wharfedale Super Denton" width="360">
+
+*Photo: [wharfedaleusa.com](https://www.wharfedaleusa.com/products/super-denton-bookshelf-speakers-pair) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Wharfedale Super Denton is a compact 6 Ω three-way standmount (6.5" Kevlar woofer, 2" dome mid, 1" dome tweeter, dual rear ports) with an asymmetric, mirror-imaged baffle. Erin's Audio Corner reports a preference score of 5.9 despite dips around 200-500 Hz and 3 kHz and a resonance near 660 Hz. Bass is modest (about 62 Hz f3, graph-read), and impedance falls to 3.0 Ω, so it is effectively a 4 Ω load. Critics like its smooth, natural tonality and value; it suits small to medium rooms with a capable amplifier.

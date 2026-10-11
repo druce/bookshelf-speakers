@@ -32,13 +32,19 @@ port: front
 dimensions_mm: 341x180x234
 weight_kg: 5.9
 critic_consensus: What Hi-Fi? gave 5/5 for detailed, organised, well-timed sound, with a lean, analytical tone that is less forgiving of partnering gear.
-user_consensus: null
-sources: [eac-elac-debut-2-0-b5-2, mfr-elac-debut-2-0-b5-2, whathifi-elac-debut-2-0-b5-2, users-elac-debut-2-0-b5-2, spinorama-org]
+user_consensus: "Crutchfield (n=96, 80% 5★): praised clarity, build and bass for size; 8 find treble bright or harsh; no driver failures."
+sources: [eac-elac-debut-2-0-b5-2, mfr-elac-debut-2-0-b5-2, whathifi-elac-debut-2-0-b5-2, users-elac-debut-2-0-b5-2, spinorama-org, crutchfield-elac-debut-2-0-b5-2]
 last_updated: 2026-10-11
 claimed_fr: "46 to 35,000 Hz (no tolerance stated)"
 primary_measurement: eac-elac-debut-2-0-b5-2
 measurement_count: 1
+image_url: "https://images.crutchfieldonline.com/ImageHandler/trim/869/652/products/2018/5/970/g970DB52-F.jpg"
 ---
+<!-- photo -->
+<img src="https://images.crutchfieldonline.com/ImageHandler/trim/869/652/products/2018/5/970/g970DB52-F.jpg" alt="Elac Debut 2.0 B5.2" width="360">
+
+*Photo: [images.crutchfieldonline.com](https://www.crutchfield.com/p_970DB52/ELAC-Debut-2-0-B5-2.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Debut 2.0 B5.2 is a 6 Ω, 5.25" two-way with a 1" cloth dome on a waveguide and a front port, at about $294 per pair. On Erin's Klippel data it has a listening window of ±2.2 dB with a +3 dB step near 1.5 kHz, modest bass (f3 62 Hz) and only 83.3 dB sensitivity. Compression and midrange distortion rise early. It suits a small room with a subwoofer and ideally EQ; Erin would pick the [Elac Debut 2.0 B6.2](elac-debut-2-0-b6-2.md) instead if not using EQ. What Hi-Fi? says the Debut 3.0 DB53 replaces it, but it remains in stock at a US retailer.
@@ -71,7 +77,9 @@ Erin's tests show THD of about 1.8% at 86 dB and about 4.2% at 96 dB (graph-read
 - [eac-elac-debut-2-0-b5-2](../sources/eac-elac-debut-2-0-b5-2.md) (Erin's Audio Corner, Tier D notes): uneven sound from the 1.5 kHz step, which he could not pin down by ear; better with EQ.
 
 ## User reviews
-Only 2 independent owner reports, so anecdotal ([users-elac-debut-2-0-b5-2](../sources/users-elac-debut-2-0-b5-2.md)): bass adequate for size or strong without boom; slight treble grain or clinical tone. No QC problems reported.
+Crutchfield ([crutchfield-elac-debut-2-0-b5-2](../sources/crutchfield-elac-debut-2-0-b5-2.md); 96 reviews, 77 five-star, hand-tallied): about 35 of 96 praise clear, detailed sound; 10 of 96 say bass is good for the size, 3 of 96 muddy; 8 of 96 call the upper treble bright or harsh (3 of 96 smooth); 3 of 96 find the mids recessed; 3 of 96 say it needs volume or good amplification. The bright reports loosely echo What Hi-Fi?'s lean, analytical tone, though Erin's measured step is near 1.5 kHz. Earlier forum reports ([users-elac-debut-2-0-b5-2](../sources/users-elac-debut-2-0-b5-2.md), 2, anecdotal): adequate bass, slight treble grain.
+
+QC/reliability: no driver or electrical failures in 96 reviews; 1 cosmetic defect (separating laminate).
 
 ## Conflicts
 - Sensitivity: 83.3 dB measured versus 86 dB claimed ([mfr-elac-debut-2-0-b5-2](../sources/mfr-elac-debut-2-0-b5-2.md)), a 2.7 dB shortfall.

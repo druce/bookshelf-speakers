@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "65 Hz - 22 kHz ±3 dB (when properly placed)"
 primary_measurement: eac-totem-acoustic-kin-one
 measurement_count: 1
+image_url: "https://totemacoustic.com/wp-content/uploads/2024/08/Totem-KIN-ONE-Satin-White-02a.webp"
 ---
+<!-- photo -->
+<img src="https://totemacoustic.com/wp-content/uploads/2024/08/Totem-KIN-ONE-Satin-White-02a.webp" alt="Totem Acoustic Kin One" width="360">
+
+*Photo: [totemacoustic.com](https://totemacoustic.com/product/kin-one/) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Totem Kin One is a very small (about 24 cm tall) two-way with a 4" cone and 1" soft dome, rated 6 Ω and sold at about $599 per pair. On Erin's Klippel it measures only moderately: listening window ±2.3 dB, f3 87 Hz, sensitivity 83.1 dB, and a preference score of 3.7 (6.6 with sub). It needs a subwoofer for any real bass and has limited output. It suits desktops and small rooms at modest levels, ideally with an amplifier that handles a dip to about 4.4 Ω.

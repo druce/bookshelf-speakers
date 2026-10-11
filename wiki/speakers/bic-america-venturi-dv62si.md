@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "43 Hz-21 kHz (±3 dB)"
 primary_measurement: asr-bic-america-venturi-dv62si
 measurement_count: 1
+image_url: "https://www.bicamerica.com/_astro/dv62si-0.BnPiBqoR_1mfcB7.jpg"
 ---
+<!-- photo -->
+<img src="https://www.bicamerica.com/_astro/dv62si-0.BnPiBqoR_1mfcB7.jpg" alt="BIC America Venturi DV62si" width="360">
+
+*Photo: [bicamerica.com](https://www.bicamerica.com/products/dv62si) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The BIC Venturi DV62si is an 8 Ω, rear-ported 6.5" two-way with a 0.75" soft dome, sold at about $200-275 per pair and listed on BIC's current US catalogue. On the ASR Klippel it measures poorly: listening window ±3.5 dB (coloured) with strongly elevated highs, very uneven directivity and f3 of 80 Hz. Preference score is 2.4 (5.3 with sub). The large woofer plays loud and warm for the price, but treble is bright. Suits very-low-budget, casual or surround use rather than critical listening.

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "50 Hz-20 kHz +/-2 dB at 15 degrees off axis"
 primary_measurement: asr-hsu-research-ccb-8
 measurement_count: 2
+image_url: "https://hsuresearch.com/cdn/shop/files/low-res-ccb3.jpg?v=1710871848"
 ---
+<!-- photo -->
+<img src="https://hsuresearch.com/cdn/shop/files/low-res-ccb3.jpg?v=1710871848" alt="Hsu Research CCB-8" width="360">
+
+*Photo: [hsuresearch.com](https://hsuresearch.com/products/ccb-8-speaker) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Hsu CCB-8 is an 8" ported coaxial horn speaker (aluminium dome tweeter behind the woofer cone) sold factory-direct at $389 each. It has very high efficiency for a bookshelf (88.8 dB at 2.83 V in ASR's Klippel data) but a rough anechoic response: listening-window deviation ±5.2 dB with a deep notch near 1.7 kHz, and directivity that is not constant. Bass reaches f3 59 Hz (good). Impedance dips to about 3.8 Ω, so it behaves as a 4 Ω speaker despite an "8 Ω" setting recommendation. Suits buyers who value efficiency, off-axis consistency in the bass/midrange and orientation flexibility, and who accept a coloured on-axis response; aiming 15-25° off axis, as the maker advises, helps.

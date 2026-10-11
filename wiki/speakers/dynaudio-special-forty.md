@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "41 Hz - 23 kHz, +/-3 dB"
 primary_measurement: eac-dynaudio-special-forty
 measurement_count: 3
+image_url: "https://dynaudio.com/hubfs/01.%20Dynaudio/Home%20Audio/Special%20Forty/Lifestyle/Dynaudio-Special-Forty_BlackVine_2_Stand20_landscape.jpg"
 ---
+<!-- photo -->
+<img src="https://dynaudio.com/hubfs/01.%20Dynaudio/Home%20Audio/Special%20Forty/Lifestyle/Dynaudio-Special-Forty_BlackVine_2_Stand20_landscape.jpg" alt="Dynaudio Special Forty" width="360">
+
+*Photo: [dynaudio.com](https://dynaudio.com/home-audio/special-forty) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Dynaudio Special Forty is a 6 Ω, two-way, rear-ported standmount with a 28 mm Esotar Forty soft dome, a 17 cm MSP woofer and a first-order 2 kHz crossover, launched in 2017 for the brand's 40th anniversary. Klippel data show a listening window of +/-2.2 dB, f3 of about 52 Hz and a low 83 dB sensitivity (claimed 86 dB). Its distinctive feature is a cabinet and port resonance in the 500-700 Hz region visible in the NRC, EAC and Stereophile data and audible to Stereophile. It suits small-to-medium rooms and listeners who value Dynaudio's bass weight and voice reproduction, with a competent amplifier. Price and availability are uncertain (see Conflicts).

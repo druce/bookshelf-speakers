@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "64 Hz-30 kHz (+3 dB, -6 dB)"
 primary_measurement: asr-q-acoustics-3020i
 measurement_count: 2
+image_url: "https://www.qacoustics.com/cdn/shop/files/image_1775662583428.jpg?v=1784674744"
 ---
+<!-- photo -->
+<img src="https://www.qacoustics.com/cdn/shop/files/image_1775662583428.jpg?v=1784674744" alt="Q Acoustics 3020i" width="360">
+
+*Photo: [qacoustics.com](https://www.qacoustics.com/collections/bookshelf-speakers/products/3020i-bookshelf-speaker-pair) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The 3020i is a 6 Ω, 5" ported two-way standmount with a 22 mm dome tweeter, still sold on Q Acoustics' US site at $349.96 per pair although the 3020c is its newer sibling. On the Klippel it has a good listening-window deviation (±2.0 dB) but a dip around the 2.4 kHz crossover, a 3.5 dB early-reflection dip and a bright top end. Bass is modest (f3 about 77 Hz) and woofer distortion at 96 dB climbs steeply, so it wants a high-pass or a sub for loud listening. It suits small rooms, moderate levels and budget systems.

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "50 Hz-20 kHz (no tolerance stated)"
 primary_measurement: eac-chesky-audio-lc1
 measurement_count: 1
+image_url: "https://www.cheskyaudio.com/cdn/shop/files/Chesky_Audio_LC1_-_Black_Product_Page_1_Awards_Reflection.jpg?v=1772466385"
 ---
+<!-- photo -->
+<img src="https://www.cheskyaudio.com/cdn/shop/files/Chesky_Audio_LC1_-_Black_Product_Page_1_Awards_Reflection.jpg?v=1772466385" alt="Chesky Audio LC1" width="360">
+
+*Photo: [cheskyaudio.com](https://cheskyaudio.com/products/lc1) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Chesky Audio LC1 is a hand-built, direct-sale, 8 Ω two-way with a 3D-printed cabinet, a 6.5" polypropylene woofer, 1" dome tweeter and two 8" side-mounted passive radiators, about $996 per pair. Erin's Klippel data show a listening window of ±2.7 dB with a mid-band dip, f3 near 70 Hz, and a very high impedance that is easy on amplifiers. The pair he measured differed audibly from each other, and vertical lobing below the tweeter axis means it must be heard on or slightly above tweeter axis. Two critics were enthusiastic; the one measurement source was not. Best treated as unproven until a second measurement appears.

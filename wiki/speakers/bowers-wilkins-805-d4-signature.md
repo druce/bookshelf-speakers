@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "42 Hz-28 kHz ±3 dB; 34 Hz-35 kHz at -6 dB"
 primary_measurement: soundstage-bowers-wilkins-805-d4-signature
 measurement_count: 3
+image_url: "https://www.bowerswilkins.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw7a77f3b5/bowers/PDP/805-D4-Signature/805-D4-Signature-California-Burl-Gloss/805-D4-Signature-California-Burl-Gloss_Image_1.png"
 ---
+<!-- photo -->
+<img src="https://www.bowerswilkins.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw7a77f3b5/bowers/PDP/805-D4-Signature/805-D4-Signature-California-Burl-Gloss/805-D4-Signature-California-Burl-Gloss_Image_1.png" alt="Bowers & Wilkins 805 D4 Signature" width="360">
+
+*Photo: [bowerswilkins.com](https://www.bowerswilkins.com/en-us/product/loudspeakers/805-d4-signature/300679.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The 805 D4 Signature is the upgraded version of [Bowers & Wilkins 805 D4](bowers-wilkins-805-d4.md), with a revised crossover and motor, a modified top plate and a more open tweeter grille, in the same 440 mm, 15.6 kg front-ported cabinet. Three Tier A/B sources agree it has a dished response with a treble peak near 9-10 kHz (Hi-Fi News: a full 8 dB midrange dip), sensitivity of 84-86 dB (not 88), and impedance of 4.5-4.7 Ω minimum with EPDR near 2 Ω, so it is a demanding load. Bass extends to about 41 Hz (f6). It suits small-to-medium rooms, a current-capable amplifier and listeners who like an airy, raised treble. No Klippel spinorama exists.

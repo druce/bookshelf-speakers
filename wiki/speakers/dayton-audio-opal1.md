@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "32 Hz-20 kHz, -3 dB, half-space"
 primary_measurement: eac-dayton-audio-opal1
 measurement_count: 2
+image_url: "https://www.parts-express.com/Themes/Default/images/PDP/300-4600/OPAL1_PR_Black.jpeg"
 ---
+<!-- photo -->
+<img src="https://www.parts-express.com/Themes/Default/images/PDP/300-4600/OPAL1_PR_Black.jpeg" alt="Dayton Audio OPAL1" width="360">
+
+*Photo: [parts-express.com](https://www.daytonaudio.com/product/2043/opal1-bookshelf-speaker-pair-gloss-black) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The OPAL1 is a passive 2-way with a 5.5" MMAG woofer, two passive radiators and a silk dome, rated 8 Ω. It measures with a good-not-great listening window (±2.6 dB), a ~1 kHz bump and midrange scoop, bass to about 51 Hz (f3) with strong in-room output, and very low sensitivity of about 75 dB. It suits small rooms and listeners with a high-power, 4 Ω-stable amplifier who want a lot of bass from a compact cabinet. Parts Express currently clears it at $499/pair against a listed $1,038.99 MSRP.

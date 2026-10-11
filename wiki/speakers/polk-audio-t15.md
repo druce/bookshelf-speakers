@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "60 Hz-24 kHz; -3 dB limits 65 Hz-20 kHz (T-Series info sheet)"
 primary_measurement: asr-polk-audio-t15
 measurement_count: 2
+image_url: "https://www.polkaudio.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw40f16370/polk/PDP_Images/Home-Speakers/Bookshelf/T-Series/T15/T15_Image_angle-right-left.png"
 ---
+<!-- photo -->
+<img src="https://www.polkaudio.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw40f16370/polk/PDP_Images/Home-Speakers/Bookshelf/T-Series/T15/T15_Image_angle-right-left.png" alt="Polk Audio T15" width="360">
+
+*Photo: [polkaudio.com](https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/t15/112508.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The T15 is Polk's $149-per-pair entry bookshelf: a 5.25" woofer with a 0.75" dome in a small front-ported cabinet with a keyhole for wall mounting, rated 8 Ω nominal. It measures badly at ear height: listening window ±7.1 dB, a deep 3-6 kHz cancellation on axis, f3 of 88 Hz and a distortion peak near 400 Hz. Polk says the design intentionally favours placement above or below ear level, as with surrounds. Suits only budget surround or wall-mounted use, preferably with a subwoofer; stereo listening buyers have far better options.

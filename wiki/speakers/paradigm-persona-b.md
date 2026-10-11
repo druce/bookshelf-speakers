@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "+/-2 dB 60 Hz-45 kHz on axis; LF extension 36 Hz"
 primary_measurement: soundstage-nrc-paradigm-persona-b
 measurement_count: 2
+image_url: "https://www.paradigm.com/2411-large_default/persona-b.jpg"
 ---
+<!-- photo -->
+<img src="https://www.paradigm.com/2411-large_default/persona-b.jpg" alt="Paradigm Persona B" width="360">
+
+*Photo: [paradigm.com](https://www.paradigm.com/en/passive/persona-b) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Persona B is Paradigm's flagship standmount: a 7" beryllium mid/woofer and 1" beryllium dome in a curved, ported cabinet, at $5,249.99 each. Paradigm says only "compatible with 8 ohms", but both labs measured about 3.4-3.8 Ω minimum, so it behaves like a 4 Ω speaker. Measurements show a somewhat uneven response (treble lift, presence dip) and good sensitivity; there is no spinorama, so directivity and preference score are unavailable. A rave subjective review (2017) contrasts with the lab data. Price is far above the rest of the field.

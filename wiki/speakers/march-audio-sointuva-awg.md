@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "50 Hz-18 kHz ±1.2 dB; 37 Hz-19 kHz ±3.0 dB (F3 37 Hz)"
 primary_measurement: eac-march-audio-sointuva-awg
 measurement_count: 1
+image_url: "https://marchaudio.com/wp-content/uploads/2023/11/Sointuva-AWG-TAs-blackwwod.webp"
 ---
+<!-- photo -->
+<img src="https://marchaudio.com/wp-content/uploads/2023/11/Sointuva-AWG-TAs-blackwwod.webp" alt="March Audio Sointuva AWG" width="360">
+
+*Photo: [marchaudio.com](https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Sointuva AWG is a made-to-order Australian 6 Ω standmount using a 6.5" Purifi aluminium woofer, a beryllium-dome tweeter on a waveguide and dual rear passive radiators. On Erin's Klippel it is very flat (listening window ±1.5 dB), reaches f3 of 37 Hz (outstanding for a standmount) and shows low distortion and almost no compression at 102 dB. The costs are low sensitivity (81.2 dB computed) and a brutal impedance (about 3 Ω minimum, EPDR 1.5 Ω), so it needs a strong, 4 Ω-stable amplifier. It must be aimed about 7° above the tweeter. Price is high (about $4,100 per pair) and US purchase is manufacturer-direct only (US shipping not verified).

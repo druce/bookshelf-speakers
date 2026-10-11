@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "53 Hz-30 kHz (-6 dB)"
 primary_measurement: eac-q-acoustics-5020
 measurement_count: 1
+image_url: "https://www.qacoustics.com/cdn/shop/files/61HvCbxmfhL.jpg?v=1786385327"
 ---
+<!-- photo -->
+<img src="https://www.qacoustics.com/cdn/shop/files/61HvCbxmfhL.jpg?v=1786385327" alt="Q Acoustics 5020" width="360">
+
+*Photo: [qacoustics.com](https://www.qacoustics.com/collections/bookshelf-speakers/products/5020-bookshelf-speaker) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The 5020 is a 6 Ω, 5" ported standmount with a 1" sealed dome tweeter, priced at $1,199 per pair on the maker's US site. On Erin's Klippel it is coloured (listening window ±3.3 dB, treble-heavy) with a 3.3 dB early-reflection dip, f3 of 103 Hz and a minimum impedance of 3.4 Ω with EPDR down to 1.7 Ω. Compression is low up to 102 dB above 80 Hz. Reviewers who listened praise its balance and detail, so it measures worse than it is described, and it costs well above the 3020i that Erin found more linear.

@@ -32,13 +32,19 @@ port: rear
 dimensions_mm: 330x191x279
 weight_kg: 5.4
 critic_consensus: HiFi Trends (7/10) found it balanced and slightly warm with good mids, imaging and sweet spot; slight mid coloration and soft dynamics.
-user_consensus: null
-sources: [eac-polk-audio-xt20, hifitrends-polk-audio-xt20, mfr-polk-audio-xt20, spinorama-org]
+user_consensus: "Crutchfield (n=62, 81% 5★): 13 praise bass for the size, about 20 note clarity; 2 find treble harsh; 1 rattling unit."
+sources: [eac-polk-audio-xt20, hifitrends-polk-audio-xt20, mfr-polk-audio-xt20, spinorama-org, crutchfield-polk-audio-xt20]
 last_updated: 2026-10-11
 claimed_fr: "38 Hz-40 kHz (no tolerance)"
 primary_measurement: eac-polk-audio-xt20
 measurement_count: 1
+image_url: "https://www.polkaudio.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dwfdad3edf/polk/PDP_Images/Home-Speakers/Bookshelf/Monitor-XT/Monitor-XT20-Black/Monitor-XT20-Black_Image_pair-angle-right-no-grille.png"
 ---
+<!-- photo -->
+<img src="https://www.polkaudio.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dwfdad3edf/polk/PDP_Images/Home-Speakers/Bookshelf/Monitor-XT/Monitor-XT20-Black/Monitor-XT20-Black_Image_pair-angle-right-no-grille.png" alt="Polk Audio Monitor XT20" width="360">
+
+*Photo: [polkaudio.com](https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/monitor-xt20/300151.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Monitor XT20 is Polk's larger Monitor XT standmount, a 6.5" rear-ported two-way with a 1" Terylene dome at $279 per pair on Polk US. Polk rates it only as compatible with 4- and 8-ohm outputs; it is recorded as 8 Ω compatible, with a measured minimum of about 4.0 Ω. Erin's Klippel data show a good listening window (±1.8 dB), a smooth, minor-discontinuity directivity profile, clean distortion and modest bass (f3 62 Hz). Strong value for small-to-medium rooms; add a subwoofer for deep bass.
@@ -71,13 +77,16 @@ Impedance dips to about 4.0 Ω near 200 Hz, with peaks near 29 Ω (30 Hz) and 38
 - [eac-polk-audio-xt20](../sources/eac-polk-audio-xt20.md): Erin gave no subjective evaluation in the written page.
 
 ## User reviews
-No user reports ingested yet.
+Crutchfield ([crutchfield-polk-audio-xt20](../sources/crutchfield-polk-audio-xt20.md); 62 reviews, 50 five-star, hand-tallied): 13 of 62 say bass is good or surprising for the size (one: no sub needed), against 1 who found lows thin; about 20 of 62 praise clarity. Treble-harshness (2) and amplifier comments are too sparse to call patterns. The bass praise is relative to size; measured f3 is 62 Hz.
+
+QC/reliability: 1 of 62 reported a loose item rattling inside one speaker on arrival; no other defects.
 
 ## Conflicts
 - Sensitivity: 85.7 dB measured vs 87 dB claimed (reference unstated, 1 W per Erin); 1.3 dB difference.
 - Bass: f3 62 Hz and f6 51 Hz measured vs 38 Hz claimed FR with no tolerance (claim, not data). HiFi Trends said it "could play deep bass".
 - Impedance: Polk gives 4/8-ohm compatibility; Crutchfield and HiFi Trends list 8 Ω; measured minimum about 4.0 Ω.
 - Price: Erin quoted about $300 in 2022; Polk US now lists $279.
+- Bass: 13 of 62 Crutchfield reviewers call bass good for the size (one says no sub needed), versus measured f3 62 / f6 51 Hz and over 3 dB compression near 65-70 Hz at 102 dB; the praise is relative to size and may include room gain.
 
 ## Related
 [Polk Audio](../brands/polk-audio.md) · [Polk Audio Monitor XT15](polk-audio-xt15.md) · [Polk Audio Signature Elite ES20](polk-audio-signature-elite-es20.md) · [Polk Audio Reserve R100](polk-audio-reserve-r100.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md)

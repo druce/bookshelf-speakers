@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "Anechoic 43 Hz-23 kHz ±3 dB; -6 dB at 36 Hz (maker); typical in-room 28 Hz-23 kHz (no tolerance)"
 primary_measurement: eac-ascend-acoustics-sierra-lx
 measurement_count: 1
+image_url: "https://www.ascendacoustics.com/cdn/shop/files/LX2_pb_pair_grande.png?v=1779438424"
 ---
+<!-- photo -->
+<img src="https://www.ascendacoustics.com/cdn/shop/files/LX2_pb_pair_grande.png?v=1779438424" alt="Ascend Acoustics Sierra-LX" width="360">
+
+*Photo: [ascendacoustics.com](https://www.ascendacoustics.com/products/sierra-lx-pair) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Sierra-LX is Ascend's $1,598 flagship passive standmount: a 6" SEAS aluminium-cone woofer, 26 mm dome and a bamboo cabinet, with tunable bass plugs. Erin's Klippel data shows an excellent listening window (±1.3 dB), very wide dispersion and good bass extension for the size (f3 46 Hz, f6 42 Hz). Sensitivity is low at 80.6 dB, so it wants a powerful amplifier. Impedance, distortion and compression have not been ingested (Erin's review is video-only), so output limits are unverified; the maker claims 350 W power handling.

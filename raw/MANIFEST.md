@@ -335,7 +335,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | whathifi-triangle-borea-br03.md | Triangle Borea BR03 review | https://www.whathifi.com/reviews/triangle-borea-br03 | 2026-10-11 |
 | witchdoctor-psb-imagine-b50.md | PSB Imagine B50 bookshelf speakers receive rave review - Witchdoctor | https://www.witchdoctor.co.nz/2025/psb-imagine-b50-bookshelf-speakers-receive-rave-review/ | 2026-10-11 |
 
-## raw/reviews-user/ (80)
+## raw/reviews-user/ (92)
 
 | File | Title | URL | Fetched |
 |---|---|---|---|
@@ -369,6 +369,18 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | audioadvice-page-paradigm-monitor-se-atom.md | Paradigm Monitor SE Atom Bookshelf Speakers - Pair | https://www.audioadvice.com/paradigm-monitor-se-atom | 2026-10-11 |
 | audioholicsforum-paradigm-founder.md | SVS or Paradigm - New Home Theatre speakers based on Music listening!!! | https://forums.audioholics.com/forums/threads/svs-or-paradigm-new-home-theatre-speakers-based-on-music-listening.123075/ | 2026-10-11 |
 | avforums-dynaudio-emit-20.md | Dynaudio Emit 20: a kind of review | https://www.avforums.com/threads/dynaudio-emit-20-a-kind-of-review.2420700/ | 2026-10-11 |
+| crutchfield-elac-debut-2-0-b5-2-2026-10-11.md | Crutchfield customer reviews — ELAC Debut 2.0 B5.2 | https://www.crutchfield.com/p_970DB52/Reviews/ELAC-Debut-2-0-B5-2.html | 2026-10-11 |
+| crutchfield-elac-debut-2-0-b6-2-2026-10-11.md | Crutchfield customer reviews — ELAC Debut 2.0 B6.2 | https://www.crutchfield.com/p_970DB62/Reviews/ELAC-Debut-2-0-B6-2.html | 2026-10-11 |
+| crutchfield-elac-debut-reference-dbr-62-2026-10-11.md | Crutchfield customer reviews — ELAC Debut Reference DBR62 | https://www.crutchfield.com/p_970DBR62BK/Reviews/ELAC-Debut-Reference-DBR62-Walnut.html (reviews shared across finishes) | 2026-10-11 |
+| crutchfield-elac-uni-fi-reference-ubr62-2026-10-11.md | Crutchfield customer reviews — ELAC Uni-Fi Reference UBR62 | https://www.crutchfield.com/p_970UBR62W/Reviews/ELAC-Uni-Fi-Reference-UBR62-Oak.html (reviews shared across finishes) | 2026-10-11 |
+| crutchfield-kef-ls50-meta-2026-10-11.md | Crutchfield customer reviews — KEF LS50 Meta | https://www.crutchfield.com/p_991LS50MWH/Reviews/KEF-LS50-Meta-Mineral-White.html (reviews shared across finishes) | 2026-10-11 |
+| crutchfield-klipsch-rp-500m-ii-2026-10-11.md | Crutchfield customer reviews — Klipsch Reference Premiere RP-500M II | https://www.crutchfield.com/p_714500M2E/Reviews/Klipsch-Reference-Premiere-RP-500M-II-Ebony.html | 2026-10-11 |
+| crutchfield-klipsch-rp-600m-ii-2026-10-11.md | Crutchfield customer reviews — Klipsch Reference Premiere RP-600M II | https://www.crutchfield.com/p_714600M2E/Reviews/Klipsch-Reference-Premiere-RP-600M-II-Ebony.html | 2026-10-11 |
+| crutchfield-polk-audio-reserve-r100-2026-10-11.md | Crutchfield customer reviews — Polk Audio Reserve R100 | https://www.crutchfield.com/p_107RSV100/Reviews/Polk-Audio-Reserve-R100-Midnight-Black.html | 2026-10-11 |
+| crutchfield-polk-audio-reserve-r200-2026-10-11.md | Crutchfield customer reviews — Polk Audio Reserve R200 | https://www.crutchfield.com/p_107RSV200/Reviews/Polk-Audio-Reserve-R200-Midnight-Black.html | 2026-10-11 |
+| crutchfield-polk-audio-xt15-2026-10-11.md | Crutchfield customer reviews — Polk Audio Monitor XT15 | https://www.crutchfield.com/p_107MXT15/Reviews/Polk-Audio-Monitor-XT15.html | 2026-10-11 |
+| crutchfield-polk-audio-xt20-2026-10-11.md | Crutchfield customer reviews — Polk Audio Monitor XT20 | https://www.crutchfield.com/p_107MXT20/Reviews/Polk-Audio-Monitor-XT20.html | 2026-10-11 |
+| crutchfield-svs-prime-bookshelf-2026-10-11.md | Crutchfield customer reviews — SVS Prime Bookshelf | https://www.crutchfield.com/p_946PBKBA/Reviews/SVS-Prime-Bookshelf-Premium-Black-Ash.html | 2026-10-11 |
 | reddit-search-triangle-borea-br03.md | Welcome to Reddit | https://old.reddit.com/r/BudgetAudiophile/search?q=triangle+borea+br03&restrict_sr=on | 2026-10-11 |
 | users-ascend-acoustics-sierra-lx-2026-10-11.md | User reports: Ascend Acoustics Sierra-LX |  | 2026-10-11 |
 | users-atc-scm19-2026-10-11.md | User reports: ATC SCM19 |  | 2026-10-11 |

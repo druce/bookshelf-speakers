@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "42 Hz-34 kHz (-6 dB, typical in room)"
 primary_measurement: stereophile-fyne-audio-f500sp
 measurement_count: 1
+image_url: "https://www.fyneaudio.com/wp-content/uploads/2021/08/F500SP-Natural-Walnut-Front-Goff-bookshelf.jpg"
 ---
+<!-- photo -->
+<img src="https://www.fyneaudio.com/wp-content/uploads/2021/08/F500SP-Natural-Walnut-Front-Goff-bookshelf.jpg" alt="Fyne Audio F500SP" width="360">
+
+*Photo: [fyneaudio.com](https://www.fyneaudio.com/product/f500sp/) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Fyne Audio F500SP is an 8 Ω, two-way standmount with a 6" IsoFlare coaxial driver (25 mm magnesium compression tweeter) and a downward-firing port onto a BassTrax diffuser; it is built in Glasgow. Stereophile's gated measurements (Tier B) show sensitivity near 87 dB, well under the 90 dB claim, a tweeter balanced about 2 dB hot, and narrow peaks and dips above 5 kHz. It is a spinorama-less data set, so flatness and bass extension are not quantified here. Suits listeners who value a wide soundstage and have a stable amplifier. US stock is uncertain.

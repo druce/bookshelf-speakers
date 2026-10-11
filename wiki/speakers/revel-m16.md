@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "LF extension 55 Hz (-3 dB), 50 Hz (-6 dB), 45 Hz (-10 dB)"
 primary_measurement: asr-revel-m16
 measurement_count: 3
+image_url: "https://www.revelspeakers.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw634c8053/Revel_Concerta-2_M16_Black_3-4_Pair_RT-1605x1605px-hero.png"
 ---
+<!-- photo -->
+<img src="https://www.revelspeakers.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw634c8053/Revel_Concerta-2_M16_Black_3-4_Pair_RT-1605x1605px-hero.png" alt="Revel M16" width="360">
+
+*Photo: [revelspeakers.com](https://www.revelspeakers.com/products/in-room-loudspeakers/M16-.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Revel Concerta2 M16 is a 6 Ω, two-way, 6.5" ported standmount with a 1" aluminium dome on a waveguide. It measures very well on the Klippel (listening window ±1.4 dB, minor DI discontinuity, good constant-directivity behaviour) with a bass hump near 100 Hz and top-octave roll-off. Bass extension is modest (f3 57 Hz) and impedance dips to about 4 Ω, so it wants a competent amplifier. Suits listeners who want a Harman-style neutral, wide-dispersion speaker at around $700-1,000 per pair. Price/availability need checking: one retailer shows it sold out.

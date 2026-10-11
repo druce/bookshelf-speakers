@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "50 Hz - 20 kHz (no tolerance)"
 primary_measurement: archimago-fluance-reference-xl8s
 measurement_count: 1
+image_url: "https://www.fluance.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/x/l/xl8s-main-white_background-3000.jpg"
 ---
+<!-- photo -->
+<img src="https://www.fluance.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/x/l/xl8s-main-white_background-3000.jpg" alt="Fluance Reference XL8S" width="360">
+
+*Photo: [fluance.com](https://www.fluance.com/reference-two-way-bookshelf-surround-speakers) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Fluance Reference XL8S is a $180-per-pair, 5.25" two-way with a 1" silk dome and dual front ports, rated "8 ohm compatible". Archimago's Tier-B qSpin shows a bumpy listening window (90 Hz, 1.2 kHz and 10 kHz accents, roughness at 1.5-8 kHz), roughly 60 Hz -6 dB bass, and modest preference scores. It is an easy load except for a 3.5 Ω EPDR dip near 150 Hz. Suits a desktop or small room with a sub, with caveats about stock: Fluance showed it out of stock.

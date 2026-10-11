@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "30-35,000 Hz +/-3 dB (maker; not corroborated)"
 primary_measurement: eac-aperion-audio-verus-iii-concert-v8b
 measurement_count: 2
+image_url: "https://www.aperionaudio.com/cdn/shop/files/V8B-GCV-1_2000x2000_fa9e6586-c455-47d9-8418-fc9359b52321.jpg?v=1778294083"
 ---
+<!-- photo -->
+<img src="https://www.aperionaudio.com/cdn/shop/files/V8B-GCV-1_2000x2000_fa9e6586-c455-47d9-8418-fc9359b52321.jpg?v=1778294083" alt="Aperion Audio Verus III Concert V8B" width="360">
+
+*Photo: [aperionaudio.com](https://aperionaudio.com/products/v8b) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Verus III Concert V8B is a large 6 Ω two-way standmount with an 8" Kevlar woofer and 1.1" silk dome, sold direct for $1,549 per pair. Erin's Klippel data show a listening window of ±2.1 dB with a 100-500 Hz scoop, treble resonances near 4 and 10 kHz, a major DI discontinuity and a low preference score. Bass extends to f3 54 Hz, distortion is low and the load is easy for a 6 Ω speaker. Suits those who want size, wide dispersion and output and accept (or EQ) the tonal flaws; it is at the large end of the bookshelf scope (433 mm tall, 12.7 kg each).

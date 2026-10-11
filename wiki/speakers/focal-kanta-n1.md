@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "46 Hz-40 kHz (±3 dB); 42 Hz (-6 dB)"
 primary_measurement: soundstage-nrc-focal-kanta-n1
 measurement_count: 2
+image_url: "https://tmraudio.com/cdn/shop/files/Focal_Kanta_N_1_Bookshelf_Speakers_Pair_1_1200x1200.jpg?v=1768030125"
 ---
+<!-- photo -->
+<img src="https://tmraudio.com/cdn/shop/files/Focal_Kanta_N_1_Bookshelf_Speakers_Pair_1_1200x1200.jpg?v=1768030125" alt="Focal Kanta N°1" width="360">
+
+*Photo: [tmraudio.com](https://tmraudio.com/products/focal-kanta-no-1-bookshelf-speaker) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Kanta N°1 is the only standmount in Focal's mid-line Kanta range: 6.5" flax-cone woofer, beryllium inverted-dome tweeter, polymer baffle, rear port with foam bung. NRC (Tier A) and Hi-Fi News (Tier B) both put sensitivity near 86.5-87.7 dB, below the 88 dB claim, and show an impedance minimum under 4 Ω despite the "8 Ω" rating. The listening window is moderately flat (about ±2.3 dB, graph-read) with a presence-region dip. It suits listeners wanting Focal's refined character in a small room at a high price ($8,598/pair listed); stock appears thin.

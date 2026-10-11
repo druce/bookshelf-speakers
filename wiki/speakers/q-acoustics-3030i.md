@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "46 Hz-30 kHz (+/-3 dB, -6 dB)"
 primary_measurement: napilopez-q-acoustics-3030i
 measurement_count: 1
+image_url: "https://www.qacoustics.com/cdn/shop/files/61W6PYSl_0L.jpg?v=1777479643"
 ---
+<!-- photo -->
+<img src="https://www.qacoustics.com/cdn/shop/files/61W6PYSl_0L.jpg?v=1777479643" alt="Q Acoustics 3030i" width="360">
+
+*Photo: [qacoustics.com](https://www.qacoustics.com/collections/bookshelf-speakers/products/3030i-bookshelf-speaker-pair) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The 3030i is the largest 3000i-series standmount: a 6 Ω, 6.5" ported two-way with a 22 mm dome tweeter and 12.5 L cabinet, listed at $499.96 per pair on the maker's US site (What Hi-Fi? says the 3000c series has replaced it). The only measurement is a quasi-anechoic hobbyist spinorama (Tier B) showing neutral listening-window tonality, a resonance near 1.2 kHz and wide directivity to about 6 kHz; no impedance, distortion or Klippel data exist. Graph-read bass extension is about 72 Hz (f3), better than the 3020i but short of the 46 Hz claim. It suits small to medium rooms on a budget.

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "42 to 38,000 Hz (-6 dB)"
 primary_measurement: eac-elac-debut-3-0-b6-3
 measurement_count: 1
+image_url: "https://elac.com/img/product/db63/2.webp"
 ---
+<!-- photo -->
+<img src="https://elac.com/img/product/db63/2.webp" alt="Elac Debut 3.0 B6.3" width="360">
+
+*Photo: [elac.com](https://elac.com/db63) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Debut 3.0 DB63 is a 6 Ω, 6.5" two-way with a 1" aluminium dome and a front port, at about $499 per pair. Erin's Audio Corner Klippel data show a minimum impedance of 4.4 Ω (below the IEC floor), low distortion for the class at 86 dB, and mild compression. Frequency-response and directivity metrics could not be computed (no raw Klippel export in the repo), so f3 and sensitivity here are graph-read approximations. Suits small-to-medium rooms; a competent amplifier is advisable.

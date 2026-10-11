@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "47 Hz-30 kHz (no tolerance stated; one aggregator gives +/-3 dB)"
 primary_measurement: eac-mofi-sourcepoint-8
 measurement_count: 2
+image_url: "https://www.theingroove.com/cdn/shop/files/0004_MoFi_SourcePoint_8_Stands_Speaker_Walnut_Pair.png?v=1785735074"
 ---
+<!-- photo -->
+<img src="https://www.theingroove.com/cdn/shop/files/0004_MoFi_SourcePoint_8_Stands_Speaker_Walnut_Pair.png?v=1785735074" alt="MoFi SourcePoint 8" width="360">
+
+*Photo: [theingroove.com](https://www.theingroove.com/products/mobile-fidelity-sourcepoint-8-bookshelf-speakers) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The MoFi SourcePoint 8 is an Andrew Jones-designed 8 Ω two-way with an 8" paper-cone concentric driver and 1.25" soft-dome tweeter in a 456 mm tall ported cabinet. On Erin's Klippel it measures well: listening window ±1.3 dB (excellent), smooth DI, very wide dispersion, f3 52 Hz (good). Impedance is high and easy, but sensitivity measures about 1 dB under the claim and 96 dB distortion in the upper bass is notable. Suits small to medium rooms and nearfield use, ideally with a subwoofer for deep bass. Street price about $2,195 per pair (launch $2,750).

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "Anechoic 64 Hz-22 kHz ±3 dB; -6 dB at 54 Hz (maker, anechoic); typical in-room 43 Hz-20 kHz (no tolerance)"
 primary_measurement: asr-ascend-acoustics-cbm-170-se2
 measurement_count: 1
+image_url: "https://www.ascendacoustics.com/cdn/shop/files/170SE2pair_grande.png?v=1783137801"
 ---
+<!-- photo -->
+<img src="https://www.ascendacoustics.com/cdn/shop/files/170SE2pair_grande.png?v=1783137801" alt="Ascend Acoustics CBM-170 SE2" width="360">
+
+*Photo: [ascendacoustics.com](https://www.ascendacoustics.com/products/cbm-170se2-bookshelf-monitor-pair) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The CBM-170SE2 is Ascend's $468 passive 6.5" ported standmount, a Klippel-optimised redesign of an old budget favourite. On ASR's Klippel it has a good listening window (±1.8 dB), very wide horizontal dispersion without a waveguide, 86.5 dB sensitivity and modest bass (f3 62 Hz). The notable caveat is impedance: it measures 3.4 Ω minimum against an 8 Ω rating, so it is flagged `effectively-4ohm`. Suits budget buyers with a stable amplifier who want wide, room-friendly sound and plan a sub for deep bass.

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "50-20,000 Hz ±3 dB; 55-20,000 Hz ±1.5 dB on axis; LF cutoff -10 dB 35 Hz (maker)"
 primary_measurement: soundstage-nrc-psb-synchrony-b600
 measurement_count: 2
+image_url: "https://www.psbspeakers.com/cdn/shop/files/synchrony-bookshelf-speaker-b600-black_ec8f38e6-a2da-4b9a-b5c0-d3da97d6200e.webp?v=1773856758&width=1024"
 ---
+<!-- photo -->
+<img src="https://www.psbspeakers.com/cdn/shop/files/synchrony-bookshelf-speaker-b600-black_ec8f38e6-a2da-4b9a-b5c0-d3da97d6200e.webp?v=1773856758&width=1024" alt="PSB Synchrony B600" width="360">
+
+*Photo: [psbspeakers.com](https://www.psbspeakers.com/collections/bookshelf/products/synchrony-b600-bookshelf) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The PSB Synchrony B600 is PSB's flagship standmount: a 6 Ω-rated 6.5" ported two-way with a 1" titanium dome mounted below a carbon-fibre woofer, on an aluminium baffle with IsoAcoustics feet. Anechoic NRC and gated Audioholics data show a smooth, well-controlled response with uniform directivity, strong low-frequency output for the size, and a real impedance minimum near 3.3-4.5 Ω. No Klippel spinorama exists, so LW deviation, f3 and preference score are not available. It suits listeners wanting standmount bass without a subwoofer, with a capable amplifier. US price is high ($3,799/pair at Audio Advisor) and has risen since 2021.

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "46 Hz-22 kHz ±3 dB (maker figure as quoted by Erin's Audio Corner)"
 primary_measurement: eac-triangle-borea-br03
 measurement_count: 2
+image_url: "https://trianglehifi.us/cdn/shop/files/borea-br03-black-packshot-0.jpg?v=1748620267&width=2048"
 ---
+<!-- photo -->
+<img src="https://trianglehifi.us/cdn/shop/files/borea-br03-black-packshot-0.jpg?v=1748620267&width=2048" alt="Triangle Borea BR03" width="360">
+
+*Photo: [trianglehifi.us](https://trianglehifi.us/products/enceinte-bibliotheque-hi-fi-borea-br03-paire) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Triangle Borea BR03 is a 2-way, front-ported standmount with a 25 mm silk dome behind a diffuser and a 16 cm paper midwoofer, rated 8 Ω nominal and 90 dB/W/m. On Klippel measurements it is only moderately flat (listening window ±2.3 dB EAC, ±2.1 dB ASR) with port and crossover resonances between 500 Hz and 4 kHz, f3 about 57 Hz and sensitivity about 87 dB, well under the claim. Impedance falls to 4.2 Ω with an EPDR near 2.2 Ω, so it is not a true 8 Ω load. Pro reviewers like its scale and refinement; both measurement reviewers were unconvinced. It suits buyers wanting value and scale who can place it carefully and tolerate some treble forwardness.

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "60 Hz-20 kHz (no tolerance stated)"
 primary_measurement: asr-avantone-pro-cla-10
 measurement_count: 1
+image_url: "https://www.proaudiodesign.com/cdn/shop/files/CLA-10PASSIVE.png?v=1718637499&width=2048"
 ---
+<!-- photo -->
+<img src="https://www.proaudiodesign.com/cdn/shop/files/CLA-10PASSIVE.png?v=1718637499&width=2048" alt="Avantone Pro CLA-10" width="360">
+
+*Photo: [proaudiodesign.com](https://www.proaudiodesign.com/products/avantone-pro-cla-10-passive-classic-reference-studio-monitor-system) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Avantone Pro CLA-10 Passive is an 8 Ω sealed two-way studio monitor (7" paper-cone woofer, 1.375" dome) built as a clone of the Yamaha NS-10M. On the ASR Klippel it measures poorly for home listening: listening window ±2.8 dB with a broad mid-to-treble boost, a narrow resonance near 3.5 kHz, large directivity error and f3 of 131 Hz. Preference score is 2.2 (5.9 with sub). It is a niche mixing tool for people who want the NS-10 character, not a neutral hi-fi speaker. Sensitivity is high (90.2 dB) and the load is easy.

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "40 Hz - 29.5 kHz ±3 dB"
 primary_measurement: hifinews-totem-acoustic-bison-monitor
 measurement_count: 1
+image_url: "https://totemacoustic.com/wp-content/uploads/2023/06/Totem-Bison-Monitor-White-Oak-01.jpg"
 ---
+<!-- photo -->
+<img src="https://totemacoustic.com/wp-content/uploads/2023/06/Totem-Bison-Monitor-White-Oak-01.jpg" alt="Totem Acoustic Bison Monitor" width="360">
+
+*Photo: [totemacoustic.com](https://totemacoustic.com/product/bison-monitor/) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Totem Bison Monitor is an 8 Ω-rated, rear-ported two-way with a 5.25" long-throw woofer and 1.3" textile dome, crossed at 2.5 kHz first order, priced $2,300 per pair. The only measurement found is Hi-Fi News' lab report (Tier B): a 5.4 Ω minimum, a roughly 3 dB bump around 800 Hz-1.3 kHz, bass to 41 Hz (-6 dB re 200 Hz) and low distortion at 90 dB. No spinorama or directivity data exists. Critics praise imaging and mid/treble clarity with tuneful but not weighty bass.

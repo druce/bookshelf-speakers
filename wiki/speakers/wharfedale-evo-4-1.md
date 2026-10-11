@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "64 Hz-22 kHz (±3 dB); 55 Hz at -6 dB"
 primary_measurement: asr-wharfedale-evo-4-1
 measurement_count: 1
+image_url: "https://www.wharfedaleusa.com/cdn/shop/products/EVO4.1_Standard_Black_3_grande.png?v=1605120868"
 ---
+<!-- photo -->
+<img src="https://www.wharfedaleusa.com/cdn/shop/products/EVO4.1_Standard_Black_3_grande.png?v=1605120868" alt="Wharfedale EVO 4.1" width="360">
+
+*Photo: [wharfedaleusa.com](https://www.wharfedaleusa.com/products/evo4-1-bookshelf-speaker) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Wharfedale EVO 4.1 is a 5" Kevlar-woofer, AMT-tweeter two-way standmount rated "8 Ω compatible" by the maker. On ASR's Klippel it shows a shelved-down bass, a broad tweeter resonance near 3.8 kHz, and strong upper-treble beaming, giving a listening window of ±2.5 dB and a preference score of 4.5. Impedance dips to 3.2 Ω, so it is effectively a 4 Ω load. ASR did not recommend it; suits only buyers who value its cabinet finish and will EQ or accept a forward treble.

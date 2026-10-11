@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "45 Hz-40 kHz (±3 dB); 41 Hz (-6 dB)"
 primary_measurement: audioholics-focal-sopra-n1
 measurement_count: 2
+image_url: "https://tmraudio.com/cdn/shop/files/Focal_Sopra_N_1_2_Way_High-End_Bookshelf_Speakers_Pair_1_1200x1200.jpg?v=1768030960"
 ---
+<!-- photo -->
+<img src="https://tmraudio.com/cdn/shop/files/Focal_Sopra_N_1_2_Way_High-End_Bookshelf_Speakers_Pair_1_1200x1200.jpg?v=1768030960" alt="Focal Sopra N°1" width="360">
+
+*Photo: [tmraudio.com](https://tmraudio.com/products/focal-sopra-no-1-2-way-bookshelf-speakers) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Sopra N°1 is Focal's top-line standmount (below the Utopia range): a 6.5" "W" sandwich-cone woofer, beryllium inverted-dome tweeter in a separate horn-loaded module, rear slot port, and a very heavy 19 kg cabinet. Both Tier-A sets (Audioholics outdoor gated, NRC anechoic) show a flat, neutral response, sensitivity 86.8-87.8 dB and a benign impedance, with low-frequency extension closer to 50 Hz (-6 dB) than Focal's 41 Hz claim. It is very expensive (listed at $12,998/pair, up from the $9,990 of 2020) and suits listeners paying for build and finish; on measured performance alone it is not clearly ahead of far cheaper Harman-style monitors.

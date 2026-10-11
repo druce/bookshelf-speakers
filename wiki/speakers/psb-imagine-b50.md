@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "45-23,000 Hz ±3 dB on axis; 60-20,000 Hz ±1.5 dB; LF cutoff -10 dB 36 Hz (maker)"
 primary_measurement: eac-psb-imagine-b50
 measurement_count: 2
+image_url: "https://www.psbspeakers.com/cdn/shop/files/imagine-b50-bookshelf-speaker-pair-black.jpg?v=1774623521&width=1024"
 ---
+<!-- photo -->
+<img src="https://www.psbspeakers.com/cdn/shop/files/imagine-b50-bookshelf-speaker-pair-black.jpg?v=1774623521&width=1024" alt="PSB Imagine B50" width="360">
+
+*Photo: [psbspeakers.com](https://www.psbspeakers.com/imagine-b50-bookshelf) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The PSB Imagine B50 is an 8 Ω-rated, two-way ported standmount with a 1" titanium dome and a 5.25" woven carbon-fibre woofer. On Erin's Klippel it measures a good-but-not-flat listening window (±2.2 dB), modest bass extension (f3 64 Hz) and a dip toward 4 Ω impedance, so the "8 Ω" rating is generous. Critics praise its neutral midrange and surprisingly full bass; the measured data show a wavy midrange and a directivity mismatch near 4 kHz. Suits small to medium rooms at moderate levels. US price was about $700 at launch and is $999 at Audio Advisor now.

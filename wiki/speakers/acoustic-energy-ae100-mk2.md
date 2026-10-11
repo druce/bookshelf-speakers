@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "51 Hz-26 kHz (no tolerance stated)"
 primary_measurement: eac-acoustic-energy-ae100-mk2
 measurement_count: 1
+image_url: "https://i0.wp.com/www.acoustic-energy.co.uk/wp-content/uploads/AE100-White-1.jpg?w=773&h=596&ssl=1"
 ---
+<!-- photo -->
+<img src="https://i0.wp.com/www.acoustic-energy.co.uk/wp-content/uploads/AE100-White-1.jpg?w=773&h=596&ssl=1" alt="Acoustic Energy AE100 Mk2" width="360">
+
+*Photo: [i0.wp.com](https://www.acoustic-energy.co.uk/products/100-series/) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The AE100 Mk2 (marketed AE100²) is a 6 Ω, two-way, 5" ported standmount with a 25 mm fabric-dome tweeter on a waveguide, at about $499 per pair. On Erin's Klippel rig it has good, fairly wide directivity but a listening window of ±2.0 dB with a 300-800 Hz dip and a hot tweeter, modest bass (f3 64 Hz) and sensitivity well under the claim. Impedance dips to 4.7 Ω, so it needs a capable amplifier despite the spec. Suits near-wall small-room use with EQ or a warm amplifier; critics are split. US price and stock are lightly evidenced.

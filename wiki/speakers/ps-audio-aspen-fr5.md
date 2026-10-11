@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "35 Hz-20 kHz (-6 dB) half-space; 30 Hz (-6 dB) in room"
 primary_measurement: eac-ps-audio-aspen-fr5
 measurement_count: 3
+image_url: "https://www.psaudio.com/cdn/shop/files/fr5_white_pair_with_stand_and_grille_lifestyle_de695764-3229-46e7-8504-18fae692339c.jpg?v=1719948743"
 ---
+<!-- photo -->
+<img src="https://www.psaudio.com/cdn/shop/files/fr5_white_pair_with_stand_and_grille_lifestyle_de695764-3229-46e7-8504-18fae692339c.jpg?v=1719948743" alt="PS Audio Aspen FR5" width="360">
+
+*Photo: [psaudio.com](https://www.psaudio.com/products/aspen-fr5-loudspeaker) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The PS Audio Aspen FR5 is a 6 Ω, two-way, 6.5" standmount with a 2.5" planar-magnetic tweeter and a rear 6x9" passive radiator, sold direct for $3,499 per pair. Klippel data show a listening window of ±2.7 dB with a wide, fairly even directivity and f6 of 36 Hz (f3 51 Hz). Sensitivity is low (about 81-83 dB) and the EPDR dips to about 2.5 Ω, so it wants a capable amplifier even though the impedance magnitude stays above 5.6 Ω. Suits listeners wanting unusually deep bass from a small box and a smooth top end, with a subwoofer still helpful at high levels.

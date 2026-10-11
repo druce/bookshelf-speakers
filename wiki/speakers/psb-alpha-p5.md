@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "55-21,000 Hz +/-3 dB on axis; 65-20,000 Hz +/-1.5 dB; LF cutoff -10 dB 37 Hz"
 primary_measurement: asr-psb-alpha-p5
 measurement_count: 2
+image_url: "https://www.psbspeakers.com/cdn/shop/files/psb_alphap5_black-ash-5.jpg?v=1774893463&width=1024"
 ---
+<!-- photo -->
+<img src="https://www.psbspeakers.com/cdn/shop/files/psb_alphap5_black-ash-5.jpg?v=1774893463&width=1024" alt="PSB Alpha P5" width="360">
+
+*Photo: [psbspeakers.com](https://www.psbspeakers.com/products/alpha-p5-bookshelf) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The PSB Alpha P5 is an 8 Ω-rated, two-way 5.25" ported standmount (290 mm tall) with an inverted layout (tweeter below the woofer), about $549 per pair at US retailers. ASR's Klippel data give a listening-window deviation of ±2.8 dB (on-axis ±3.1 dB), f3 of 56 Hz, a prominent rear-port peak, a major DI discontinuity and high distortion. Stereophile's quasi-anechoic data show a more even woofer-axis response and it won critical praise. Impedance bottoms at about 3.9 Ω, and sensitivity is average-to-low (83.6-85 dB). Suits small rooms and moderate levels.

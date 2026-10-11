@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "LF extension 59 Hz (-3 dB), 54 Hz (-6 dB), 39 Hz (-10 dB)"
 primary_measurement: asr-revel-m106
 measurement_count: 3
+image_url: "https://www.revelspeakers.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb3cfdd28/Revel_M106_Black_1605x1605_HERO.png"
 ---
+<!-- photo -->
+<img src="https://www.revelspeakers.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb3cfdd28/Revel_M106_Black_1605x1605_HERO.png" alt="Revel M106" width="360">
+
+*Photo: [revelspeakers.com](https://www.revelspeakers.com/products/in-room-loudspeakers/M106-.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Revel Performa3 M106 is an 8 Ω nominal, 6.5" two-way ported standmount with a 1" aluminium dome on an acoustic-lens waveguide in a curved cabinet. Three independent rigs agree it is flat and very clean: ASR's Klippel shows listening window ±1.7 dB with minor DI discontinuity and distortion near zero above 1 kHz. Bass extension is good for a bookshelf (f3 59 Hz) and compression onset is high, but measured sensitivity (about 85.5 dB) is lower than the 87 dB claim and impedance dips to about 4.3-4.6 Ω. A vertical crossover suckout (Stereophile) favours tall stands. Suits listeners wanting a neutral reference-style standmount with clean output at higher levels. Price is about $2,200 per pair.

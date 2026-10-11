@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "58 Hz-28 kHz (no tolerance); LF cut-off 49 Hz"
 primary_measurement: audioholics-focal-theva-n1
 measurement_count: 1
+image_url: "https://www.worldwidestereo.com/cdn/shop/files/179605_WWS1.jpg?v=1743089876"
 ---
+<!-- photo -->
+<img src="https://www.worldwidestereo.com/cdn/shop/files/179605_WWS1.jpg?v=1743089876" alt="Focal Theva N°1" width="360">
+
+*Photo: [worldwidestereo.com](https://www.worldwidestereo.com/products/focal-theva-no-1-2-way-bass-reflex-bookshelf-loudspeakers-pair-light-wood) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Theva N°1 is Focal's entry-level 2-way, 6.5" rear-ported standmount with a 1" Al/Mg inverted-dome tweeter, replacing the Chora. Audioholics' gated spinorama shows a smooth listening window, even directivity and no need for toe-in, with high measured sensitivity (88.5 dB) and a benign impedance (about 4.5 Ω minimum). Bass rolls off gradually below about 80 Hz, usable to roughly 50 Hz. Suits listeners wanting an easy-to-drive, wide-seating neutral speaker around $1,000-1,100 per pair, with a sub for deep bass. No Klippel/spinorama.org data exists, so no preference score.

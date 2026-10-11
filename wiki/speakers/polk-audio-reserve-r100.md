@@ -32,13 +32,19 @@ port: rear
 dimensions_mm: 324x166x260
 weight_kg: 5.5
 critic_consensus: Thin coverage; one blog praises imaging and smooth, detailed treble, with limited deep bass.
-user_consensus: null
-sources: [eac-polk-audio-reserve-r100, mfr-polk-audio-reserve-r100, darksidevinyl-polk-audio-reserve-r100, users-polk-audio-reserve-r100, spinorama-org]
+user_consensus: "Crutchfield (n=31, aggregate 5 stars): 17 praise clarity and neutrality; 5 say deep bass is limited; no QC problems reported."
+sources: [eac-polk-audio-reserve-r100, mfr-polk-audio-reserve-r100, darksidevinyl-polk-audio-reserve-r100, users-polk-audio-reserve-r100, spinorama-org, crutchfield-polk-audio-reserve-r100]
 last_updated: 2026-10-11
 claimed_fr: "44 Hz-50 kHz overall; 58 Hz-39 kHz (-3 dB)"
 primary_measurement: eac-polk-audio-reserve-r100
 measurement_count: 1
+image_url: "https://sfcc-prod-polk.soundunited.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw726a324f/polk/PDP_Images/Home-Speakers/Bookshelf/Reserve/Reserve-R100-White/Reserve-R100-White_Image_pair-angle-right.png"
 ---
+<!-- photo -->
+<img src="https://sfcc-prod-polk.soundunited.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw726a324f/polk/PDP_Images/Home-Speakers/Bookshelf/Reserve/Reserve-R100-White/Reserve-R100-White_Image_pair-angle-right.png" alt="Polk Audio Reserve R100" width="360">
+
+*Photo: [sfcc-prod-polk.soundunited.com](https://sfcc-prod-polk.soundunited.com/en-us/product/home-speakers/bookshelf/reserve-r100/300028.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Polk Reserve R100 is a 5.25" rear-ported (X-Port) standmount with a 1" Pinnacle ring radiator, sold at about $559/pair. Polk lists 8/6/4 Ω amplifier compatibility with a 3.6 Ω minimum and gives no explicit nominal rating; it is entered as 8 Ω under the "8 Ω compatible" rule and the measured minimum triggers the `effectively-4ohm` flag. On the Klippel it has a very flat listening window (±1.0 dB) but modest bass (f3 67 Hz), strong compression at high level and a sizeable distortion hump near 110 Hz. Suits small rooms at moderate levels with a sub or a 4 Ω-capable amp.
@@ -70,12 +76,15 @@ Maker: 8/6/4 Ω compatible, 3.6 Ω minimum. Measured minimum about 3.6 Ω around
 - [eac-polk-audio-reserve-r100](../sources/eac-polk-audio-reserve-r100.md) (Erin's Audio Corner, Tier D notes): punchy midbass/midrange like a small studio monitor, treble heavy at high volume, needs a sub.
 
 ## User reviews
-About 5 thin reports, so anecdotal ([users-polk-audio-reserve-r100](../sources/users-polk-audio-reserve-r100.md)): 1 dealer audition found it clean and not bright; 2 posters preferred the R200 for bass/price. No QC or reliability problems found.
+Crutchfield ([crutchfield-polk-audio-reserve-r100](../sources/crutchfield-polk-audio-reserve-r100.md); 31 reviews, aggregate 5/5, hand-tallied): 17 of 31 call it clear, detailed or neutral; 5 of 31 say deep bass is limited or advise a sub (4 of 31 found bass satisfying without one); 4 of 31 describe a warm voicing; 5 of 31 praise build. The limited-bass reports agree with the measured f3 of 67 Hz. Earlier forum reports ([users-polk-audio-reserve-r100](../sources/users-polk-audio-reserve-r100.md), about 5, anecdotal): 1 found it clean and not bright; 2 preferred the R200.
+
+QC/reliability: no failures or defects in 31 Crutchfield reviews or the forum reports.
 
 ## Conflicts
 - Claimed -3 dB limit 58 Hz vs measured f3 67 Hz (9 Hz difference); claimed 86 dB vs 85.1 dB measured.
 - Nominal impedance not stated by Polk; one forum owner calls it a "4 ohm" speaker (hearsay).
 - Price: Polk shows $559 (list $699); Erin cited ~$650 in 2021.
+- Treble: 17 of 31 Crutchfield reviewers call the sound clear or neutral (one explicitly not bright), whereas Erin found treble too prominent at high volume; possibly level-dependent, unresolved.
 
 ## Related
 [Polk Audio](../brands/polk-audio.md) · [Polk Audio Reserve R200](polk-audio-reserve-r200.md) · Polk Audio Signature Elite ES15 · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "+/-2 dB from 38 Hz to 26 kHz"
 primary_measurement: asr-human-speakers-81-dk
 measurement_count: 1
+image_url: "https://www.humanspeakers.com/human/images/81%20DK%20b.jpg"
 ---
+<!-- photo -->
+<img src="https://www.humanspeakers.com/human/images/81%20DK%20b.jpg" alt="Human Speakers 81 dk" width="360">
+
+*Photo: [humanspeakers.com](https://www.humanspeakers.com/human/81dk.htm) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The HUMAN 81 DK is a hand-built two-way with an 8" woofer and a minimalist crossover, from a one-man New Hampshire company, at $1,397 per pair. It is nominally 6 Ω. ASR's Klippel data show an uneven speaker: listening-window deviation ±4.5 dB, a dip near 200 Hz, and a peak, dip and resonance around the 1.8 kHz crossover, plus weak output above 5 kHz. Bass is good (f3 52 Hz) and dispersion is very wide, but distortion at 96 dB is high. At 470 mm tall it slightly exceeds the ~18" guideline and is included with that note. Not a data-supported pick for accuracy.

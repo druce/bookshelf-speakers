@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "41 Hz-40 kHz (info sheet; retailers 44 Hz-40 kHz), no tolerance"
 primary_measurement: asr-polk-audio-signature-elite-es20
 measurement_count: 1
+image_url: "https://www.polkaudio.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw21158630/polk/PDP_Images/Home-Speakers/Bookshelf/Signature-Elite/Signature-Elite-ES20-White/Signature-Elite-ES20-Brown_Image_angle-right.png"
 ---
+<!-- photo -->
+<img src="https://www.polkaudio.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw21158630/polk/PDP_Images/Home-Speakers/Bookshelf/Signature-Elite/Signature-Elite-ES20-White/Signature-Elite-ES20-Brown_Image_angle-right.png" alt="Polk Audio Signature Elite ES20" width="360">
+
+*Photo: [polkaudio.com](https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/signature-elite-es20/300364.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Signature Elite ES20 is a 6.5" ported two-way standmount with a 1" Terylene dome, sold by Polk for $399 per pair. Polk rates it only as "compatible with 4- and 8-ohm outputs"; it is recorded as 8 Ω compatible, but ASR measured a 3.6 Ω minimum, so it behaves as a 4 Ω speaker. On the Klippel it has a good listening window (±2.2 dB), wide dispersion, unusually deep bass for its size (f3 53 Hz) and low distortion above 100 Hz, but port/cabinet resonances at 600-1000 Hz and a directivity step near 4 kHz. Suits budget buyers with a stable amplifier who can apply light EQ.

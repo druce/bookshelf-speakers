@@ -32,13 +32,19 @@ port: rear
 dimensions_mm: 302x200x280.5
 weight_kg: 7.8
 critic_consensus: Praised for transparency, precise imaging and a smooth, balanced midrange; caveats are limited bass depth/dynamics and need for a capable amplifier.
-user_consensus: null
-sources: [eac-kef-ls50-meta, asr-kef-ls50-meta, stereophile-kef-ls50-meta-measurements, audioxpress-kef-ls50-meta, stereophile-kef-ls50-meta, whathifi-kef-ls50-meta, users-kef-ls50-meta, mfr-kef-ls50-meta, spinorama-org]
+user_consensus: "Crutchfield (n=143, 91% 5★): praised imaging and clarity; 15 want a sub, 7 say it needs a capable amp; 2 defects, none electrical."
+sources: [eac-kef-ls50-meta, asr-kef-ls50-meta, stereophile-kef-ls50-meta-measurements, audioxpress-kef-ls50-meta, stereophile-kef-ls50-meta, whathifi-kef-ls50-meta, users-kef-ls50-meta, mfr-kef-ls50-meta, spinorama-org, crutchfield-kef-ls50-meta]
 last_updated: 2026-10-11
 claimed_fr: "79 Hz-28 kHz (±3 dB); 47 Hz-45 kHz without stated tolerance"
 primary_measurement: eac-kef-ls50-meta
 measurement_count: 4
+image_url: "https://us.kef.com/cdn/shop/files/ls50-meta_sp4027j2_product__front-side.png?v=1787143453"
 ---
+<!-- photo -->
+<img src="https://us.kef.com/cdn/shop/files/ls50-meta_sp4027j2_product__front-side.png?v=1787143453" alt="KEF LS50 Meta" width="360">
+
+*Photo: [us.kef.com](https://us.kef.com/products/ls50-meta) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The KEF LS50 Meta is an 8 Ω-rated, two-way ported standmount with a 1" vented aluminium dome and 5.25" cone in a Uni-Q coaxial array, priced at $1,599.99 per pair at KEF US. It measures very smoothly (listening window ±1.7 dB, smooth directivity) but its low bass is modest (f3 about 64 Hz), its impedance averages near 4 Ω, and its small woofer distorts heavily below ~150 Hz. Suits near-field or small-room listeners who value imaging and midrange clarity and have a robust amplifier, ideally with a subwoofer.
@@ -75,7 +81,9 @@ Erin's THD at 86 dB reaches about 2.2% near 100 Hz and rises steeply below it; a
 - [eac-kef-ls50-meta](../sources/eac-kef-ls50-meta.md) (Erin, Tier D notes): precise imaging, some lack of upper-midrange attack, distortion audible at high levels.
 
 ## User reviews
-Anecdotal, about 5 forum posts ([users-kef-ls50-meta](../sources/users-kef-ls50-meta.md)): 4 of 5 mention bass distortion or the need for a sub/high-pass, 2 of 5 the need for a strong amplifier, 2 of 5 praise the measurements. No QC or reliability problems reported.
+Crutchfield ([crutchfield-kef-ls50-meta](../sources/crutchfield-kef-ls50-meta.md); 143 reviews, 130 five-star, hand-tallied): imaging (~54) and clarity (~70) lead the praise. 15 of 143 say bass is limited or recommend a sub (9 of 143 found bass better than expected); 6 of 143 note limited loudness; 7 of 143 say it needs a capable amplifier; 6 of 143 call treble bright or forward, 7 of 143 explicitly not harsh. The amplifier comments agree with the measured 82.7 dB sensitivity and 3.7 Ω minimum. Forum posts ([users-kef-ls50-meta](../sources/users-kef-ls50-meta.md), about 5) were similar: 4 of 5 mention bass distortion or a sub, 2 of 5 a strong amp.
+
+QC/reliability: product defects 2 of 143 (poor-condition first pair, replaced; chipping paint); no driver or electrical failures.
 
 ## Conflicts
 - Sensitivity: 82.7 dB (EAC computed), 83.4 (ASR computed), 84.5 (Stereophile) versus 85 claimed; delta up to 2.3 dB below the claim.

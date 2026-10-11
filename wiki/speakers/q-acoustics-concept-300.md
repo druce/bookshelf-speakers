@@ -38,7 +38,14 @@ last_updated: 2026-10-11
 claimed_fr: "55 Hz - 30 kHz (maker, no tolerance on US page; +3/-6 dB per Stereophile)"
 primary_measurement: nrc-q-acoustics-concept-300
 measurement_count: 2
+image_url: "https://www.qacoustics.com/cdn/shop/files/image_1775589052984.png?v=1777479653"
 ---
+<!-- photo -->
+<img src="https://www.qacoustics.com/cdn/shop/files/image_1775589052984.png?v=1777479653" alt="Q Acoustics Concept 300" width="360">
+
+*Photo: [qacoustics.com](https://www.qacoustics.com/collections/bookshelf-speakers/products/concept-300-bookshelf-speaker-pair) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
+
 ## Summary
 The Concept 300 is Q Acoustics' flagship 6.5-inch two-way reflex standmount, sold only with its Tensegrity tripod stand and a sprung isolation base. Both anechoic NRC data and Stereophile's quasi-anechoic data show a smooth, flat balance with even horizontal dispersion and a low-rated 84 dB sensitivity. The impedance minimum sits in the mid-4 Ω range, so it is a modestly demanding 6 Ω load. It suits listeners who value a quiet cabinet and neutral tonality and have a capable amplifier; the $6,399 price is well above the $4,499 it cost in 2020.
 

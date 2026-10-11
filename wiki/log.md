@@ -533,3 +533,15 @@ Append-only. Each entry header: `## [YYYY-MM-DD] <op> | <title>`.
 - Converted 5,076 `[[slug]]` links in 558 pages to relative markdown links with `scripts/wikilinks_to_md.py`. Speakers are labelled "Brand Model" and brands by name.
 - `build_index.py`, `rank.py` and `build_universe.py` now convert their output automatically. `check_links.py` now validates markdown links and flags leftover `[[...]]`. `unlink_missing.py` is removed (folded into the converter).
 - Claude.md §4/§5/§6 link conventions updated. After conversion: 0 broken links, 0 orphans, 0 frontmatter errors.
+
+## [2026-10-11] ingest | Crutchfield owner reviews for 12 shortlisted/near-shortlist models
+- Read every Crutchfield review (logged-in Chrome) for Polk R100, R200, XT15 and XT20, KEF LS50 Meta, ELAC B5.2, B6.2, DBR62 and UBR62, Klipsch RP-500M II and RP-600M II, and SVS Prime Bookshelf: 1,380 reviews in total, hand-coded into theme counts and QC tallies. Raw clips are in `raw/reviews-user/crutchfield-*`.
+- Created 12 `crutchfield-*` source pages. Rewrote User reviews and `user_consensus` on the 12 speaker pages, and added user-vs-measurement agreement notes and 7 Conflicts bullets (e.g. "bass good for size" vs measured f3 62–70 Hz; "easy to drive" vs 3.3–3.5 Ω minima on the Klipsches).
+- Reliability signal: driver or electrical failures are rare (ELAC B6.2 3/337, DBR62 2/102, KEF LS50 Meta 2 cosmetic/condition issues of 143, Polk XT20 1/62; none for the others).
+- Reddit is blocked by the extension's safety restrictions. AVS Forum gave no usable owner reports for Ascend, March, Buchardt or Neumi.
+- Status flag: Revel's site shows a new Performa4 M145/M146. The M105/M106 may be superseded ([overview](overview.md)).
+
+## [2026-10-11] lint | Product photos added to 76 of 89 speaker pages
+- `data/speaker-images.json` maps each slug to a manufacturer or retailer product image URL. `scripts/add_photos.py` inserts a 360 px hotlinked image with attribution between `<!-- photo -->` markers and sets `image_url` in the frontmatter. Images are not stored in the repo.
+- All 24 shortlisted or Group B models have photos and were checked visually on a contact sheet. Rejected bad matches: site logos, a floorstander image for the Carina, a measurement graph for Salk, a wood swatch for Vandersteen.
+- No photo yet: ATC SCM7/SCM19, Audio Craftsmen Victoria, ELAC Carina, JBL Stage 250B, Monitor Audio Apex A10, Neumi BS5, NHT C3/SuperZero 2.1, Salk WoW1, Spendor Classic 3/1, Vandersteen VLR, XSA Vanguard.

@@ -32,13 +32,19 @@ port: front
 dimensions_mm: 359x208x334
 weight_kg: 10.7
 critic_consensus: "Mostly positive: clean, detailed, slightly warm and open sound with limited deep bass; one outlet found it uninvolving next to cheaper Debut models."
-user_consensus: null
-sources: [eac-elac-uni-fi-reference-ubr62, mfr-elac-uni-fi-reference-ubr62, soundandvision-elac-uni-fi-reference-ubr62, hifireport-elac-uni-fi-reference-ubr62, tntaudio-elac-uni-fi-reference-ubr62, spinorama-org]
+user_consensus: "Crutchfield (n=56, 71% 5★): praised soundstage and wide dispersion; 10 find bass light, 6 say it needs power; no failures."
+sources: [eac-elac-uni-fi-reference-ubr62, mfr-elac-uni-fi-reference-ubr62, soundandvision-elac-uni-fi-reference-ubr62, hifireport-elac-uni-fi-reference-ubr62, tntaudio-elac-uni-fi-reference-ubr62, spinorama-org, crutchfield-elac-uni-fi-reference-ubr62]
 last_updated: 2026-10-11
 claimed_fr: "41 Hz - 35 kHz (no tolerance stated)"
 primary_measurement: eac-elac-uni-fi-reference-ubr62
 measurement_count: 1
+image_url: "https://www.worldwidestereo.com/cdn/shop/files/Elac-UBR62-6-5-Inch-Bookshelf-Speakers-Pair-Oak-White-Image-01.jpg?v=1775739971"
 ---
+<!-- photo -->
+<img src="https://www.worldwidestereo.com/cdn/shop/files/Elac-UBR62-6-5-Inch-Bookshelf-Speakers-Pair-Oak-White-Image-01.jpg?v=1775739971" alt="Elac Uni-Fi Reference UBR62" width="360">
+
+*Photo: [worldwidestereo.com](https://www.worldwidestereo.com/products/elac-ubr62-6-5-inch-bookshelf-speakers-pair-oak-white) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The ELAC Uni-Fi Reference UBR62 is a 6 ohm, three-way, front-ported standmount with a 1" dome tweeter concentric in a 4" aluminium midrange above a 6.5" aluminium woofer. Erin's Klippel data show a good listening window (+/-1.9 dB), very wide and fairly even dispersion for a coaxial, and low sensitivity of about 83 dB. Bass is modest (f3 56 Hz, far short of the claimed 41 Hz) and impedance dips to about 4 ohm in the bass. Suits listeners wanting wide dispersion in a medium room with a strong amplifier; price is $1,299 per pair at World Wide Stereo.
@@ -73,7 +79,9 @@ No max-SPL figure is stated. Erin notes compression above 96 dB: graphs show at 
 - [eac-elac-uni-fi-reference-ubr62](../sources/eac-elac-uni-fi-reference-ubr62.md) (Erin, Tier D notes): wide soundstage; slight upper-female-vocal resonance; upper-midbass dip near 150 Hz.
 
 ## User reviews
-No user reports ingested yet; no owner threads were found.
+Crutchfield ([crutchfield-elac-uni-fi-reference-ubr62](../sources/crutchfield-elac-uni-fi-reference-ubr62.md); 56 reviews, 40 five-star, hand-tallied): 21 of 56 praise wide soundstage, imaging and dispersion; 7 of 56 call it neutral (3 of those unexciting); bass splits, 10 of 56 light or sub advised vs 8 of 56 plenty; 6 of 56 call it power hungry; 6 of 56 find treble non-fatiguing; 10 of 56 think the vinyl wrap looks cheap. The dispersion praise matches the measured 143/144 degree beamwidths, and the power comments match the 83.0 dB sensitivity.
+
+QC/reliability: no failures or defects in 56 reviews (1 unspecified build-quality comment).
 
 ## Conflicts
 - Sensitivity: 83.0 dB measured vs 85 dB claimed (2.0 dB shortfall).

@@ -32,13 +32,19 @@ port: front
 dimensions_mm: 375x195x268
 weight_kg: 7.4
 critic_consensus: Praised as transparent, rhythmic and well imaged, with a slightly forward midrange and low bass limits; unforgiving of poor sources.
-user_consensus: null
-sources: [asr-elac-debut-2-0-b6-2, eac-elac-debut-2-0-b6-2, mfr-elac-debut-2-0-b6-2, whathifi-elac-debut-2-0-b6-2, hifichoice-elac-debut-2-0-b6-2, audiofi-elac-debut-2-0-b6-2, users-elac-debut-2-0-b6-2, spinorama-org]
+user_consensus: "Crutchfield (n=337, 85% 5★): praised clarity and bass for the size; 13 want more bass; 3 driver or electrical failures."
+sources: [asr-elac-debut-2-0-b6-2, eac-elac-debut-2-0-b6-2, mfr-elac-debut-2-0-b6-2, whathifi-elac-debut-2-0-b6-2, hifichoice-elac-debut-2-0-b6-2, audiofi-elac-debut-2-0-b6-2, users-elac-debut-2-0-b6-2, spinorama-org, crutchfield-elac-debut-2-0-b6-2]
 last_updated: 2026-10-11
 claimed_fr: "44 to 35,000 Hz (no tolerance stated)"
 primary_measurement: asr-elac-debut-2-0-b6-2
 measurement_count: 2
+image_url: "https://images.crutchfieldonline.com/ImageHandler/trim/869/652/products/2018/5/970/g970DB62-F.jpg"
 ---
+<!-- photo -->
+<img src="https://images.crutchfieldonline.com/ImageHandler/trim/869/652/products/2018/5/970/g970DB62-F.jpg" alt="Elac Debut 2.0 B6.2" width="360">
+
+*Photo: [images.crutchfieldonline.com](https://www.crutchfield.com/p_970DB62/ELAC-Debut-2-0-B6-2.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Debut 2.0 B6.2 is a 6 Ω, 6.5" two-way with a 1" cloth dome and a front port. Two Klippel measurements show a listening window of ±1.7 to ±2.3 dB, f3 of 55-59 Hz, and a 700 Hz woofer resonance plus a 1-2 kHz dip (ASR). Impedance is easy (5 Ω minimum). Output is high in the midrange but compresses sharply below about 70 Hz (EAC). It suits modest budgets with a sub for bass. Being replaced by the DB63; still in stock at one US retailer ($374), discontinued at another.
@@ -76,7 +82,9 @@ EAC: about 1.0% THD at 86 dB and 2.8% at 96 dB (graph-read). Compression at 96 a
 - [asr-elac-debut-2-0-b6-2](../sources/asr-elac-debut-2-0-b6-2.md) (ASR, Tier D notes): a bit bright and unexciting until EQ; neutral rating; plays very loud.
 
 ## User reviews
-Two owner reports plus one aggregator, so anecdotal ([users-elac-debut-2-0-b6-2](../sources/users-elac-debut-2-0-b6-2.md)): good imaging (2 of 2); one found it unexciting, one found it natural and dynamic; one needed break-in and tweeter aimed at ear level. No QC problems reported.
+Crutchfield ([crutchfield-elac-debut-2-0-b6-2](../sources/crutchfield-elac-debut-2-0-b6-2.md); 337 reviews, 287 five-star, hand-tallied lower bounds): about 112 of 337 praise clarity; at least 29 of 337 say bass is good for the size against 13 of 337 who find it light; treble: 12 of 337 smooth, 5 of 337 forward, 3 of 337 dull; 10 of 337 say it needs power or volume (3 of 337 easy to drive). The power comments fit the measured 2.4 Ω EPDR. Forum reports ([users-elac-debut-2-0-b6-2](../sources/users-elac-debut-2-0-b6-2.md), 3, anecdotal): good imaging, mixed excitement.
+
+QC/reliability: driver or electrical failures 3 of 337 (tweeter failure at ~6 months; one speaker shorting a receiver; one distorting tweeter).
 
 ## Conflicts
 - Sensitivity: 86.2 dB (ASR export) vs 84.5 dB (EAC) vs 87 dB claimed; 1.7 dB spread between Tier-A rigs, different samples.
@@ -84,6 +92,7 @@ Two owner reports plus one aggregator, so anecdotal ([users-elac-debut-2-0-b6-2]
 - Output: ASR says it plays very loud with almost no distortion, while EAC finds sharp compression below 80 Hz and ASR's own distortion plot shows content around 450 Hz.
 - Subjective tone: ASR/Hi-Fi Choice report brightness or forward mids; What Hi-Fi?/audioFi describe it as neutral. A listener also found it dark (user note).
 - Status: What Hi-Fi? and Gear Patrol say the DB63 replaces it; Audio Advisor marks it discontinued; elac.com and World Wide Stereo still list it.
+- Crutchfield tone is split (12 of 337 smooth, 5 forward or sibilant, 3 dull), as critics also split; and at least 29 of 337 call bass good for the size versus EAC's steep compression below 70 Hz (f3 55-59 Hz). Unresolved.
 
 ## Related
 [Elac](../brands/elac.md) · [Elac Debut 2.0 B5.2](elac-debut-2-0-b5-2.md) · [Elac Debut 3.0 B6.3](elac-debut-3-0-b6-3.md) · [Elac Debut Reference DBR-62](elac-debut-reference-dbr-62.md) · [Q Acoustics 3020i](q-acoustics-3020i.md) · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md)

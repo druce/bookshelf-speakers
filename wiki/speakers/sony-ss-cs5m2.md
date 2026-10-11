@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "53 Hz-50 kHz (no tolerance given)"
 primary_measurement: archimago-sony-ss-cs5m2
 measurement_count: 1
+image_url: "https://www.merlinstv.com/cdn/shop/files/858725_1.jpg?v=1752930315"
 ---
+<!-- photo -->
+<img src="https://www.merlinstv.com/cdn/shop/files/858725_1.jpg?v=1752930315" alt="Sony SS-CS5M2" width="360">
+
+*Photo: [merlinstv.com](https://www.merlinstv.com/products/sony-bookshelf-speakers-ss-cs5m2) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Sony SS-CS5M2 (2025) is a 6 Ω, 3-way, rear-ported budget bookshelf with a 5.1" woofer, 1" dome tweeter and a 0.75" super-tweeter crossed at 17 kHz. Only one Tier-B measurement exists for this model (hobbyist quasi-anechoic, grille on): bass reaches -6 dB around 60 Hz, the treble brightness of the original SS-CS5 is much reduced, and impedance is an easy 5.7 Ω minimum. No Klippel spinorama of the M2 was found, so flatness, directivity and preference score are unknown. Suits small rooms at moderate levels, ideally with a subwoofer.

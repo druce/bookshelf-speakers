@@ -32,13 +32,19 @@ port: rear
 dimensions_mm: 400x202x330
 weight_kg: 8.2
 critic_consensus: Lively, dynamic, engaging and easy to drive with strong imaging; brighter and less neutral than most, so amplifier matching matters.
-user_consensus: null
-sources: [eac-klipsch-rp-600m-ii, stereophile-klipsch-rp-600m-ii, stereonet-klipsch-rp-600m-ii, hifitrends-klipsch-rp-600m-ii, users-klipsch-rp-600m-ii, mfr-klipsch-rp-600m-ii, spinorama-org]
+user_consensus: "Crutchfield (n=217, 84% 5★): praised bass for size and clean loud playback; 11 find treble bright, 13 say not; 7 easy to drive."
+sources: [eac-klipsch-rp-600m-ii, stereophile-klipsch-rp-600m-ii, stereonet-klipsch-rp-600m-ii, hifitrends-klipsch-rp-600m-ii, users-klipsch-rp-600m-ii, mfr-klipsch-rp-600m-ii, spinorama-org, crutchfield-klipsch-rp-600m-ii]
 last_updated: 2026-10-11
 claimed_fr: "44-25 kHz ±3 dB (claimed)"
 primary_measurement: eac-klipsch-rp-600m-ii
 measurement_count: 1
+image_url: "https://images.crutchfieldonline.com/ImageHandler/trim/869/652/products/2025/51/714/g714600M2E-o_other0.jpg"
 ---
+<!-- photo -->
+<img src="https://images.crutchfieldonline.com/ImageHandler/trim/869/652/products/2025/51/714/g714600M2E-o_other0.jpg" alt="Klipsch RP-600M II" width="360">
+
+*Photo: [images.crutchfieldonline.com](https://www.crutchfield.com/p_714600M2E/Klipsch-Reference-Premiere-RP-600M-II-Ebony.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Reference Premiere RP-600M II is a rear-ported 6.5" standmount with a 1" titanium dome on a 90x90° Tractrix horn, claimed at 94.5 dB and "8 Ω compatible". Erin's Klippel data show a fairly good listening window (±1.9 dB) with a treble lift from about 8 kHz, modest bass (f3 68 Hz) and real sensitivity near 85 dB, about 9 dB under the claim. Impedance falls to 3.5 Ω, so it is effectively a 4 Ω load despite the 8 Ω label. Suits listeners wanting lively, wide-dispersion sound at about $650-700 per pair who accept a bright-leaning balance; an amp stable into 4 Ω is advisable.
@@ -74,13 +80,16 @@ Maker says "8 Ω compatible", but Erin measured 3.5 Ω minimum above 80 Hz (flag
 - [eac-klipsch-rp-600m-ii](../sources/eac-klipsch-rp-600m-ii.md) (Erin, Tier D notes): one of the more neutral Klipsch speakers; treble boost from about 8 kHz.
 
 ## User reviews
-Anecdotal ([users-klipsch-rp-600m-ii](../sources/users-klipsch-rp-600m-ii.md)): only 1 direct owner report found (lively, not harsh), plus 1 negative retailer review calling it harsh; 2-3 comments mention treble fatigue at volume or on a horn. No QC failures documented (one unspecified build complaint).
+Crutchfield ([crutchfield-klipsch-rp-600m-ii](../sources/crutchfield-klipsch-rp-600m-ii.md); 217 reviews, 182 five-star, hand-tallied): treble divides reviewers, 11 of 217 calling it bright or fatiguing and 13 of 217 explicitly not; about 29 of 217 praise bass for the size (5 of 217 find it light); 7 of 217 call it easy to drive; at least 6 of 217 say it plays loud cleanly; 7 of 217 prefer it to the Mk I. The bright reports agree with Erin's treble lift from about 8 kHz. Earlier thin reports ([users-klipsch-rp-600m-ii](../sources/users-klipsch-rp-600m-ii.md)) also mention fatigue at volume.
+
+QC/reliability: no driver or electrical failures in 217 reviews; 1 delivery-damage case resolved.
 
 ## Conflicts
 - Sensitivity: claimed 94.5 dB (half-space) vs 85.4 dB Klippel (Erin states 86 dB); about 9 dB gap, more than half-space gain explains. Measurement takes precedence.
 - Impedance: labelled "8 Ω compatible" vs measured 3.5 Ω minimum (effectively 4 Ω).
 - Bass: claimed 44 Hz (-3 dB) vs measured f3 68 Hz anechoic.
 - Reviewers split on treble: Erin and HiFi Trends hear a lift or brightness, Stereophile finds the top smoother than the original.
+- Drive difficulty: 7 of 217 Crutchfield reviewers call it efficient or easy to drive (one estimates real sensitivity near 90 dB), versus measured 85.4 dB and 3.5 Ω minimum, about 9 dB under the 94.5 dB claim.
 
 ## Related
 [Klipsch](../brands/klipsch.md) · [Klipsch RP-500M II](klipsch-rp-500m-ii.md) · Klipsch RP-400M · [Revel M16](revel-m16.md) · [Polk Audio Reserve R200](polk-audio-reserve-r200.md) · KEF Q150 · [spinorama](../concepts/spinorama.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [sensitivity-normalization](../concepts/sensitivity-normalization.md)

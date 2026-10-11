@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "80 Hz-28 kHz (±3 dB)"
 primary_measurement: asr-focal-dome-flax
 measurement_count: 1
+image_url: "https://listenup.com/cdn/shop/files/661efb82-3fa5-454f-9a6f-280ead189978.jpg?v=1778859428"
 ---
+<!-- photo -->
+<img src="https://listenup.com/cdn/shop/files/661efb82-3fa5-454f-9a6f-280ead189978.jpg?v=1778859428" alt="Focal Dome Flax" width="360">
+
+*Photo: [listenup.com](https://listenup.com/products/focal-dome-flax-ultra-compact-satellite-speaker-clearance-open-box) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Dôme Flax is a tiny sealed satellite (4" flax woofer, 171 mm tall) sold mainly for home-theater surround and lifestyle use, rated 8 Ω nominal. It is a borderline fit for this wiki's bookshelf scope (included as a passive shelf-capable monitor). On ASR's Klippel data it is poor: listening window ±3.2 dB, an elevated treble, f3 126 Hz, impedance down to 3.3 Ω and very high distortion. Directivity is wide and smooth. It needs a subwoofer and equalisation, and suits shoppers who prioritise appearance over fidelity.

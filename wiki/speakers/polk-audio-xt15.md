@@ -32,13 +32,19 @@ port: rear
 dimensions_mm: 269x165x182
 weight_kg: 4.1
 critic_consensus: TNT-Audio found it open and articulate with surprisingly strong bass for its size and a plain, slightly light mid-high; good value for a second or first system.
-user_consensus: null
-sources: [eac-polk-audio-xt15, tntaudio-polk-audio-xt15, mfr-polk-audio-xt15, spinorama-org]
+user_consensus: "Crutchfield (n=99, 90% 5★): praised value and clarity; 9 find bass light, 7 better than expected; no failures reported."
+sources: [eac-polk-audio-xt15, tntaudio-polk-audio-xt15, mfr-polk-audio-xt15, spinorama-org, crutchfield-polk-audio-xt15]
 last_updated: 2026-10-11
 claimed_fr: "48 Hz-40 kHz (no tolerance); TNT-Audio cites a manual figure of 73 Hz-26 kHz +/-3 dB"
 primary_measurement: eac-polk-audio-xt15
 measurement_count: 1
+image_url: "https://www.polkaudio.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw5cffae86/polk/PDP_Images/Home-Speakers/Bookshelf/Monitor-XT/Monitor-XT15-Black/Monitor-XT15-Black_Image_pair-front-angle-right-grille.png"
 ---
+<!-- photo -->
+<img src="https://www.polkaudio.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw5cffae86/polk/PDP_Images/Home-Speakers/Bookshelf/Monitor-XT/Monitor-XT15-Black/Monitor-XT15-Black_Image_pair-front-angle-right-grille.png" alt="Polk Audio Monitor XT15" width="360">
+
+*Photo: [polkaudio.com](https://www.polkaudio.com/en-us/product/home-speakers/satellite-surround/monitor-xt15/300147.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Monitor XT15 is Polk's smallest Monitor XT model: a 5.25" two-way with a rear port and 1" Terylene dome, now $149 per pair on Polk US. Polk rates it only as compatible with 4- and 8-ohm outputs; it is recorded as 8 Ω compatible, but measured minimum impedance is about 4.0 Ω. Erin's Klippel data show a good listening window (±1.9 dB), minor directivity discontinuity and clean distortion, but low sensitivity (84.4 dB) and limited bass (f3 77 Hz). A useful budget surround or small-room speaker that wants a subwoofer.
@@ -71,7 +77,9 @@ Impedance dips to about 4.0 Ω near 200-300 Hz with peaks near 24 Ω (35 Hz) and
 - [eac-polk-audio-xt15](../sources/eac-polk-audio-xt15.md): Erin gave no subjective evaluation in the written page.
 
 ## User reviews
-No user reports ingested yet.
+Crutchfield ([crutchfield-polk-audio-xt15](../sources/crutchfield-polk-audio-xt15.md); 99 reviews, 89 five-star, hand-tallied): value (about $150/pair) dominates; about 31 of 99 praise clear mids and highs; 9 of 99 say bass is light or use a sub, while 7 of 99 found it better than expected for the size; 4 of 99 say it plays loud without strain. The light-bass reports agree with the measured f3 of 77 Hz.
+
+QC/reliability: no defects or failures in 99 reviews (1 found the angled binding posts awkward).
 
 ## Conflicts
 - Sensitivity: 84.4 dB measured vs 86 dB claimed (reference unstated, 1 W per Erin); difference of 1.6 dB.

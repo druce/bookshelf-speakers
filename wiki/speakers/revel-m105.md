@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "LF extension 60 Hz (-3 dB), 56 Hz (-6 dB), 44 Hz (-10 dB)"
 primary_measurement: asr-revel-m105
 measurement_count: 1
+image_url: "https://www.revelspeakers.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw42b1c83e/Revel_M105_Angle_White_Grille_1605x1605_Hero.png"
 ---
+<!-- photo -->
+<img src="https://www.revelspeakers.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw42b1c83e/Revel_M105_Angle_White_Grille_1605x1605_Hero.png" alt="Revel M105" width="360">
+
+*Photo: [revelspeakers.com](https://www.revelspeakers.com/products/in-room-loudspeakers/M105-.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Revel Performa3 M105 is an 8 Ω nominal, 5.25" two-way ported standmount with a 1" aluminium dome in an acoustic-lens waveguide and a curved cabinet. On ASR's Klippel it is very flat (listening window ±1.3 dB), has wide, even dispersion and a mild 5 kHz on-axis bump, with very low distortion above about 500 Hz. Bass is modest (f3 60 Hz) and the impedance dips to about 3.8 Ω, so it is effectively a 4 Ω load despite the 8 Ω rating. Suits listeners wanting a neutral, room-friendly small monitor and a capable amplifier; add a sub for deep bass. Revel lists it as current; US price is about $1,650 per pair list, with retailer sales lower.

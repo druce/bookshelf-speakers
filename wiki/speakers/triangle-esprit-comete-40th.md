@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "49 Hz-22 kHz (no tolerance given; per SoundStage review)"
 primary_measurement: soundstage-nrc-triangle-esprit-comete-40th
 measurement_count: 1
+image_url: "https://trianglehifi.us/cdn/shop/files/40th-comete-packshot-shopify-golden-oak-1.jpg?v=1721890528&width=2048"
 ---
+<!-- photo -->
+<img src="https://trianglehifi.us/cdn/shop/files/40th-comete-packshot-shopify-golden-oak-1.jpg?v=1721890528&width=2048" alt="Triangle Esprit Comete 40th" width="360">
+
+*Photo: [trianglehifi.us](https://trianglehifi.us/products/enceinte-bibliotheque-hi-fi-anniversaire-40th-comete-paire) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Esprit Comete 40th is an 8 Ω-rated, two-way, front-ported standmount with a 6.5" cellulose midwoofer and a 1" magnesium-dome horn tweeter, made in France. NRC anechoic data show a moderately even midrange with a dip near 4 kHz, high sensitivity (88.0 dB) and a steep bass roll-off, plus an impedance that dips to about 3.6 Ω. It suits listeners who value a forward, smooth midrange and efficiency, ideally with a sub and a capable amplifier. Currently on sale at $1,900 per pair (regular $2,750).

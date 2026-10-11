@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "60 Hz-20 kHz +/-2 dB"
 primary_measurement: asr-hsu-research-mfl-6
 measurement_count: 1
+image_url: "https://hsuresearch.com/cdn/shop/files/DSC_5209-Edit.jpg?v=1751492580"
 ---
+<!-- photo -->
+<img src="https://hsuresearch.com/cdn/shop/files/DSC_5209-Edit.jpg?v=1751492580" alt="Hsu Research MFL-6" width="360">
+
+*Photo: [hsuresearch.com](https://hsuresearch.com/products/mfl-6-speaker) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The MFL-6 is a $279-each multi-function speaker for L/C/R, surround or Atmos use: 6.5" woofer, Don Keele-designed horn tweeter, a 45° slanted front panel and a down-firing port (counted as `rear`). On ASR's Klippel rig, measured on the intended 90°-to-baffle axis, it has average sensitivity (85.5 dB), listening-window deviation ±3.8 dB, a markedly elevated top octave, and a woofer resonance near 2.5 kHz. Bass extension is modest (f3 80 Hz, f6 52 Hz) so it wants a sub. It is better suited to surround or height duty, where off-axis aiming tames treble, than to critical stereo use.

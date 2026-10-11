@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "40 Hz-20 kHz typical listening room; 60 Hz-20 kHz open floor plan (maker)"
 primary_measurement: eac-zu-audio-method
 measurement_count: 1
+image_url: "https://static1.squarespace.com/static/51dd8a95e4b0ff2f7c9874ae/51e5b959e4b043ade7b52f5b/6722a96608402a7ce4bd2fa1/1791571069579/FEATUREDIMAGE.jpg?format=1500w"
 ---
+<!-- photo -->
+<img src="https://static1.squarespace.com/static/51dd8a95e4b0ff2f7c9874ae/51e5b959e4b043ade7b52f5b/6722a96608402a7ce4bd2fa1/1791571069579/FEATUREDIMAGE.jpg?format=1500w" alt="Zu Audio Method" width="360">
+
+*Photo: [static1.squarespace.com](https://www.zuaudio.com/loudspeakers/p/mb1) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Zu Audio Method is an 8 Ω, front-ported standmount built around an 8" coaxial driver with a separate Eminence tweeter, priced at about $1,438 per pair direct (from $719 each). Erin's Klippel data (via spinorama.org) shows a coloured response (listening window ±4.7 dB, on-axis ±9.4 dB), a major DI discontinuity and a 5.1 dB early-reflection dip near the 5 kHz crossover, and a preference score of only 0.25. Sensitivity is high (90.1 dB) but about 4 dB under the claimed 94 dB. Subjective reviewers like its immediacy and wide imaging, which suits efficiency-minded, tube-amp or low-power listeners; it is weak on measured neutrality.

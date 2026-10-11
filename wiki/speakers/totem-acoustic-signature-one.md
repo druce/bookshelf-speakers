@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "45 Hz-22 kHz ±3 dB"
 primary_measurement: nrc-totem-acoustic-signature-one
 measurement_count: 2
+image_url: "https://totemacoustic.com/wp-content/uploads/2023/06/Totem-Signature-One-Satin-White.jpg"
 ---
+<!-- photo -->
+<img src="https://totemacoustic.com/wp-content/uploads/2023/06/Totem-Signature-One-Satin-White.jpg" alt="Totem Acoustic Signature One" width="360">
+
+*Photo: [totemacoustic.com](https://totemacoustic.com/product/signature-one/) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Totem Signature One is a 2-way, rear-ported 6.5" standmount with a chambered 1" aluminium dome, rated 8 Ω and 87.5 dB, at $3,800 per pair. Measured sensitivity is only 83.0-83.5 dB, about 4 dB under the claim, so it needs a reasonably powerful amp. The impedance is an easy 7.4-7.7 Ω minimum. Tier A/B data show strong cabinet and port resonances near 490-700 Hz and a crossover-region suckout above the tweeter axis, but wide even horizontal dispersion. Suits listeners who value refined treble and imaging in small to medium rooms. No spinorama exists, so no preference score.

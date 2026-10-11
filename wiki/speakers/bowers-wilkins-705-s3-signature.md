@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "50 Hz-28 kHz ±3 dB; 45 Hz-33 kHz at -6 dB"
 primary_measurement: hifinews-bowers-wilkins-705-s3-signature-lab
 measurement_count: 1
+image_url: "https://www.bowerswilkins.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dwf7cdd16b/bowers/PDP/705-S3-Signature/705-S3-Signature-midnight-blue/705%20S3%20Signature%20Blue%20Buy%20Box%201.png"
 ---
+<!-- photo -->
+<img src="https://www.bowerswilkins.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dwf7cdd16b/bowers/PDP/705-S3-Signature/705-S3-Signature-midnight-blue/705%20S3%20Signature%20Blue%20Buy%20Box%201.png" alt="Bowers & Wilkins 705 S3 Signature" width="360">
+
+*Photo: [bowerswilkins.com](https://www.bowerswilkins.com/en-us/product/loudspeakers/705-s3-signature/300975.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The 705 S3 Signature is an 8 Ω-rated, two-way ported standmount with a 25 mm carbon-dome "tweeter on top" and a 6.5" Continuum woofer, in exclusive Datuk or Midnight Blue finishes with an upgraded crossover. The only Tier-B measurement (Hi-Fi News lab) shows an upward-tilted response with roughly 8 dB lift from 1 to 10 kHz, sensitivity of about 84-86 dB depending on averaging, and a minimum impedance of 4.7 Ω, so it is a brighter and harder load than the 8 Ω rating suggests. Bass extends to about 53 Hz (-6 dB). It suits listeners who want an energetic, detailed, forward presentation and have a stable amplifier, and who accept that no anechoic spinorama exists for it. Weight 10.35 kg each; height 345 mm cabinet (413 mm with tweeter pod).

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "53 Hz-25 kHz (±3 dB); 42 Hz-35 kHz (-6 dB)"
 primary_measurement: eac-dynaudio-emit-20
 measurement_count: 1
+image_url: "https://dynaudio.com/hubfs/01.%20Dynaudio/Home%20Audio/Emit/Lifestyle/DynaudioEmit20_Black_07.jpg"
 ---
+<!-- photo -->
+<img src="https://dynaudio.com/hubfs/01.%20Dynaudio/Home%20Audio/Emit/Lifestyle/DynaudioEmit20_Black_07.jpg" alt="Dynaudio Emit 20" width="360">
+
+*Photo: [dynaudio.com](https://dynaudio.com/home-audio/emit/emit-20) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Emit 20 is a 6 Ω, rear-ported two-way with an 18 cm MSP woofer and a 28 mm Cerotar soft dome, large for a bookshelf (370 mm tall, 10.3 kg). On Erin's Klippel it shows a listening window of ±2.6 dB, good bass (f3 52 Hz) with low distortion, wide directivity, a woofer resonance near 700 Hz, and sensitivity of only 83.2 dB against a claimed 86 dB. It suits listeners wanting scale and bass in a standmount in a mid-sized room, with an amplifier of moderate-to-good power. List price is $1,049/pair; street prices near $800 have been reported but only the list price was confirmed in stock.

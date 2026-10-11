@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "65 Hz-23 kHz ±3 dB (room average response)"
 primary_measurement: asr-wilson-audio-tunetot
 measurement_count: 1
+image_url: "https://www.definitive.com/cdn/shop/files/TT4.png?v=1740435153"
 ---
+<!-- photo -->
+<img src="https://www.definitive.com/cdn/shop/files/TT4.png?v=1740435153" alt="Wilson Audio TuneTot" width="360">
+
+*Photo: [definitive.com](https://www.definitive.com/products/wilson-audio-tune-tot) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Wilson Audio TuneTot is an 8 Ω two-way standmount with a 1" silk-dome tweeter and a 5.75" paper-pulp woofer in a very dense, asymmetric composite cabinet with a rear slot port. ASR's Klippel data show a large port-tuned bass peak near 115 Hz, listening-window deviation of ±3.1 dB, low sensitivity (83.3 dB) and a preference score of only 1.9 (5.0 with sub). Distortion is low and the impedance is easy for amplifiers. Priced at roughly $10-13.5k per pair, it is the clear outlier for value; it suits buyers who want Wilson build and finish and will plug the port or EQ.

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "40 Hz-65 kHz (-10 dB), -100 kHz (-30 dB)"
 primary_measurement: eac-yamaha-ns-800a
 measurement_count: 2
+image_url: "https://usa.yamaha.com/files/NS800A_OGP_606c8c29594331ed2399e2bbe33a3230.png"
 ---
+<!-- photo -->
+<img src="https://usa.yamaha.com/files/NS800A_OGP_606c8c29594331ed2399e2bbe33a3230.png" alt="Yamaha NS-800A" width="360">
+
+*Photo: [usa.yamaha.com](https://usa.yamaha.com/products/audio_visual/speaker_systems/ns-800a/specs.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Yamaha NS-800A is a 6 Ω, 2-way, 6.5" bass-reflex standmount (1.25" dome) priced around $5,000 per pair list, with discounted listings lower. On Erin's Klippel it measures well: listening window ±2.2 dB, very wide smooth directivity (141° horizontal) and low distortion, but bass extension is modest (f3 57 Hz, 40 Hz at -6 dB) and sensitivity is below the 86.5 dB claim. Impedance dips to about 4.3 Ω with a 2.1 Ω EPDR, so it wants a stable amplifier. Suits listeners wanting a wide-dispersion, beautifully finished speaker who can accept the price; value is the obvious question.

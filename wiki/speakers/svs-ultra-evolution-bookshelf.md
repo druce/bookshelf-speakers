@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "40 Hz-40 kHz (+/-3 dB)"
 primary_measurement: stereophile-svs-ultra-evolution-bookshelf
 measurement_count: 1
+image_url: "https://www.svsound.com/cdn/shop/files/ultra-evolution-bookshelf-pair-black_gloss.png?v=1709564112"
 ---
+<!-- photo -->
+<img src="https://www.svsound.com/cdn/shop/files/ultra-evolution-bookshelf-pair-black_gloss.png?v=1709564112" alt="SVS Ultra Evolution Bookshelf" width="360">
+
+*Photo: [svsound.com](https://svsound.com/products/ultra-evolution-bookshelf) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The SVS Ultra Evolution Bookshelf is a 6 ohm rated, rear-ported two-way standmount with a 1" diamond-coated aluminium dome, a 6.5" glass-fibre woofer and a sloped, time-aligned cabinet, at about $1,200 per pair. Its only Tier-B measurement (Stereophile, Temme) shows sensitivity matching the 87 dB claim, a response within +/-3 dB from 40 Hz, low distortion at 90 dB, and an impedance minimum of 3.7 ohm. There is no spinorama; directivity is described only as broad with lobing at 3-7 kHz. Critics agree it has unusually good bass for its size. Suits listeners wanting scale from a small speaker who can feed a 4 ohm-capable amplifier.

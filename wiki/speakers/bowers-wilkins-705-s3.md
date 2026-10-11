@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "45 Hz-33 kHz (-6 dB); 50 Hz-28 kHz ±3 dB"
 primary_measurement: stereophile-bowers-wilkins-705-s3
 measurement_count: 1
+image_url: "https://www.bowerswilkins.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dwafd635a0/bowers/PDP/705-S3/705-S3-Black/705-S3-Black_Image_1.png"
 ---
+<!-- photo -->
+<img src="https://www.bowerswilkins.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dwafd635a0/bowers/PDP/705-S3/705-S3-Black/705-S3-Black_Image_1.png" alt="Bowers & Wilkins 705 S3" width="360">
+
+*Photo: [bowerswilkins.com](https://www.bowerswilkins.com/en-us/product/loudspeakers/700-series/705-s3/300522.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The B&W 705 S3 is an 8 Ω, rear-ported two-way standmount with a 6.5" Continuum woofer and a carbon dome in a solid aluminium tweeter-on-top pod, priced at $3,800 per pair. Its only Tier-B data is Stereophile's MLSSA measurements: sensitivity about 88.9 dB, a shallow crossover near 3 kHz and a tweeter output rising about 10 dB to a peak at 10 kHz, plus a punishing EPDR down to 1.9 Ω. No Klippel spinorama exists, so flatness, f3 and directivity figures are null. It suits listeners with a large-current amplifier who like a bright, airy, high-resolution presentation.

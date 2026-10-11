@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "42 Hz-28 kHz ±3 dB; 34 Hz-35 kHz"
 primary_measurement: soundstage-bowers-wilkins-805-d4
 measurement_count: 2
+image_url: "https://www.bowerswilkins.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw2af81d02/bowers/PDP/805-D4/805-D4-White/805-D4-White_Image_1.png"
 ---
+<!-- photo -->
+<img src="https://www.bowerswilkins.com/on/demandware.static/-/Sites-master-catalog-soundunited/default/dw2af81d02/bowers/PDP/805-D4/805-D4-White/805-D4-White_Image_1.png" alt="Bowers & Wilkins 805 D4" width="360">
+
+*Photo: [bowerswilkins.com](https://www.bowerswilkins.com/en-us/product/loudspeakers/805-d4/150241.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The 805 D4 is the 800 Series Diamond standmount: an 8 Ω-rated, two-way, front-ported cabinet with a 1" diamond dome in a tube above a 6.5" Continuum woofer, 440 mm tall and 15.6 kg each. NRC anechoic data show a dished listening window with a broad treble peak near 9-10 kHz and sensitivity of 84.4 dB; Hi-Fi News agrees on the shape and finds good bass extension (f6 39 Hz) with low distortion. Impedance bottoms near 4.3-4.7 Ω, so it is not a true 8 Ω load. It suits small-to-medium rooms and listeners who value resolution and imaging and can tolerate a bright-leaning balance. No Klippel spinorama is available.

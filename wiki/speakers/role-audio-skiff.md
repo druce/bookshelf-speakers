@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "90 Hz-20 kHz (maker page); 125 Hz-20 kHz (-6 dB) per ASR/Bound for Sound"
 primary_measurement: asr-role-audio-skiff
 measurement_count: 1
+image_url: "https://role-loudspeakers.com/images/skiff/skiff-nat-birch-duo.jpg"
 ---
+<!-- photo -->
+<img src="https://role-loudspeakers.com/images/skiff/skiff-nat-birch-duo.jpg" alt="Role Audio Skiff" width="360">
+
+*Photo: [role-loudspeakers.com](https://role-loudspeakers.com/skiff) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Role Audio Skiff is a 6x4x5 in sealed micro speaker with a single 3.5" full-range driver and no crossover, rated 8 Ω and sold direct at $495 per pair. It is a desktop monitor rather than a conventional bookshelf speaker, kept in scope under the desktop-monitor rule. ASR's Klippel test found at least four driver resonances, listening-window deviation of ±3.9 dB, f3 about 143 Hz, sensitivity 80.6 dB versus 88 dB claimed, and distortion before 86 dB, and did not recommend it. Older critic reviews like its midrange coherence and imaging when used near-field with a subwoofer.

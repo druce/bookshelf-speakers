@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "±2 dB 69 Hz-23 kHz on-axis; 41 Hz (DIN)"
 primary_measurement: eac-paradigm-founder-40b
 measurement_count: 2
+image_url: "https://www.paradigm.com/3592-large_default/founder-40b.jpg"
 ---
+<!-- photo -->
+<img src="https://www.paradigm.com/3592-large_default/founder-40b.jpg" alt="Paradigm Founder 40B" width="360">
+
+*Photo: [paradigm.com](https://www.paradigm.com/en/passive/founder-40b) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Paradigm Founder 40B is a 2-way ported standmount with a 6" AL-MAG woofer and a 1" ceramic-coated dome in a large waveguide, priced at $1,199.99 each ($2,399.98 per pair). Paradigm rates it "compatible with 8 ohms" ([mfr-paradigm-founder-40b](../sources/mfr-paradigm-founder-40b.md)), but Erin measured a 3.5 Ω minimum with a 1.8 Ω EPDR, so it is flagged `effectively-4ohm`. Klippel data show wide, constant directivity, an upward-tilting on-axis treble and modest bass (f3 about 70 Hz), with low distortion and little compression. It suits small-to-medium rooms with a sub and an amplifier comfortable at 4 Ω.

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "45-25,000 Hz -6 dB (maker)"
 primary_measurement: napilopez-amphion-argon1
 measurement_count: 1
+image_url: "https://amphionspeakers.com/cdn/shop/files/argon_1_fullwhite_pr_w_01.jpg?v=1734111293"
 ---
+<!-- photo -->
+<img src="https://amphionspeakers.com/cdn/shop/files/argon_1_fullwhite_pr_w_01.jpg?v=1734111293" alt="Amphion Argon1" width="360">
+
+*Photo: [amphionspeakers.com](https://amphionspeakers.com/products/amphion-argon1) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Amphion Argon1 is an 8 Ω, two-way, ported Finnish standmount with a 1" titanium tweeter in a large waveguide and a 5.25" aluminium woofer, crossed at a low 1.6 kHz. Its only measurement is a hobbyist quasi-anechoic spinorama (Tier B) showing wide, tidy horizontal directivity, rising on-axis treble and some 400-900 Hz messiness, with a preference score of 4.8 (7.0 with sub). Pricing is high for the class ($1,919 at Amphion US, up to $2,498 elsewhere). No distortion, impedance or sensitivity measurements were found, so amplifier and output guidance rests on maker claims.

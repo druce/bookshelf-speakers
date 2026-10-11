@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "36 Hz-30 kHz ±3 dB (maker, as summarised by a search result)"
 primary_measurement: eac-buchardt-audio-e50
 measurement_count: 1
+image_url: "https://buchardtaudio.com/cdn/shop/files/2I9A0172_98e22577-60e0-479b-80a5-888773606f41.jpg?v=1773300764"
 ---
+<!-- photo -->
+<img src="https://buchardtaudio.com/cdn/shop/files/2I9A0172_98e22577-60e0-479b-80a5-888773606f41.jpg?v=1773300764" alt="Buchardt Audio E50" width="360">
+
+*Photo: [buchardtaudio.com](https://buchardtaudio.com/products/e50) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The E50 is Buchardt's Danish-built, direct-sale flagship standmount: a 6.5" Purifi woofer, a Scan-Speak-based 1" textile dome in a CNC waveguide, two 6" passive radiators and a first-order woofer crossover at 2 kHz. Erin's Audio Corner's Klippel data show good flatness (listening window ±1.9 dB), a minor DI discontinuity, f3 of 42 Hz and wide dispersion, but low sensitivity of about 83 dB. Preference score is 5.84 (7.61 with subwoofer). The maker lists "4/6 ohms" and says it qualifies as 6 Ω, so it is in scope as 6 Ω, but no measured impedance is available. It suits small-to-mid rooms and amplifiers with real power. Price is EUR 4,100 from the maker; the USD figure is a reviewer-reported approximation.

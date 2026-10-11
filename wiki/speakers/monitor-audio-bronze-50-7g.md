@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "41 Hz-30 kHz (no tolerance stated)"
 primary_measurement: hifinews-monitor-audio-bronze-50-7g
 measurement_count: 1
+image_url: "https://www.worldwidestereo.com/cdn/shop/files/MonitorAudio-Bronze-50-7G-Bookshelf-Speakers-Pair-Black-Image-01.jpg?v=1790002691"
 ---
+<!-- photo -->
+<img src="https://www.worldwidestereo.com/cdn/shop/files/MonitorAudio-Bronze-50-7G-Bookshelf-Speakers-Pair-Black-Image-01.jpg?v=1790002691" alt="Monitor Audio Bronze 50 7G" width="360">
+
+*Photo: [worldwidestereo.com](https://www.worldwidestereo.com/products/monitor-audio-bronze-50-7g-bookshelf-speakers-pair-black) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Bronze 50 7G is Monitor Audio's entry two-way standmount: a 6" C-CAM woofer, 1" gold C-CAM dome on a UD II waveguide, rear HiVe II port and a 3 kHz crossover, listed at $849 per pair. Its only Tier-B data (Hi-Fi News) show a flat forward response, sensitivity above spec and a tougher-than-rated load (4.18 Ω minimum, EPDR 2.05 Ω). No Klippel/spinorama data exists that I could find, so directivity, f3 and listening-window figures are unrecorded. Press reviews are strongly positive (What Hi-Fi? 5 stars). Needs an amplifier comfortable with a 4 Ω-class load.

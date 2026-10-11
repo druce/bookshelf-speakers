@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "41 Hz-22 kHz (no tolerance stated)"
 primary_measurement: hifiworld-cambridge-audio-sx-60
 measurement_count: 1
+image_url: "https://www.cambridgeaudio.com/sites/default/files/styles/image_3840_3_2/public/media/images/SX-60%2016x9.jpg.webp"
 ---
+<!-- photo -->
+<img src="https://www.cambridgeaudio.com/sites/default/files/styles/image_3840_3_2/public/media/images/SX-60%2016x9.jpg.webp" alt="Cambridge Audio SX-60" width="360">
+
+*Photo: [cambridgeaudio.com](https://www.cambridgeaudio.com/usa/en/products/speakers/sx/sx-60) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Cambridge Audio SX-60 is an entry-level two-way standmount (6.5" paper woofer, 1" silk dome, front port) rated 8 Ω by the maker. The only measurement found is a Tier B Hi-Fi World lab sheet: smooth tweeter, modest 86.6 dB sensitivity (maker claims 89 dB), and a bass section that peaks near 100 Hz and rolls off. There is no Klippel or spinorama data, so directivity and listening-window flatness are unknown. Critics find it lively and forward at the price. Suits small rooms and budget systems; evidence is thin.

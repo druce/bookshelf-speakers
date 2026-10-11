@@ -185,7 +185,7 @@ Key: nominal impedance, listening-window deviation, anechoic f3, sensitivity, Ol
 - [soundstage-nrc](reviewers/soundstage-nrc.md) — SoundStage! via NRC anechoic chamber, Tier A
 - [stereophile](reviewers/stereophile.md) — Stereophile: gated quasi-anechoic with EPDR commentary, Tier B
 
-## Sources (398)
+## Sources (410)
 - [7review-bowers-wilkins-705-s3-signature](sources/7review-bowers-wilkins-705-s3-signature.md) — 7Review — Bowers & Wilkins 705 S3 Signature Review (7Review), 2024-09-05 (Tier D)
 - [archimago-fluance-reference-xl8s](sources/archimago-fluance-reference-xl8s.md) — Archimago's Musings — MEASUREMENTS: Fluance Reference XL8S Bookshelf speaker, 2020-11-29 (Tier B)
 - [archimago-sony-ss-cs5m2](sources/archimago-sony-ss-cs5m2.md) — Archimago's Musings — Sony SS-CS5(M1) and Sony SS-CS5M2 bookshelf speakers - measurements, comparisons, and review, 2025-11-08 (Tier B)
@@ -244,6 +244,18 @@ Key: nominal impedance, listening-window deviation, anechoic f3, sensitivity, Ol
 - [avmentor-atc-scm19](sources/avmentor-atc-scm19.md) — AVMENTOR.net — ATC SCM19 Lab Evaluation, 2016 (Tier B)
 - [avnirvana-hsu-research-ccb-8](sources/avnirvana-hsu-research-ccb-8.md) — AV Nirvana — HSU Research CCB-8 Bookshelf Speaker Review, 2017-07-27 (Tier D)
 - [boundforsound-role-audio-skiff](sources/boundforsound-role-audio-skiff.md) — Bound for Sound (issue 154; no longer online, reproduced on the maker's site) — Bound for Sound review of the Role Audio Skiff (hosted by Role Audio) (Tier D)
+- [crutchfield-elac-debut-2-0-b5-2](sources/crutchfield-elac-debut-2-0-b5-2.md) — Crutchfield — Crutchfield customer reviews — ELAC Debut 2.0 B5.2, 2018-07-06 to 2026-09-23 (Tier E)
+- [crutchfield-elac-debut-2-0-b6-2](sources/crutchfield-elac-debut-2-0-b6-2.md) — Crutchfield — Crutchfield customer reviews — ELAC Debut 2.0 B6.2, 2018-04-24 to 2026-10-04 (Tier E)
+- [crutchfield-elac-debut-reference-dbr-62](sources/crutchfield-elac-debut-reference-dbr-62.md) — Crutchfield — Crutchfield customer reviews — ELAC Debut Reference DBR62, 2020-03-23 to 2026-07-06 (Tier E)
+- [crutchfield-elac-uni-fi-reference-ubr62](sources/crutchfield-elac-uni-fi-reference-ubr62.md) — Crutchfield — Crutchfield customer reviews — ELAC Uni-Fi Reference UBR62, 2021-08-16 to 2026-09-03 (Tier E)
+- [crutchfield-kef-ls50-meta](sources/crutchfield-kef-ls50-meta.md) — Crutchfield — Crutchfield customer reviews — KEF LS50 Meta, 2020-10-06 to 2026-07-29 (Tier E)
+- [crutchfield-klipsch-rp-500m-ii](sources/crutchfield-klipsch-rp-500m-ii.md) — Crutchfield — Crutchfield customer reviews — Klipsch Reference Premiere RP-500M II, 2022-10-01 to 2026-09-15 (Tier E)
+- [crutchfield-klipsch-rp-600m-ii](sources/crutchfield-klipsch-rp-600m-ii.md) — Crutchfield — Crutchfield customer reviews — Klipsch Reference Premiere RP-600M II, 2022-05-31 to 2026-09-30 (Tier E)
+- [crutchfield-polk-audio-reserve-r100](sources/crutchfield-polk-audio-reserve-r100.md) — Crutchfield — Crutchfield customer reviews — Polk Audio Reserve R100, 2021-06-14 to 2026-01-14 (Tier E)
+- [crutchfield-polk-audio-reserve-r200](sources/crutchfield-polk-audio-reserve-r200.md) — Crutchfield — Crutchfield customer reviews — Polk Audio Reserve R200, 2021-04-30 to 2026-09-21 (Tier E)
+- [crutchfield-polk-audio-xt15](sources/crutchfield-polk-audio-xt15.md) — Crutchfield — Crutchfield customer reviews — Polk Audio Monitor XT15, 2021-12-09 to 2026-09-18 (Tier E)
+- [crutchfield-polk-audio-xt20](sources/crutchfield-polk-audio-xt20.md) — Crutchfield — Crutchfield customer reviews — Polk Audio Monitor XT20, 2021-12-12 to 2026-08-20 (Tier E)
+- [crutchfield-svs-prime-bookshelf](sources/crutchfield-svs-prime-bookshelf.md) — Crutchfield — Crutchfield customer reviews — SVS Prime Bookshelf, 2018-11-19 to 2026-04-21 (Tier E)
 - [darksidevinyl-polk-audio-reserve-r100](sources/darksidevinyl-polk-audio-reserve-r100.md) — Darkside Vinyl — Polk Audio Reserve R100 Bookshelf Speaker Review (Tier D)
 - [eac-acoustic-energy-ae100-mk2](sources/eac-acoustic-energy-ae100-mk2.md) — Erin's Audio Corner — Acoustic Energy AE100 Mk2 Speaker Review, 2023-11-29 (Tier A)
 - [eac-aperion-audio-verus-iii-concert-v8b](sources/eac-aperion-audio-verus-iii-concert-v8b.md) — Erin's Audio Corner — Aperion Audio Verus V8B 2-Way Bookshelf Speaker Review, 2023-06-19 (Tier A)

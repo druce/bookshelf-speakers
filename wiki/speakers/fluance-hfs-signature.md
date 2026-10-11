@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "60 Hz - 20 kHz (no tolerance)"
 primary_measurement: asr-fluance-hfs-signature
 measurement_count: 1
+image_url: "https://www.fluance.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/h/f/hfs-bk-main_1.jpg"
 ---
+<!-- photo -->
+<img src="https://www.fluance.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/h/f/hfs-bk-main_1.jpg" alt="Fluance HFS Signature" width="360">
+
+*Photo: [fluance.com](https://www.fluance.com/signature-series-hifi-two-way-bookshelf-surround-sound-speakers) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Fluance Signature HFS is a $200-per-pair, 5" two-way with a 1" silk dome and dual front ports, rated "8 ohm compatible". On ASR's Klippel it measures poorly: listening window ±4.5 dB, a midrange hole with a port resonance, early-reflection dip above 3 dB, and bass only to 74 Hz (f3). Impedance falls to about 3.7 Ω, so it behaves as a 4 Ω speaker. It suits only a tight budget with a sub and EQ; better-measuring options exist at similar prices.

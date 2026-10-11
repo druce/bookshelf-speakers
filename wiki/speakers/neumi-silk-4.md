@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "65 Hz-20 kHz (typical in-room), no tolerance"
 primary_measurement: eac-neumi-silk-4
 measurement_count: 1
+image_url: "https://www.neumitech.com/wp-content/uploads/2024/04/neumi-silk4-main-neumitech.jpg"
 ---
+<!-- photo -->
+<img src="https://www.neumitech.com/wp-content/uploads/2024/04/neumi-silk4-main-neumitech.jpg" alt="Neumi Silk 4" width="360">
+
+*Photo: [neumitech.com](https://www.neumitech.com/neumi-silk-4-bookshelf-speakers/) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Neumi Silk 4 is an 8 Ω-rated, rear-ported 4" two-way with a 1" silk dome and waveguide, priced around $190-200 per pair. On Erin's Klippel it has a good listening window (±2.4 dB), minor directivity irregularity, f3 73 Hz and low sensitivity (82.2 dB). Its real impedance sits near 6 Ω, with a low 2.9 Ω EPDR, so it is not truly 8 Ω. Suits desks and small rooms, ideally with a subwoofer or EQ.

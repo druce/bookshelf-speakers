@@ -32,13 +32,19 @@ port: rear
 dimensions_mm: 335x203x239
 weight_kg: 7.0
 critic_consensus: Enthusiast and system reviews found it detailed, well imaged and easy to drive, with a hint of treble emphasis and limited bass below about 48 Hz; Erin found the midrange forward.
-user_consensus: null
-sources: [eac-svs-prime-bookshelf, mfr-svs-prime-bookshelf, pooraudiophile-svs-prime-bookshelf, soundstageaccess-svs-prime-bookshelf, users-svs-prime-bookshelf, spinorama-org]
+user_consensus: "Crutchfield (n=36, 97% 5★, brand-loyal sample): praised clarity and bass for the size; 4 advise a sub; no failures reported."
+sources: [eac-svs-prime-bookshelf, mfr-svs-prime-bookshelf, pooraudiophile-svs-prime-bookshelf, soundstageaccess-svs-prime-bookshelf, users-svs-prime-bookshelf, spinorama-org, crutchfield-svs-prime-bookshelf]
 last_updated: 2026-10-11
 claimed_fr: "48 Hz-25 kHz (+/-3 dB)"
 primary_measurement: eac-svs-prime-bookshelf
 measurement_count: 1
+image_url: "https://www.svsound.com/cdn/shop/files/prime-bookshelf-ba.png?v=1700854540"
 ---
+<!-- photo -->
+<img src="https://www.svsound.com/cdn/shop/files/prime-bookshelf-ba.png?v=1700854540" alt="SVS Prime Bookshelf" width="360">
+
+*Photo: [svsound.com](https://www.svsound.com/products/prime-bookshelf) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The SVS Prime Bookshelf is an 8 ohm, ported two-way standmount with a 6.5" woofer and 1" aluminium dome, sold direct and via dealers at about $699 per pair. On Erin's Klippel it shows a good listening window (+/-2.3 dB) and wide directivity, but a forward 1-2 kHz midrange, bright on-axis treble and a measured f3 of 70 Hz, well above the 48 Hz claim. Its impedance falls to 3.9 ohm (flag: `effectively-4ohm`), so the 8 ohm label is optimistic. Suits someone wanting a well-built, wide-dispersion speaker with a sub or EQ.
@@ -72,12 +78,15 @@ Erin's THD is about 0.7% at 86 dB and about 1.3% at 96 dB across 100 Hz-10 kHz (
 - [eac-svs-prime-bookshelf](../sources/eac-svs-prime-bookshelf.md) (Erin's Audio Corner, Tier D notes): forward midrange and bright treble on-axis; good build and finish.
 
 ## User reviews
-No independent user reports ingested ([users-svs-prime-bookshelf](../sources/users-svs-prime-bookshelf.md)): only a maker-hosted 4.9/5 over 175 reviews, with some noting treble bright at first. No QC problems seen.
+Crutchfield ([crutchfield-svs-prime-bookshelf](../sources/crutchfield-svs-prime-bookshelf.md); 36 reviews, 35 five-star, hand-tallied; likely brand-loyal sample, six own SVS subs): 15 of 36 praise clear, accurate sound; 8 of 36 say bass is good for the size, 4 of 36 light or sub advised; 3 of 36 praise the off-axis response, in line with the measured 144 degree beamwidth. Earlier: only a maker-hosted 4.9/5 over 175 reviews ([users-svs-prime-bookshelf](../sources/users-svs-prime-bookshelf.md)).
+
+QC/reliability: no defects or failures in 36 reviews.
 
 ## Conflicts
 - Bass extension: maker claims 48 Hz (+/-3 dB) vs measured f3 of 70 Hz (Tier A anechoic); delta 22 Hz. Maker method unstated; measured value used.
 - Impedance: 8 ohm nominal vs 3.9 ohm minimum (about 39% below the 6.4 ohm IEC floor).
 - Sensitivity: 87 dB claimed vs 86.6 dB computed; within 1 dB.
+- Bass: 8 of 36 Crutchfield reviewers call bass good or tight for the size, versus measured f3 70 Hz against the 48 Hz claim; 4 of 36 advise a sub.
 
 ## Related
 [SVS](../brands/svs.md) · [SVS Ultra Evolution Bookshelf](svs-ultra-evolution-bookshelf.md) · [erins-audio-corner](../reviewers/erins-audio-corner.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [compression-and-max-spl](../concepts/compression-and-max-spl.md)

@@ -38,7 +38,13 @@ last_updated: 2026-10-11
 claimed_fr: "54 Hz-44 kHz (-6 dB)"
 primary_measurement: eac-revel-m126be
 measurement_count: 3
+image_url: "https://www.revelspeakers.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw988ac287/Revel-Performa-M126Be_WA_Pair_RT-1605x1605px.png"
 ---
+<!-- photo -->
+<img src="https://www.revelspeakers.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw988ac287/Revel-Performa-M126Be_WA_Pair_RT-1605x1605px.png" alt="Revel M126Be" width="360">
+
+*Photo: [revelspeakers.com](https://www.revelspeakers.com/products/in-room-loudspeakers/M126BE-.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The Revel Performa M126Be is an 8 Ω nominal two-way, 6.5" ported standmount with a 1" beryllium dome on an acoustic-lens waveguide and a 1.7 kHz crossover. On Erin's Klippel it measures very well (listening window ±1.1 dB, wide and fairly smooth directivity), with a deliberate bass shelf and f6 near 50 Hz. Its impedance dips to about 4.9 Ω, below the IEC 80% floor for an 8 Ω rating, but the phase is mild. Suits buyers wanting a Harman-style neutral, wide-dispersion monitor and willing to pay about $4,400 per pair; a sub is needed below about 50 Hz.

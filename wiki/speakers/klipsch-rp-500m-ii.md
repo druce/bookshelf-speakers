@@ -32,13 +32,19 @@ port: rear
 dimensions_mm: 344x173x270
 weight_kg: 5.95
 critic_consensus: Erin's Audio Corner finds it clearer than the first-generation RP-500M but with a lifted 10-15 kHz peak and modest bass; no other professional review found.
-user_consensus: null
-sources: [eac-klipsch-rp-500m-ii, mfr-klipsch-rp-500m-ii, users-klipsch-rp-500m-ii, spinorama-org]
+user_consensus: "Crutchfield (n=82, 88% 5★): praised clear, lively sound; 3 find it bright or edgy, 4 bass light; no failures reported."
+sources: [eac-klipsch-rp-500m-ii, mfr-klipsch-rp-500m-ii, users-klipsch-rp-500m-ii, spinorama-org, crutchfield-klipsch-rp-500m-ii]
 last_updated: 2026-10-11
 claimed_fr: "50 Hz-25 kHz ±3 dB (claimed)"
 primary_measurement: eac-klipsch-rp-500m-ii
 measurement_count: 1
+image_url: "https://images.crutchfieldonline.com/ImageHandler/trim/869/652/products/2026/10/714/g714500M2E-o_other1.jpg"
 ---
+<!-- photo -->
+<img src="https://images.crutchfieldonline.com/ImageHandler/trim/869/652/products/2026/10/714/g714500M2E-o_other1.jpg" alt="Klipsch RP-500M II" width="360">
+
+*Photo: [images.crutchfieldonline.com](https://www.crutchfield.com/p_714500M2E/Klipsch-Reference-Premiere-RP-500M-II-Ebony.html) product image, linked rather than hosted here; checked 2026-10-11.*
+<!-- /photo -->
 
 ## Summary
 The RP-500M II is a horn-loaded two-way standmount with a 1" titanium dome tweeter on a 90°x90° Tractrix horn and a 5.25" ported woofer, rated "8 Ω compatible". Erin's Audio Corner's Klippel data show a fairly smooth listening window (±1.9 dB, good) with a lifted top octave, bass that is modest (f3 66 Hz) and a real sensitivity near 85 dB rather than the claimed 92 dB. Impedance drops to about 3.3 Ω, so it behaves as a 4 Ω speaker despite the rating. It suits moderate-level listening in small to medium rooms with a capable amplifier, at about $400 per pair.
@@ -72,7 +78,9 @@ Rated "8 Ω compatible" but measured minimum 3.3 Ω around 200 Hz (below 4 Ω, f
 - No other professional review found (searches for Audioholics, What Hi-Fi?, Stereophile, S&V, Hi-Fi News found none for this model).
 
 ## User reviews
-No individual user reports could be read ([users-klipsch-rp-500m-ii](../sources/users-klipsch-rp-500m-ii.md)). Only a maker-site aggregate (4.9 from 44 reviews) was verified; this is not evidence of a pattern. No QC reports seen.
+Crutchfield ([crutchfield-klipsch-rp-500m-ii](../sources/crutchfield-klipsch-rp-500m-ii.md); 82 reviews, 72 five-star, hand-tallied): about 23 of 82 praise a clear, lively presentation; 3 of 82 find it bright or edgy (2 of 82 engaging without fatigue); 4 of 82 say bass is light, 5 of 82 good for the size; 3 of 82 call it easy to drive, 2 of 82 recommend a strong amp. The bright reports agree with Erin's lifted 10-15 kHz region. Earlier, only a maker-site aggregate (4.9 from 44) was verified ([users-klipsch-rp-500m-ii](../sources/users-klipsch-rp-500m-ii.md)).
+
+QC/reliability: no defects or failures in 82 reviews.
 
 ## Conflicts
 - Sensitivity: claimed 92 dB vs measured 84.8 dB, a 7.2 dB delta; Klipsch rates in-room, half-space.
@@ -80,6 +88,7 @@ No individual user reports could be read ([users-klipsch-rp-500m-ii](../sources/
 - Impedance: rated "8 Ω compatible" vs measured 3.3 Ω minimum.
 - EAC page filenames label plots "RP-500M I" while the page is RP-500M II; treated as a labelling slip.
 - Status: Klipsch lists it as current; first-generation RP-500M is not listed and is treated as discontinued.
+- Drive difficulty: 3 of 82 Crutchfield reviewers call it easy to drive or efficient, versus measured 84.8 dB sensitivity and 3.3 Ω minimum; 1 reviewer judged loudness similar to an 89 dB-rated Polk and suspected the 92 dB rating is high, which matches the measurement.
 
 ## Related
 [Klipsch](../brands/klipsch.md) · [Klipsch RP-600M II](klipsch-rp-600m-ii.md) · Klipsch R-50M · Klipsch R-40M · [spinorama](../concepts/spinorama.md) · [preference-score](../concepts/preference-score.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md)
