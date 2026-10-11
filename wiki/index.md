@@ -163,7 +163,7 @@ Key: nominal impedance, listening-window deviation, anechoic f3, sensitivity, Ol
 - [Zu Audio](brands/zu-audio.md) — One high-efficiency coaxial standmount measuring 90.1 dB but with 4.7 dB listening-window deviation and weak preference score.
 
 ## Comparisons (7)
-- [candidate-universe](comparisons/candidate-universe.md) — Discover output — 445 models screened, 158 in scope, 91 with Tier A/B data
+- [candidate-universe](comparisons/candidate-universe.md) — Discover output — 449 models screened, 162 in scope, 91 with Tier A/B data
 - [impedance-honesty](comparisons/impedance-honesty.md) — 67 of 84 measured speakers fall below the IEC floor for their rating; 30 are effectively 4 Ω loads
 - [ranked-by-price-band](comparisons/ranked-by-price-band.md) — 66 current speakers with preference scores, grouped by price band; Group A = within 0.5 of band leader
 - [ranked-on-wall](comparisons/ranked-on-wall.md) — 2 current on-wall speakers with Tier A/B data, ranked separately from bookshelf speakers

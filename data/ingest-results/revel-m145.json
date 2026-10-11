@@ -1,0 +1,51 @@
+{
+ "slug": "revel-m145",
+ "brand": "Revel",
+ "model": "Performa4 M145",
+ "brand_slug": "revel",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 6 ohm nominal, 5.25 in 2-way rear-ported standmount, 294 mm tall, current on Revel US site) but no Tier A/B measurement exists yet. Revel Performa4 series launched at AXPONA 2026 (April). spinorama.org (pierreaubert/spinorama datas/measurements) has no M145/M146 directory as of 2026-10-11; searches of ASR, Erin's Audio Corner, Audioholics, SoundStage/NRC, Stereophile and Hi-Fi News found no measurement review. Audioholics has only a non-measured series overview (audioholics.com/tower-speaker-reviews/revel-performa4). Revel's product page links no spinorama/NRC graphs.",
+ "successor": null,
+ "replaces": "revel-m105",
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 2000,
+ "price_source": "https://www.audioadvice.com/products/revel-performa4-m145-bookshelf-loudspeaker-pair ($1,999.95/pair; Revel AXPONA release $1,999/pair)",
+ "tier_ab_available": false,
+ "claimed_specs": {
+  "sensitivity_db_2v83": 85.0,
+  "nominal_impedance_ohm": 6,
+  "min_impedance_claim": null,
+  "frequency_response": "54 Hz-40 kHz (±6 dB)",
+  "crossover_hz": 1800,
+  "woofer_in": 5.25,
+  "woofer": "5.25 in (130 mm) Micro Ceramic Composite (MCC) cone, inverted surround, cast frame",
+  "tweeter": "1 in (25 mm) Deep Ceramic Composite (DCC) dome in 7th-gen Acoustic Lens waveguide",
+  "port": "rear",
+  "recommended_amp_w": "15-150",
+  "dimensions_mm": "294x200x245",
+  "weight_kg": 6.8
+ },
+ "predecessor_specs": {
+  "slug": "revel-m105",
+  "nominal_impedance_ohm": 8,
+  "sensitivity_claimed_db": 86.0,
+  "woofer_in": 5.25,
+  "crossover_hz": 2300,
+  "dimensions_mm": "356x200x248",
+  "weight_kg": 7.0,
+  "price_usd_pair": 1650
+ },
+ "raw_saved": [
+  "raw/manufacturer/mfr-revel-m145.md",
+  "raw/manufacturer/mfr-revel-m145-audioadvice.md"
+ ],
+ "evidence": [
+  "https://www.revelspeakers.com/products/series/series-performa4/M145.html",
+  "https://www.audioadvice.com/products/revel-performa4-m145-bookshelf-loudspeaker-pair",
+  "https://www.revelspeakers.com/news-reviews/news/axpona-2026-performa4.html",
+  "https://www.crutchfield.com/p_265M145WA/Revel-Performa4-M145-Walnut.html",
+  "https://www.audioholics.com/tower-speaker-reviews/revel-performa4"
+ ],
+ "notes": "Name confirmed as Revel Performa4 M145 (product page title 'M145', SKU REVP4M145BLK). Nominal rating drops from 8 ohm (M105) to 6 ohm. Audio Advice page showed 'Unavailable' at fetch time (likely stock/JS); Crutchfield and Sweetwater list it but blocked scripted fetch. Revel sells by the pair."
+}

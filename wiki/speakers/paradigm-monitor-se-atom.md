@@ -35,7 +35,7 @@ pref_score_sub: 6.5
 woofer_in: 5.5
 tweeter_type: dome
 port: rear
-wall_mount: null
+wall_mount: "none"
 dimensions_mm: 324x181x279
 weight_kg: 5.4
 critic_consensus: Praised by SoundStage! and TONEAudio for balance, wide dispersion and value; ASR measures an uneven, bright on-axis response that needs EQ, and bass is limited.

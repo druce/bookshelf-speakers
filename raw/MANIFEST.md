@@ -439,7 +439,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | users-wharfedale-super-denton-2026-10-11.md | User reports: Wharfedale Super Denton |  | 2026-10-11 |
 | users-xsa-labs-vanguard-2026-10-11.md | User/forum reactions: XSA Labs Vanguard |  | 2026-10-11 |
 
-## raw/manufacturer/ (347)
+## raw/manufacturer/ (356)
 
 | File | Title | URL | Fetched |
 |---|---|---|---|
@@ -618,7 +618,12 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | mfr-paradigm-millenia-lp-2.md | Paradigm Millenia LP 2 (manufacturer product page) | https://www.paradigm.com/en/lcr/millenia-lp-2 | 2026-10-11 |
 | mfr-paradigm-monitor-se-atom.md | Paradigm Monitor SE Atom (manufacturer page) | https://www.paradigm.com/en/passive/monitor-se-atom | 2026-10-11 |
 | mfr-paradigm-persona-b.md | Paradigm Persona B specifications | https://www.paradigm.com/en/passive/persona-b | 2026-10-11 |
+| mfr-paradigm-premier-100b-specs.md | Paradigm Premier 100B — specifications (paradigm.com, discontinued) | https://www.paradigm.com/en/passive/premier-100b | 2026-10-11 |
+| mfr-paradigm-premier-120b-v2-specs.md | Paradigm Premier 120B v2 — specifications (paradigm.com) | https://www.paradigm.com/en/bookshelf/premier-120b-v2 | 2026-10-11 |
+| mfr-paradigm-premier-120b-v2.md | Premier 120B v2 | https://www.paradigm.com/en/bookshelf/premier-120b-v2 | 2026-10-11 |
 | mfr-paradigm-premier-200b.md | Premier 200B | https://www.paradigm.com/en/passive/premier-200b | 2026-10-11 |
+| mfr-paradigm-premier-220b-v2-specs.md | Paradigm Premier 220B v2 — specifications (paradigm.com) | https://www.paradigm.com/en/bookshelf/premier-220b-v2 | 2026-10-11 |
+| mfr-paradigm-premier-220b-v2.md | Premier 220B v2 | https://www.paradigm.com/en/bookshelf/premier-220b-v2 | 2026-10-11 |
 | mfr-paradigm-prestige-15b.md | Paradigm Prestige 15B specifications | https://www.paradigm.com/en/passive/prestige-15b | 2026-10-11 |
 | mfr-perlisten-s4b.md | Perlisten S4b specifications (TMR Audio) | https://tmraudio.com/products/perlisten-s4b-bookshelf-speakers-pair | 2026-10-11 |
 | mfr-philharmonic-bmr.md | Philharmonic BMR Monitor specifications | https://philharmonicaudio.com/products/bmr-monitor | 2026-10-11 |
@@ -657,6 +662,10 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | mfr-revel-m105.md | M105 / 2-Way Bookshelf Monitor Loudspeaker | https://www.revelspeakers.com/products/types/bookshelf/M105-.html?dwvar_M105-_color=White-GLOBAL-Current | 2026-10-11 |
 | mfr-revel-m106.md | M106 / 2-Way Bookshelf Monitor Loudspeaker | https://www.revelspeakers.com/products/types/bookshelf/M106-.html | 2026-10-11 |
 | mfr-revel-m126be.md | Revel PerformaBe M126Be - Audio Advice retailer page (specs, price) | https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black | 2026-10-11 |
+| mfr-revel-m145-audioadvice.md | Revel Performa4 M145 Bookshelf Loudspeaker - Pair | https://www.audioadvice.com/products/revel-performa4-m145-bookshelf-loudspeaker-pair | 2026-10-11 |
+| mfr-revel-m145.md | M145 / 2-Way 5.25-Inch (130mm) Bookshelf Loudspeaker | https://www.revelspeakers.com/products/series/series-performa4/M145.html | 2026-10-11 |
+| mfr-revel-m146-audioadvice.md | Revel Performa4 M146 Bookshelf Loudspeaker - Pair | https://www.audioadvice.com/products/revel-performa4-m146-bookshelf-loudspeaker-pair | 2026-10-11 |
+| mfr-revel-m146.md | M146 / 2-Way 6.5-Inch (165mm) Bookshelf Loudspeaker | https://www.revelspeakers.com/products/series/series-performa4/M146.html | 2026-10-11 |
 | mfr-revel-m16-pdp.md | M16 / 2-way 6.5" Bookshelf Loudspeaker | https://www.revelspeakers.com/bookshelf/M16-.html?dwvar_M16-_color=Black-USA-Current&cgid=bookshelf | 2026-10-11 |
 | mfr-revel-m16.md | Bookshelf Speakers | https://www.revelspeakers.com/bookshelf/ | 2026-10-11 |
 | mfr-role-audio-skiff.md | The Skiff | https://role-loudspeakers.com/skiff | 2026-10-11 |

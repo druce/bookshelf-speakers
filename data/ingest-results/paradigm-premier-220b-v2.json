@@ -1,0 +1,59 @@
+{
+ "slug": "paradigm-premier-220b-v2",
+ "brand": "Paradigm",
+ "model": "Premier 220B v2",
+ "brand_slug": "paradigm",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 8 ohm, 6 in 2-way ported bookshelf, 371 mm tall, current with Add to Cart on paradigm.com US) but no Tier A/B measurement exists. Audioholics' 220B v2 review (2026) is subjective only (no measurement section). Paradigm Premier Series v2 launched at AXPONA 2026, shipping from June 2026. No spinorama.org dataset; no ASR, Erin's Audio Corner, SoundStage/NRC, Stereophile or Hi-Fi News measurements found. HomeTheaterHifi's Premier v2 system review measured only the 820F tower (close-mic, in-room). Paradigm's product page links no spinorama/NRC graphs (so no Tier C spin either).",
+ "successor": null,
+ "replaces": "paradigm-premier-200b",
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1100,
+ "price_source": "https://www.paradigm.com/en/bookshelf/premier-220b-v2 ($549.99 each x2; Audioholics and ecoustics quote $1,100/pair)",
+ "tier_ab_available": false,
+ "claimed_specs": {
+  "sensitivity_db_2v83": 88.0,
+  "sensitivity_note": "Paradigm states 88 dB anechoic / 91 dB room; reference voltage not stated (customarily 2.83 V); recorded as claimed",
+  "nominal_impedance_ohm": 8,
+  "impedance_note": "spec table '8 ohms'; Audioholics/ecoustics/HomeTheaterHifi quote 'compatible with 8 ohms'",
+  "min_impedance_claim": null,
+  "frequency_response": "±3 dB 58 Hz-23 kHz on-axis; ±3 dB 58 Hz-20 kHz 30° off-axis; LF extension 36 Hz (DIN)",
+  "crossover_hz": 1100,
+  "woofer_in": 6.0,
+  "woofer": "6 in (152 mm) AL-MAG cone, PPA lens, Gen3 ART surround",
+  "tweeter": "1 in (25 mm) AL-MAC ceramic dome, OSW waveguide + PPA lens",
+  "port": "ported (location not stated)",
+  "recommended_amp_w": "15-130",
+  "dimensions_mm": "371x211x328 (incl. grille)",
+  "weight_kg": 9.1
+ },
+ "predecessor_specs": {
+  "slug": "paradigm-premier-200b",
+  "nominal_impedance_ohm": 8,
+  "sensitivity_claimed_db": 87.0,
+  "woofer_in": 6.5,
+  "crossover_hz": 2000,
+  "frequency_response": "±3 dB 55 Hz-25 kHz; 45 Hz DIN",
+  "dimensions_mm": "335x198x321",
+  "weight_kg": 8.17,
+  "price_usd_pair": 1000,
+  "status": "discontinued per paradigm.com"
+ },
+ "raw_saved": [
+  "raw/manufacturer/mfr-paradigm-premier-220b-v2.md",
+  "raw/manufacturer/mfr-paradigm-premier-220b-v2-specs.md"
+ ],
+ "evidence": [
+  "https://www.paradigm.com/en/bookshelf/premier-220b-v2",
+  "https://www.audioholics.com/bookshelf-speaker-reviews/paradigmpremier220bv2",
+  "https://www.ecoustics.com/reviews/paradigm-premier-220b-v2/",
+  "https://www.audioadvice.com/products/paradigm-premier-220b-v2-bookshelf-speaker-each",
+  "https://www.crutchfield.com/p_819220V2WN/Reviews/Paradigm-Premier-220B-v2-Walnut.html"
+ ],
+ "tier_d_leads": [
+  "https://www.audioholics.com/bookshelf-speaker-reviews/paradigmpremier220bv2 (Audioholics listening review vs SVS Ultra Evolution and Fyne F500S; fetchable with urllib, WebFetch 403)",
+  "https://www.ecoustics.com/reviews/paradigm-premier-220b-v2/"
+ ],
+ "notes": "Name confirmed: 'Premier 220B v2'. Overture AV lists stale 200B-like dims (13.25x7.875x12.375 in, 18 lb). Woofer shrinks from 6.5 to 6 in per maker specs. mfr-paradigm-premier-220b-v2.md is a JS-shell capture; use the -specs capture."
+}

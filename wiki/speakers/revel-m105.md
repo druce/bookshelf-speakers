@@ -35,7 +35,7 @@ pref_score_sub: 8.2
 woofer_in: 5.25
 tweeter_type: dome
 port: rear
-wall_mount: null
+wall_mount: "none"
 dimensions_mm: 356x200x248
 weight_kg: 7.0
 critic_consensus: Praised as accurate, revealing and low-distortion with smooth highs and clean bass; caveats are limited low-bass extension (sub for large orchestral material) and low-ish sensitivity.

@@ -35,7 +35,7 @@ pref_score_sub: 7.3
 woofer_in: 6.5
 tweeter_type: dome
 port: front
-wall_mount: null
+wall_mount: "none"
 dimensions_mm: 359x208x275
 weight_kg: 8.2
 critic_consensus: Praised for clean, transparent midrange, driver integration and imaging; caveats are subdued dynamic punch, modest bass depth and a need for a capable amplifier.

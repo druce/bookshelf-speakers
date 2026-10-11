@@ -35,7 +35,7 @@ pref_score_sub: 5.5
 woofer_in: 5
 tweeter_type: dome
 port: front
-wall_mount: null
+wall_mount: "keyhole"
 dimensions_mm: 325x200x209
 weight_kg: 4.4
 critic_consensus: HomeTheaterHiFi liked it for the price; ASR found it coloured and bright and does not recommend it.

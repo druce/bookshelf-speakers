@@ -35,7 +35,7 @@ pref_score_sub: 7.0
 woofer_in: 5.25
 tweeter_type: dome
 port: rear
-wall_mount: null
+wall_mount: "threaded-insert"
 dimensions_mm: 316x160x265
 weight_kg: 7.0
 critic_consensus: Praised for wide dispersion, imaging, tonal uniformity and clear mids and bass for the size; caveats are some on-axis treble brightness and limited deep-bass and dynamic scale.

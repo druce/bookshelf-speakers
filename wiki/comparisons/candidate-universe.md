@@ -1,16 +1,16 @@
 ---
 type: comparison
 slug: candidate-universe
-summary: Discover output — 445 models screened, 158 in scope, 91 with Tier A/B data
+summary: Discover output — 449 models screened, 162 in scope, 91 with Tier A/B data
 last_updated: 2026-10-11
 ---
 # Candidate universe
 
 Built by `scripts/build_universe.py` from the [spinorama-org](../sources/spinorama-org.md) passive-bookshelf list (Tier A/B entries), manufacturer lineup sweeps of about 40 brands, and the scope verdicts written by ingest. Ingest verdicts were checked against manufacturer spec pages and US retailers on 2026-10-11. Rows marked "quick pass" were excluded on a first search pass and not re-verified, so treat them as provisional. Scope: passive, rated 6 or 8 Ω, bookshelf or standmount, sold new in the US (Claude.md §2).
 
-**Counts:** 445 screened · 158 in scope · 91 in scope with Tier A/B data.
+**Counts:** 449 screened · 162 in scope · 91 in scope with Tier A/B data.
 
-# Bookshelf / standmount — 383 screened
+# Bookshelf / standmount — 387 screened
 
 ## In scope — ingested (speaker page exists) (89)
 
@@ -106,7 +106,7 @@ Built by `scripts/build_universe.py` from the [spinorama-org](../sources/spinora
 | Yamaha | [Yamaha NS-800A](../speakers/yamaha-ns-800a.md) | $5,000 | 6 | y (A) | [1](https://www.erinsaudiocorner.com/loudspeakers/yamaha_ns800a/) |
 | Zu Audio | [Zu Audio Method](../speakers/zu-audio-method.md) | $1,438 | 8 | y (A) | — |
 
-## In scope — no Tier A/B measurement found (56)
+## In scope — no Tier A/B measurement found (60)
 
 | Brand | Model | Price/pr | Rated Ω | Tier A/B data | Note |
 |---|---|---|---|---|---|
@@ -145,6 +145,8 @@ Built by `scripts/build_universe.py` from the [spinorama-org](../sources/spinora
 | Neat Acoustics | Iota II | — | 6 | n | In scope on maker specs (6 ohm nominal, 100 mm driver, planar tweeter, 130x200x1 |
 | Neat Acoustics | Momentum JS | — | 8 | n | In scope on maker specs (8 ohm nominal, 5 ohm min, 170 mm isobaric woofer + AMT, |
 | Neat Acoustics | Petite Classic | $2,999 | 6 | n | In scope on maker specs (6 ohm nominal, 4 ohm min, 300x200x180 mm standmount, GB |
+| Paradigm | Premier 120B v2 | $800 | 8 | n | In scope (passive, 8 ohm, 5.5 in 2-way ported bookshelf, 305 mm tall, current wi |
+| Paradigm | Premier 220B v2 | $1,100 | 8 | n | In scope (passive, 8 ohm, 6 in 2-way ported bookshelf, 371 mm tall, current with |
 | Polk Audio | Signature Elite ES15 | $299 | 8 | n | In scope (Polk: 'compatible with 8 ohm outputs', no 4 ohm rating, 5.25in, 305 mm |
 | ProAc | Response DB3 | $4,275 | 8 | n | In scope on specs (maker/retailers: 8 ohm nominal, 5in woofer, 320 mm tall) but  |
 | ProAc | Studio SM100 | $5,275 | 8 | n | In scope on maker spec page (8 ohm nominal, 6.5in woofer, 406 mm cabinet, 88 dB/ |
@@ -153,6 +155,8 @@ Built by `scripts/build_universe.py` from the [spinorama-org](../sources/spinora
 | Q Acoustics | 3020c | $639 | 6 | n | In scope (6 ohm, 4.75in woofer, 279 mm, sold new) but no Tier A/B measurement fo |
 | Q Acoustics | 5010 | $999 | 6 | n | In scope (6 ohm, 4.5in woofer, 264 mm, $999 pair on maker site) but no Tier A/B  |
 | Q Acoustics | Concept 30 | $1,799 | 6 | n | In scope (passive, 6 ohm nominal per maker, 5 in woofer, 284 mm tall, 1799 USD/p |
+| Revel | Performa4 M145 | $2,000 | 6 | n | In scope (passive, 6 ohm nominal, 5.25 in 2-way rear-ported standmount, 294 mm t |
+| Revel | Performa4 M146 | $3,000 | 6 | n | In scope (passive, 6 ohm nominal, 6.5 in 2-way rear-ported standmount, 359 mm ta |
 | Spendor | A1.2 | $2,399 | 8 | n | In scope (sealed 2-way, 150 mm woofer, 308 mm tall, 8 ohm nominal / min 6.4 per  |
 | Spendor | Classic 4/5 | $2,999 | 8 | n | In scope (8 ohm nominal, min 6.6, sealed, 15 cm woofer, 308 mm tall, current, $2 |
 | Totem Acoustic | Loon Monitor | $1,300 | 8 | n | In scope (passive, 8 ohm per maker, 5.75 in woofer, 273 mm tall, current at $1,3 |

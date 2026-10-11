@@ -35,7 +35,7 @@ pref_score_sub: null
 woofer_in: 6.5
 tweeter_type: dome
 port: rear
-wall_mount: null
+wall_mount: "none"
 dimensions_mm: 393x228x298
 weight_kg: 10.4
 critic_consensus: Praised for neutral balance, precise imaging and exceptionally deep bass for a standmount; no serious weaknesses found beyond awkward binding posts.

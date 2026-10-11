@@ -1,0 +1,58 @@
+{
+ "slug": "paradigm-premier-120b-v2",
+ "brand": "Paradigm",
+ "model": "Premier 120B v2",
+ "brand_slug": "paradigm",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 8 ohm, 5.5 in 2-way ported bookshelf, 305 mm tall, current with Add to Cart on paradigm.com US) but no Tier A/B measurement exists. Paradigm Premier Series v2 launched at AXPONA 2026, shipping from June 2026. No spinorama.org dataset; no ASR, Erin's Audio Corner, SoundStage/NRC, Stereophile or Hi-Fi News measurements found. HomeTheaterHifi's Premier v2 system review measured only the 820F tower (close-mic, in-room). Paradigm's product page links no spinorama/NRC graphs (so no Tier C spin either).",
+ "successor": null,
+ "replaces": "paradigm-premier-100b",
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 800,
+ "price_source": "https://www.paradigm.com/en/bookshelf/premier-120b-v2 ($399.99 each x2)",
+ "tier_ab_available": false,
+ "claimed_specs": {
+  "sensitivity_db_2v83": 87.0,
+  "sensitivity_note": "Paradigm states 87 dB anechoic / 90 dB room; reference voltage not stated on page (Paradigm customarily quotes 2.83 V); recorded as claimed",
+  "nominal_impedance_ohm": 8,
+  "impedance_note": "spec table '8 ohms'; Paradigm series materials quoted by reviewers say 'compatible with 8 ohms'",
+  "min_impedance_claim": null,
+  "frequency_response": "±3 dB 62 Hz-23 kHz on-axis; ±3 dB 62 Hz-20 kHz 30° off-axis; LF extension 39 Hz (DIN)",
+  "crossover_hz": 1200,
+  "woofer_in": 5.5,
+  "woofer": "5.5 in (140 mm) AL-MAG cone, PPA lens, Gen3 ART surround",
+  "tweeter": "1 in (25 mm) AL-MAC ceramic dome, OSW waveguide + PPA lens",
+  "port": "ported (location not stated)",
+  "recommended_amp_w": "15-130",
+  "dimensions_mm": "305x178x307 (incl. grille)",
+  "weight_kg": 7.4
+ },
+ "predecessor_specs": {
+  "slug": "paradigm-premier-100b",
+  "nominal_impedance_ohm": 8,
+  "sensitivity_claimed_db": 87.0,
+  "woofer_in": 5.5,
+  "crossover_hz": 2000,
+  "frequency_response": "±3 dB 68 Hz-25 kHz; 50 Hz DIN",
+  "dimensions_mm": "282x169x239",
+  "weight_kg": 5.85,
+  "price_usd_pair": 800,
+  "status": "discontinued per paradigm.com"
+ },
+ "raw_saved": [
+  "raw/manufacturer/mfr-paradigm-premier-120b-v2.md",
+  "raw/manufacturer/mfr-paradigm-premier-120b-v2-specs.md",
+  "raw/manufacturer/mfr-paradigm-premier-100b-specs.md"
+ ],
+ "evidence": [
+  "https://www.paradigm.com/en/bookshelf/premier-120b-v2",
+  "https://www.paradigm.com/en/passive/premier-100b",
+  "https://www.audioadvice.com/products/paradigm-premier-120b-v2-bookshelf-speaker-each",
+  "https://futureaudiophile.com/paradigm-premier-120b-v2-bookshelf-speakers-reviewed/"
+ ],
+ "tier_d_leads": [
+  "https://futureaudiophile.com/paradigm-premier-120b-v2-bookshelf-speakers-reviewed/ (listening review, no measurements)"
+ ],
+ "notes": "Name confirmed: 'Premier 120B v2' on paradigm.com. Slug paradigm-premier-120b-v2. Note mfr-paradigm-premier-120b-v2.md is a JS-shell capture (no specs); use the -specs WebFetch capture. paradigm-premier-100b has no wiki page or sidecar; its discontinued status is from the paradigm.com page."
+}

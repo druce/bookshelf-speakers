@@ -35,7 +35,7 @@ pref_score_sub: 7.8
 woofer_in: 5.25
 tweeter_type: dome
 port: rear
-wall_mount: null
+wall_mount: "threaded-insert"
 dimensions_mm: 344x173x270
 weight_kg: 5.95
 critic_consensus: Erin's Audio Corner finds it clearer than the first-generation RP-500M but with a lifted 10-15 kHz peak and modest bass; no other professional review found.

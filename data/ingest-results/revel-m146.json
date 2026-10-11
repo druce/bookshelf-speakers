@@ -1,0 +1,51 @@
+{
+ "slug": "revel-m146",
+ "brand": "Revel",
+ "model": "Performa4 M146",
+ "brand_slug": "revel",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 6 ohm nominal, 6.5 in 2-way rear-ported standmount, 359 mm tall, current on Revel US site) but no Tier A/B measurement exists yet. Revel Performa4 series launched at AXPONA 2026 (April). spinorama.org (pierreaubert/spinorama datas/measurements) has no M145/M146 directory as of 2026-10-11; searches of ASR, Erin's Audio Corner, Audioholics, SoundStage/NRC, Stereophile and Hi-Fi News found no measurement review. Audioholics has only a non-measured series overview (audioholics.com/tower-speaker-reviews/revel-performa4). Revel's product page links no spinorama/NRC graphs.",
+ "successor": null,
+ "replaces": "revel-m106",
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 3000,
+ "price_source": "https://www.audioadvice.com/products/revel-performa4-m146-bookshelf-loudspeaker-pair ($2,999.95/pair; Revel AXPONA release $2,999/pair)",
+ "tier_ab_available": false,
+ "claimed_specs": {
+  "sensitivity_db_2v83": 85.5,
+  "sensitivity_note": "Revel product page 85.5 dB @2.83 V/1 m; launch coverage (The Absolute Sound, retailers) says 86 dB",
+  "nominal_impedance_ohm": 6,
+  "min_impedance_claim": null,
+  "frequency_response": "43 Hz-40 kHz (±6 dB)",
+  "crossover_hz": 1700,
+  "woofer_in": 6.5,
+  "woofer": "6.5 in (165 mm) MCC cone (Music Direct copy says 6.25 in)",
+  "tweeter": "1 in (25 mm) DCC dome in 7th-gen Acoustic Lens waveguide",
+  "port": "rear",
+  "recommended_amp_w": "15-200",
+  "dimensions_mm": "359x246x323",
+  "weight_kg": 11.0
+ },
+ "predecessor_specs": {
+  "slug": "revel-m106",
+  "nominal_impedance_ohm": 8,
+  "sensitivity_claimed_db": 87.0,
+  "woofer_in": 6.5,
+  "crossover_hz": 2300,
+  "dimensions_mm": "381x211x278",
+  "weight_kg": 8.6,
+  "price_usd_pair": 2200
+ },
+ "raw_saved": [
+  "raw/manufacturer/mfr-revel-m146.md",
+  "raw/manufacturer/mfr-revel-m146-audioadvice.md"
+ ],
+ "evidence": [
+  "https://www.revelspeakers.com/products/series/series-performa4/M146.html",
+  "https://www.audioadvice.com/products/revel-performa4-m146-bookshelf-loudspeaker-pair",
+  "https://www.revelspeakers.com/news-reviews/news/axpona-2026-performa4.html",
+  "https://www.theabsolutesound.com/articles/revel-unveils-all-new-high-performance-performa4-loudspeaker-series-at-axpona-2026/"
+ ],
+ "notes": "Name confirmed as Revel Performa4 M146. Nominal rating drops from 8 ohm (M106) to 6 ohm. Audio Advice page showed 'Unavailable' at fetch time. Weight given as 22.1 lb in some launch coverage vs 24.3 lb (11 kg) on Revel page."
+}

@@ -35,7 +35,7 @@ pref_score_sub: 6.6
 woofer_in: 5
 tweeter_type: AMT
 port: rear
-wall_mount: null
+wall_mount: "none"
 dimensions_mm: 335x211x284
 weight_kg: 7.8
 critic_consensus: Only ASR (Tier D listening) reviewed; found bright, forward treble from a tweeter resonance and did not recommend it.

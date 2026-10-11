@@ -1,15 +1,509 @@
 {
- "ascend-acoustics-cbm-170-se2": {"value": "threaded-insert", "source": "mfr-ascend-acoustics-cbm-170-se2", "note": "1/4-20 insert for wall mount brackets"},
- "ascend-acoustics-sierra-1-v2": {"value": "threaded-insert", "source": "mfr-ascend-acoustics-sierra-1-v2", "note": "1/4-20 insert intended for Ascend TP-24 stands; fits standard 1/4-20 brackets"},
- "ascend-acoustics-sierra-lx": {"value": "threaded-insert", "source": "mfr-ascend-acoustics-sierra-lx", "note": "1/4-20 insert intended for Ascend TP-24 stands"},
- "totem-acoustic-kin-one": {"value": "threaded-insert", "source": "mfr-totem-acoustic-kin-one", "note": "maker: wall-mountable via 1/4-20 insert"},
- "aperion-audio-verus-iii-concert-v8b": {"value": "threaded-insert", "source": "mfr-aperion-audio-verus-iii-concert-v8b", "note": "dual 1/4-20 inserts; 28 lb each"},
- "role-audio-skiff": {"value": "threaded-insert", "source": "mfr-role-audio-skiff", "note": "retainer for Omnimount 10.0 / 1/4-20 brackets"},
- "monitor-audio-apex-a10": {"value": "bracket-included", "source": "mfr-monitor-audio-apex-a10", "note": "tilting wall/ceiling bracket supplied (secondary spec source)"},
- "hsu-research-mfl-6": {"value": "on-wall-design", "source": "mfr-hsu-research-mfl-6", "note": "angled baffle designed for flat wall mounting with toe-in; bookshelf category"},
- "fluance-reference-xl8s": {"value": "keyhole", "source": "mfr-fluance-reference-xl8s", "note": "built-in keyhole"},
- "polk-audio-t15": {"value": "keyhole", "source": "mfr-polk-audio-t15", "note": "integrated keyhole slot"},
- "polk-audio-reserve-r200": {"value": "none", "source": "mfr-polk-audio-reserve-r200", "note": "spec: wall-mountable (keyhole slots) No"},
- "polk-audio-reserve-r100": {"value": "none", "source": "crutchfield-polk-audio-reserve-r100", "note": "owner report C17: no native wall mounting (Tier E)"},
- "svs-prime-bookshelf": {"value": "none", "source": "crutchfield-svs-prime-bookshelf", "note": "2 owners: no wall-mount provision (Tier E)"}
+ "ascend-acoustics-cbm-170-se2": {
+  "value": "threaded-insert",
+  "source": "mfr-ascend-acoustics-cbm-170-se2",
+  "note": "1/4-20 insert for wall mount brackets"
+ },
+ "ascend-acoustics-sierra-1-v2": {
+  "value": "threaded-insert",
+  "source": "mfr-ascend-acoustics-sierra-1-v2",
+  "note": "1/4-20 insert intended for Ascend TP-24 stands; fits standard 1/4-20 brackets"
+ },
+ "ascend-acoustics-sierra-lx": {
+  "value": "threaded-insert",
+  "source": "mfr-ascend-acoustics-sierra-lx",
+  "note": "1/4-20 insert intended for Ascend TP-24 stands"
+ },
+ "totem-acoustic-kin-one": {
+  "value": "threaded-insert",
+  "source": "mfr-totem-acoustic-kin-one",
+  "note": "maker: wall-mountable via 1/4-20 insert"
+ },
+ "aperion-audio-verus-iii-concert-v8b": {
+  "value": "threaded-insert",
+  "source": "mfr-aperion-audio-verus-iii-concert-v8b",
+  "note": "dual 1/4-20 inserts; 28 lb each"
+ },
+ "role-audio-skiff": {
+  "value": "threaded-insert",
+  "source": "mfr-role-audio-skiff",
+  "note": "retainer for Omnimount 10.0 / 1/4-20 brackets"
+ },
+ "monitor-audio-apex-a10": {
+  "value": "bracket-included",
+  "source": "mfr-monitor-audio-apex-a10",
+  "note": "tilting wall/ceiling bracket supplied (secondary spec source)"
+ },
+ "hsu-research-mfl-6": {
+  "value": "on-wall-design",
+  "source": "mfr-hsu-research-mfl-6",
+  "note": "angled baffle designed for flat wall mounting with toe-in; bookshelf category"
+ },
+ "fluance-reference-xl8s": {
+  "value": "keyhole",
+  "source": "mfr-fluance-reference-xl8s",
+  "note": "built-in keyhole"
+ },
+ "polk-audio-t15": {
+  "value": "keyhole",
+  "source": "mfr-polk-audio-t15",
+  "note": "integrated keyhole slot"
+ },
+ "polk-audio-reserve-r200": {
+  "value": "none",
+  "source": "mfr-polk-audio-reserve-r200",
+  "note": "spec: wall-mountable (keyhole slots) No"
+ },
+ "polk-audio-reserve-r100": {
+  "value": "none",
+  "source": "crutchfield-polk-audio-reserve-r100",
+  "note": "owner report C17: no native wall mounting (Tier E)"
+ },
+ "svs-prime-bookshelf": {
+  "value": "none",
+  "source": "crutchfield-svs-prime-bookshelf",
+  "note": "2 owners: no wall-mount provision (Tier E)"
+ },
+ "amphion-argon1": {
+  "value": "threaded-insert",
+  "source": "mfr-web",
+  "note": "Amphion accessories page: adjustable Amphion Wall Bracket attaches to integrated threaded inserts on the speaker back; lists Argon1 as compatible. Optional maker bracket: Amphion Wall Bracket (black/white).",
+  "evidence_url": "https://amphion.fi/?p=8285"
+ },
+ "bowers-wilkins-705-s3-signature": {
+  "value": null,
+  "source": "mfr-web",
+  "note": "Saved maker page has no mount text; only official accessory found is the FS-700 S3 floor stand; no maker wall bracket found."
+ },
+ "bowers-wilkins-805-d4-signature": {
+  "value": null,
+  "source": "mfr-web",
+  "note": "Saved maker page has no wall-mount text; only accessory is the FS-805 D4 stand, which bolts to the base; no wall bracket found."
+ },
+ "chesky-audio-lc1": {
+  "value": null,
+  "source": "mfr-chesky-audio-lc1",
+  "note": "Maker page recommends stands placed 3-4 ft from walls; nothing on wall-mount provision found."
+ },
+ "elac-carina-bs243-4": {
+  "value": null,
+  "source": "mfr-elac-carina-bs243-4",
+  "note": "Saved retailer/maker page and searches show no mount provision; Greentoe lists placement 'Tabletop/Bookshelf' only (not explicit no). Manual PDF not retrievable."
+ },
+ "fluance-hfs-signature": {
+  "value": "keyhole",
+  "source": "manual",
+  "note": "Fluance HFS Mounting Guide (linked from maker page): two screws 4 cm apart, speaker's built-in rear mount brackets hang on them (keyhole-style hanging slots); no separate bracket.",
+  "evidence_url": "https://www.fluance.com/mwdownloads/download/link/id/1149"
+ },
+ "fyne-audio-f500sp": {
+  "value": null,
+  "source": "mfr-fyne-audio-f500sp",
+  "note": "No mount text on maker page; no maker bracket found. Down-firing BassTrax port on plinth."
+ },
+ "jbl-stage-250b": {
+  "value": null,
+  "source": "manual",
+  "note": "Stage 2 QSG lists wall brackets, keyholes and 1/4-20 insert for the 240B only; the 250B box has only anti-slip pads. A JBL Indonesia page claims the 250B includes a bracket and insert, which looks like 240B copy. Unresolved.",
+  "evidence_url": "https://be.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw96735bd7/pdfs/JBLStage2QSGML.pdf"
+ },
+ "focal-sopra-n1": {
+  "value": null,
+  "source": "mfr-focal-sopra-n1",
+  "note": "No mount text; Focal sells a dedicated Sopra N1 stand that the speaker fixes to; no wall bracket found."
+ },
+ "neumi-silk-4": {
+  "value": null,
+  "source": "mfr-neumi-silk-4",
+  "note": "Maker page has no mount text; Newegg listings say only 'compatible with shelf-type wall mounts' (no keyhole/insert stated)."
+ },
+ "paradigm-founder-40b": {
+  "value": null,
+  "source": "mfr-paradigm-founder-40b",
+  "note": "Maker spec: 2-way standmount, rear port; no wall-mount provision or Founder bracket found (Paradigm MB-40 is for Cinema speakers, 6 lb limit)."
+ },
+ "polk-audio-xt20": {
+  "value": "none",
+  "source": "mfr-polk-audio-xt20",
+  "note": "Polk's own compare table on the product page lists 'Wall Mountable: No' for Monitor XT20 (sibling ES15/ES20 say Yes).",
+  "evidence_url": "https://www.polkaudio.com/en-us/product/home-speakers/bookshelf/monitor-xt20/300151.html"
+ },
+ "psb-alpha-p3": {
+  "value": null,
+  "source": "mfr-psb-alpha-p3",
+  "note": "No mount text on maker page; PSB support says PSB makes no brackets (Alpha B1 article suggests B-Tech BT77). P3 provision not confirmed."
+ },
+ "q-acoustics-3020i": {
+  "value": "threaded-insert",
+  "source": "mfr-web",
+  "note": "Threaded holes in cabinet bottom take the optional Q Acoustics WB50 (formerly 3000WB) wall bracket, which lists the 3020i as compatible.",
+  "evidence_url": "https://www.qacoustics.co.uk/products/q-acoustics-wb50"
+ },
+ "q-acoustics-3030i": {
+  "value": null,
+  "source": "mfr-web",
+  "note": "Maker's 3000-series wall bracket (3000WB/WB50) excludes the 3030i; no 3030i bracket or keyhole found. Optional 3030FSi floor stands. No explicit 'not wall-mountable' statement.",
+  "evidence_url": "https://www.qacoustics.com/3000-series-wall-mount-bracket.html"
+ },
+ "salk-wow1": {
+  "value": null,
+  "source": "mfr-salk-wow1",
+  "note": "No mount info on maker page or in searches."
+ },
+ "svs-ultra-evolution-bookshelf": {
+  "value": null,
+  "source": "manual",
+  "note": "Ultra Evolution owner's manual and maker page say nothing about Bookshelf mounting; the bracket and 1/4\" insert are for the Ultra Evolution Elevation only.",
+  "evidence_url": "https://r2.gear4music.com/media/118/1184765/download_1184765.pdf"
+ },
+ "triangle-esprit-comete-40th": {
+  "value": null,
+  "source": "mfr-triangle-esprit-comete-40th",
+  "note": "No mount text on retailer/maker page; no bracket found."
+ },
+ "vandersteen-vlr": {
+  "value": null,
+  "source": "mfr-vandersteen-vlr",
+  "note": "Maker describes it for in-cabinet or stand mounting; no wall-mount provision stated or bracket found (VSM-1 is the separate surface-mount model).",
+  "evidence_url": "https://www.vandersteen.com/products/vlr-wood"
+ },
+ "acoustic-energy-ae100-mk2": {
+  "value": null,
+  "source": "mfr-acoustic-energy-ae100-mk2",
+  "note": "Maker page calls AE100² a stand-mount; wall-mount model in range is AE105. Older AE100 series manual silent. One review (speakerdecision.com) says no built-in mounting provision: single source, so not counted.",
+  "evidence_url": "https://www.acoustic-energy.co.uk/products/100-series/"
+ },
+ "avantone-pro-cla-10": {
+  "value": null,
+  "source": "mfr-avantone-pro-cla-10",
+  "note": "Saved page and web search show no mounting info; no maker bracket found."
+ },
+ "bowers-wilkins-805-d4": {
+  "value": null,
+  "source": "mfr-bowers-wilkins-805-d4",
+  "note": "Maker page describes a stand-mount only; no wall-mount text or bracket found.",
+  "evidence_url": "https://www.bowerswilkins.com/en-us/product/loudspeakers/805-d4/"
+ },
+ "dynaudio-emit-20": {
+  "value": null,
+  "source": "mfr-dynaudio-emit-20",
+  "note": "Saved page silent. Dynaudio's generic Wall Mount Bracket is listed only for the DM 2/6 and 2/7, not Emit 20. Crutchfield says the predecessor Emit M20 and sibling Evoke 20 have no bracket, keyhole or insert, but nothing covers Emit 20 directly.",
+  "evidence_url": "https://dynaudio.com/home-audio/accessories/wall-mount-bracket"
+ },
+ "elac-debut-2-0-b6-2": {
+  "value": null,
+  "source": "mfr-elac-debut-2-0-b6-2",
+  "note": "Saved page silent (front port noted as wall-friendly). Owner's manual PDF is image-only and could not be text-searched. Crutchfield says the sibling C5.2 has no keyhole or insert; no B6.2-specific statement found.",
+  "evidence_url": "https://elac.com/download/db62/db62-owners-manual_1.0.0_3.pdf"
+ },
+ "focal-kanta-n1": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield spec: Wall-mountable No; says it offers no brackets, keyhole slots or threaded inserts. Foam port plug included for near-wall placement. Maker sells floor stands only. (Crutchfield read via search-result snippet; direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/p_091KN1BHGD/Focal-Kanta-No-1-High-Gloss-Black-Deep-Black.html"
+ },
+ "focal-dome-flax": {
+  "value": "bracket-included",
+  "source": "retailer-hometechnologyreview",
+  "note": "No saved maker page. Integrated swivel base doubles as a table stand or wall bracket, with wall hardware included. Retailer and review descriptions agree; SoundStage Access and Residential Systems describe the same.",
+  "evidence_url": "https://hometechnologyreview.com/product/focal-dome-flax-bk-satellite-speaker-ea/"
+ },
+ "kef-ls50-meta": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: Wall-mountable No; no bracket, keyhole slot or threaded insert. KEF's B1/B2 wall brackets are for LSX only, so there is no KEF bracket. Third-party brackets (Orange Audio, others) are sold. (Crutchfield read via search-result snippet; direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/p_991LS50MCK/KEF-LS50-Meta-Carbon-Black.html"
+ },
+ "human-speakers-81-dk": {
+  "value": null,
+  "source": "mfr-human-speakers-81-dk",
+  "note": "Maker page has no mounting information.",
+  "evidence_url": "https://www.humanspeakers.com/human/81dk.htm"
+ },
+ "klipsch-rp-500m-ii": {
+  "value": "threaded-insert",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: 3/8\" threaded insert on rear for an optional bracket (sold separately); spec says 'Wall-mountable: With optional bracket'. Klipsch RP 2021 manual shows front L/R 'via threaded insert 3/8-16, wall brackets not included'. No Klipsch-branded bracket named. The original RP-500M had a keyhole instead. (Crutchfield read via search-result snippet; direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/p_714500M2E/Klipsch-Reference-Premiere-RP-500M-II-Ebony.html"
+ },
+ "nht-c3": {
+  "value": null,
+  "source": "mfr-nht-c3",
+  "note": "Saved maker API data has no mounting text. Sibling NHT models (Classic Two, SB1/SB3) have 1/4-20 rear inserts, but nothing confirms the C3.",
+  "evidence_url": "https://www.nhthifi.com/"
+ },
+ "paradigm-monitor-se-atom": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: no brackets, keyhole slots or threaded inserts. Secrets/HomeTheaterHifi preview: 'not designed for wall mounting'. Maker manual has no wall-mount section. (Crutchfield read via search-result snippet; direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/p_819MATOMBK/Paradigm-Monitor-SE-Atom-Matte-Black.html"
+ },
+ "polk-audio-xt15": {
+  "value": "none",
+  "source": "manual",
+  "note": "Monitor XT owner's manual spec table: XT15 'Wall-mountable? No'. The 'Wall-mountable' text in the saved mfr page belongs to the adjacent Signature Elite ES15 card, not XT15. Crutchfield also says there is no keyhole or insert.",
+  "evidence_url": "https://www.polkaudio.com/on/demandware.static/-/Library-Sites-polk_northamerica_shared/default/dw08acee5d/downloads/monitor-xt-series-owners-manual-global.pdf"
+ },
+ "psb-synchrony-b600": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: Wall-mountable No; no brackets, keyhole slots or threaded inserts. Maker stand is the PSB SST-24. (Crutchfield read via search-result snippet; direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/p_760B600GB/PSB-Synchrony-B600-Gloss-Black.html"
+ },
+ "revel-m106": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: Wall-mountable No; no rear inserts, keyhole or bracket. Three 1/4-20 inserts on the bottom are for the optional Revel M Stand; no Revel wall bracket. (Crutchfield read via search-result snippet; direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/ISEO-rgbtcspd/p_265M106BK/Revel-Performa3-M106-Piano-Black.html"
+ },
+ "sony-ss-cs5m2": {
+  "value": null,
+  "source": "mfr-sony-ss-cs5m2",
+  "note": "Sony manual page was blocked (403). One AVS owner says the original SS-CS5 has no keyhole: a different model and a single report. Third-party side-clamp brackets are sold."
+ },
+ "totem-acoustic-signature-one": {
+  "value": null,
+  "source": "mfr-totem-acoustic-signature-one",
+  "note": "Maker page silent. The generic Totem manual mentions 'wall mounted' placement only in general terms, with no model-specific provision.",
+  "evidence_url": "https://totemacoustic.com/pdf/manuals/Totem_UserManual.pdf"
+ },
+ "yamaha-ns-800a": {
+  "value": null,
+  "source": "manual",
+  "note": "Owner's manual has no wall-mount content; maker accessory is the SPS-800A stand. One third-party site claims it is not wall-mountable (single source).",
+  "evidence_url": "https://usa.yamaha.com/files/download/other_assets/6/2164576/web_VFZ4750_NS-800A_NS-600A_om_TG_12multi_A0.pdf"
+ },
+ "xsa-labs-vanguard": {
+  "value": null,
+  "source": "mfr-xsa-labs-vanguard",
+  "note": "No mounting info found on the saved review page or by web search."
+ },
+ "atc-scm7": {
+  "value": null,
+  "source": "mfr-atc-scm7",
+  "note": "saved maker page has no mounting text; ATC sells separate on-wall HTS7 derivative; no bracket/insert info found for SCM7",
+  "evidence_url": "https://atc.audio/hi-fi/loudspeakers/entry-series/scm7-mk3/"
+ },
+ "audio-craftsmen-victoria": {
+  "value": null,
+  "source": "mfr-audio-craftsmen-victoria",
+  "note": "maker page silent on mounting; Stereophile notes a dedicated built-in stand; nothing found",
+  "evidence_url": "https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria"
+ },
+ "buchardt-audio-e50": {
+  "value": null,
+  "source": "mfr-buchardt-audio-e50",
+  "note": "maker page silent on wall mounting (only notes sealed design tolerates wall-boundary placement); nothing found",
+  "evidence_url": "https://buchardtaudio.com/products/e50"
+ },
+ "bowers-wilkins-705-s3": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: Wall-mountable No; no bracket, threaded insert or keyhole slot. Crutchfield page read via search-index snippet (direct fetch 403); maker page silent",
+  "evidence_url": "https://www.crutchfield.com/p_749705S3BK/Bowers-Wilkins-705-S3-Black.html"
+ },
+ "elac-uni-fi-reference-ubr62": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: no wall-mount option. Crutchfield page read via search-index snippet (direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/p_970UBR62BK/ELAC-Uni-Fi-Reference-UBR62-Walnut.html"
+ },
+ "elac-debut-reference-dbr-62": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: no bracket, keyhole slot or threaded insert for wall-mounting. Crutchfield page read via search-index snippet (direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/p_970DBR62W/ELAC-Debut-Reference-DBR62-Oak.html"
+ },
+ "dynaudio-special-forty": {
+  "value": null,
+  "source": "retailer-crutchfield-snippet",
+  "note": "CONFLICT: Crutchfield spec table says Wall-mountable No, but its feature text says wall-mountable with a proprietary Dynaudio bracket (sold separately); Dynaudio Wall Mount Bracket page names only DM 2/6, 2/7; maker product page and insert PDF silent. Crutchfield page read via search-index snippet (direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/S-n4fGtXHjAju/p_345SP40EW/Dynaudio-Special-Forty-Ebony-Wave.html"
+ },
+ "focal-theva-n1": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: Wall-mountable No; no bracket, keyhole slot or threaded insert. Crutchfield page read via search-index snippet (direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/p_091THN1BK/Focal-Theva-No-1-Black.html"
+ },
+ "mofi-sourcepoint-8": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: Wall-mountable No; no bracket, keyhole slot or threaded insert. Crutchfield page read via search-index snippet (direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/p_406SP8WL/MoFi-Electronics-SourcePoint-8-Satin-Walnut.html"
+ },
+ "klipsch-rp-600m-ii": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: not wall-mountable, no keyhole or threaded insert; 1 Slickdeals owner agrees (no keyhole/threaded back). Klipsch RP II line manual shows keyhole/3/8-16 insert wall-mount figure but does not say which models; Klipsch product page silent. Crutchfield page read via search-index snippet (direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/p_714600M2E/Klipsch-Reference-Premiere-RP-600M-II-Ebony.html"
+ },
+ "nht-super-zero-2-1": {
+  "value": null,
+  "source": "mfr-nht-super-zero-2-1",
+  "note": "maker says 'easy wall and ceiling mounting options available' but does not name the provision; NHT site lists OmniMount 10.0 as suitable for SuperZero 2.0/2.1. Mountable, type undetermined",
+  "evidence_url": "https://www.nhthifi.com/products/superzero-2-1-our-amazing-mini-monitor-single"
+ },
+ "polk-audio-signature-elite-es20": {
+  "value": "none",
+  "source": "manual",
+  "note": "Signature Elite manual table: Wall Mounting ES20 = No (keyholes only on ES35/ES15/ES10); Crutchfield also Wall-mountable No. 'Wall Mountable' on saved maker page is only a compare-table row label",
+  "evidence_url": "https://www.polkaudio.com/on/demandware.static/-/Library-Sites-polk_northamerica_shared/default/dw948969b6/downloads/signature-elite-es10-es15-es20-es30-es35-es50-es55-es60-owners-manual-ww.pdf"
+ },
+ "ps-audio-aspen-fr5": {
+  "value": null,
+  "source": "mfr-web",
+  "note": "no saved maker page; maker and reviews describe stand-mount with optional matching stands; no wall-mount info found",
+  "evidence_url": "https://psaudio.com/products/aspen-fr5-loudspeaker"
+ },
+ "revel-m105": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: Wall-mountable No; no rear threaded inserts, keyhole or bracket. Bottom has 1/4-20 inserts for optional Revel M Stand (not a wall provision). Crutchfield page read via search-index snippet (direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/p_265M105WH/Revel-Performa3-M105-Piano-White.html"
+ },
+ "q-acoustics-concept-300": {
+  "value": null,
+  "source": "mfr-q-acoustics-concept-300",
+  "note": "maker page silent; sold with Tensegrity stands; no wall-mount info found",
+  "evidence_url": "https://www.qacoustics.com/collections/bookshelf-speakers/products/concept-300-bookshelf-speaker-pair"
+ },
+ "revel-m16": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: not wall-mountable, no rear threaded inserts/keyhole/bracket; Crutchfield Q&A points to S16 for wall use. Crutchfield page read via search-index snippet (direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/p_265M16BK/Revel-Concerta2-M16-High-Gloss-Black.html"
+ },
+ "wharfedale-evo-4-1": {
+  "value": "none",
+  "source": "retailer-crutchfield-snippet",
+  "note": "Crutchfield: no bracket, keyhole slot or threaded insert; not wall-mountable (EVO4.S has keyholes). Crutchfield page read via search-index snippet (direct fetch 403)",
+  "evidence_url": "https://www.crutchfield.com/p_336EVO41BK/Wharfedale-EVO4-1-Black.html"
+ },
+ "triangle-borea-br03": {
+  "value": null,
+  "source": "mfr-triangle-borea-br03",
+  "note": "maker page silent; one French review says suits shelf, stands or wall brackets (not a provision statement); nothing found",
+  "evidence_url": "https://trianglehifi.us/products/enceinte-bibliotheque-hi-fi-borea-br03-paire"
+ },
+ "wharfedale-super-denton": {
+  "value": null,
+  "source": "mfr-wharfedale-super-denton",
+  "note": "maker page and Wharfedale product info doc silent on mounting; no Crutchfield spec found",
+  "evidence_url": "https://www.wharfedaleusa.com/products/super-denton-bookshelf-speakers-pair"
+ },
+ "atc-scm19": {
+  "value": null,
+  "source": "manual",
+  "note": "Saved maker page and Entry-series manual have no keyhole/insert/bracket text; manual covers stand/placement only. Not determined.",
+  "evidence_url": "https://atc.audio/wp-content/uploads/2021/12/ENTRY-MANUAL-040919-webres.pdf"
+ },
+ "bic-america-venturi-dv62si": {
+  "value": null,
+  "source": "manual",
+  "note": "Maker page and 2-page manual silent on wall mounting; no owner reports found.",
+  "evidence_url": "https://www.bicamerica.com/manuals/dv62si-manual.pdf"
+ },
+ "dayton-audio-opal1": {
+  "value": null,
+  "source": "manual",
+  "note": "Maker page and manual silent on wall mounting (rear passive radiators). Sibling B65/B452 have keyholes, but OPAL1 not confirmed.",
+  "evidence_url": "https://www.daytonaudio.com/images/resources/dayton-audio-opal1-user-manual.pdf"
+ },
+ "elac-debut-2-0-b5-2": {
+  "value": null,
+  "source": "mfr-elac-debut-2-0-b5-2",
+  "note": "Maker page only notes front port for near-wall/bookshelf placement; sales sheet silent; manual PDF is image-only. Speakerdecision 'no keyhole' claim is templated and not counted.",
+  "evidence_url": "https://elac.com/db52"
+ },
+ "cambridge-audio-sx-60": {
+  "value": null,
+  "source": "manual",
+  "note": "Manual (third-party copy) lists rear panel as terminals only and recommends stands or shelf; no explicit 'not wall-mountable' statement, so left null (leans none).",
+  "evidence_url": "https://manuals.plus/cambridge-audio/sx-60-stand-mount-speakers-manual"
+ },
+ "hsu-research-ccb-8": {
+  "value": null,
+  "source": "mfr-hsu-research-ccb-8",
+  "note": "Maker page silent on wall mounting; nothing found online.",
+  "evidence_url": "https://hsuresearch.com/products/ccb-8-speaker"
+ },
+ "elac-debut-3-0-b6-3": {
+  "value": null,
+  "source": "manual",
+  "note": "Debut 3.0 manual's keyhole/wall-switch instructions are under the DA43 Atmos section only; nothing for DB63. Not determined.",
+  "evidence_url": "https://elac.com/download/db63/debut-3-owners-manual_1.0.0.pdf"
+ },
+ "march-audio-sointuva-awg": {
+  "value": null,
+  "source": "mfr-march-audio-sointuva-awg",
+  "note": "Maker page describes a stand-mount speaker; no mounting provisions mentioned.",
+  "evidence_url": "https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/"
+ },
+ "neumi-bs5": {
+  "value": "none",
+  "source": "manual",
+  "note": "Manual: to wall-mount use shelf-type brackets supporting from the bottom (or clamp-type); 'do not drill holes or drive screws into the BS5'. No built-in provision.",
+  "evidence_url": "https://neumitech.com/wp-content/uploads/2020/04/NEUMI-BS5-USER-MANUAL.pdf"
+ },
+ "monitor-audio-bronze-50-7g": {
+  "value": null,
+  "source": "manual",
+  "note": "Bronze 7G manual gives keyhole inserts only for On-Wall 7G and AMS 7G; nothing for Bronze 50 7G. Previous-gen Bronze 50 (6G) had a 1/4-20 insert for the FIX-M bracket, unconfirmed for 7G.",
+  "evidence_url": "https://linqcdn.avbportal.com/documents/266ddf82-10e1-4b30-9976-70b2ea5a3e98.pdf"
+ },
+ "paradigm-persona-b": {
+  "value": null,
+  "source": "mfr-paradigm-persona-b",
+  "note": "Maker spec silent; Paradigm accessories list only the B-29 stand for Persona B, no wall bracket.",
+  "evidence_url": "https://www.paradigm.com/en/passive/persona-b"
+ },
+ "psb-imagine-b50": {
+  "value": null,
+  "source": "mfr-psb-imagine-b50",
+  "note": "Maker page silent; PSB PWB-1 bracket is for Imagine Mini only. Not determined.",
+  "evidence_url": "https://www.psbspeakers.com/imagine-b50-bookshelf"
+ },
+ "q-acoustics-5020": {
+  "value": "threaded-insert",
+  "source": "mfr-web",
+  "note": "Optional maker bracket Q Acoustics WB75 (sold singly) lists 5020 as compatible; a speaker plate screws to the cabinet. No keyhole; no bracket in box.",
+  "evidence_url": "https://www.qacoustics.com/products/q-acoustics-wb75-wall-bracket-single"
+ },
+ "psb-alpha-p5": {
+  "value": "threaded-insert",
+  "source": "retailer-audioadvisor",
+  "note": "Audio Advisor spec table: 1/4\"-20 threaded insert (rear). Forbes and Dagogo reviews also describe a rear threaded insert for a wall bracket. No maker bracket found.",
+  "evidence_url": "https://www.audioadvisor.com/prnt-pbap5-wal-pr"
+ },
+ "revel-m126be": {
+  "value": null,
+  "source": "mfr-web",
+  "note": "Retailer/maker info lists only the M Stand (speaker screws to stand platform); no wall bracket or keyhole found.",
+  "evidence_url": "https://www.audioadvice.com/products/revel-performabe-m126be-bookshelf-speakers-each-gloss-black"
+ },
+ "totem-acoustic-bison-monitor": {
+  "value": null,
+  "source": "mfr-totem-acoustic-bison-monitor",
+  "note": "Maker page gives placement distance from rear wall (6 in-3 ft) only; no mounting provision mentioned.",
+  "evidence_url": "https://totemacoustic.com/product/bison-monitor/"
+ },
+ "spendor-classic-3-1": {
+  "value": null,
+  "source": "mfr-spendor-classic-3-1",
+  "note": "Data sheet describes a 2-way stand-mount; no wall provision mentioned.",
+  "evidence_url": "https://spendoraudio.com/wp-content/uploads/Spendor-Classic-Product-Data-Sheets_3-1_2023.pdf"
+ },
+ "wilson-audio-tunetot": {
+  "value": null,
+  "source": "mfr-wilson-audio-tunetot",
+  "note": "Accessories are ISOBase, TuneTot stands, trim ring and rear-port plug for near-wall placement; no wall bracket found.",
+  "evidence_url": "https://www.definitive.com/products/wilson-audio-tune-tot"
+ },
+ "zu-audio-method": {
+  "value": null,
+  "source": "mfr-web",
+  "note": "Maker page: can sit right next to walls or inset in a nook/cabinet/soffit (front port); no bracket, keyhole or insert mentioned.",
+  "evidence_url": "https://www.zuaudio.com/loudspeakers/p/mb1"
+ }
 }
