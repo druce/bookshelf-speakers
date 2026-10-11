@@ -3,6 +3,7 @@ type: speaker
 brand: Focal
 model: Dome Flax
 slug: focal-dome-flax
+category: bookshelf
 status: current
 price_usd_pair: 1378
 price_checked: 2026-10-11

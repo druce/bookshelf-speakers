@@ -3,6 +3,7 @@ type: speaker
 brand: Bowers & Wilkins
 model: 705 S3
 slug: bowers-wilkins-705-s3
+category: bookshelf
 status: current
 price_usd_pair: 3800
 price_checked: 2026-10-11

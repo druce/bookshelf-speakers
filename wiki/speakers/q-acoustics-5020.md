@@ -3,6 +3,7 @@ type: speaker
 brand: Q Acoustics
 model: 5020
 slug: q-acoustics-5020
+category: bookshelf
 status: current
 price_usd_pair: 1199
 price_checked: 2026-10-11

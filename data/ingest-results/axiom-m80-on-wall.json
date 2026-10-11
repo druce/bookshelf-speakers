@@ -1,0 +1,31 @@
+{
+ "slug": "axiom-m80-on-wall",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Axiom",
+ "brand_slug": "axiom",
+ "model": "M80 On-wall",
+ "verdict": "out-of-scope",
+ "reason": "Maker rates the M80 on-wall 4 ohm ('4-ohm audiophile speakers'); fails the 6/8 ohm rule.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 2298,
+ "price_source": "https://www.axiomaudio.com/m80-on-wall-speaker",
+ "tier_ab_available": null,
+ "evidence": [
+  "https://www.axiomaudio.com/m80-on-wall-speaker"
+ ],
+ "brand_notes": "Axiom lists seven on-wall models on https://www.axiomaudio.com/in-wall-on-wall-speakers (M2 $648, M3 $748, M5 $998, M60 $1,898, M80 $2,298 per pair; VP100/VP180 centers). Marketed as 'preserves sound of its bookshelf equivalent'; 'on-wall only'; quick-connect power bracket; no wall-voicing statement. 30-day in-home trial, 5-year warranty. No Tier A/B measurement of any on-wall Axiom found (SoundStage/NRC measured only older bookshelf M2i/M3Ti/M22Ti/M40Ti; HomeTheaterShack single-room in-room test of M3 v3 on-wall is not Tier B).",
+ "raw_saved": [
+  "raw/manufacturer/mfr-axiom-m80-on-wall.md"
+ ],
+ "pages_created": [],
+ "index_line": null,
+ "source_index_lines": [],
+ "takeaways": [],
+ "conflicts": [],
+ "log_bullets": [
+  "axiom-m80-on-wall: out-of-scope - Maker rates the M80 on-wall 4 ohm ('4-ohm audiophile speakers'); fails the 6/8 ohm rule."
+ ]
+}

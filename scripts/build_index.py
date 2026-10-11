@@ -92,8 +92,9 @@ def main():
             speakers.append(f)
     out.append(f"## Speakers ({len(speakers)})")
     out.append("Key: nominal impedance, listening-window deviation, anechoic f3, sensitivity, Olive preference score "
-               "(no sub/with sub), impedance flag, street price per pair. Discontinued models are listed separately.")
-    cur = [s for s in speakers if s.get("status") != "discontinued"]
+               "(no sub/with sub), impedance flag, street price per pair. Bookshelf speakers by price band; on-wall speakers and discontinued models are listed separately.")
+    onwall = [s for s in speakers if s.get("category") == "on-wall" and s.get("status") != "discontinued"]
+    cur = [s for s in speakers if s.get("status") != "discontinued" and s.get("category", "bookshelf") != "on-wall"]
     for lo, hi, label in BANDS:
         rows = [s for s in cur if s.get("price_usd_pair") is not None and lo <= float(s["price_usd_pair"]) < hi]
         out += ["", f"### {label} ({len(rows)})"]
@@ -101,6 +102,9 @@ def main():
     nop = [s for s in cur if s.get("price_usd_pair") is None]
     if nop:
         out += ["", f"### Price unknown ({len(nop)})"] + [speaker_line(s) for s in nop]
+    if onwall:
+        out += ["", f"### On-wall category ({len(onwall)}) — ranked separately, see [[on-wall-speakers]]"]
+        out += [speaker_line(s) for s in sorted(onwall, key=lambda s: float(s.get("price_usd_pair") or 0))]
     disc = [s for s in speakers if s.get("status") == "discontinued"]
     if disc:
         out += ["", f"### Discontinued (reference only, {len(disc)})"] + [speaker_line(s) for s in disc]

@@ -3,6 +3,7 @@ type: speaker
 brand: Triangle
 model: Borea BR03
 slug: triangle-borea-br03
+category: bookshelf
 status: current
 price_usd_pair: 599
 price_checked: 2026-10-11

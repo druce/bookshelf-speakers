@@ -3,6 +3,7 @@ type: speaker
 brand: Q Acoustics
 model: 3020i
 slug: q-acoustics-3020i
+category: bookshelf
 status: current
 price_usd_pair: 349.96
 price_checked: 2026-10-11

@@ -1,0 +1,26 @@
+{
+ "slug": "leon-speakers-horizon-hz-series",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Leon Speakers",
+ "brand_slug": "leon-speakers",
+ "model": "Horizon Hz series",
+ "verdict": "out-of-scope",
+ "reason": "Custom-built-to-order, TV-width soundbar-style LCR/L-R bars ($2,000-$11,450), impedance 4-8 ohm varies by model (Hz55UX 8 ohm); no fixed standard model, no Tier A/B",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.leonspeakers.com/residential/solution/tv-speakers",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.leonspeakers.com/residential/solution/tv-speakers?products_by_series=96",
+  "https://www.leonspeakers.com/residential/solution/tv-speakers/hz55ux"
+ ],
+ "brand_notes": "Leon Hz (Horizon) and FrameBar lines are made to order to TV dimensions; Hz/Hz33/FrameBar-UX L/R 6 ohm, Hz44 L/R 6 C 4, Hz55UX 8 ohm. Treated as custom soundbars (excluded).",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Leon Speakers Horizon Hz series (on-wall): out-of-scope - Custom-built-to-order, TV-width soundbar-style LCR/L-R bars ($2,000-$11,450), impedance 4-8 ohm varies by model (Hz55UX 8 ohm); no fixed standard model, no Tier A/B"
+ ]
+}

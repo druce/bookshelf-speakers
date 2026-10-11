@@ -3,6 +3,7 @@ type: speaker
 brand: PSB
 model: Imagine B50
 slug: psb-imagine-b50
+category: bookshelf
 status: current
 price_usd_pair: 999
 price_checked: 2026-10-11

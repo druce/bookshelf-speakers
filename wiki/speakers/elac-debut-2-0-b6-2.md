@@ -3,6 +3,7 @@ type: speaker
 brand: Elac
 model: Debut 2.0 B6.2
 slug: elac-debut-2-0-b6-2
+category: bookshelf
 status: current
 price_usd_pair: 374
 price_checked: 2026-10-11

@@ -3,6 +3,7 @@ type: speaker
 brand: JBL
 model: Stage 250B
 slug: jbl-stage-250b
+category: bookshelf
 status: current
 price_usd_pair: 440
 price_checked: 2026-10-11

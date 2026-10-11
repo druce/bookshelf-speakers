@@ -1,13 +1,13 @@
 ---
 type: comparison
 slug: impedance-honesty
-summary: 66 of 83 measured speakers fall below the IEC floor for their rating; 30 are effectively 4 Ω loads
+summary: 67 of 84 measured speakers fall below the IEC floor for their rating; 30 are effectively 4 Ω loads
 generated_by: scripts/rank.py
 last_updated: 2026-10-11
 ---
 # Impedance honesty: rated vs measured
 
-Measured minimum impedance against each manufacturer's rating, for 83 current speakers with a measured minimum. **66 of 83** fall below the IEC 60268-5 floor of 80% of their rating, and **30** dip below 4.0 Ω (`effectively-4ohm`). Of the 8 Ω-rated models, 48 of 57 are below the floor and 23 are effectively 4 Ω. Of the 6 Ω-rated models, 18 of 26 are below the floor and 7 are effectively 4 Ω. Many minima are graph-read (approximate). See each speaker page and [impedance-and-epdr](../concepts/impedance-and-epdr.md). Sorted from lowest minimum up.
+Measured minimum impedance against each manufacturer's rating, for 84 current speakers with a measured minimum. **67 of 84** fall below the IEC 60268-5 floor of 80% of their rating, and **30** dip below 4.0 Ω (`effectively-4ohm`). Of the 8 Ω-rated models, 49 of 58 are below the floor and 23 are effectively 4 Ω. Of the 6 Ω-rated models, 18 of 26 are below the floor and 7 are effectively 4 Ω. Many minima are graph-read (approximate). See each speaker page and [impedance-and-epdr](../concepts/impedance-and-epdr.md). Sorted from lowest minimum up.
 
 | Speaker | Rated Ω | Measured min Ω | IEC floor | Flag | EPDR min Ω |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@ Measured minimum impedance against each manufacturer's rating, for 83 current sp
 | [Acoustic Energy AE100 Mk2](../speakers/acoustic-energy-ae100-mk2.md) | 6 | 4.7 | 4.8 | below-iec | 2.5 |
 | [Bowers & Wilkins 705 S3 Signature](../speakers/bowers-wilkins-705-s3-signature.md) | 8 | 4.7 | 6.4 | below-iec | 2.2 |
 | [Dynaudio Special Forty](../speakers/dynaudio-special-forty.md) | 6 | 4.9 | 4.8 | — | 2.5 |
+| [Focal On Wall 302](../speakers/focal-on-wall-302.md) (on-wall) | 8 | 4.9 | 6.4 | below-iec | — |
 | [Revel M126Be](../speakers/revel-m126be.md) | 8 | 4.9 | 6.4 | below-iec | 3.0 |
 | [Focal Sopra N°1](../speakers/focal-sopra-n1.md) | 8 | 5.0 | 6.4 | below-iec | — |
 | [Fyne Audio F500SP](../speakers/fyne-audio-f500sp.md) | 8 | 5.0 | 6.4 | below-iec | 2.3 |

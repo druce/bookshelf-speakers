@@ -3,6 +3,7 @@ type: speaker
 brand: Fluance
 model: Reference XL8S
 slug: fluance-reference-xl8s
+category: bookshelf
 status: current
 price_usd_pair: 179.99
 price_checked: 2026-10-11

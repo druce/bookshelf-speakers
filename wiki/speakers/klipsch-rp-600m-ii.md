@@ -3,6 +3,7 @@ type: speaker
 brand: Klipsch
 model: RP-600M II
 slug: klipsch-rp-600m-ii
+category: bookshelf
 status: current
 price_usd_pair: 700
 price_checked: 2026-10-11

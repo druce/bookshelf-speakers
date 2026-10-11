@@ -3,6 +3,7 @@ type: speaker
 brand: Dayton Audio
 model: OPAL1
 slug: dayton-audio-opal1
+category: bookshelf
 status: current
 price_usd_pair: 499
 price_checked: 2026-10-11

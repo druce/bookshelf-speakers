@@ -3,6 +3,7 @@ type: speaker
 brand: NHT
 model: C3
 slug: nht-c3
+category: bookshelf
 status: current
 price_usd_pair: 1250
 price_checked: 2026-10-11

@@ -3,6 +3,7 @@ type: speaker
 brand: Revel
 model: M106
 slug: revel-m106
+category: bookshelf
 status: current
 price_usd_pair: 2200
 price_checked: 2026-10-11

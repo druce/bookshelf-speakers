@@ -1,0 +1,28 @@
+{
+ "slug": "jbl-scs-8",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "JBL",
+ "brand_slug": "jbl",
+ "model": "SCS 8",
+ "verdict": "out-of-scope",
+ "reason": "JBL Professional spatially cued cinema surround, 8-inch coaxial, ~300 mm cube, ~$800 each; surround-only, not L/R. Tier A (Erin) exists",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.fullcompass.com/prod/281167-jbl-scs-8-8-spatially-cued-surround-speaker",
+ "tier_ab_available": true,
+ "raw_saved": [
+  "raw/measurements/eac-jbl-scs-8.md"
+ ],
+ "evidence": [
+  "https://jblpro.com/en-US/products/scs-8",
+  "https://www.erinsaudiocorner.com/loudspeakers/jbl_scs8/"
+ ],
+ "brand_notes": "JBL Pro SCS 8 (Erin's Audio Corner Klippel, saved as raw/measurements/eac-jbl-scs-8.md) is a spatially-cued cinema surround. SLP12/T and SLP14/T are JBL Professional commercial low-profile on-walls (70V/100V transformer with direct 8 ohm switch); vendor GLL data only (Tier C).",
+ "index_line": null,
+ "log_bullets": [
+  "Screened JBL SCS 8 (on-wall): out-of-scope - JBL Professional spatially cued cinema surround, 8-inch coaxial, ~300 mm cube, ~$800 each; surround-only, not L/R. Tier A (Erin) exists"
+ ]
+}

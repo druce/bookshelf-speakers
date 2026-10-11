@@ -3,6 +3,7 @@ type: speaker
 brand: Wharfedale
 model: Super Denton
 slug: wharfedale-super-denton
+category: bookshelf
 status: current
 price_usd_pair: 1499
 price_checked: 2026-10-11

@@ -3,6 +3,7 @@ type: speaker
 brand: Klipsch
 model: RP-500M II
 slug: klipsch-rp-500m-ii
+category: bookshelf
 status: current
 price_usd_pair: 400
 price_checked: 2026-10-11

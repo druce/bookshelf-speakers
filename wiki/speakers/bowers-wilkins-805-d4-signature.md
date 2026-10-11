@@ -3,6 +3,7 @@ type: speaker
 brand: Bowers & Wilkins
 model: 805 D4 Signature
 slug: bowers-wilkins-805-d4-signature
+category: bookshelf
 status: current
 price_usd_pair: 14000
 price_checked: 2026-10-11

@@ -1,0 +1,25 @@
+{
+ "slug": "bose-no-on-wall-model",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Bose",
+ "brand_slug": "bose",
+ "model": "(no on-wall model)",
+ "verdict": "out-of-scope",
+ "reason": "No passive on-wall L/R found on current lineup (outdoor/in-wall/active only); not exhaustively verified",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.bose.com/",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.bose.com/"
+ ],
+ "brand_notes": "Bose: not exhaustively checked.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Bose on-wall lineup: none in scope - No passive on-wall L/R found on current lineup (outdoor/in-wall/active only); not exhaustively verified"
+ ]
+}

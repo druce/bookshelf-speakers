@@ -3,6 +3,7 @@ type: speaker
 brand: Paradigm
 model: Founder 40B
 slug: paradigm-founder-40b
+category: bookshelf
 status: current
 price_usd_pair: 2399.98
 price_checked: 2026-10-11

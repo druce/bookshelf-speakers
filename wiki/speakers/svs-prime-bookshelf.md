@@ -3,6 +3,7 @@ type: speaker
 brand: SVS
 model: Prime Bookshelf
 slug: svs-prime-bookshelf
+category: bookshelf
 status: current
 price_usd_pair: 699
 price_checked: 2026-10-11

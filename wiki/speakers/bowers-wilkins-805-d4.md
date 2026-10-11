@@ -3,6 +3,7 @@ type: speaker
 brand: Bowers & Wilkins
 model: 805 D4
 slug: bowers-wilkins-805-d4
+category: bookshelf
 status: current
 price_usd_pair: 10000
 price_checked: 2026-10-11

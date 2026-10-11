@@ -3,6 +3,7 @@ type: speaker
 brand: Focal
 model: Sopra N°1
 slug: focal-sopra-n1
+category: bookshelf
 status: current
 price_usd_pair: 12998
 price_checked: 2026-10-11

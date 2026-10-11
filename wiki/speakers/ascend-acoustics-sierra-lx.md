@@ -3,6 +3,7 @@ type: speaker
 brand: Ascend Acoustics
 model: Sierra-LX
 slug: ascend-acoustics-sierra-lx
+category: bookshelf
 status: current
 price_usd_pair: 1598
 price_checked: 2026-10-11

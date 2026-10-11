@@ -3,6 +3,7 @@ type: speaker
 brand: Revel
 model: M126Be
 slug: revel-m126be
+category: bookshelf
 status: current
 price_usd_pair: 4400
 price_checked: 2026-10-11

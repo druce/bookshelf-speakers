@@ -1,0 +1,25 @@
+{
+ "slug": "jbl-slp14-t",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "JBL",
+ "brand_slug": "jbl",
+ "model": "SLP14/T",
+ "verdict": "out-of-scope",
+ "reason": "JBL Professional commercial installed-sound on-wall (4-inch, 70V/100V with 8 ohm switch); not marketed for home L/R. Vendor GLL data only",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://jblpro.com/en-US/products/slp14-t",
+ "tier_ab_available": false,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.gearclubdirect.com/jbl-slp14-t-200w-low-profile-on-wall-two-way-loudspeaker-sold-in-pairs/"
+ ],
+ "brand_notes": "JBL Pro SCS 8 (Erin's Audio Corner Klippel, saved as raw/measurements/eac-jbl-scs-8.md) is a spatially-cued cinema surround. SLP12/T and SLP14/T are JBL Professional commercial low-profile on-walls (70V/100V transformer with direct 8 ohm switch); vendor GLL data only (Tier C).",
+ "index_line": null,
+ "log_bullets": [
+  "Screened JBL SLP14/T (on-wall): out-of-scope - JBL Professional commercial installed-sound on-wall (4-inch, 70V/100V with 8 ohm switch); not marketed for home L/R. Vendor GLL data only"
+ ]
+}

@@ -3,6 +3,7 @@ type: speaker
 brand: Ascend Acoustics
 model: Sierra-1 V2
 slug: ascend-acoustics-sierra-1-v2
+category: bookshelf
 status: current
 price_usd_pair: 998
 price_checked: 2026-10-11

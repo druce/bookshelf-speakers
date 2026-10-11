@@ -1,0 +1,25 @@
+{
+ "slug": "origin-acoustics-no-on-wall-model",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Origin Acoustics",
+ "brand_slug": "origin-acoustics",
+ "model": "(no on-wall model)",
+ "verdict": "out-of-scope",
+ "reason": "Origin lists in-wall/in-ceiling, outdoor, and InstaWidth soundbars; no on-wall L/R",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.originacoustics.com",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.originacoustics.com"
+ ],
+ "brand_notes": "Origin: Composer LCR are in-wall; surface-mount items are soundbars (excluded).",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Origin Acoustics on-wall lineup: none in scope - Origin lists in-wall/in-ceiling, outdoor, and InstaWidth soundbars; no on-wall L/R"
+ ]
+}

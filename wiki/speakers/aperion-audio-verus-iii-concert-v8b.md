@@ -3,6 +3,7 @@ type: speaker
 brand: Aperion Audio
 model: Verus III Concert V8B
 slug: aperion-audio-verus-iii-concert-v8b
+category: bookshelf
 status: current
 price_usd_pair: 1549
 price_checked: 2026-10-11

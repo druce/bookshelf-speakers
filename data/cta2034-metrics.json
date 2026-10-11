@@ -1329,6 +1329,27 @@
    "spdi_10k_db": 8.5
   }
  },
+ "Infinity RS152": {
+  "asr": {
+   "method": "scripts/cta2034.py v2 (1/6-oct smoothing; LW ref 300 Hz-10 kHz)",
+   "ref_level_db": 79.5,
+   "sensitivity_db_2v83": 76.5,
+   "lw_deviation_db": 9.2,
+   "on_axis_deviation_db": 9.6,
+   "f3_hz": 62,
+   "f6_hz": 56,
+   "lw_dip_above_f3_db": null,
+   "lw_dip_above_f3_hz": null,
+   "hor_beamwidth_deg": 35,
+   "ver_beamwidth_deg": 132,
+   "erdi_max_residual_db": 9.0,
+   "di_smoothness": "major-discontinuity",
+   "er_dip_1_5khz_db": 1.2,
+   "on_minus_lw_4_10k_db": 0.9,
+   "spdi_1k_db": -6.8,
+   "spdi_10k_db": 4.0
+  }
+ },
  "JBL 4309": {
   "asr": {
    "method": "scripts/cta2034.py v2 (1/6-oct smoothing; LW ref 300 Hz-10 kHz)",
@@ -1535,6 +1556,27 @@
    "on_minus_lw_4_10k_db": 0.4,
    "spdi_1k_db": 5.4,
    "spdi_10k_db": 7.2
+  }
+ },
+ "JBL SCS 8": {
+  "eac": {
+   "method": "scripts/cta2034.py v2 (1/6-oct smoothing; LW ref 300 Hz-10 kHz)",
+   "ref_level_db": 89.5,
+   "sensitivity_db_2v83": 89.4,
+   "lw_deviation_db": 3.5,
+   "on_axis_deviation_db": 5.7,
+   "f3_hz": 84,
+   "f6_hz": 76,
+   "lw_dip_above_f3_db": null,
+   "lw_dip_above_f3_hz": null,
+   "hor_beamwidth_deg": 112,
+   "ver_beamwidth_deg": 109,
+   "erdi_max_residual_db": 2.2,
+   "di_smoothness": "major-discontinuity",
+   "er_dip_1_5khz_db": 4.0,
+   "on_minus_lw_4_10k_db": -0.7,
+   "spdi_1k_db": 7.0,
+   "spdi_10k_db": 9.2
   }
  },
  "JBL Stage 250B": {
@@ -1920,6 +1962,27 @@
    "on_minus_lw_4_10k_db": 0.8,
    "spdi_1k_db": 5.9,
    "spdi_10k_db": 8.1
+  }
+ },
+ "KEF T101": {
+  "asr": {
+   "method": "scripts/cta2034.py v2 (1/6-oct smoothing; LW ref 300 Hz-10 kHz)",
+   "ref_level_db": 88.4,
+   "sensitivity_db_2v83": 87.7,
+   "lw_deviation_db": 4.6,
+   "on_axis_deviation_db": 4.5,
+   "f3_hz": 193,
+   "f6_hz": 164,
+   "lw_dip_above_f3_db": null,
+   "lw_dip_above_f3_hz": null,
+   "hor_beamwidth_deg": 136,
+   "ver_beamwidth_deg": 101,
+   "erdi_max_residual_db": 2.2,
+   "di_smoothness": "major-discontinuity",
+   "er_dip_1_5khz_db": 5.3,
+   "on_minus_lw_4_10k_db": 0.4,
+   "spdi_1k_db": 5.6,
+   "spdi_10k_db": 9.6
   }
  },
  "Klipsch R41M": {

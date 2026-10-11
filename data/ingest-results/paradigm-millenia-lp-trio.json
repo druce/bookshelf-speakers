@@ -1,0 +1,29 @@
+{
+ "slug": "paradigm-millenia-lp-trio",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Paradigm",
+ "brand_slug": "paradigm",
+ "model": "Millenia LP Trio",
+ "verdict": "out-of-scope",
+ "reason": "Single three-channel (L/C/R in one enclosure) on-wall bar, not an L/R pair; impedance not found.",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.paradigm.com/en/lcr/millenia-lp-2 (listing, $1,149.99)",
+ "tier_ab_available": null,
+ "evidence": [
+  "https://www.paradigm.com/en/lcr/millenia-lp-2"
+ ],
+ "brand_notes": "Paradigm US lineup of on-wall LCR models (paradigm.com/en/lcr): Millenia LP 2 ($599.99 each), Millenia LP XL ($799.99 each), Millenia LP Trio ($1,149.99, single 3-channel enclosure); original Millenia LP page says 'Discontinued' ($499 each, 8 ohm). All Millenia on-walls are 1.6-1.75 in deep with included bracket and table stands, 2nd-order crossover at 2.6 kHz. HomeTheaterHifi (2015) says Paradigm designed LP 2/LP XL to work best on a wall and avoid dramatic boundary gain, but the maker page does not say it. Only LP 2 has independent measurements (hobbyist Tier B + spinorama.org).",
+ "raw_saved": [],
+ "pages_created": [],
+ "index_line": null,
+ "source_index_lines": [],
+ "takeaways": [],
+ "conflicts": [],
+ "log_bullets": [
+  "paradigm-millenia-lp-trio: out-of-scope - Single three-channel (L/C/R in one enclosure) on-wall bar, not an L/R pair; impedance not found."
+ ]
+}

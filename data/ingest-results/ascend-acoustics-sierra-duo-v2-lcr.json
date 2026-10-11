@@ -1,0 +1,32 @@
+{
+ "slug": "ascend-acoustics-sierra-duo-v2-lcr",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Ascend Acoustics",
+ "brand_slug": "ascend-acoustics",
+ "model": "Sierra Duo V2 LCR (Ribbon / Titan)",
+ "verdict": "no-tier-ab",
+ "reason": "Borderline scope: Ascend markets it as an LCR main/center that 'delivers outstanding performance as a premium on-wall solution', but it is a 6 in deep (16.25x5.75x6 in) bamboo box with two 1/4-20 inserts, no bracket included, stand-alone as a vertical main. 8 ohm, $1,688/pair. Only vendor Klippel (Tier C) spinorama exists; no Tier A/B.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1688,
+ "price_source": "https://www.ascendacoustics.com/collections/all/products/duov2-lcr-pair",
+ "tier_ab_available": false,
+ "evidence": [
+  "https://www.ascendacoustics.com/collections/all/products/duov2-lcr-pair",
+  "https://www.spinorama.org/speakers/Ascend%20Acoustics%20Sierra%20Duo%20V2%20LCR%20Ribbon/Ascend%20Acoustics/vendor/"
+ ],
+ "brand_notes": "Ascend lists Sierra Series Centers incl. Duo V2 Center; Duo V2 LCR pair offers RAAL ribbon or Titan dome tweeter; NFS-optimized V2; 89 dB in-room / 86 dB anechoic claimed; wall use is a secondary application and the coordinator may prefer to keep it in the bookshelf/LCR bucket. Existing ascend-acoustics pages in wiki: sierra-1-v2, sierra-lx, cbm-170-se2.",
+ "raw_saved": [
+  "raw/manufacturer/mfr-ascend-acoustics-sierra-duo-v2-lcr.md"
+ ],
+ "pages_created": [],
+ "index_line": null,
+ "source_index_lines": [],
+ "takeaways": [],
+ "conflicts": [],
+ "log_bullets": [
+  "ascend-acoustics-sierra-duo-v2-lcr: no-tier-ab - Borderline scope: Ascend markets it as an LCR main/center that 'delivers outstanding performance as a premium on-wall solution', but it is a 6 in deep (16.25x5.75x6 in) bamboo box with two 1/4-20 inserts, no bracket included, stand-alone as a vertical main. 8 ohm, $1,688/pair. Only vendor Klippel (Tier C) spinorama exists; no Tier A/B."
+ ]
+}

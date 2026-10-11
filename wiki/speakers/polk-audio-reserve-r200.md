@@ -3,6 +3,7 @@ type: speaker
 brand: Polk Audio
 model: Reserve R200
 slug: polk-audio-reserve-r200
+category: bookshelf
 status: current
 price_usd_pair: 639
 price_checked: 2026-10-11

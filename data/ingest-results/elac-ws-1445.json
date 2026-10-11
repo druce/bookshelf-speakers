@@ -1,0 +1,25 @@
+{
+ "slug": "elac-ws-1445",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "ELAC",
+ "brand_slug": "elac",
+ "model": "WS 1445",
+ "verdict": "out-of-scope",
+ "reason": "Rated 4 (min 4.9) ohm nominal on maker page, not 6/8",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://elac.com/ws-1445",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://elac.com/ws-1445"
+ ],
+ "brand_notes": "ELAC on-wall page lists: Debut 2.0 DOW42 (6 ohm, surround), Muro OW-V41S (6 ohm 4-inch surround) and OW-V41L (8 ohm dual 4-inch LCR), Vertex III OW-VJ63S/M/L (4 ohm), WS line WS1425/1445/1465/1645/1665 (4-5 ohm). Only Muro OW-V41L is both 6/8 ohm and LCR-class. No Tier A/B found for any.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened ELAC WS 1445 (on-wall): out-of-scope - Rated 4 (min 4.9) ohm nominal on maker page, not 6/8"
+ ]
+}

@@ -2,7 +2,7 @@
 
 The raw documents behind this wiki are kept locally and are **not** in the public repo, because they are copies of third-party reviews, forum posts and manufacturer pages. This manifest records what each file was, and where it came from. Paths match the `raw:` fields on `wiki/sources/*` pages.
 
-## raw/measurements/ (158)
+## raw/measurements/ (162)
 
 | File | Title | URL | Fetched |
 |---|---|---|---|
@@ -33,6 +33,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | asr-natural-sound-ns17.md | Natural Sound NS17 Review (Speaker) | https://www.audiosciencereview.com/forum/index.php?threads/natural-sound-ns17-review-speaker.25251/ | 2026-10-11 |
 | asr-nht-c3.md | NHT C3 Review (3-way speaker) | https://www.audiosciencereview.com/forum/index.php?threads/nht-c3-review-3-way-speaker.20287/ | 2026-10-11 |
 | asr-nht-super-zero-2-1.md | NHT Super Zero 2.1 Review (bookshelf speaker) | https://www.audiosciencereview.com/forum/index.php?threads/nht-super-zero-2-1-review-bookshelf-speaker.18643/ | 2026-10-11 |
+| asr-paradigm-millenia-lp-2.md | Paradigm Millenia LP 2 Review & Measurements | https://www.audiosciencereview.com/forum/index.php?threads/paradigm-millenia-lp-2-review-measurements.47312/ | 2026-10-11 |
 | asr-paradigm-monitor-se-atom.md | Paradigm Monitor SE Atom Speaker Review | https://www.audiosciencereview.com/forum/index.php?threads/paradigm-monitor-se-atom-speaker-review.17837/ | 2026-10-11 |
 | asr-polk-audio-signature-elite-es20.md | Polk Signature Elite ES20 Review (Bookshelf Speaker) | https://www.audiosciencereview.com/forum/index.php?threads/polk-signature-elite-es20-review-bookshelf-speaker.33834/ | 2026-10-11 |
 | asr-polk-audio-t15.md | Polk T15 Bookshelf Speaker Review | https://www.audiosciencereview.com/forum/index.php?threads/polk-t15-bookshelf-speaker-review.11720/ | 2026-10-11 |
@@ -55,6 +56,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | asr-wilson-audio-tunetot.md | Wilson Audio TuneTot Review (high-end bookshelf speaker) | https://www.audiosciencereview.com/forum/index.php?threads/wilson-audio-tunetot-review-high-end-bookshelf-speaker.29219/ | 2026-10-11 |
 | asr-xsa-labs-vanguard.md | XSA Labs Vanguard Speaker Review | https://www.audiosciencereview.com/forum/index.php?threads/xsa-labs-vanguard-speaker-review.46629/ | 2026-10-11 |
 | audioholics-dayton-audio-opal1.md | Dayton Audio OPAL1 Bookshelf Loudspeaker Review | https://www.audioholics.com/bookshelf-speaker-reviews/dayton-audio-opal1 | 2026-10-11 |
+| audioholics-focal-on-wall-302.md | Focal 302 On-Wall Speaker Review | https://www.audioholics.com/outdoor-speaker-reviews/focal-302-on-wall | 2026-10-11 |
 | audioholics-focal-sopra-n1.md | Focal Sopra N°1 Bookshelf & Center Speaker Review: Looks that Kill! | https://www.audioholics.com/bookshelf-speaker-reviews/focal-sopra-nb01/focal-sopra-nb01-conclusion | 2026-10-11 |
 | audioholics-focal-theva-n1.md | Focal Theva No.1 Bookshelf Loudspeaker Review | https://www.audioholics.com/bookshelf-speaker-reviews/focal-theva-no.1 | 2026-10-11 |
 | audioholics-hsu-research-ccb-8.md | Hsu Research CCB-8 Bookshelf Speaker Review | https://www.audioholics.com/bookshelf-speaker-reviews/ccb-8-bookshelf/measurements | 2026-10-11 |
@@ -85,6 +87,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | eac-elac-uni-fi-reference-ubr62.md | ELAC UBR62 Speaker Review | https://www.erinsaudiocorner.com/loudspeakers/elac_ubr62/ | 2026-10-11 |
 | eac-jamo-c93-ii.md | Jamo C93 II Speaker Review | https://www.erinsaudiocorner.com/loudspeakers/jamo_c93_ii/ | 2026-10-11 |
 | eac-jamo-s7-15b.md | Jamo S7-15B Bookshelf Speaker Review | https://www.erinsaudiocorner.com/loudspeakers/jamo_s7_15b | 2026-10-11 |
+| eac-jbl-scs-8.md | JBL SCS 8 Speaker Review | https://www.erinsaudiocorner.com/loudspeakers/jbl_scs8/ | 2026-10-11 |
 | eac-jbl-stage-250b.md | JBL Stage 250B Speaker Review | https://www.erinsaudiocorner.com/loudspeakers/jbl_250b/ | 2026-10-11 |
 | eac-kef-ls50-meta.md | KEF LS50 Meta Bookshelf Speaker Review | https://www.erinsaudiocorner.com/loudspeakers/kef_ls50_meta/ | 2026-10-11 |
 | eac-kef-q150.md | Kef Q150 Bookshelf Speaker Review | https://www.erinsaudiocorner.com/loudspeakers/kef_q150/ | 2026-10-11 |
@@ -145,6 +148,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | soundstage-nrc-revel-m126be.md | SoundStage! Network | https://www.soundstagenetwork.com/index.php?option=com_content&view=article&id=2128:nrc-measurements-revel-performabe-m126be-loudspeakers&catid=77:loudspeaker-measurements&Itemid=153 | 2026-10-11 |
 | soundstage-nrc-triangle-esprit-comete-40th.md | SoundStage! Network | https://www.soundstagenetwork.com/index.php?option=com_content&view=article&id=2614:nrc-measurements-triangle-40th-anniversary-comete-loudspeakers&catid=77:loudspeaker-measurements&Itemid=153 | 2026-10-11 |
 | soundstage-triangle-borea-br03-nrc.md | SoundStage! Access / SoundStageAccess.com (GoodSound.com) - Making the French Connection - | https://www.soundstageaccess.com/index.php/feature-articles/1066-making-the-french-connection-the-triangle-borea-br03-and-focal-chora-806-speakers-sounds-explained-through-measurements | 2026-10-11 |
+| spinorama-paradigm-millenia-lp-2.md | spinorama.org: Paradigm Millenia LP 2 (Misc/matthews) | https://www.spinorama.org/speakers/Paradigm%20Millenia%20LP%202/Misc/index_misc-matthews.html | 2026-10-11 |
 | stereophile-atc-scm11.md | ATC SCM 11 loudspeaker Measurements / Stereophile.com | https://stereophile.com/content/atc-scm-11-loudspeaker-measurements | 2026-10-11 |
 | stereophile-atc-scm7.md | ATC SCM7 v.3 loudspeaker Measurements / Stereophile.com | https://www.stereophile.com/content/atc-scm7-v3-loudspeaker-measurements | 2026-10-11 |
 | stereophile-bowers-wilkins-705-s3.md | Bowers & Wilkins 705 S3 loudspeaker Measurements / Stereophile.com | https://stereophile.com/content/bowers-wilkins-705-s3-loudspeaker-measurements | 2026-10-11 |
@@ -165,7 +169,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | stereophile-svs-ultra-evolution-bookshelf.md | SVS Ultra Evolution Bookshelf loudspeaker & SB-3000 R/Evolution subwoofer Measurements / S | https://stereophile.com/content/svs-ultra-evolution-bookshelf-loudspeaker-sb-3000-revolution-subwoofer-measurements | 2026-10-11 |
 | stereophile-totem-acoustic-signature-one.md | Totem Acoustic Signature One loudspeaker Measurements / Stereophile.com | https://www.stereophile.com/content/totem-acoustic-signature-one-loudspeaker-measurements | 2026-10-11 |
 
-## raw/reviews-critic/ (165)
+## raw/reviews-critic/ (167)
 
 | File | Title | URL | Fetched |
 |---|---|---|---|
@@ -218,6 +222,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | hifitrends-polk-audio-xt20.md | Polk Monitor XT20 Review: These Budget Audiophile Bookshelf Speakers Are Spellbinding! - H | https://hifitrends.com/2022/04/07/polk-monitor-xt20-bookshelf-speakers-review-these-budget-audiophile-bookshelf-speakers-are-spellbinding/ | 2026-10-11 |
 | hometheaterhifi-fluance-hfs-signature.md | Fluance Signature Series HiFi Two-Way Bookshelf Surround Sound Speakers Review | https://hometheaterhifi.com/reviews/speaker/surround-sound-speaker-systems-reviews/fluance-signature-series-hifi-two-way-bookshelf-surround-sound-speakers-review/ | 2026-10-11 |
 | hometheaterhifi-fluance-reference-xl8s.md | Fluance XL8 Home Theater System Review | https://hometheaterhifi.com/reviews/speaker/surround-sound-speaker-systems-reviews/fluance-xl8-home-theater-system-review/ | 2026-10-11 |
+| hometheaterhifi-paradigm-millenia-lp-2.md | Paradigm Millenia LP XL and LP 2 Speakers and Seismic 110 Subwoofer Review - HomeTheaterHi | https://hometheaterhifi.com/reviews/speaker/floor-standing/paradigm-millenia-lp-xl-and-lp-2-seismic-110-subwoofer-speaker-review/ | 2026-10-11 |
 | hometheaterhifi-revel-m105.md | Revel Performa 3 M105 Bookshelf Speakers - HomeTheaterHifi.com | https://hometheaterhifi.com/reviews/speaker/bookshelf/revel-performa-3-m105-bookshelf-speakers/ | 2026-10-11 |
 | hometheaterhifi-revel-m106.md | Revel PERFORMA3 M106 2-Way Bookshelf Monitor Loudspeaker Review - Part One - HomeTheaterHi | https://hometheaterhifi.com/reviews/speaker/bookshelf/revel-performa3-m106-2-way-bookshelf-monitor-loudspeaker-review-part-one/ | 2026-10-11 |
 | hometheaterhifi-revel-m126be.md | Revel Performa M126Be Bookshelf Speaker Review - HomeTheaterHifi.com | https://hometheaterhifi.com/reviews/speaker/bookshelf/revel-performa-m126be-bookshelf-speaker-review/ | 2026-10-11 |
@@ -237,6 +242,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | soundstage-atc-scm19.md | SoundStage! Xperience / SoundStageXperience.com - ATC SCM19 V2 Loudspeakers | https://www.soundstagexperience.com/index.php/wesworld-menu/feature-articles-reviews-menu/757-atc-scm19-v2-loudspeakers | 2026-10-11 |
 | soundstage-dynaudio-special-forty.md | SoundStage! Hi-Fi / SoundStageHiFi.com - Dynaudio Special Forty Loudspeakers | https://www.soundstagehifi.com/index.php/equipment-reviews/1124-dynaudio-special-forty-loudspeakers | 2026-10-11 |
 | soundstage-focal-kanta-n1.md | SoundStage! Hi-Fi / SoundStageHiFi.com - Focal Kanta No1 Loudspeakers | https://soundstagehifi.com/index.php/equipment-reviews/1284-focal-kanta-no1-loudspeakers | 2026-10-11 |
+| soundstage-focal-on-wall-302.md | SoundStage! Hi-Fi / SoundStageHiFi.com - Movie Night, Music Night with the Focal On Wall 3 | https://www.soundstagehifi.com/index.php/system-one/1692-movie-night-music-night-with-the-focal-on-wall-302-loudspeaker | 2026-10-11 |
 | soundstage-focal-sopra-n1.md | SoundStage! Hi-Fi / SoundStageHiFi.com - Focal Sopra No1 Loudspeakers | https://soundstagehifi.com/index.php/equipment-reviews/1379-focal-sopra-no1-loudspeakers | 2026-10-11 |
 | soundstage-nht-c3.md | SoundStage! Access: NHT C 3 Carbon Fiber Loudspeakers (review by Diego Estan) | https://soundstageaccess.com/index.php/equipment-reviews/1035-nht-c3-carbon-fiber-loudspeakers | 2026-10-11 |
 | soundstage-paradigm-monitor-se-atom.md | SoundStage! Access: Paradigm Monitor SE Atom Loudspeakers | https://www.soundstageaccess.com/index.php/equipment-reviews/902-paradigm-monitor-se-atom-loudspeakers | 2026-10-11 |
@@ -335,7 +341,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | whathifi-triangle-borea-br03.md | Triangle Borea BR03 review | https://www.whathifi.com/reviews/triangle-borea-br03 | 2026-10-11 |
 | witchdoctor-psb-imagine-b50.md | PSB Imagine B50 bookshelf speakers receive rave review - Witchdoctor | https://www.witchdoctor.co.nz/2025/psb-imagine-b50-bookshelf-speakers-receive-rave-review/ | 2026-10-11 |
 
-## raw/reviews-user/ (92)
+## raw/reviews-user/ (93)
 
 | File | Title | URL | Fetched |
 |---|---|---|---|
@@ -412,6 +418,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | users-neumi-silk-4-2026-10-11.md | User reports: Neumi Silk 4 (clip) |  | 2026-10-11 |
 | users-nht-c3-2026-10-11.md | User reports: NHT C3 |  | 2026-10-11 |
 | users-nht-super-zero-2-1-2026-10-11.md | User reports: NHT SuperZero 2.1 |  | 2026-10-11 |
+| users-paradigm-millenia-lp-2-2026-10-11.md | User notes: Paradigm Millenia LP 2 |  | 2026-10-11 |
 | users-paradigm-monitor-se-atom-2026-10-11.md | User reports: Paradigm Monitor SE Atom |  | 2026-10-11 |
 | users-polk-audio-reserve-r100-2026-10-11.md | User reports: Polk Audio Reserve R100 |  | 2026-10-11 |
 | users-polk-audio-reserve-r200-2026-10-11.md | User reports: Polk Audio Reserve R200 |  | 2026-10-11 |
@@ -432,7 +439,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | users-wharfedale-super-denton-2026-10-11.md | User reports: Wharfedale Super Denton |  | 2026-10-11 |
 | users-xsa-labs-vanguard-2026-10-11.md | User/forum reactions: XSA Labs Vanguard |  | 2026-10-11 |
 
-## raw/manufacturer/ (292)
+## raw/manufacturer/ (304)
 
 | File | Title | URL | Fetched |
 |---|---|---|---|
@@ -453,6 +460,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | mfr-ascend-acoustics-sierra-1-v2.md | SIERRA-1 V2 PAIR | https://www.ascendacoustics.com/products/sierra-1-v2-pair | 2026-10-11 |
 | mfr-ascend-acoustics-sierra-2ex-v2.md | SIERRA-2EX V2 PAIR | https://www.ascendacoustics.com/products/sierra-2ex-v2-pair | 2026-10-11 |
 | mfr-ascend-acoustics-sierra-collection.md | Sierra Series Pairs | https://www.ascendacoustics.com/collections/sierra-series-pairs | 2026-10-11 |
+| mfr-ascend-acoustics-sierra-duo-v2-lcr.md | DUO V2 LCR PAIR | https://www.ascendacoustics.com/collections/all/products/duov2-lcr-pair | 2026-10-11 |
 | mfr-ascend-acoustics-sierra-lx.md | SIERRA-LX PAIR | https://www.ascendacoustics.com/products/sierra-lx-pair | 2026-10-11 |
 | mfr-atc-scm11.md | SCM11 - ATC Loudspeakers | https://atc.audio/hi-fi/loudspeakers/entry-series/scm11/ | 2026-10-11 |
 | mfr-atc-scm19.md | SCM19 - ATC Loudspeakers | https://atc.audio/hi-fi/loudspeakers/entry-series/scm19/ | 2026-10-11 |
@@ -461,9 +469,14 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | mfr-audio-craftsmen-victoria.md | Victoria speakers by Pahmer Audio | https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria | 2026-10-11 |
 | mfr-audioadvisor-elac-debut-reference-dbr-62.md | ELAC DBR62 Debut Reference Bookshelf Speakers / Audio Advisor | https://www.audioadvisor.com/products/elac-dbr62-debut | 2026-10-11 |
 | mfr-avantone-pro-cla-10.md | Avantone Pro CLA-10 Passive - Classic Reference Studio Monitor System | https://www.proaudiodesign.com/products/avantone-pro-cla-10-passive-classic-reference-studio-monitor-system | 2026-10-11 |
+| mfr-axiom-m2-on-wall.md | M2 On-wall Speaker | https://www.axiomaudio.com/m2-on-wall-speaker | 2026-10-11 |
 | mfr-axiom-m2-v4.md | M2 Bookshelf Speakers | https://www.axiomaudio.com/m2-bookshelf-speakers | 2026-10-11 |
+| mfr-axiom-m3-on-wall.md | M3 On-wall Speakers | https://www.axiomaudio.com/m3-on-wall-speaker | 2026-10-11 |
 | mfr-axiom-m3.md | M3 Bookshelf Speakers | https://www.axiomaudio.com/m3-bookshelf-speakers | 2026-10-11 |
+| mfr-axiom-m5-on-wall.md | M5 On-Wall | https://www.axiomaudio.com/m5-on-wall | 2026-10-11 |
 | mfr-axiom-m5.md | M5 Bookshelf Speakers | https://www.axiomaudio.com/m5-bookshelf-speakers | 2026-10-11 |
+| mfr-axiom-m60-on-wall.md | M60 On-wall Speakers | https://www.axiomaudio.com/m60-on-wall-speaker | 2026-10-11 |
+| mfr-axiom-m80-on-wall.md | M80 On-wall Speakers | https://www.axiomaudio.com/m80-on-wall-speaker | 2026-10-11 |
 | mfr-bic-america-venturi-dv62si.md | Venturi DV62si bookshelf speakers / BIC America | https://www.bicamerica.com/products/dv62si | 2026-10-11 |
 | mfr-bowers-wilkins-606-s3.md | 606 S3 - Performance 600 Series stand mount speakers / Bowers & Wilkins - United States | https://www.bowerswilkins.com/en-us/product/loudspeakers/600-series/606-s3/300660.html | 2026-10-11 |
 | mfr-bowers-wilkins-607-s3.md | 607 S3 - Performance Compact bookshelf speakers / Bowers & Wilkins - United States | https://www.bowerswilkins.com/en-us/product/loudspeakers/600-series/607-s3/300661.html | 2026-10-11 |
@@ -520,6 +533,8 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | mfr-focal-dome-flax-listenup.md | Focal Dôme Flax - Ultra compact Satellite Speaker - Clearance / Open Box | https://listenup.com/products/focal-dome-flax-ultra-compact-satellite-speaker-clearance-open-box | 2026-10-11 |
 | mfr-focal-kanta-n1-upscale.md | Focal Kanta No1 Loudspeakers (each) | https://upscaleaudio.com/products/focal-kanta-no1-loudspeakers-each | 2026-10-11 |
 | mfr-focal-kanta-n1.md | Focal Kanta No. 1 Bookshelf Speakers | https://tmraudio.com/products/focal-kanta-no-1-bookshelf-speaker | 2026-10-11 |
+| mfr-focal-on-wall-301.md | Focal On Wall 301 product page | https://www.focal.com/en/products/on-wall-301 | 2026-10-11 |
+| mfr-focal-on-wall-302.md | Focal On Wall 302 product page | https://www.focal.com/en/products/on-wall-302 | 2026-10-11 |
 | mfr-focal-sopra-n1.md | Focal Sopra No. 1 2-Way High-End Bookshelf Speakers | https://tmraudio.com/products/focal-sopra-no-1-2-way-bookshelf-speakers | 2026-10-11 |
 | mfr-focal-theva-n1.md | Focal Theva No.1 specs (World Wide Stereo retailer page; Focal page 404) | https://www.worldwidestereo.com/products/focal-theva-no-1-2-way-bass-reflex-bookshelf-loudspeakers-pair-light-wood | 2026-10-11 |
 | mfr-focal-vestia-n1.md | Focal Vestia No.1 specs (World Wide Stereo; Focal page 404) | https://www.worldwidestereo.com/products/focal-vestia-no-1-2-way-bass-reflex-bookshelf-loudspeaker-pair-light-wood | 2026-10-11 |
@@ -600,6 +615,7 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | mfr-paradigm-cinema-100.md | Paradigm Cinema 100 2.0 System (manufacturer page) | https://www.paradigm.com/en/systems/cinema-100 | 2026-10-11 |
 | mfr-paradigm-founder-40b.md | Paradigm Founder 40B (manufacturer page) | https://www.paradigm.com/en/passive/founder-40b | 2026-10-11 |
 | mfr-paradigm-founder-70lcr.md | Paradigm Founder 70LCR (manufacturer page) | https://www.paradigm.com/en/passive/founder-70lcr | 2026-10-11 |
+| mfr-paradigm-millenia-lp-2.md | Paradigm Millenia LP 2 (manufacturer product page) | https://www.paradigm.com/en/lcr/millenia-lp-2 | 2026-10-11 |
 | mfr-paradigm-monitor-se-atom.md | Paradigm Monitor SE Atom (manufacturer page) | https://www.paradigm.com/en/passive/monitor-se-atom | 2026-10-11 |
 | mfr-paradigm-persona-b.md | Paradigm Persona B specifications | https://www.paradigm.com/en/passive/persona-b | 2026-10-11 |
 | mfr-paradigm-premier-200b.md | Premier 200B | https://www.paradigm.com/en/passive/premier-200b | 2026-10-11 |
@@ -723,13 +739,16 @@ The raw documents behind this wiki are kept locally and are **not** in the publi
 | retailer-ascilab-f6b.md | ASCILAB F6B Bookshelf Speakers White (Pair) | https://www.audiophonics.fr/en/passive-speakers-and-subwoofer/ascilab-f6b-white-p-20914.html | 2026-10-11 |
 | retailer-ascilab-f6bs.md | ASCILAB F6BS Bookshelf Speakers White / Black Grill (Pair) | https://www.audiophonics.fr/en/passive-speakers-and-subwoofer/ascilab-f6bs-white-black-grill-p-21605.html | 2026-10-11 |
 | retailer-atc-scm11.md | ATC SCM11 Passive Loudspeakers / USA Tube Audio | https://www.usatubeaudio.com/product/speakers/atc-scm11/ | 2026-10-11 |
+| retailer-audioadvisor-martinlogan-motion-slm-xl.md | MartinLogan Motion SLM XL Left/Center/Right Speaker / Audio Advisor | https://www.audioadvisor.com/products/martinlogan-motion-slm-xl-left-center-right-speaker-gloss-black-each | 2026-10-11 |
+| retailer-audioadvisor-martinlogan-motion-slm.md | MartinLogan Motion SLM Left/Center/Right Speaker / Audio Advisor | https://www.audioadvisor.com/products/martinlogan-motion-slm-left-center-right-speaker-gloss-black-each | 2026-10-11 |
 | retailer-audioadvisor-psb-imagine-b50.md | PSB Imagine B50 Bookshelf Speakers - Pair / Audio Advisor | https://www.audioadvisor.com/products/psb-imagine-b50-bookshelf-speakers-satin | 2026-10-11 |
 | retailer-audioadvisor-psb-synchrony-b600.md | PSB Synchrony B600 Premium Bookshelf Speaker - Satin / Audio Advisor | https://audioadvisor.com/pbsyb600-satwal | 2026-10-11 |
 | retailer-audiovisionsf-triangle-signature-theta.md | Triangle Signature Theta Bookshelf Loudspeakers (PAIR) (available to demo) | https://www.audiovisionsf.com/products/triangle-signature-theta-bookshelf-loudspeakers | 2026-10-11 |
+| retailer-skyby-kef-t101.md | KEF T101 Ultra-Thin Satellite Speakers (Pair) | https://skybygramophone.com/collections/kef-t-series/products/kef-t101-ultra-thin-satellite-speakers-pair | 2026-10-11 |
 | stereophile-spec-svs-ultra-evolution-bookshelf.md | SVS Ultra Evolution Bookshelf loudspeaker & SB-3000 R/Evolution subwoofer Specifications / | https://stereophile.com/content/svs-ultra-evolution-bookshelf-loudspeaker-sb-3000-revolution-subwoofer-specifications | 2026-10-11 |
 | stereophile-specs-bowers-wilkins-705-s3.md | Bowers & Wilkins 705 S3 loudspeaker Specifications / Stereophile.com | https://www.stereophile.com/content/bowers-wilkins-705-s3-loudspeaker-specifications | 2026-10-11 |
 
-## raw/assets/ (298)
+## raw/assets/ (304)
 
 Graphs downloaded from the source pages above (impedance, distortion, compression). Each file name starts with its source slug.
 
@@ -777,6 +796,10 @@ Graphs downloaded from the source pages above (impedance, distortion, compressio
 - asr-nht-super-zero-2-1-impedance.png
 - asr-nht-super-zero-2-1-relthd.png
 - asr-nht-super-zero-2-1-thd.png
+- asr-paradigm-millenia-lp-2-cta2034.png
+- asr-paradigm-millenia-lp-2-nearfield.png
+- asr-paradigm-millenia-lp-2-thd.png
+- asr-paradigm-millenia-lp-2-thd2.png
 - asr-paradigm-monitor-se-atom-impedance.png
 - asr-paradigm-monitor-se-atom-thd.png
 - asr-polk-audio-signature-elite-es20-impedance.png
@@ -815,6 +838,8 @@ Graphs downloaded from the source pages above (impedance, distortion, compressio
 - asr-wilson-audio-tunetot-thd.png
 - asr-xsa-labs-vanguard-impedance.png
 - asr-xsa-labs-vanguard-thd.png
+- audioholics-focal-on-wall-302-impedance.png
+- audioholics-focal-on-wall-302-inroom.png
 - audioholics-focal-theva-n1-impedance.png
 - audioholics-focal-theva-n1-spinorama.png
 - audioholics-polk-audio-t15-impedance.png
@@ -1032,7 +1057,7 @@ Graphs downloaded from the source pages above (impedance, distortion, compressio
 - stereophile-svs-ultra-evolution-bookshelf-fig09.jpg
 - stereophile-totem-acoustic-signature-one-impedance.jpg
 
-## raw/spinorama/ (190 measurement folders)
+## raw/spinorama/ (193 measurement folders)
 
 Klippel horizontal/vertical SPL exports mirrored by the spinorama.org repository (https://github.com/pierreaubert/spinorama, `datas/measurements/<Speaker>/<key>/`). ASR data is © Audio Science Review LLC, CC BY-NC-SA 4.0. Re-download with `python3 -I scripts/fetch_spin_raw.py "<Speaker>" <key>`. The metadata export `spinorama-metadata-2026-10-11.json` *is* included in the repo.
 
@@ -1100,6 +1125,7 @@ Klippel horizontal/vertical SPL exports mirrored by the spinorama.org repository
 - Hsu Research HB-1 MK2 / asr
 - Hsu Research MFL-6 / asr
 - Human Speakers 81 dk / asr
+- Infinity RS152 / asr
 - JBL 4309 / asr
 - JBL 4312MII / asr
 - JBL 4319 / asr
@@ -1110,6 +1136,7 @@ Klippel horizontal/vertical SPL exports mirrored by the spinorama.org repository
 - JBL L100 Classic MKII / eac
 - JBL L100 Classic MKII / eac-maxed-out
 - JBL L52 Classic / eac
+- JBL SCS 8 / eac
 - JBL Stage 250B / eac
 - JBL Stage A120 / eac
 - JBL Stage A130 / asr
@@ -1129,6 +1156,7 @@ Klippel horizontal/vertical SPL exports mirrored by the spinorama.org repository
 - KEF R3 Meta / eac-v1-sealed-10-degree
 - KEF Reference 1 Meta / eac-long-port
 - KEF Reference 1 Meta / eac-short-port
+- KEF T101 / asr
 - Klipsch R41M / asr
 - Klipsch RP-500M / eac
 - Klipsch RP-500M II / eac

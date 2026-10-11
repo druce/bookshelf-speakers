@@ -1,0 +1,25 @@
+{
+ "slug": "sonance-no-on-wall-model",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Sonance",
+ "brand_slug": "sonance",
+ "model": "(no on-wall model)",
+ "verdict": "out-of-scope",
+ "reason": "Visual Performance VP LCR models are in-wall/in-ceiling (legacy); no surface-mount L/R found",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://avlgear.com/collections/sonance/products/sonance-vp-series-lcr-installable-speaker",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://avlgear.com/collections/sonance/products/sonance-vp-series-lcr-installable-speaker"
+ ],
+ "brand_notes": "Sonance VP62/VP66 LCR in-wall, sold while supplies last.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Sonance on-wall lineup: none in scope - Visual Performance VP LCR models are in-wall/in-ceiling (legacy); no surface-mount L/R found"
+ ]
+}

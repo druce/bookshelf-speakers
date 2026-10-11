@@ -3,6 +3,7 @@ type: speaker
 brand: Hsu Research
 model: CCB-8
 slug: hsu-research-ccb-8
+category: bookshelf
 status: current
 price_usd_pair: 778
 price_checked: 2026-10-11

@@ -3,6 +3,7 @@ type: speaker
 brand: SVS
 model: Ultra Evolution Bookshelf
 slug: svs-ultra-evolution-bookshelf
+category: bookshelf
 status: current
 price_usd_pair: 1199.98
 price_checked: 2026-10-11

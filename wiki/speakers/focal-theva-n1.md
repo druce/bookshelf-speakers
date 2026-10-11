@@ -3,6 +3,7 @@ type: speaker
 brand: Focal
 model: Theva N°1
 slug: focal-theva-n1
+category: bookshelf
 status: current
 price_usd_pair: 1098
 price_checked: 2026-10-11

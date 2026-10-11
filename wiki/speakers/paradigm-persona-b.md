@@ -3,6 +3,7 @@ type: speaker
 brand: Paradigm
 model: Persona B
 slug: paradigm-persona-b
+category: bookshelf
 status: current
 price_usd_pair: 10499.98
 price_checked: 2026-10-11

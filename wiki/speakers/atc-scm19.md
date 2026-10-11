@@ -3,6 +3,7 @@ type: speaker
 brand: ATC
 model: SCM19
 slug: atc-scm19
+category: bookshelf
 status: current
 price_usd_pair: 3749
 price_checked: 2026-10-11

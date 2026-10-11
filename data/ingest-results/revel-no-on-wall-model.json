@@ -1,0 +1,25 @@
+{
+ "slug": "revel-no-on-wall-model",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Revel",
+ "brand_slug": "revel",
+ "model": "(no on-wall model)",
+ "verdict": "out-of-scope",
+ "reason": "Revel lists in-wall (Performa3 W/C) only; no on-wall passive L/R",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.revelspeakers.com/in-wall/",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.revelspeakers.com/in-wall/"
+ ],
+ "brand_notes": "Revel: in-wall W553L etc. only.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Revel on-wall lineup: none in scope - Revel lists in-wall (Performa3 W/C) only; no on-wall passive L/R"
+ ]
+}

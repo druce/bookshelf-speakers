@@ -1,0 +1,32 @@
+{
+ "slug": "axiom-m3-on-wall",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Axiom",
+ "brand_slug": "axiom",
+ "model": "M3 On-wall",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (passive, 8 ohm per maker spec table, on-wall only with bracket, woofer <=6.5in, sold direct) but no Tier A/B measurement of the on-wall model exists.",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 748,
+ "price_source": "https://www.axiomaudio.com/m3-on-wall-speaker",
+ "tier_ab_available": false,
+ "evidence": [
+  "https://www.axiomaudio.com/m3-on-wall-speaker"
+ ],
+ "brand_notes": "Axiom lists seven on-wall models on https://www.axiomaudio.com/in-wall-on-wall-speakers (M2 $648, M3 $748, M5 $998, M60 $1,898, M80 $2,298 per pair; VP100/VP180 centers). Marketed as 'preserves sound of its bookshelf equivalent'; 'on-wall only'; quick-connect power bracket; no wall-voicing statement. 30-day in-home trial, 5-year warranty. No Tier A/B measurement of any on-wall Axiom found (SoundStage/NRC measured only older bookshelf M2i/M3Ti/M22Ti/M40Ti; HomeTheaterShack single-room in-room test of M3 v3 on-wall is not Tier B). This model: single 6.5\", 345x244x91 mm HxWxD.",
+ "raw_saved": [
+  "raw/manufacturer/mfr-axiom-m3-on-wall.md"
+ ],
+ "pages_created": [],
+ "index_line": null,
+ "source_index_lines": [],
+ "takeaways": [],
+ "conflicts": [],
+ "log_bullets": [
+  "axiom-m3-on-wall: no-tier-ab - In scope (passive, 8 ohm per maker spec table, on-wall only with bracket, woofer <=6.5in, sold direct) but no Tier A/B measurement of the on-wall model exists."
+ ],
+ "note": "Maker rates 8 ohm; M60 on-wall claims +/-3 dB 55 Hz-20 kHz, M5 55 Hz-20 kHz"
+}

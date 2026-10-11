@@ -3,6 +3,7 @@ type: speaker
 brand: Dynaudio
 model: Emit 20
 slug: dynaudio-emit-20
+category: bookshelf
 status: current
 price_usd_pair: 1049
 price_checked: 2026-10-11

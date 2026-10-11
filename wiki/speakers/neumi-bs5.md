@@ -3,6 +3,7 @@ type: speaker
 brand: Neumi
 model: BS5
 slug: neumi-bs5
+category: bookshelf
 status: current
 price_usd_pair: null
 price_checked: 2026-10-11

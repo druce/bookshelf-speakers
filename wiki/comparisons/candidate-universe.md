@@ -1,14 +1,16 @@
 ---
 type: comparison
 slug: candidate-universe
-summary: Discover output — 383 models screened, 145 in scope, 89 with Tier A/B data
+summary: Discover output — 445 models screened, 158 in scope, 91 with Tier A/B data
 last_updated: 2026-10-11
 ---
 # Candidate universe
 
 Built by `scripts/build_universe.py` from the [spinorama-org](../sources/spinorama-org.md) passive-bookshelf list (Tier A/B entries), manufacturer lineup sweeps of about 40 brands, and the scope verdicts written by ingest. Ingest verdicts were checked against manufacturer spec pages and US retailers on 2026-10-11. Rows marked "quick pass" were excluded on a first search pass and not re-verified, so treat them as provisional. Scope: passive, rated 6 or 8 Ω, bookshelf or standmount, sold new in the US (Claude.md §2).
 
-**Counts:** 383 screened · 145 in scope · 89 in scope with Tier A/B data.
+**Counts:** 445 screened · 158 in scope · 91 in scope with Tier A/B data.
+
+# Bookshelf / standmount — 383 screened
 
 ## In scope — ingested (speaker page exists) (89)
 
@@ -421,6 +423,98 @@ _None._
 | Selah Audio | Integrity DIY | — | — | y (A) |
 | XMechanik | Mechano23 DIY | — | — | y (A) |
 | Zaph Audio | ZA5.2 | — | — | y (A) |
+
+# On-wall category ([on-wall-speakers](../concepts/on-wall-speakers.md)) — 62 screened
+
+## In scope — ingested (speaker page exists) (2)
+
+| Brand | Model | Price/pr | Rated Ω | Tier A/B data | Sources |
+|---|---|---|---|---|---|
+| Focal | [Focal On Wall 302](../speakers/focal-on-wall-302.md) | $3,498 | 8 | y (A/B) | — |
+| Paradigm | [Paradigm Millenia LP 2](../speakers/paradigm-millenia-lp-2.md) | $1,200 | 8 | y (A/B) | — |
+
+## In scope — no Tier A/B measurement found (11)
+
+| Brand | Model | Price/pr | Rated Ω | Tier A/B data | Note |
+|---|---|---|---|---|---|
+| Ascend Acoustics | Sierra Duo V2 LCR (Ribbon / Titan) | $1,688 | 8 | n | Borderline scope: Ascend markets it as an LCR main/center that 'delivers outstan |
+| Axiom | M2 On-wall | $648 | 8 | n | In scope (passive, 8 ohm per maker spec table, on-wall only with bracket, woofer |
+| Axiom | M3 On-wall | $748 | 8 | n | In scope (passive, 8 ohm per maker spec table, on-wall only with bracket, woofer |
+| Axiom | M5 On-wall | $998 | 8 | n | In scope (passive, 8 ohm per maker spec table, on-wall only with bracket, woofer |
+| Axiom | M60 On-wall | $1,898 | 8 | n | In scope (passive, 8 ohm per maker spec table, on-wall only with bracket, woofer |
+| ELAC | Muro OW-V41L | — | 8 | n | In scope (8 ohm, dual 4" passive-radiator sealed, 648x198x86 mm, ELAC lit sheet  |
+| Focal | On Wall 301 | $2,198 | 8 | n | In scope (8 ohm, 800x155x90 mm slim on-wall, maker says center, left or right; c |
+| Monitor Audio | Bronze On-Wall 7G | $998 | 8 | n | In scope (8 ohm, 465x300x135 mm, stereo or surround, current) but no Tier A/B me |
+| Monitor Audio | Radius On-Wall 4G | $1,298 | 8 | n | In scope (8 ohm, 750x154x78 mm, marketed around TV screens; usable LCR) but no T |
+| Monitor Audio | Silver On-Wall 8G | $1,300 | 8 | n | In scope (8 ohm, 465x300x135 mm, LCR-capable per maker, current) but no Tier A/B |
+| Paradigm | Millenia LP XL | $1,600 | 8 | n | In scope (8 ohm per maker page, on-wall with bracket, 4.5in drivers, ~$1,600/pai |
+
+## Not yet verified (0)
+
+_None._
+
+## Discontinued (excluded from rankings) (4)
+
+| Brand | Model | Price/pr | Rated Ω | Tier A/B data | Successor |
+|---|---|---|---|---|---|
+| Definitive Technology | Mythos Gem | — | — | n | — |
+| KEF | T101 | — | 8 | y (A/B) | — |
+| KEF | T301 | — | — | n | — |
+| Paradigm | Millenia LP | — | 8 | n | paradigm-millenia-lp-2 |
+
+## Out of scope (impedance, form factor, powered) (45)
+
+| Brand | Model | Price/pr | Rated Ω | Tier A/B data | Reason |
+|---|---|---|---|---|---|
+| Andersson | (no on-wall model) | — | — | n | No Andersson on-wall speaker product found in searches of US sources (no evidence URL; bra |
+| Atlantic Technology | LCR2 | — | 6 | n | Small sealed 3.5-inch satellite (204x120x127 mm, 6 ohm) sold in Bookshelf collection; no d |
+| Atlantic Technology | LCR3 | — | 6 | n | Small sealed dual-3.5-inch satellite (284x120x127 mm, 6 ohm) sold in Bookshelf collection; |
+| Axiom | M80 On-wall | $2,298 | 4 | n | Maker rates the M80 on-wall 4 ohm ('4-ohm audiophile speakers'); fails the 6/8 ohm rule. |
+| Axiom | VP100 / VP180 On-wall Center | — | — | n | Center-channel models, skipped per task unless marketed as L/R; not checked further. |
+| Bose | (no on-wall model) | — | — | n | No passive on-wall L/R found on current lineup (outdoor/in-wall/active only); not exhausti |
+| Bowers & Wilkins | (no on-wall model) | — | — | n | B&W US site offers only in-wall/in-ceiling (CWM/CCM) and no passive on-wall L/R model |
+| Definitive Technology | Mythos LCR-65 | — | 4 | n | Rated 4 ohm nominal ('8 ohm compatible') per retailer listings; playbook treats 4 ohm as o |
+| Definitive Technology | Mythos LCR-75 | — | 4 | n | Rated 4 ohm nominal ('8 ohm compatible') per retailer listings; playbook treats 4 ohm as o |
+| Definitive Technology | Mythos LCR-85 | — | 4 | n | Rated 4 ohm nominal ('8 ohm compatible') per retailer listings; playbook treats 4 ohm as o |
+| ELAC | Debut 2.0 DOW42 | $279 | 6 | n | Marketed for side or rear surround installation (Debut OW4.2); not an L/R main. 6 ohm, 4"  |
+| ELAC | Muro OW-V41S | — | 6 | n | ELAC lit sheet calls it a 4-inch Surround Speaker (6 ohm); positioned as surround companio |
+| ELAC | Vertex III OW-VJ63L | — | 4 | n | Rated 4 ohm nominal (1184 mm tall, 97 mm deep) |
+| ELAC | Vertex III OW-VJ63M | — | 4 | n | Rated 4 ohm nominal (852 mm tall, 97 mm deep) |
+| ELAC | Vertex III OW-VJ63S | — | 4 | n | Rated 4 ohm nominal (520 mm tall, 97 mm deep) |
+| ELAC | WS 1425 | — | 4 | n | Rated 4 (min 3.2) ohm nominal on maker page, not 6/8 |
+| ELAC | WS 1445 | — | 4 | n | Rated 4 (min 4.9) ohm nominal on maker page, not 6/8 |
+| ELAC | WS 1465 | — | 5 | n | Rated 5 (min 4.3) ohm nominal on maker page, not 6/8 |
+| ELAC | WS 1645 | — | 4 | n | Rated 4 (min 3.9) ohm nominal on maker page, not 6/8 |
+| ELAC | WS 1665 | — | 5 | n | Rated 5 (min 4.3) ohm nominal on maker page, not 6/8 |
+| Episode (SnapAV) | (no on-wall model) | — | — | n | Episode Core/Signature are in-wall/in-ceiling; no on-wall L/R found |
+| JBL | SCS 8 | — | — | y (A/B) | JBL Professional spatially cued cinema surround, 8-inch coaxial, ~300 mm cube, ~$800 each; |
+| JBL | SLP12/T | — | 8 | n | JBL Professional commercial installed-sound on-wall (3-inch, 70V/100V with 8 ohm switch);  |
+| JBL | SLP14/T | — | 8 | n | JBL Professional commercial installed-sound on-wall (4-inch, 70V/100V with 8 ohm switch);  |
+| Klipsch | RP-502S II | — | 8 | n | Marketed as surround (and Atmos on-wall elevation) speaker, 8 ohm; not an L/R on-wall |
+| Klipsch | RW-1 | — | — | n | Wireless/powered (Klipsch Stream) on-wall speaker - active |
+| Leon Speakers | Horizon Hz series | — | 8 | n | Custom-built-to-order, TV-width soundbar-style LCR/L-R bars ($2,000-$11,450), impedance 4- |
+| MartinLogan | Motion SLM | — | 4 | n | Maker/retailers rate nominal impedance 4 ohm (compatible with 4, 6, 8 ohm amps); fails the |
+| MartinLogan | Motion SLM XL | $1,280 | 4 | n | Rated 4 ohm nominal (Audio Advisor, Abt); fails the 6/8 ohm rule. 34.1x6.4x1.89 in on-wall |
+| Monitor Audio | Gold On-Wall 6G | — | 4 | n | Rated 4 ohm nominal on maker's US on-wall list |
+| Origin Acoustics | (no on-wall model) | — | — | n | Origin lists in-wall/in-ceiling, outdoor, and InstaWidth soundbars; no on-wall L/R |
+| Paradigm | Millenia LP Trio | — | — | n | Single three-channel (L/C/R in one enclosure) on-wall bar, not an L/R pair; impedance not  |
+| Polk Audio | Monitor XT35 | — | — | y (A/B) | Sold as slim center channel ('High-Resolution Slim Center Channel'); wall-mountable but no |
+| Polk Audio | OWM3 | $199 | 8 | n | Marketed as compact multi-application on-wall surround/desktop speaker, not a main L/R (8  |
+| Polk Audio | Reserve R350 | — | — | n | Slim center/LCR with feet, min impedance 3.9 ohm, compatible 4/6/8 ohm; not designed as on |
+| Polk Audio | Signature Elite ES10 | — | — | n | Wall-mountable satellite/surround module (Polk category: satellite & surround) |
+| Polk Audio | Signature Elite ES35 | — | 8 | n | Sold as slim center channel (Polk category: Center Channel); wall-mountable and 'L/C/R' fl |
+| Q Acoustics | (no on-wall model) | — | — | n | Q Install QI range is in-wall (QI LCR 65RP 8 ohm is cut-in); no on-wall L/R |
+| Revel | (no on-wall model) | — | — | n | Revel lists in-wall (Performa3 W/C) only; no on-wall passive L/R |
+| Sonance | (no on-wall model) | — | — | n | Visual Performance VP LCR models are in-wall/in-ceiling (legacy); no surface-mount L/R fou |
+| SVS | (no on-wall model) | — | — | n | SVS lists Elevation (Atmos modules) only; no on-wall L/R |
+| Theory Audio | SB210AW | — | 4 | n | 4 ohm / 70-100V, DSP-controller required, dual 10-inch woofers (exceeds 8 inch) |
+| Theory Audio | SB25AW | — | 4 | n | 4 ohm / 70-100V, DSP-controller required, weather-resistant pro surface mount |
+| Triad | OnWall Bronze LCR | — | — | n | Rated 4 ohm per dealer spec sheet (89 dB); Gold OnWall impedance not found; Triad Silver S |
+| Wharfedale | Evo4.S | — | 8 | n | Wall-mountable surround satellite (8 ohm, keyhole), listed as no longer available at one d |
+
+## DIY designs and kits (listed, not ranked) (0)
+
+_None._
 
 ## Related
 [overview](../overview.md) · [spinorama-org](../sources/spinorama-org.md) · [active-alternatives](../concepts/active-alternatives.md)

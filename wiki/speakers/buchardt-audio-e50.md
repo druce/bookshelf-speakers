@@ -3,6 +3,7 @@ type: speaker
 brand: Buchardt Audio
 model: E50
 slug: buchardt-audio-e50
+category: bookshelf
 status: current
 price_usd_pair: 4300
 price_checked: 2026-10-11

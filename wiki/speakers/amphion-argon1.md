@@ -3,6 +3,7 @@ type: speaker
 brand: Amphion
 model: Argon1
 slug: amphion-argon1
+category: bookshelf
 status: current
 price_usd_pair: 1919
 price_checked: 2026-10-11

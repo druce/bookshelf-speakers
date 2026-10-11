@@ -3,6 +3,7 @@ type: speaker
 brand: KEF
 model: LS50 Meta
 slug: kef-ls50-meta
+category: bookshelf
 status: current
 price_usd_pair: 1600
 price_checked: 2026-10-11

@@ -1,0 +1,25 @@
+{
+ "slug": "wharfedale-evo4-s",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Wharfedale",
+ "brand_slug": "wharfedale",
+ "model": "Evo4.S",
+ "verdict": "out-of-scope",
+ "reason": "Wall-mountable surround satellite (8 ohm, keyhole), listed as no longer available at one dealer; surround not L/R",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.crutchfield.com/p_336EVO4SBK/Wharfedale-EVO4-S-Black.html",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.stereonet.com/news/wharfedale-evo4-series-loudspeakers"
+ ],
+ "brand_notes": "No dedicated on-wall L/R model found in Wharfedale US lineup (EVO4.S is surround).",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Wharfedale Evo4.S (on-wall): out-of-scope - Wall-mountable surround satellite (8 ohm, keyhole), listed as no longer available at one dealer; surround not L/R"
+ ]
+}

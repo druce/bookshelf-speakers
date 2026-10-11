@@ -3,6 +3,7 @@ type: speaker
 brand: Ascend Acoustics
 model: CBM-170 SE2
 slug: ascend-acoustics-cbm-170-se2
+category: bookshelf
 status: current
 price_usd_pair: 468
 price_checked: 2026-10-11

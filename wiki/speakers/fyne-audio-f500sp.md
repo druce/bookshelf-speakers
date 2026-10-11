@@ -3,6 +3,7 @@ type: speaker
 brand: Fyne Audio
 model: F500SP
 slug: fyne-audio-f500sp
+category: bookshelf
 status: current
 price_usd_pair: 1999
 price_checked: 2026-10-11

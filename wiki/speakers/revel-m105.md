@@ -3,6 +3,7 @@ type: speaker
 brand: Revel
 model: M105
 slug: revel-m105
+category: bookshelf
 status: current
 price_usd_pair: 1650
 price_checked: 2026-10-11

@@ -3,6 +3,7 @@ type: speaker
 brand: NHT
 model: Super Zero 2.1
 slug: nht-super-zero-2-1
+category: bookshelf
 status: current
 price_usd_pair: 270
 price_checked: 2026-10-11

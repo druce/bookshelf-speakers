@@ -3,6 +3,7 @@ type: speaker
 brand: Neumi
 model: Silk 4
 slug: neumi-silk-4
+category: bookshelf
 status: current
 price_usd_pair: 190
 price_checked: 2026-10-11

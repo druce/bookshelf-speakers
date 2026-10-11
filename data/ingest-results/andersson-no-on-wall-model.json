@@ -1,0 +1,23 @@
+{
+ "slug": "andersson-no-on-wall-model",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Andersson",
+ "brand_slug": "andersson",
+ "model": "(no on-wall model)",
+ "verdict": "out-of-scope",
+ "reason": "No Andersson on-wall speaker product found in searches of US sources (no evidence URL; brand identity unclear)",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": null,
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [],
+ "brand_notes": "Andersson: no US on-wall product found; brand identity unclear.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Andersson on-wall lineup: none in scope - No Andersson on-wall speaker product found in searches of US sources (no evidence URL; brand identity unclear)"
+ ]
+}

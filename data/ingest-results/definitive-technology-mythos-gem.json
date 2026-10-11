@@ -1,0 +1,25 @@
+{
+ "slug": "definitive-technology-mythos-gem",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Definitive Technology",
+ "brand_slug": "definitive-technology",
+ "model": "Mythos Gem",
+ "verdict": "discontinued",
+ "reason": "Older Mythos satellite (on-wall/shelf, 2x3.5\" + 1\" tweeter); not found in current US lineup (2023 relaunch is LCR/soundbar). Not verified against maker site",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://www.soundandvision.com/content/definitive-technology-mythos-gem-home-theater-speaker-system",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.soundandvision.com/content/definitive-technology-brings-back-mythos-speaker-line"
+ ],
+ "brand_notes": "Def Tech Mythos LCR-65/75/85 (2023 relaunch, IP66 on-wall LCR) are rated 4 ohm nominal (8 ohm compatible) per retailer listings (Rapallo, Audio Tailor, Wave Electronics); Mythos 3C etc. are soundbars. Maker site (definitivetech.com on-wall category) is JS-rendered and was not parsed.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Definitive Technology Mythos Gem (on-wall): discontinued - Older Mythos satellite (on-wall/shelf, 2x3.5\" + 1\" tweeter); not found in current US lineup (2023 relaunch is LCR/soundbar). Not verified against maker site"
+ ]
+}

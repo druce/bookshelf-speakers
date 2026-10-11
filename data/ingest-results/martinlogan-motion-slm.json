@@ -1,0 +1,31 @@
+{
+ "slug": "martinlogan-motion-slm",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "MartinLogan",
+ "brand_slug": "martinlogan",
+ "model": "Motion SLM",
+ "verdict": "out-of-scope",
+ "reason": "Maker/retailers rate nominal impedance 4 ohm (compatible with 4, 6, 8 ohm amps); fails the 6/8 ohm rule. On-wall, 25.3x6.4x1.83 in with bracket, 94 dB claimed.",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.audioadvisor.com/products/martinlogan-motion-slm-left-center-right-speaker-gloss-black-each",
+ "tier_ab_available": null,
+ "evidence": [
+  "https://www.audioadvisor.com/products/martinlogan-motion-slm-left-center-right-speaker-gloss-black-each"
+ ],
+ "brand_notes": "MartinLogan current on-wall line (Motion SLM, SLM XL, SLM X3 bar) is rated 4 ohm; martinlogan.com product URLs for the SLM family returned 404 so confirmed via Audio Advisor and Abt.",
+ "raw_saved": [
+  "raw/manufacturer/retailer-audioadvisor-martinlogan-motion-slm.md"
+ ],
+ "pages_created": [],
+ "index_line": null,
+ "source_index_lines": [],
+ "takeaways": [],
+ "conflicts": [],
+ "log_bullets": [
+  "martinlogan-motion-slm: out-of-scope - Maker/retailers rate nominal impedance 4 ohm (compatible with 4, 6, 8 ohm amps); fails the 6/8 ohm rule. On-wall, 25.3x6.4x1.83 in with bracket, 94 dB claimed."
+ ]
+}

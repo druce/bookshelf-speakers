@@ -3,6 +3,7 @@ type: speaker
 brand: Cambridge Audio
 model: SX-60
 slug: cambridge-audio-sx-60
+category: bookshelf
 status: current
 price_usd_pair: 329
 price_checked: 2026-10-11

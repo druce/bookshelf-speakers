@@ -3,6 +3,7 @@ type: speaker
 brand: Polk Audio
 model: Signature Elite ES20
 slug: polk-audio-signature-elite-es20
+category: bookshelf
 status: current
 price_usd_pair: 399
 price_checked: 2026-10-11

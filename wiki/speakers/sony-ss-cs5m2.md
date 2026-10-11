@@ -3,6 +3,7 @@ type: speaker
 brand: Sony
 model: SS-CS5M2
 slug: sony-ss-cs5m2
+category: bookshelf
 status: current
 price_usd_pair: 250
 price_checked: 2026-10-11

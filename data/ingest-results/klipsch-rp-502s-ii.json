@@ -1,0 +1,26 @@
+{
+ "slug": "klipsch-rp-502s-ii",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Klipsch",
+ "brand_slug": "klipsch",
+ "model": "RP-502S II",
+ "verdict": "out-of-scope",
+ "reason": "Marketed as surround (and Atmos on-wall elevation) speaker, 8 ohm; not an L/R on-wall",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.audioadvisor.com/products/klipsch-reference-premiere-rp-502s-ii-surround-sound-speakers",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.klipsch.com/custom-install/on-wall",
+  "https://www.audioadvisor.com/products/klipsch-reference-premiere-rp-502s-ii-surround-sound-speakers"
+ ],
+ "brand_notes": "Klipsch US 'on-wall' custom-install page lists only soundbars (Heritage Theater Bar) and the RW-1 wireless (active) speaker. Reference Premiere RP-502S II is a surround with keyhole.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Klipsch RP-502S II (on-wall): out-of-scope - Marketed as surround (and Atmos on-wall elevation) speaker, 8 ohm; not an L/R on-wall"
+ ]
+}

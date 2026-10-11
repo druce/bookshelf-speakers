@@ -1,0 +1,57 @@
+{
+ "slug": "focal-on-wall-302",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Focal",
+ "brand_slug": "focal",
+ "model": "On Wall 302",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 3498,
+ "price_source": "https://www.audioadvice.com/focal-on-wall-302-on-wall-speaker and https://upscaleaudio.com/products/focal-on-wall-302-wall-mounted-loudspeaker-each ($1,749 each, both showing sold out/unavailable 2026-10-11; focal.com still lists it)",
+ "tier_ab_available": true,
+ "pages_created": [
+  "wiki/speakers/focal-on-wall-302.md",
+  "wiki/sources/mfr-focal-on-wall-302.md",
+  "wiki/sources/audioholics-focal-on-wall-302.md",
+  "wiki/sources/soundstage-focal-on-wall-302.md"
+ ],
+ "raw_saved": [
+  "raw/manufacturer/mfr-focal-on-wall-302.md",
+  "raw/manufacturer/mfr-focal-on-wall-301.md",
+  "raw/measurements/audioholics-focal-on-wall-302.md",
+  "raw/assets/audioholics-focal-on-wall-302-impedance.png",
+  "raw/assets/audioholics-focal-on-wall-302-inroom.png",
+  "raw/reviews-critic/soundstage-focal-on-wall-302.md"
+ ],
+ "evidence": [
+  "https://www.focal.com/en/products/on-wall-302",
+  "https://www.audioholics.com/outdoor-speaker-reviews/focal-302-on-wall",
+  "https://www.soundstagehifi.com/index.php/system-one/1692-movie-night-music-night-with-the-focal-on-wall-302-loudspeaker"
+ ],
+ "index_line": "- [[focal-on-wall-302]] \u2014 8 ohm, 1.25 m x 90 mm deep, in-room 88.0 dB (claimed 91), min Z about 4.9 ohm graph-read (Audioholics, Tier B partial)",
+ "source_index_lines": [
+  "- [[audioholics-focal-on-wall-302]] \u2014 Audioholics review with in-room sensitivity and impedance, 2025-04-23 (Tier B, electrical only)",
+  "- [[soundstage-focal-on-wall-302]] \u2014 SoundStage! listening review, 2022-08-01 (Tier D)",
+  "- [[mfr-focal-on-wall-302]] \u2014 Focal product page (Tier C)"
+ ],
+ "brand_notes": "Focal On Wall 300 series: 301 (2x4\", 87 dB claimed, ~$1,099 each) and 302 (4x4\", 91 dB claimed, $1,749 each). Slim flax-driver on-walls, also stand-mountable via $499/pair stands. 302 measured 88.0 dB in-room and ~4.9 ohm min (audioholics-focal-on-wall-302). Retail stock of 302 thin (sold out at Audio Advice/Upscale). No wall-voicing claim from Focal.",
+ "takeaways": [
+  "Only independent data is Audioholics in-room 1 m sensitivity (88.0 dB vs 91 dB claimed) and impedance (min ~4.9 ohm, graph-read) - no spinorama",
+  "In-room response is not usable for LW deviation or f3; bass reads usable to ~50 Hz in-room",
+  "Both critic sources recommend it but say a subwoofer is needed below ~50 Hz",
+  "Price per speaker is $1,749, so ~$3,498 per pair"
+ ],
+ "conflicts": [
+  "Sensitivity 91 dB claimed vs 88.0 dB measured in-room",
+  "Min impedance 5 ohm (Focal) vs 3.5 ohm (Audioholics spec box) vs ~4.9 ohm graph-read"
+ ],
+ "log_bullets": [
+  "Created speakers/focal-on-wall-302, sources/mfr-focal-on-wall-302, sources/audioholics-focal-on-wall-302, sources/soundstage-focal-on-wall-302",
+  "Conflict: claimed 91 dB vs in-room 88.0 dB; min Z flagged below-iec (graph-read ~4.9 ohm)",
+  "Screened focal-on-wall-301: in scope, no Tier A/B"
+ ]
+}

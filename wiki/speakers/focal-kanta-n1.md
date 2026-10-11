@@ -3,6 +3,7 @@ type: speaker
 brand: Focal
 model: Kanta N°1
 slug: focal-kanta-n1
+category: bookshelf
 status: current
 price_usd_pair: 8598
 price_checked: 2026-10-11

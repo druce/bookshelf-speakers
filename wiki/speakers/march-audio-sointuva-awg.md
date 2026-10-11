@@ -3,6 +3,7 @@ type: speaker
 brand: March Audio
 model: Sointuva AWG
 slug: march-audio-sointuva-awg
+category: bookshelf
 status: current
 price_usd_pair: 4100
 price_checked: 2026-10-11

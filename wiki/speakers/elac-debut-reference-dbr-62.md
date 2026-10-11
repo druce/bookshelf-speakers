@@ -3,6 +3,7 @@ type: speaker
 brand: Elac
 model: Debut Reference DBR-62
 slug: elac-debut-reference-dbr-62
+category: bookshelf
 status: current
 price_usd_pair: 799
 price_checked: 2026-10-11

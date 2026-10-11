@@ -3,6 +3,7 @@ type: speaker
 brand: Triangle
 model: Esprit Comete 40th
 slug: triangle-esprit-comete-40th
+category: bookshelf
 status: current
 price_usd_pair: 1900
 price_checked: 2026-10-11

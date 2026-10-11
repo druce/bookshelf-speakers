@@ -3,6 +3,7 @@ type: speaker
 brand: Bowers & Wilkins
 model: 705 S3 Signature
 slug: bowers-wilkins-705-s3-signature
+category: bookshelf
 status: current
 price_usd_pair: 5200
 price_checked: 2026-10-11

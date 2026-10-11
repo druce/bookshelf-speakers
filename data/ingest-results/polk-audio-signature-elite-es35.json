@@ -1,0 +1,26 @@
+{
+ "slug": "polk-audio-signature-elite-es35",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Polk Audio",
+ "brand_slug": "polk-audio",
+ "model": "Signature Elite ES35",
+ "verdict": "out-of-scope",
+ "reason": "Sold as slim center channel (Polk category: Center Channel); wall-mountable and 'L/C/R' flexible, 'compatible with 4 and 8 ohm outputs', 24x4x6 in. Borderline; no Tier A/B found",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.polkaudio.com/en-us/product/home-speakers/center-channel/signature-elite-es35/300366.html ($319 each, sale from $399)",
+ "tier_ab_available": false,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.polkaudio.com/en-us/product/home-speakers/center-channel/signature-elite-es35/300366.html",
+  "https://www.worldwidestereo.com/products/polk-audio-signature-elite-es35-slim-center-channel-speaker-black"
+ ],
+ "brand_notes": "Polk on-wall page lists OWM3 ($199/pair, 8 ohm, multi-application surround), Signature Elite ES35 and Monitor XT35 (both slim center channels, wall-mountable, 'compatible with 4 and 8 ohm'), ES10 (surround). Polk has no L/R-marketed on-wall main. Erin's Audio Corner has Klippel data for XT35.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Polk Audio Signature Elite ES35 (on-wall): out-of-scope - Sold as slim center channel (Polk category: Center Channel); wall-mountable and 'L/C/R' flexible, 'compatible with 4 and 8 ohm outputs', 24x4x6 in. Borderline; no Tier A/B found"
+ ]
+}

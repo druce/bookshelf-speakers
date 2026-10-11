@@ -3,6 +3,7 @@ type: speaker
 brand: Totem Acoustic
 model: Bison Monitor
 slug: totem-acoustic-bison-monitor
+category: bookshelf
 status: current
 price_usd_pair: 2300
 price_checked: 2026-10-11

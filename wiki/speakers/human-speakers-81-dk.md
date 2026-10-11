@@ -3,6 +3,7 @@ type: speaker
 brand: Human Speakers
 model: 81 dk
 slug: human-speakers-81-dk
+category: bookshelf
 status: current
 price_usd_pair: 1397
 price_checked: 2026-10-11

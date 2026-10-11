@@ -3,6 +3,7 @@ type: speaker
 brand: Elac
 model: Uni-Fi Reference UBR62
 slug: elac-uni-fi-reference-ubr62
+category: bookshelf
 status: current
 price_usd_pair: 1299
 price_checked: 2026-10-11

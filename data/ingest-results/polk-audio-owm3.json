@@ -1,0 +1,25 @@
+{
+ "slug": "polk-audio-owm3",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Polk Audio",
+ "brand_slug": "polk-audio",
+ "model": "OWM3",
+ "verdict": "out-of-scope",
+ "reason": "Marketed as compact multi-application on-wall surround/desktop speaker, not a main L/R (8 ohm, $199 pair, 4.5\" woofer, keyhole)",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 199,
+ "price_source": "https://www.polkaudio.com/en-us/product/built-in-speakers/on-wall/owm-3/112561.html",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.polkaudio.com/en-us/product/built-in-speakers/on-wall/owm-3/112561.html"
+ ],
+ "brand_notes": "Polk on-wall page lists OWM3 ($199/pair, 8 ohm, multi-application surround), Signature Elite ES35 and Monitor XT35 (both slim center channels, wall-mountable, 'compatible with 4 and 8 ohm'), ES10 (surround). Polk has no L/R-marketed on-wall main. Erin's Audio Corner has Klippel data for XT35.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Polk Audio OWM3 (on-wall): out-of-scope - Marketed as compact multi-application on-wall surround/desktop speaker, not a main L/R (8 ohm, $199 pair, 4.5\" woofer, keyhole)"
+ ]
+}

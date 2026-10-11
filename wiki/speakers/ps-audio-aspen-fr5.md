@@ -3,6 +3,7 @@ type: speaker
 brand: PS Audio
 model: Aspen FR5
 slug: ps-audio-aspen-fr5
+category: bookshelf
 status: current
 price_usd_pair: 3499
 price_checked: 2026-10-11

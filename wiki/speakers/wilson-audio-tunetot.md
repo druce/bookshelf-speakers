@@ -3,6 +3,7 @@ type: speaker
 brand: Wilson Audio
 model: TuneTot
 slug: wilson-audio-tunetot
+category: bookshelf
 status: current
 price_usd_pair: 13545
 price_checked: 2026-10-11

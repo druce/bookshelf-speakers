@@ -1,0 +1,26 @@
+{
+ "slug": "definitive-technology-mythos-lcr-85",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Definitive Technology",
+ "brand_slug": "definitive-technology",
+ "model": "Mythos LCR-85",
+ "verdict": "out-of-scope",
+ "reason": "Rated 4 ohm nominal ('8 ohm compatible') per retailer listings; playbook treats 4 ohm as out",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.wave-electronics.com/definitive-technology-mythos-lcr-85-on-wall-indoor-outdoor-lcr-speaker",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.rapalloav.co.nz/product/definitive-technology-mythos-lcr-ultra-slim-on-wall-speaker/",
+  "https://www.theaudiotailor.com.au/products/definitive-technology-mythos-lcr85-ultra-slim-on-wall-3-way-lcr"
+ ],
+ "brand_notes": "Def Tech Mythos LCR-65/75/85 (2023 relaunch, IP66 on-wall LCR) are rated 4 ohm nominal (8 ohm compatible) per retailer listings (Rapallo, Audio Tailor, Wave Electronics); Mythos 3C etc. are soundbars. Maker site (definitivetech.com on-wall category) is JS-rendered and was not parsed.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Definitive Technology Mythos LCR-85 (on-wall): out-of-scope - Rated 4 ohm nominal ('8 ohm compatible') per retailer listings; playbook treats 4 ohm as out"
+ ]
+}

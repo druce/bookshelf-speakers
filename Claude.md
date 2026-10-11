@@ -42,6 +42,8 @@ A speaker is **in scope** if all hold:
 - **Bookshelf/standmount form factor**: designed for shelf or stand placement, woofer ≤ 8", height ≤ ~18". Desktop monitors count if passive.
 - **Currently sold new** (in production or stocked by authorized retailers as of the ingest date). Discontinued models get `status: discontinued` and are retained for reference but excluded from rankings.
 
+**On-wall category (added 2026-10-11).** A second, separately ranked category: passive speakers designed and marketed by the maker for on-wall mounting as main L/R (or LCR) speakers. They are slim cabinets with a dedicated bracket or keyhole, made to hang flat on a wall. The same impedance (6/8 Ω), woofer (≤ 8") and currently-sold rules apply. There is no height limit. Excluded: in-wall/in-ceiling, dipole/bipole surround-only, Atmos modules, soundbars, active, and ordinary bookshelf speakers that merely have a keyhole (those stay `bookshelf`). Every speaker page has `category: bookshelf | on-wall`. On-wall pages add `wall_voiced` (true only if the maker states boundary compensation). Ingest rules: `scripts/ONWALL-ADDENDUM.md`. Interpretation: [[on-wall-speakers]].
+
 **Impedance honesty check.** IEC 60268-5 allows minimum impedance down to 80% of nominal (6.4 Ω for an 8 Ω rating, 4.8 Ω for a 6 Ω rating). Flag any speaker measuring below 80% of its rated nominal as `impedance_flag: below-iec`, and any measuring below 4.0 Ω minimum as `impedance_flag: effectively-4ohm`. Do not drop them from scope; the human decides.
 
 ---
@@ -78,6 +80,8 @@ type: speaker
 brand: KEF
 model: Q150
 slug: kef-q150
+category: bookshelf        # bookshelf | on-wall
+wall_voiced: null          # on-wall only: true | false | null
 status: current            # current | discontinued
 price_usd_pair: 499        # street price at last check
 price_checked: 2026-10-11
@@ -169,7 +173,7 @@ Append a lint entry to the log with counts of issues found and fixed.
 
 ## 6. index.md, log.md, speakers.csv
 
-**index.md** — sections: Overview, Speakers (grouped by price band: <$300, $300–600, $600–1,200, $1,200–2,500, >$2,500 per pair), Brands, Comparisons, Concepts, Reviewers, Sources. Each line: `- [Name](path) — one-line summary (key metric or two)`.
+**index.md** — sections: Overview, Speakers (bookshelf, grouped by price band; on-wall listed separately: <$300, $300–600, $600–1,200, $1,200–2,500, >$2,500 per pair), Brands, Comparisons, Concepts, Reviewers, Sources. Each line: `- [Name](path) — one-line summary (key metric or two)`.
 
 **log.md** — append-only. Every entry starts with a parseable header:
 ```
@@ -192,6 +196,7 @@ Use these when summarizing or ranking. State them when they drive a conclusion.
 - **Sensitivity (2.83 V/1 m)**: <84 dB low; 84–87 average; 88–90 high; >90 very high.
 - **Distortion**: THD <1% above 100 Hz at 86 dB is clean; note where it rises above 3% at 96 dB.
 - **Preference score**: differences <0.5 are not meaningful; never rank on score alone.
+- **On-wall speakers**: free-field (anechoic/Klippel) bass figures of wall-voiced designs understate in-use bass. Do not apply the f3 labels above to them, and rank on-walls only against each other.
 - Small-sample user reviews (<5) are anecdote; say so.
 
 ---

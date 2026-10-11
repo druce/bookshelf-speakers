@@ -3,6 +3,7 @@ type: speaker
 brand: Dynaudio
 model: Special Forty
 slug: dynaudio-special-forty
+category: bookshelf
 status: current
 price_usd_pair: 3599
 price_checked: 2026-10-11

@@ -1,13 +1,13 @@
 ---
 type: comparison
 slug: sensitivity-claims-vs-measured
-summary: Median measured sensitivity is -2.0 dB vs claim across 85 speakers
+summary: Median measured sensitivity is -2.0 dB vs claim across 87 speakers
 generated_by: scripts/rank.py
 last_updated: 2026-10-11
 ---
 # Sensitivity: claimed vs measured
 
-Manufacturer sensitivity claims (normalised to 2.83 V where the speaker page converted them) against measured sensitivity for 85 current speakers. Median shortfall **-2.0 dB**; 27 of 85 miss their claim by 3 dB or more, and 9 meet or beat it. Measured values use different bands by source (computed: mean LW 300 Hz–3 kHz; Stereophile: B-weighted; Hi-Fi News: 500 Hz–8 kHz pink noise), so treat ±1 dB as noise. Some 'claims' are in-room or half-space figures, e.g. Klipsch. See [sensitivity-normalization](../concepts/sensitivity-normalization.md).
+Manufacturer sensitivity claims (normalised to 2.83 V where the speaker page converted them) against measured sensitivity for 87 current speakers. Median shortfall **-2.0 dB**; 28 of 87 miss their claim by 3 dB or more, and 9 meet or beat it. Measured values use different bands by source (computed: mean LW 300 Hz–3 kHz; Stereophile: B-weighted; Hi-Fi News: 500 Hz–8 kHz pink noise), so treat ±1 dB as noise. Some 'claims' are in-room or half-space figures, e.g. Klipsch. See [sensitivity-normalization](../concepts/sensitivity-normalization.md).
 
 | Speaker | Claimed dB (2.83 V) | Measured dB (2.83 V) | Δ dB | Measured source |
 |---|---|---|---|---|
@@ -36,6 +36,7 @@ Manufacturer sensitivity claims (normalised to 2.83 V where the speaker page con
 | [Dayton Audio OPAL1](../speakers/dayton-audio-opal1.md) | 78.5 | 75.4 | -3.1 | [eac-dayton-audio-opal1](../sources/eac-dayton-audio-opal1.md) |
 | [Spendor Classic 3/1](../speakers/spendor-classic-3-1.md) | 88.0 | 84.9 | -3.1 | [hifinews-spendor-classic-3-1](../sources/hifinews-spendor-classic-3-1.md) |
 | [BIC America Venturi DV62si](../speakers/bic-america-venturi-dv62si.md) | 90.0 | 87.0 | -3.0 | [asr-bic-america-venturi-dv62si](../sources/asr-bic-america-venturi-dv62si.md) |
+| [Focal On Wall 302](../speakers/focal-on-wall-302.md) (on-wall) | 91.0 | 88.0 | -3.0 | [audioholics-focal-on-wall-302](../sources/audioholics-focal-on-wall-302.md) |
 | [Fyne Audio F500SP](../speakers/fyne-audio-f500sp.md) | 90.0 | 87.0 | -3.0 | [stereophile-fyne-audio-f500sp](../sources/stereophile-fyne-audio-f500sp.md) |
 | [Triangle Borea BR03](../speakers/triangle-borea-br03.md) | 90.0 | 87.0 | -3.0 | [eac-triangle-borea-br03](../sources/eac-triangle-borea-br03.md) |
 | [Chesky Audio LC1](../speakers/chesky-audio-lc1.md) | 84.0 | 81.2 | -2.8 | [eac-chesky-audio-lc1](../sources/eac-chesky-audio-lc1.md) |
@@ -44,6 +45,7 @@ Manufacturer sensitivity claims (normalised to 2.83 V where the speaker page con
 | [Elac Carina BS243.4](../speakers/elac-carina-bs243-4.md) | 85.0 | 82.2 | -2.8 | [asr-elac-carina-bs243-4](../sources/asr-elac-carina-bs243-4.md) |
 | [Neumi Silk 4](../speakers/neumi-silk-4.md) | 85.0 | 82.2 | -2.8 | [eac-neumi-silk-4](../sources/eac-neumi-silk-4.md) |
 | [Elac Debut 2.0 B5.2](../speakers/elac-debut-2-0-b5-2.md) | 86.0 | 83.3 | -2.7 | [eac-elac-debut-2-0-b5-2](../sources/eac-elac-debut-2-0-b5-2.md) |
+| [Paradigm Millenia LP 2](../speakers/paradigm-millenia-lp-2.md) (on-wall) | 89.0 | 86.5 | -2.5 | [spinorama-paradigm-millenia-lp-2](../sources/spinorama-paradigm-millenia-lp-2.md) |
 | [Cambridge Audio SX-60](../speakers/cambridge-audio-sx-60.md) | 89.0 | 86.6 | -2.4 | [hifiworld-cambridge-audio-sx-60](../sources/hifiworld-cambridge-audio-sx-60.md) |
 | [KEF LS50 Meta](../speakers/kef-ls50-meta.md) | 85.0 | 82.7 | -2.3 | [eac-kef-ls50-meta](../sources/eac-kef-ls50-meta.md) |
 | [Buchardt Audio E50](../speakers/buchardt-audio-e50.md) | 85.0 | 82.8 | -2.2 | [eac-buchardt-audio-e50](../sources/eac-buchardt-audio-e50.md) |

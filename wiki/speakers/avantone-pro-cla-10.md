@@ -3,6 +3,7 @@ type: speaker
 brand: Avantone Pro
 model: CLA-10
 slug: avantone-pro-cla-10
+category: bookshelf
 status: current
 price_usd_pair: 699
 price_checked: 2026-10-11

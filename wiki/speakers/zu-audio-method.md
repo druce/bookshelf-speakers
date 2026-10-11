@@ -3,6 +3,7 @@ type: speaker
 brand: Zu Audio
 model: Method
 slug: zu-audio-method
+category: bookshelf
 status: current
 price_usd_pair: 1438
 price_checked: 2026-10-11

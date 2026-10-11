@@ -3,6 +3,7 @@ type: speaker
 brand: Role Audio
 model: Skiff
 slug: role-audio-skiff
+category: bookshelf
 status: current
 price_usd_pair: 495
 price_checked: 2026-10-11

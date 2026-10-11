@@ -3,6 +3,7 @@ type: speaker
 brand: Revel
 model: M16
 slug: revel-m16
+category: bookshelf
 status: current
 price_usd_pair: 990
 price_checked: 2026-10-11

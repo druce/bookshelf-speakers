@@ -27,5 +27,8 @@ Focal is a French maker (Theva is made in France) whose paged models span the en
 ## Patterns
 All four are rated 8 Ω; minimums are 4.5, 3.8, 5.0 and 3.3 Ω, so all four carry an impedance flag (two effectively-4ohm). Measured sensitivity is below claim in all four: by 0.5, 1.5, 1.2 and 5.0 dB. ASR rejected the Dome Flax for uneven response and distortion ([asr-focal-dome-flax](../sources/asr-focal-dome-flax.md)). The Sopra notes record claimed 41 Hz vs about 50 Hz measured ([audioholics-focal-sopra-n1](../sources/audioholics-focal-sopra-n1.md)). No owner reports exist for the Dome Flax ([users-focal-dome-flax](../sources/users-focal-dome-flax.md)); no other Focal user pages ingested.
 
+## On-wall models
+- [Focal On Wall 302](../speakers/focal-on-wall-302.md) (on-wall category, $3,498/pr): only an Audioholics in-room 1 m measurement (88.0 dB vs 91 dB claimed; ~4.9 Ω minimum, graph-read). The On Wall 301 is in scope but unmeasured ([on-wall-speakers](../concepts/on-wall-speakers.md)).
+
 ## Related
 [Focal Theva N°1](../speakers/focal-theva-n1.md) · [Focal Kanta N°1](../speakers/focal-kanta-n1.md) · [Focal Sopra N°1](../speakers/focal-sopra-n1.md) · [Focal Dome Flax](../speakers/focal-dome-flax.md) · [impedance-and-epdr](../concepts/impedance-and-epdr.md) · [soundstage-nrc](../reviewers/soundstage-nrc.md)

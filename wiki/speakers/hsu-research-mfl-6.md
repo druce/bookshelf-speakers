@@ -3,6 +3,7 @@ type: speaker
 brand: Hsu Research
 model: MFL-6
 slug: hsu-research-mfl-6
+category: bookshelf
 status: current
 price_usd_pair: 558
 price_checked: 2026-10-11

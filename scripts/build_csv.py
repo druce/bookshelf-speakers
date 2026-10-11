@@ -9,7 +9,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 COLUMNS = [
-    "slug", "brand", "model", "status", "price_usd_pair", "price_checked", "nominal_impedance_ohm",
+    "slug", "category", "wall_voiced", "brand", "model", "status", "price_usd_pair", "price_checked", "nominal_impedance_ohm",
     "min_impedance_ohm", "min_impedance_hz", "impedance_flag", "epdr_min_ohm", "sensitivity_db_2v83",
     "sensitivity_claimed_db", "f3_hz", "f6_hz", "lw_deviation_db", "on_axis_deviation_db",
     "hor_beamwidth_deg", "ver_beamwidth_deg", "di_smoothness", "crossover_hz", "max_spl_db",

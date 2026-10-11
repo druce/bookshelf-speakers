@@ -3,6 +3,7 @@ type: speaker
 brand: Spendor
 model: Classic 3/1
 slug: spendor-classic-3-1
+category: bookshelf
 status: current
 price_usd_pair: 4999
 price_checked: 2026-10-11

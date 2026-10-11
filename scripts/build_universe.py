@@ -55,6 +55,7 @@ def main(scratch):
             "tier_ab": tier_ab, "tiers": "/".join(tiers) or ("A/B" if r.get("tier_ab_available") else ""),
             "verdict": verdict, "reason": r.get("reason") or "", "successor": r.get("successor") or "",
             "page": p["slug"] in pages, "urls": urls[:3], "origin": p["kind"],
+            "category": r.get("category") or p.get("category") or "bookshelf",
         })
         if p.get("spinorama_name"):
             seen.add(p["spinorama_name"])
@@ -80,7 +81,7 @@ def main(scratch):
             "verdict": verdict, "reason": reason + ((" — " + e["notes"]) if e.get("notes") else ""),
             "successor": e.get("successor") or "", "page": False,
             "urls": [m["review"] for m in s["measurements"] if m["tier"] in "AB" and m.get("review")][:3],
-            "origin": "spinorama",
+            "origin": "spinorama", "category": "bookshelf",
         })
 
     def table(rs, cols):
@@ -111,9 +112,14 @@ def main(scratch):
           "on a first search pass and not re-verified, so treat them as provisional. Scope: passive, rated 6 or 8 Ω, "
           "bookshelf or standmount, sold new in the US (Claude.md §2).", "",
           f"**Counts:** {len(rows)} screened · {n_scope} in scope · {n_tier} in scope with Tier A/B data.", ""]
-    for title, pred, cols in groups:
-        rs = sorted([r for r in rows if pred(r)], key=lambda r: (r["brand"].lower(), r["model"].lower()))
-        md += [f"## {title} ({len(rs)})", "", table(rs, cols) if rs else "_None._\n"]
+    for cat, head in (("bookshelf", "Bookshelf / standmount"), ("on-wall", "On-wall category ([[on-wall-speakers]])")):
+        crow = [r for r in rows if r["category"] == cat]
+        if not crow:
+            continue
+        md += [f"# {head} — {len(crow)} screened", ""]
+        for title, pred, cols in groups:
+            rs = sorted([r for r in crow if pred(r)], key=lambda r: (r["brand"].lower(), r["model"].lower()))
+            md += [f"## {title} ({len(rs)})", "", table(rs, cols) if rs else "_None._\n"]
     md += ["## Related", "[[overview]] · [[spinorama-org]] · [[active-alternatives]]", ""]
     (ROOT / "wiki" / "comparisons" / "candidate-universe.md").write_text("\n".join(md))
     with open(ROOT / "data" / "candidate-universe.csv", "w", newline="") as f:

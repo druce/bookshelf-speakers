@@ -3,6 +3,7 @@ type: speaker
 brand: Totem Acoustic
 model: Signature One
 slug: totem-acoustic-signature-one
+category: bookshelf
 status: current
 price_usd_pair: 3800
 price_checked: 2026-10-11

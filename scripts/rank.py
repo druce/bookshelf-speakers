@@ -68,7 +68,9 @@ def main():
                   "sensitivity_claimed_db", "min_impedance_ohm", "nominal_impedance_ohm", "thd_96db_pct", "thd_86db_pct",
                   "epdr_min_ohm"):
             r[k] = f(r.get(k))
-    cur = [r for r in rows if r["status"] == "current"]
+    allcur = [r for r in rows if r["status"] == "current"]
+    cur = [r for r in allcur if r.get("category") != "on-wall"]
+    onwall = [r for r in allcur if r.get("category") == "on-wall"]
 
     # 1. ranked by price band
     out = []
@@ -107,7 +109,7 @@ def main():
          intro, "\n".join(out), "[[overview]] · [[candidate-universe]] · [[impedance-honesty]] · [[sensitivity-claims-vs-measured]] · [[preference-score]]")
 
     # 2. impedance honesty
-    zr = sorted([r for r in cur if r["min_impedance_ohm"] is not None], key=lambda r: r["min_impedance_ohm"])
+    zr = sorted([r for r in allcur if r["min_impedance_ohm"] is not None], key=lambda r: r["min_impedance_ohm"])
     n_flag = sum(1 for r in zr if r["impedance_flag"])
     n4 = sum(1 for r in zr if r["impedance_flag"] == "effectively-4ohm")
     by_rating = {}
@@ -116,7 +118,7 @@ def main():
         by_rating[z] = (len(g), sum(1 for r in g if r["impedance_flag"]), sum(1 for r in g if r["impedance_flag"] == "effectively-4ohm"))
     body = ["| Speaker | Rated Ω | Measured min Ω | IEC floor | Flag | EPDR min Ω |", "|---|---|---|---|---|---|"]
     for r in zr:
-        body.append(f"| [[{r['slug']}]] | {d(r['nominal_impedance_ohm'], 0)} | {d(r['min_impedance_ohm'])} | "
+        body.append(f"| [[{r['slug']}]]{' (on-wall)' if r.get('category') == 'on-wall' else ''} | {d(r['nominal_impedance_ohm'], 0)} | {d(r['min_impedance_ohm'])} | "
                     f"{d(0.8 * r['nominal_impedance_ohm']) if r['nominal_impedance_ohm'] else '—'} | {r['impedance_flag'] or '—'} | {d(r['epdr_min_ohm'])} |")
     intro = (f"Measured minimum impedance against each manufacturer's rating, for {len(zr)} current speakers with a measured "
              f"minimum. **{n_flag} of {len(zr)}** fall below the IEC 60268-5 floor of 80% of their rating, and **{n4}** dip "
@@ -129,14 +131,14 @@ def main():
          intro, "\n".join(body), "[[impedance-and-epdr]] · [[ranked-by-price-band]] · [[overview]]")
 
     # 3. sensitivity claims
-    sr = [r for r in cur if r["sensitivity_db_2v83"] is not None and r["sensitivity_claimed_db"] is not None]
+    sr = [r for r in allcur if r["sensitivity_db_2v83"] is not None and r["sensitivity_claimed_db"] is not None]
     for r in sr:
         r["delta"] = r["sensitivity_db_2v83"] - r["sensitivity_claimed_db"]
     sr.sort(key=lambda r: r["delta"])
     deltas = [r["delta"] for r in sr]
     body = ["| Speaker | Claimed dB (2.83 V) | Measured dB (2.83 V) | Δ dB | Measured source |", "|---|---|---|---|---|"]
     for r in sr:
-        body.append(f"| [[{r['slug']}]] | {d(r['sensitivity_claimed_db'])} | {d(r['sensitivity_db_2v83'])} | {r['delta']:+.1f} | [[{r['primary_measurement']}]] |")
+        body.append(f"| [[{r['slug']}]]{' (on-wall)' if r.get('category') == 'on-wall' else ''} | {d(r['sensitivity_claimed_db'])} | {d(r['sensitivity_db_2v83'])} | {r['delta']:+.1f} | [[{r['primary_measurement']}]] |")
     intro = (f"Manufacturer sensitivity claims (normalised to 2.83 V where the speaker page converted them) against measured "
              f"sensitivity for {len(sr)} current speakers. Median shortfall **{st.median(deltas):+.1f} dB**; "
              f"{sum(1 for x in deltas if x <= -3)} of {len(sr)} miss their claim by 3 dB or more, and "
@@ -146,6 +148,23 @@ def main():
     page(COMP / "sensitivity-claims-vs-measured.md", "sensitivity-claims-vs-measured", "Sensitivity: claimed vs measured",
          f"Median measured sensitivity is {st.median(deltas):+.1f} dB vs claim across {len(sr)} speakers",
          intro, "\n".join(body), "[[sensitivity-normalization]] · [[ranked-by-price-band]] · [[overview]]")
+    # 4. on-wall category
+    ow = sorted(onwall, key=lambda r: (-(r["pref_score_sub"] or -9), r["price_usd_pair"] or 0))
+    body = ["| Speaker | $/pr | Wall-voiced | Pref w/sub | LW ±dB | Free-field f3 Hz | Sens. dB | Min Ω (flag) | Depth mm | Rig |",
+            "|---|---|---|---|---|---|---|---|---|---|"]
+    for r in ow:
+        dep = (r.get("dimensions_mm") or "").split("x")
+        flag = {"effectively-4ohm": " ⚑4Ω", "below-iec": " ⚑IEC"}.get(r["impedance_flag"], "")
+        body.append(f"| [[{r['slug']}]] | {d(r['price_usd_pair'], 0, '$')} | {r.get('wall_voiced') or '—'} | {d(r['pref_score_sub'])} | "
+                    f"{d(r['lw_deviation_db'])} {lw_label(r['lw_deviation_db'])} | {d(r['f3_hz'], 0)} | {d(r['sensitivity_db_2v83'])} | "
+                    f"{d(r['min_impedance_ohm'])}{flag} | {dep[2] if len(dep) == 3 else '—'} | {rig(r) if r.get('primary_measurement') else '—'} |")
+    intro = ("Current, in-scope **on-wall** speakers ([[on-wall-speakers]]), ranked only against each other, sorted by preference score "
+             "with sub. Free-field f3 is shown for completeness only: wall-voiced designs gain several dB of bass on the wall, so it "
+             "is not comparable with bookshelf f3, and Claude.md §7 bass labels are not applied. Models in scope with no Tier A/B "
+             "data are listed in [[candidate-universe]]. Generated by `scripts/rank.py`.")
+    page(COMP / "ranked-on-wall.md", "ranked-on-wall", "On-wall speakers ranked",
+         f"{len(ow)} current on-wall speakers with Tier A/B data, ranked separately from bookshelf speakers",
+         intro, "\n".join(body) if ow else "_No on-wall speakers with Tier A/B data yet._", "[[on-wall-speakers]] · [[ranked-by-price-band]] · [[candidate-universe]] · [[overview]]")
     print(f"ranked {len(ranked)}, impedance {len(zr)} ({n_flag} flagged, {n4} 4Ω), sensitivity {len(sr)} (median {st.median(deltas):+.1f})")
 
 

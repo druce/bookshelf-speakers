@@ -3,6 +3,7 @@ type: speaker
 brand: Acoustic Energy
 model: AE100 Mk2
 slug: acoustic-energy-ae100-mk2
+category: bookshelf
 status: current
 price_usd_pair: 499
 price_checked: 2026-10-11

@@ -1,0 +1,25 @@
+{
+ "slug": "elac-debut-2-0-dow42",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "ELAC",
+ "brand_slug": "elac",
+ "model": "Debut 2.0 DOW42",
+ "verdict": "out-of-scope",
+ "reason": "Marketed for side or rear surround installation (Debut OW4.2); not an L/R main. 6 ohm, 4\" woofer",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": 279,
+ "price_source": "https://elac.com/dow42 ($279 pair, was $399)",
+ "tier_ab_available": false,
+ "raw_saved": [],
+ "evidence": [
+  "https://elac.com/dow42"
+ ],
+ "brand_notes": "ELAC on-wall page lists: Debut 2.0 DOW42 (6 ohm, surround), Muro OW-V41S (6 ohm 4-inch surround) and OW-V41L (8 ohm dual 4-inch LCR), Vertex III OW-VJ63S/M/L (4 ohm), WS line WS1425/1445/1465/1645/1665 (4-5 ohm). Only Muro OW-V41L is both 6/8 ohm and LCR-class. No Tier A/B found for any.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened ELAC Debut 2.0 DOW42 (on-wall): out-of-scope - Marketed for side or rear surround installation (Debut OW4.2); not an L/R main. 6 ohm, 4\" woofer"
+ ]
+}

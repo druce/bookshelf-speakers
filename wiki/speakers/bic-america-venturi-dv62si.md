@@ -3,6 +3,7 @@ type: speaker
 brand: BIC America
 model: Venturi DV62si
 slug: bic-america-venturi-dv62si
+category: bookshelf
 status: current
 price_usd_pair: 199
 price_checked: 2026-10-11

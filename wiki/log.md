@@ -557,3 +557,9 @@ Append-only. Each entry header: `## [YYYY-MM-DD] <op> | <title>`.
 - Harbeth P3ESR XD2 (6 Ω): in scope with no measurements; Stereophile only measured the original P3ESR. C7ES-3 XD: out of scope at 520 mm tall.
 - Paradigm Premier 200B: discontinued (paradigm.com shows refurbished units only).
 - No new speaker pages. [candidate-universe](comparisons/candidate-universe.md) regenerated: 8 models added, now 383 screened.
+
+## [2026-10-11] discover | On-wall category: 64 models screened, 2 paged
+- New category per human request. Claude.md §2/§4/§7 updated (`category`, `wall_voiced`). New concept page [on-wall-speakers](concepts/on-wall-speakers.md), ingest addendum `scripts/ONWALL-ADDENDUM.md`, ranking page [ranked-on-wall](comparisons/ranked-on-wall.md). The existing 89 pages are tagged `category: bookshelf`, and bookshelf rankings and size tables now exclude on-walls.
+- Screened 64 on-wall models and brand lines (Axiom, KEF, Paradigm, Ascend, MartinLogan, Focal, Monitor Audio, ELAC, Polk, Klipsch, Def Tech, JBL, Atlantic, Theory, Leon, Triad, Wharfedale, B&W, Revel, SVS, Sonance, Origin, Episode, Q Acoustics, Bose, Andersson). Verdicts: 2 in scope with data, 11 in scope without Tier A/B data, 4 discontinued, 45 out of scope (mostly 4 Ω, surround-only or centres).
+- Paged: [Paradigm Millenia LP 2](speakers/paradigm-millenia-lp-2.md) (Tier B hobbyist measurement; free-field f3 ~125–151 Hz) and [Focal On Wall 302](speakers/focal-on-wall-302.md) (Audioholics in-room 1 m only; 4.9 Ω minimum).
+- KEF T101/T301 are discontinued (the ASR T101 Klippel data is kept in `raw/spinorama/`). Borderline: Ascend Sierra Duo V2 LCR (marketed as on-wall, 6" deep, no bracket) and Polk XT35 (slim centre with Erin's data) were screened out or kept unpaged. Human may revisit.

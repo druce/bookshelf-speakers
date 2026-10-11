@@ -3,6 +3,7 @@ type: speaker
 brand: PSB
 model: Synchrony B600
 slug: psb-synchrony-b600
+category: bookshelf
 status: current
 price_usd_pair: 3799
 price_checked: 2026-10-11

@@ -3,6 +3,7 @@ type: speaker
 brand: Polk Audio
 model: Reserve R100
 slug: polk-audio-reserve-r100
+category: bookshelf
 status: current
 price_usd_pair: 559
 price_checked: 2026-10-11

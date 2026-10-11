@@ -3,6 +3,7 @@ type: speaker
 brand: Monitor Audio
 model: Bronze 50 7G
 slug: monitor-audio-bronze-50-7g
+category: bookshelf
 status: current
 price_usd_pair: 849
 price_checked: 2026-10-11

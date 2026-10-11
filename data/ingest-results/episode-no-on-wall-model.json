@@ -1,0 +1,25 @@
+{
+ "slug": "episode-no-on-wall-model",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Episode (SnapAV)",
+ "brand_slug": "episode",
+ "model": "(no on-wall model)",
+ "verdict": "out-of-scope",
+ "reason": "Episode Core/Signature are in-wall/in-ceiling; no on-wall L/R found",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.snapav.com/shop/en/snapav/episode-signature",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.snapav.com/shop/en/snapav/episode-signature"
+ ],
+ "brand_notes": "Triad on-wall (OnWall Bronze LCR) is 4 ohm per UK dealer sheet; Triad Gold In-Wall LCR 4 ohm.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Episode (SnapAV) on-wall lineup: none in scope - Episode Core/Signature are in-wall/in-ceiling; no on-wall L/R found"
+ ]
+}

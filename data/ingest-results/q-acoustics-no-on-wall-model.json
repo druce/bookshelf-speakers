@@ -1,0 +1,25 @@
+{
+ "slug": "q-acoustics-no-on-wall-model",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Q Acoustics",
+ "brand_slug": "q-acoustics",
+ "model": "(no on-wall model)",
+ "verdict": "out-of-scope",
+ "reason": "Q Install QI range is in-wall (QI LCR 65RP 8 ohm is cut-in); no on-wall L/R",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://qacoustics.co.uk/collections/in-wall",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://qacoustics.co.uk/collections/in-wall"
+ ],
+ "brand_notes": "Q Acoustics: in-wall only.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Q Acoustics on-wall lineup: none in scope - Q Install QI range is in-wall (QI LCR 65RP 8 ohm is cut-in); no on-wall L/R"
+ ]
+}

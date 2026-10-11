@@ -3,6 +3,7 @@ type: speaker
 brand: Elac
 model: Carina BS243.4
 slug: elac-carina-bs243-4
+category: bookshelf
 status: current
 price_usd_pair: 1199
 price_checked: 2026-10-11

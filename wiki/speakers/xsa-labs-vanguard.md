@@ -3,6 +3,7 @@ type: speaker
 brand: XSA Labs
 model: Vanguard
 slug: xsa-labs-vanguard
+category: bookshelf
 status: current
 price_usd_pair: 995
 price_checked: 2026-10-11

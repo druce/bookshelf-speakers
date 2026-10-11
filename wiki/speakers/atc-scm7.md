@@ -3,6 +3,7 @@ type: speaker
 brand: ATC
 model: SCM7
 slug: atc-scm7
+category: bookshelf
 status: current
 price_usd_pair: 1749
 price_checked: 2026-10-11

@@ -3,6 +3,7 @@ type: speaker
 brand: Wharfedale
 model: EVO 4.1
 slug: wharfedale-evo-4-1
+category: bookshelf
 status: current
 price_usd_pair: 649
 price_checked: 2026-10-11

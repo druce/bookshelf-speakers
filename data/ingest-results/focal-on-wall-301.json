@@ -1,0 +1,30 @@
+{
+ "slug": "focal-on-wall-301",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Focal",
+ "brand_slug": "focal",
+ "model": "On Wall 301",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (8 ohm, 800x155x90 mm slim on-wall, maker says center, left or right; current on focal.com and in stock at World Wide Stereo) but no Tier A/B measurement found (Audioholics launch article and TechHive/Home Theater HiFi reviews have specs/listening only)",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 2198,
+ "price_source": "https://worldwidestereo.com/products/focal-301-bass-reflex-2-way-on-wall-loudspeaker-satin-black ($1,099 each; Audio Advice, Upscale Audio also $1,099 each)",
+ "tier_ab_available": false,
+ "raw_saved": [
+  "raw/manufacturer/mfr-focal-on-wall-301.md"
+ ],
+ "evidence": [
+  "https://www.focal.com/en/products/on-wall-301",
+  "https://www.audioadvice.com/focal-on-wall-301-on-wall-speaker",
+  "https://www.audioholics.com/outdoor-speaker-reviews/focal-on-wall-300",
+  "https://www.techhive.com/article/630239/focal-on-wall-301-loudspeaker-review.html"
+ ],
+ "brand_notes": "Focal On Wall 300 series (301, 302) is Focal's only on-wall line; Littora is in-wall/outdoor. Maker offers optional floor stand (so not strictly wall-only). Claimed 87 dB, min Z 5.5 ohm, -6 dB 44 Hz.",
+ "index_line": "- [[focal-on-wall-301]] \u2014 8 ohm, 2x4\" flax, 90 mm deep, claimed 87 dB (no Tier A/B)",
+ "log_bullets": [
+  "Screened Focal On Wall 301 (on-wall): no-tier-ab - In scope (8 ohm, 800x155x90 mm slim on-wall, maker says center, left or right; current on focal.com and in stock at World Wide Stereo) but no Tier A/B measurement found (Audioholics launch article and TechHive/Home Theater HiFi reviews have specs/listening only)"
+ ]
+}

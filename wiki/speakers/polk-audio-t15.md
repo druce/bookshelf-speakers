@@ -3,6 +3,7 @@ type: speaker
 brand: Polk Audio
 model: T15
 slug: polk-audio-t15
+category: bookshelf
 status: current
 price_usd_pair: 149
 price_checked: 2026-10-11

@@ -1,0 +1,26 @@
+{
+ "slug": "monitor-audio-silver-on-wall-8g",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Monitor Audio",
+ "brand_slug": "monitor-audio",
+ "model": "Silver On-Wall 8G",
+ "verdict": "no-tier-ab",
+ "reason": "In scope (8 ohm, 465x300x135 mm, LCR-capable per maker, current) but no Tier A/B measurement found",
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1300,
+ "price_source": "https://www.monitoraudio.com/en/product-ranges/silver-series-8g/silver-on-wall-8g/ ($650 each, pair doubled)",
+ "tier_ab_available": false,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.monitoraudio.com/en/us/custom-install-speaker-type/on-wall-speakers/",
+  "https://www.monitoraudio.com/en/product-ranges/silver-series-8g/silver-on-wall-8g/"
+ ],
+ "brand_notes": "Monitor Audio US site lists Silver On-Wall 8G ($650 each), Bronze On-Wall 7G ($499 each), Radius On-Wall 4G ($649 each), Gold On-Wall 6G (4 ohm). Prices shown per speaker ('sold as single'). Silver Series 8G On-Wall spec quotes in-room (-6 dB) response and 88 dB free-field sensitivity; no wall-voicing claim. No Tier A/B on-wall measurements found (Erin/spinorama have Silver 50 7G bookshelf only).",
+ "index_line": "- [[monitor-audio-silver-on-wall-8g]] \u2014 8 ohm, 6\" C-CAM, 135 mm deep, claimed 88 dB, 44 Hz in-room -6 dB (no Tier A/B)",
+ "log_bullets": [
+  "Screened Monitor Audio Silver On-Wall 8G (on-wall): no-tier-ab - In scope (8 ohm, 465x300x135 mm, LCR-capable per maker, current) but no Tier A/B measurement found"
+ ]
+}

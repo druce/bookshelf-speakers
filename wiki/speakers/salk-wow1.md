@@ -3,6 +3,7 @@ type: speaker
 brand: Salk
 model: WoW1
 slug: salk-wow1
+category: bookshelf
 status: current
 price_usd_pair: 2595
 price_checked: 2026-10-11

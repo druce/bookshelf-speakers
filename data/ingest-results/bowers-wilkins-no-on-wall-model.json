@@ -1,0 +1,25 @@
+{
+ "slug": "bowers-wilkins-no-on-wall-model",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Bowers & Wilkins",
+ "brand_slug": "bowers-wilkins",
+ "model": "(no on-wall model)",
+ "verdict": "out-of-scope",
+ "reason": "B&W US site offers only in-wall/in-ceiling (CWM/CCM) and no passive on-wall L/R model",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.bowerswilkins.com/en-us/category/in-wall-in-ceiling-speakers/",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.bowerswilkins.com/en-us/category/in-wall-in-ceiling-speakers/"
+ ],
+ "brand_notes": "B&W: CWM in-wall series only; no on-wall passive speaker found.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Bowers & Wilkins on-wall lineup: none in scope - B&W US site offers only in-wall/in-ceiling (CWM/CCM) and no passive on-wall L/R model"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "slug": "triad-onwall-bronze-lcr",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Triad",
+ "brand_slug": "triad",
+ "model": "OnWall Bronze LCR",
+ "verdict": "out-of-scope",
+ "reason": "Rated 4 ohm per dealer spec sheet (89 dB); Gold OnWall impedance not found; Triad Silver Sat is discontinued",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://shop.martinshifi.co.uk/products/triad-onwall-bronze-lcr",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://shop.martinshifi.co.uk/products/triad-onwall-bronze-lcr"
+ ],
+ "brand_notes": "Triad (SnapAV): OnWall Bronze LCR 4 ohm, Gold OnWall MiniMonitor/Omni (impedance unverified); SnapAV lists Triad Silver as discontinued while supplies last. Not confirmed current in US.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Triad OnWall Bronze LCR (on-wall): out-of-scope - Rated 4 ohm per dealer spec sheet (89 dB); Gold OnWall impedance not found; Triad Silver Sat is discontinued"
+ ]
+}

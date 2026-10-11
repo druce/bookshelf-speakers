@@ -3,6 +3,7 @@ type: speaker
 brand: Fluance
 model: HFS Signature
 slug: fluance-hfs-signature
+category: bookshelf
 status: current
 price_usd_pair: 199.99
 price_checked: 2026-10-11

@@ -1,0 +1,25 @@
+{
+ "slug": "atlantic-technology-lcr2",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Atlantic Technology",
+ "brand_slug": "atlantic-technology",
+ "model": "LCR2",
+ "verdict": "out-of-scope",
+ "reason": "Small sealed 3.5-inch satellite (204x120x127 mm, 6 ohm) sold in Bookshelf collection; no dedicated on-wall design",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://atlantictechnology.com/products/lcr2 ($219 listed)",
+ "tier_ab_available": false,
+ "raw_saved": [],
+ "evidence": [
+  "https://atlantictechnology.com/products/lcr2"
+ ],
+ "brand_notes": "Atlantic Technology on-wall-capable models are small sealed LCR satellites (LCR2 3.5\", LCR3 dual 3.5\", 6 ohm) listed under Bookshelf; in-wall range (IW-xxx LCR) is cut-in. No dedicated on-wall line.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Atlantic Technology LCR2 (on-wall): out-of-scope - Small sealed 3.5-inch satellite (204x120x127 mm, 6 ohm) sold in Bookshelf collection; no dedicated on-wall design"
+ ]
+}

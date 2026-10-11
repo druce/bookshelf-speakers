@@ -1,0 +1,61 @@
+{
+ "slug": "paradigm-millenia-lp-2",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Paradigm",
+ "brand_slug": "paradigm",
+ "model": "Millenia LP 2",
+ "verdict": "in-scope",
+ "reason": null,
+ "successor": null,
+ "nominal_impedance_ohm": 8,
+ "status": "current",
+ "price_usd_pair": 1200,
+ "price_source": "https://www.paradigm.com/en/lcr/millenia-lp-2 ($599.99 each; WebFetch extraction; earlier snapshot $549.99 each)",
+ "tier_ab_available": true,
+ "evidence": [
+  "https://www.paradigm.com/en/lcr/millenia-lp-2",
+  "https://www.audiosciencereview.com/forum/index.php?threads/paradigm-millenia-lp-2-review-measurements.47312/",
+  "https://www.spinorama.org/speakers/Paradigm%20Millenia%20LP%202/Misc/index_misc-matthews.html"
+ ],
+ "brand_notes": "Paradigm US lineup of on-wall LCR models (paradigm.com/en/lcr): Millenia LP 2 ($599.99 each), Millenia LP XL ($799.99 each), Millenia LP Trio ($1,149.99, single 3-channel enclosure); original Millenia LP page says 'Discontinued' ($499 each, 8 ohm). All Millenia on-walls are 1.6-1.75 in deep with included bracket and table stands, 2nd-order crossover at 2.6 kHz. HomeTheaterHifi (2015) says Paradigm designed LP 2/LP XL to work best on a wall and avoid dramatic boundary gain, but the maker page does not say it. Only LP 2 has independent measurements (hobbyist Tier B + spinorama.org).",
+ "raw_saved": [
+  "raw/manufacturer/mfr-paradigm-millenia-lp-2.md",
+  "raw/measurements/asr-paradigm-millenia-lp-2.md",
+  "raw/measurements/spinorama-paradigm-millenia-lp-2.md",
+  "raw/reviews-critic/hometheaterhifi-paradigm-millenia-lp-2.md",
+  "raw/reviews-user/users-paradigm-millenia-lp-2-2026-10-11.md"
+ ],
+ "pages_created": [
+  "wiki/speakers/paradigm-millenia-lp-2.md",
+  "wiki/sources/mfr-paradigm-millenia-lp-2.md",
+  "wiki/sources/asr-paradigm-millenia-lp-2.md",
+  "wiki/sources/spinorama-paradigm-millenia-lp-2.md",
+  "wiki/sources/hometheaterhifi-paradigm-millenia-lp-2.md",
+  "wiki/sources/users-paradigm-millenia-lp-2.md"
+ ],
+ "index_line": "- [[paradigm-millenia-lp-2]] \u2014 on-wall, 8 ohm compatible, 44 mm deep, free-field f3 151 Hz, LW about +/-3.7 dB, pref 1.0 (Tier B hobbyist)",
+ "source_index_lines": [
+  "- [[asr-paradigm-millenia-lp-2]] \u2014 ASR-forum hobbyist quasi-anechoic measurement, 2021-05-30 (Tier B)",
+  "- [[spinorama-paradigm-millenia-lp-2]] \u2014 spinorama.org processing of the same data (Tier B)",
+  "- [[mfr-paradigm-millenia-lp-2]] \u2014 Paradigm spec page (Tier C)",
+  "- [[hometheaterhifi-paradigm-millenia-lp-2]] \u2014 HomeTheaterHifi review, 2015 (Tier D)",
+  "- [[users-paradigm-millenia-lp-2]] \u2014 ASR thread replies (Tier E, anecdotal)"
+ ],
+ "takeaways": [
+  "1.75 in deep MTM on-wall LCR; Paradigm lists 8 ohm compatible, ~$1,200/pair",
+  "Only Tier B (single hobbyist, gated + near-field): treble tilts up ~7 dB, free-field f3 ~151 Hz, poor horizontal directivity in horizontal orientation",
+  "THD ~2% near 120 Hz at 86 dB",
+  "Free-field data of a wall design: bass number not a wall-placement figure",
+  "wall_voiced left null: only a 2015 reviewer relays Paradigm's boundary-gain claim"
+ ],
+ "conflicts": [
+  "Sensitivity 86.5 dB measured vs 89 dB claimed anechoic",
+  "Preference 1.0 (spinorama.org) vs 0.3 quoted in thread (older computation)"
+ ],
+ "log_bullets": [
+  "Created speakers/paradigm-millenia-lp-2 and sources asr/spinorama/mfr/hometheaterhifi/users-paradigm-millenia-lp-2 (first on-wall speaker page)",
+  "Conflicts: sensitivity claimed vs measured; preference score versions",
+  "Tier B only (hobbyist gated measurement); lineup also: LP XL (no Tier A/B), LP Trio (out), LP original (discontinued)"
+ ]
+}

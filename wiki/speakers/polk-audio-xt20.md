@@ -3,6 +3,7 @@ type: speaker
 brand: Polk Audio
 model: Monitor XT20
 slug: polk-audio-xt20
+category: bookshelf
 status: current
 price_usd_pair: 279
 price_checked: 2026-10-11

@@ -3,6 +3,7 @@ type: speaker
 brand: Chesky Audio
 model: LC1
 slug: chesky-audio-lc1
+category: bookshelf
 status: current
 price_usd_pair: 996
 price_checked: 2026-10-11

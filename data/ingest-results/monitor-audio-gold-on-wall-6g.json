@@ -1,0 +1,25 @@
+{
+ "slug": "monitor-audio-gold-on-wall-6g",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Monitor Audio",
+ "brand_slug": "monitor-audio",
+ "model": "Gold On-Wall 6G",
+ "verdict": "out-of-scope",
+ "reason": "Rated 4 ohm nominal on maker's US on-wall list",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.monitoraudio.com/en/us/custom-install-speaker-type/on-wall-speakers/",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.monitoraudio.com/en/us/custom-install-speaker-type/on-wall-speakers/"
+ ],
+ "brand_notes": "Monitor Audio US site lists Silver On-Wall 8G ($650 each), Bronze On-Wall 7G ($499 each), Radius On-Wall 4G ($649 each), Gold On-Wall 6G (4 ohm). Prices shown per speaker ('sold as single'). Silver Series 8G On-Wall spec quotes in-room (-6 dB) response and 88 dB free-field sensitivity; no wall-voicing claim. No Tier A/B on-wall measurements found (Erin/spinorama have Silver 50 7G bookshelf only).",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Monitor Audio Gold On-Wall 6G (on-wall): out-of-scope - Rated 4 ohm nominal on maker's US on-wall list"
+ ]
+}

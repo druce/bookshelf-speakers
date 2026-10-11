@@ -3,6 +3,7 @@ type: speaker
 brand: Yamaha
 model: NS-800A
 slug: yamaha-ns-800a
+category: bookshelf
 status: current
 price_usd_pair: 5000
 price_checked: 2026-10-11

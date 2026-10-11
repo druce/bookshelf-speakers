@@ -3,6 +3,7 @@ type: speaker
 brand: PSB
 model: Alpha P5
 slug: psb-alpha-p5
+category: bookshelf
 status: current
 price_usd_pair: 549
 price_checked: 2026-10-11

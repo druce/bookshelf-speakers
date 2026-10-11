@@ -3,6 +3,7 @@ type: speaker
 brand: MoFi
 model: SourcePoint 8
 slug: mofi-sourcepoint-8
+category: bookshelf
 status: current
 price_usd_pair: 2195
 price_checked: 2026-10-11

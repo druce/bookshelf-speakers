@@ -1,0 +1,30 @@
+{
+ "slug": "kef-t301",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "KEF",
+ "brand_slug": "kef",
+ "model": "T301",
+ "verdict": "discontinued",
+ "reason": "Removed from KEF US/UK sites (URL redirects to in-wall collection); UK retailer lists it as discontinued. No Tier A/B checked.",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "discontinued",
+ "price_usd_pair": null,
+ "price_source": "https://www.hifigear.co.uk/kef-t301.html",
+ "tier_ab_available": null,
+ "evidence": [
+  "https://us.kef.com/products/t301-satellite-speakers (redirects to /collections/in-wall)",
+  "https://www.hifigear.co.uk/kef-t301.html"
+ ],
+ "brand_notes": "KEF US current on-wall/in-wall pages (us.kef.com/collections/in-wall) list only Ci in-wall/architectural models; no KEF US product page exists for T101/T301 (URLs 301-redirect to /collections/in-wall; uk.kef.com does the same). KEF has no current on-wall L/R model in the US lineup. T-series (T101 ultra-thin satellite, 8 ohm, 300x140x35 mm, 87 dB / 90 dB wall-mounted claim) is a legacy line; ASR Klippel measurement exists (https://www.audiosciencereview.com/forum/index.php?threads/kef-t101-review-thin-speaker.29574/; data in raw/spinorama/KEF T101/asr/; computed LW +/-4.6 dB, free-field f3 193 Hz, sens 87.7 dB, major DI discontinuity, ER dip 5.3 dB; pref -1.3 / 3.3 with sub). Useful as a reference for what free-field spinorama of a thin wall satellite looks like.",
+ "raw_saved": [],
+ "pages_created": [],
+ "index_line": null,
+ "source_index_lines": [],
+ "takeaways": [],
+ "conflicts": [],
+ "log_bullets": [
+  "kef-t301: discontinued - Removed from KEF US/UK sites (URL redirects to in-wall collection); UK retailer lists it as discontinued. No Tier A/B checked."
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "martinlogan-motion-slm-xl",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "MartinLogan",
+ "brand_slug": "martinlogan",
+ "model": "Motion SLM XL",
+ "verdict": "out-of-scope",
+ "reason": "Rated 4 ohm nominal (Audio Advisor, Abt); fails the 6/8 ohm rule. 34.1x6.4x1.89 in on-wall, $639.99 each after rebate (Abt).",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": 1280,
+ "price_source": "https://www.abt.com/MartinLogan-Ultra-Slim-Motion-SLM-XL-Black-Speaker-Each-MOTSLMXL/p/82609.html ($639.99 each incl. rebate)",
+ "tier_ab_available": null,
+ "evidence": [
+  "https://www.audioadvisor.com/products/martinlogan-motion-slm-xl-left-center-right-speaker-gloss-black-each",
+  "https://www.abt.com/MartinLogan-Ultra-Slim-Motion-SLM-XL-Black-Speaker-Each-MOTSLMXL/p/82609.html"
+ ],
+ "brand_notes": "MartinLogan current on-wall line (Motion SLM, SLM XL, SLM X3 bar) is rated 4 ohm.",
+ "raw_saved": [
+  "raw/manufacturer/retailer-audioadvisor-martinlogan-motion-slm-xl.md"
+ ],
+ "pages_created": [],
+ "index_line": null,
+ "source_index_lines": [],
+ "takeaways": [],
+ "conflicts": [],
+ "log_bullets": [
+  "martinlogan-motion-slm-xl: out-of-scope - Rated 4 ohm nominal (Audio Advisor, Abt); fails the 6/8 ohm rule. 34.1x6.4x1.89 in on-wall, $639.99 each after rebate (Abt)."
+ ]
+}

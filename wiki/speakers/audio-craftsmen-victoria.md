@@ -3,6 +3,7 @@ type: speaker
 brand: Audio Craftsmen
 model: Victoria
 slug: audio-craftsmen-victoria
+category: bookshelf
 status: current
 price_usd_pair: 3990
 price_checked: 2026-10-11

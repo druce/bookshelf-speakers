@@ -3,6 +3,7 @@ type: speaker
 brand: Paradigm
 model: Monitor SE Atom
 slug: paradigm-monitor-se-atom
+category: bookshelf
 status: current
 price_usd_pair: 399.98
 price_checked: 2026-10-11

@@ -1,0 +1,25 @@
+{
+ "slug": "svs-no-on-wall-model",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "SVS",
+ "brand_slug": "svs",
+ "model": "(no on-wall model)",
+ "verdict": "out-of-scope",
+ "reason": "SVS lists Elevation (Atmos modules) only; no on-wall L/R",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.svsound.com/products/prime-elevation",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.svsound.com/products/prime-elevation"
+ ],
+ "brand_notes": "SVS: Prime/Ultra Elevation are Atmos modules (excluded).",
+ "index_line": null,
+ "log_bullets": [
+  "Screened SVS on-wall lineup: none in scope - SVS lists Elevation (Atmos modules) only; no on-wall L/R"
+ ]
+}

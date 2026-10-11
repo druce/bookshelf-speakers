@@ -1,0 +1,27 @@
+{
+ "slug": "polk-audio-monitor-xt35",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Polk Audio",
+ "brand_slug": "polk-audio",
+ "model": "Monitor XT35",
+ "verdict": "out-of-scope",
+ "reason": "Sold as slim center channel ('High-Resolution Slim Center Channel'); wall-mountable but not an on-wall L/R by design. Borderline: Erin's Audio Corner Klippel measurement exists (85.6 dB, f3 85 Hz, f6 71.8 Hz per search snippet) - coordinator may reconsider",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.polkaudio.com/en-us/product/home-speakers/monitor-xt35/300149.html ($279 each)",
+ "tier_ab_available": true,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.erinsaudiocorner.com/loudspeakers/polk_xt35/",
+  "https://www.spinorama.org/speakers/Polk%20Audio%20XT35/ErinsAudioCorner/index_eac.html",
+  "https://www.polkaudio.com/en-us/product/home-speakers/monitor-xt35/300149.html"
+ ],
+ "brand_notes": "Polk on-wall page lists OWM3 ($199/pair, 8 ohm, multi-application surround), Signature Elite ES35 and Monitor XT35 (both slim center channels, wall-mountable, 'compatible with 4 and 8 ohm'), ES10 (surround). Polk has no L/R-marketed on-wall main. Erin's Audio Corner has Klippel data for XT35.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Polk Audio Monitor XT35 (on-wall): out-of-scope - Sold as slim center channel ('High-Resolution Slim Center Channel'); wall-mountable but not an on-wall L/R by design. Borderline: Erin's Audio Corner Klippel measurement exists (85.6 dB, f3 85 Hz, f6 71.8 Hz per search snippet) - coordinator may reconsider"
+ ]
+}

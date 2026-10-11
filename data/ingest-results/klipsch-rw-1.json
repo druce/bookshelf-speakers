@@ -1,0 +1,25 @@
+{
+ "slug": "klipsch-rw-1",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Klipsch",
+ "brand_slug": "klipsch",
+ "model": "RW-1",
+ "verdict": "out-of-scope",
+ "reason": "Wireless/powered (Klipsch Stream) on-wall speaker - active",
+ "successor": null,
+ "nominal_impedance_ohm": null,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.klipsch.com/products/rw-1-wireless-speaker/",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.klipsch.com/custom-install/on-wall"
+ ],
+ "brand_notes": "Klipsch US 'on-wall' custom-install page lists only soundbars (Heritage Theater Bar) and the RW-1 wireless (active) speaker. Reference Premiere RP-502S II is a surround with keyhole.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Klipsch RW-1 (on-wall): out-of-scope - Wireless/powered (Klipsch Stream) on-wall speaker - active"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "elac-muro-ow-v41s",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "ELAC",
+ "brand_slug": "elac",
+ "model": "Muro OW-V41S",
+ "verdict": "out-of-scope",
+ "reason": "ELAC lit sheet calls it a 4-inch Surround Speaker (6 ohm); positioned as surround companion to OW-V41L",
+ "successor": null,
+ "nominal_impedance_ohm": 6,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://elac.com/ow-v41s ($479 listed)",
+ "tier_ab_available": false,
+ "raw_saved": [],
+ "evidence": [
+  "https://elac.com/ow-v41s",
+  "https://elac.com/download/ow-v41s/muro-series-on-wall-lit-sheet.pdf"
+ ],
+ "brand_notes": "ELAC on-wall page lists: Debut 2.0 DOW42 (6 ohm, surround), Muro OW-V41S (6 ohm 4-inch surround) and OW-V41L (8 ohm dual 4-inch LCR), Vertex III OW-VJ63S/M/L (4 ohm), WS line WS1425/1445/1465/1645/1665 (4-5 ohm). Only Muro OW-V41L is both 6/8 ohm and LCR-class. No Tier A/B found for any.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened ELAC Muro OW-V41S (on-wall): out-of-scope - ELAC lit sheet calls it a 4-inch Surround Speaker (6 ohm); positioned as surround companion to OW-V41L"
+ ]
+}

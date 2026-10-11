@@ -1,0 +1,25 @@
+{
+ "slug": "theory-audio-sb25aw",
+ "category": "on-wall",
+ "wall_voiced": null,
+ "brand": "Theory Audio",
+ "brand_slug": "theory-audio",
+ "model": "SB25AW",
+ "verdict": "out-of-scope",
+ "reason": "4 ohm / 70-100V, DSP-controller required, weather-resistant pro surface mount",
+ "successor": null,
+ "nominal_impedance_ohm": 4,
+ "status": "current",
+ "price_usd_pair": null,
+ "price_source": "https://www.theoryaudiodesign.com/products/p/sb25aw-multiuse-loudspeaker",
+ "tier_ab_available": null,
+ "raw_saved": [],
+ "evidence": [
+  "https://www.theoryaudiodesign.com/products/p/sb25aw-multiuse-loudspeaker"
+ ],
+ "brand_notes": "Theory Audio surface-mount models (SB25, SB25AW, SB210AW) are 4 ohm (or 70/100V) and require Theory DSP controller amps; Theory's other lines are in-wall/in-ceiling/pro SR. theory-audio-sb25 sidecar already exists from the bookshelf run.",
+ "index_line": null,
+ "log_bullets": [
+  "Screened Theory Audio SB25AW (on-wall): out-of-scope - 4 ohm / 70-100V, DSP-controller required, weather-resistant pro surface mount"
+ ]
+}

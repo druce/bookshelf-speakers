@@ -3,6 +3,7 @@ type: speaker
 brand: PSB
 model: Alpha P3
 slug: psb-alpha-p3
+category: bookshelf
 status: current
 price_usd_pair: 349
 price_checked: 2026-10-11

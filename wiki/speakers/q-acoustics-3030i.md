@@ -3,6 +3,7 @@ type: speaker
 brand: Q Acoustics
 model: 3030i
 slug: q-acoustics-3030i
+category: bookshelf
 status: current
 price_usd_pair: 499.96
 price_checked: 2026-10-11

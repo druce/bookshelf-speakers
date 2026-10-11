@@ -3,6 +3,7 @@ type: speaker
 brand: Totem Acoustic
 model: Kin One
 slug: totem-acoustic-kin-one
+category: bookshelf
 status: current
 price_usd_pair: 599
 price_checked: 2026-10-11

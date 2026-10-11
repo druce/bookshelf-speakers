@@ -23,7 +23,7 @@ def main():
     rows = []
     for r in csv.DictReader(open(ROOT / "data" / "speakers.csv")):
         nums = [float(x) for x in re.findall(r"\d+(?:\.\d+)?", r["dimensions_mm"] or "")]
-        if len(nums) < 3 or r["status"] != "current":
+        if len(nums) < 3 or r["status"] != "current" or r.get("category") == "on-wall":
             continue
         h, w, d = nums[:3]
         rows.append(dict(slug=r["slug"], h=h, w=w, d=d, L=h * w * d / 1e6, kg=f(r["weight_kg"]), f3=f(r["f3_hz"]),
